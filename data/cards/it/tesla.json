@@ -6,15 +6,15 @@
     "verdict": "false",
     "myth": "Le Tesla prendono fuoco più spesso delle auto a benzina.",
     "headline": "Per chilometro, Tesla pubblica un tasso di incendi molto più basso della media dei veicoli USA. Gli incendi delle batterie sono più rari — e più brutti quando succedono.",
-    "kernel": "Un pacco al litio può riaccendersi ed è più difficile da spegnere. I titoli seguono l'incendio insolito, non i 189.000 noiosi incendi a benzina di un anno USA tipico.",
+    "kernel": "Un pacco al litio può riaccendersi ed è più difficile da spegnere. I titoli seguono l'incendio insolito, non i 196.000 noiosi incendi a benzina di un anno USA tipico.",
     "body": [
-      "Le cifre Tesla sulla sicurezza antincendio dei veicoli (2012–2023) mettono un evento-incendio ogni circa 217 milioni di km. Le cifre NFPA / U.S. DOT per i veicoli USA nel complesso sono circa un incendio ogni 27 milioni di km. Tesla nota che il suo conteggio include incendi di strutture, atti dolosi e altre cause non veicolari che la serie NFPA spesso esclude — il che rende il confronto conservativo contro Tesla.",
+      "Le cifre Tesla sulla sicurezza antincendio dei veicoli (2012–2024) mettono un evento-incendio ogni circa 225 milioni di km. Le cifre NFPA / U.S. DOT per i veicoli USA nel complesso sono circa un incendio ogni 27 milioni di km. Tesla nota che il suo conteggio include incendi di strutture, atti dolosi e altre cause non veicolari che la serie NFPA spesso esclude — il che rende il confronto conservativo contro Tesla.",
       "Altri dataset EV (Svezia, Norvegia) mostrano la stessa direzione: le auto a combustione prendono fuoco più spesso per veicolo. La frase onesta che resta: un incendio di pacco EV è un incidente da specialisti per i vigili del fuoco, può durare di più, e sul telefono sembra apocalittico. La frequenza non è quella che i post virali pretendono."
     ],
     "keyFacts": [
       {
-        "label": "Tesla (2012–2023)",
-        "value": "~1 incendio ogni 217 milioni di km"
+        "label": "Tesla (2012–2024)",
+        "value": "~1 incendio ogni 225 milioni di km"
       },
       {
         "label": "Veicoli USA (NFPA/DOT)",

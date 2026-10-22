@@ -29,7 +29,7 @@
       {
         "publisher": "NASA",
         "title": "Commercial Crew Program",
-        "url": "https://www.nasa.gov/reference/commercial-crew-program/"
+        "url": "https://www.nasa.gov/humans-in-space/commercial-space/commercial-crew-program/"
       }
     ]
   },
@@ -42,7 +42,7 @@
     "headline": "I rientri del Falcon 9 sono il motivo per cui il lancio è diventato a buon mercato. Il mercato ha votato con i calendari di lancio.",
     "kernel": null,
     "body": [
-      "I primi stadi del Falcon 9 volano ormai molte volte — il riuso a doppia cifra è di routine, con alcuni booster oltre i 20 voli. I prezzi di catalogo intorno alle decine di milioni di dollari stanno largamente sotto Ariane 5/6 e i listini storici ULA. Il costo marginale interno è stimato ben sotto il listino, ed è per questo che SpaceX può riempire il calendario di lanci con Starlink e vendere ancora ad altri.",
+      "I primi stadi del Falcon 9 volano ormai molte volte — il riuso a doppia cifra è di routine, con alcuni booster oltre i 30 voli. I prezzi di catalogo intorno alle decine di milioni di dollari stanno largamente sotto Ariane 5/6 e i listini storici ULA. Il costo marginale interno è stimato ben sotto il listino, ed è per questo che SpaceX può riempire il calendario di lanci con Starlink e vendere ancora ad altri.",
       "Se il riuso fosse un trucco da festa, i concorrenti lo ignorerebbero. Non l'hanno fatto: ULA, Blue Origin, Arianespace e la Cina inseguono tutti qualche forma di recupero. NASA e Space Force continuano a comprare Falcon perché prezzo e cadenza si sono visti. I circhi non portano in orbita l'80%+ della massa orbitale del pianeta."
     ],
     "keyFacts": [
@@ -52,7 +52,7 @@
       },
       {
         "label": "Prezzo di listino",
-        "value": "Falcon 9 classe ~67 Mln USD vs. legacy 150 Mln USD–400 Mln USD"
+        "value": "Falcon 9 classe ~74 Mln USD vs. legacy 150 Mln USD–400 Mln USD"
       },
       {
         "label": "Quota di mercato",
@@ -64,6 +64,11 @@
         "publisher": "SpaceX",
         "title": "Falcon 9",
         "url": "https://www.spacex.com/vehicles/falcon-9/"
+      },
+      {
+        "publisher": "SpaceX",
+        "title": "Capabilities & Services",
+        "url": "https://www.spacex.com/media/Capabilities&Services.pdf"
       }
     ]
   },
@@ -199,7 +204,7 @@
       {
         "publisher": "NASA",
         "title": "Commercial Orbital Transportation Services",
-        "url": "https://www.nasa.gov/commercial-orbital-transportation-services/"
+        "url": "https://www.nasa.gov/wp-content/uploads/2015/06/649910main_cots2_presskit_051412.pdf"
       }
     ]
   },
@@ -247,7 +252,7 @@
     "kernel": null,
     "body": [
       "Crew Dragon è diventato il primo veicolo spaziale commerciale a portare astronauti NASA sulla ISS, Demo-2 nel 2020, poi una rotazione regolare. Problemi ci sono stati — come su ogni stack con equipaggio, comprese perdite di elio, slittamenti per il meteo e i soliti piccoli difetti. Il processo di sicurezza NASA è conservativo fino alla commedia. Lo fanno volare lo stesso.",
-      "La Sojuz è una macchina leggendaria. Ha anche ucciso equipaggi (1971, aborto sulla rampa del 1983 sopravvissuto, aborto del 2018 sopravvissuto). Dopo il 2011 gli Stati Uniti erano un autostoppista che pagava la Russia. Dragon ha chiuso quella stagione. «Insicuro rispetto alla Sojuz» ha bisogno di un bilancio di vittime e di una serie di affidabilità, non di un'atmosfera per cui l'hardware sovietico vecchio sarebbe magicamente sacerdotale."
+      "La Sojuz è una macchina leggendaria. Ha anche ucciso equipaggi (1967, 1971, aborto sulla rampa del 1983 sopravvissuto, aborto del 2018 sopravvissuto). Dopo il 2011 gli Stati Uniti erano un autostoppista che pagava la Russia. Dragon ha chiuso quella stagione. «Insicuro rispetto alla Sojuz» ha bisogno di un bilancio di vittime e di una serie di affidabilità, non di un'atmosfera per cui l'hardware sovietico vecchio sarebbe magicamente sacerdotale."
     ],
     "keyFacts": [
       {
@@ -267,7 +272,7 @@
       {
         "publisher": "NASA",
         "title": "Crew Dragon",
-        "url": "https://www.nasa.gov/commercial-crew-program/"
+        "url": "https://www.nasa.gov/humans-in-space/commercial-space/commercial-crew-program/"
       }
     ]
   },

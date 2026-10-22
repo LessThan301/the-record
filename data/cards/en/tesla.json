@@ -6,15 +6,15 @@
     "verdict": "false",
     "myth": "Teslas catch fire more often than gasoline cars.",
     "headline": "Per distance driven, Tesla publishes a much lower fire rate than the U.S. vehicle average. Battery fires are rarer — and uglier when they happen.",
-    "kernel": "A lithium pack can re-ignite and is harder to put out. Headlines follow the unusual fire, not the 189,000 boring gasoline fires in a typical U.S. year.",
+    "kernel": "A lithium pack can re-ignite and is harder to put out. Headlines follow the unusual fire, not the 196,000 boring gasoline fires in a typical U.S. year.",
     "body": [
-      "Tesla’s vehicle fire safety figures (2012–2023) put one fire event per about 217 million km (135 million miles). NFPA / U.S. DOT figures for U.S. vehicles overall are about one fire per 27 million km (17 million miles). Tesla notes its count includes structure fires, arson, and other non-vehicle causes that the NFPA series often excludes — which makes the comparison conservative against Tesla.",
+      "Tesla’s vehicle fire safety figures (2012–2024) put one fire event per about 225 million km (140 million miles). NFPA / U.S. DOT figures for U.S. vehicles overall are about one fire per 27 million km (17 million miles). Tesla notes its count includes structure fires, arson, and other non-vehicle causes that the NFPA series often excludes — which makes the comparison conservative against Tesla.",
       "Other EV datasets (Sweden, Norway) show the same direction: combustion cars fire more often per vehicle. The remaining honest sentence: an EV pack fire is a specialist incident for firefighters, can take longer, and looks apocalyptic on a phone camera. Frequency is not what the viral posts claim."
     ],
     "keyFacts": [
       {
-        "label": "Tesla (2012–2023)",
-        "value": "~1 fire per 217 million km (135 million miles)"
+        "label": "Tesla (2012–2024)",
+        "value": "~1 fire per 225 million km (140 million miles)"
       },
       {
         "label": "U.S. vehicles (NFPA/DOT)",

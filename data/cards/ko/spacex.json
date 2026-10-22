@@ -29,7 +29,7 @@
       {
         "publisher": "NASA",
         "title": "Commercial Crew Program",
-        "url": "https://www.nasa.gov/reference/commercial-crew-program/"
+        "url": "https://www.nasa.gov/humans-in-space/commercial-space/commercial-crew-program/"
       }
     ]
   },
@@ -42,7 +42,7 @@
     "headline": "Falcon 9 회수가 발사를 싸게 만든 이유다. 시장은 발사 목록으로 투표했다.",
     "kernel": null,
     "body": [
-      "Falcon 9 1단은 이제 여러 번 난다. 두 자릿수 재사용은 일상이고, 일부 부스터는 20회를 넘었다. 수천만 달러 중반대 카탈로그 가격은 Ariane 5/6와 과거의 ULA 가격을 크게 밑돈다. 내부 한계비용은 정가보다 훨씬 낮다고 널리 추정된다. 그래서 SpaceX가 목록을 Starlink로 채우면서도 남에게 팔 수 있다.",
+      "Falcon 9 1단은 이제 여러 번 난다. 두 자릿수 재사용은 일상이고, 일부 부스터는 30회를 넘었다. 수천만 달러 중반대 카탈로그 가격은 Ariane 5/6와 과거의 ULA 가격을 크게 밑돈다. 내부 한계비용은 정가보다 훨씬 낮다고 널리 추정된다. 그래서 SpaceX가 목록을 Starlink로 채우면서도 남에게 팔 수 있다.",
       "재사용이 파티 트릭이었다면 경쟁자는 무시했을 것이다. 그러지 않았다. ULA, Blue Origin, Arianespace, 중국이 모두 어떤 형태의 회수를 쫓는다. NASA와 우주군이 Falcon을 계속 사는 것은 가격과 발사 빈도가 나타났기 때문이다. 서커스는 행성 궤도 질량의 80%+를 궤도에 올리지 않는다."
     ],
     "keyFacts": [
@@ -52,7 +52,7 @@
       },
       {
         "label": "정가",
-        "value": "Falcon 9 ~US$6700만급 vs. 레거시 US$1.5억–US$4억"
+        "value": "Falcon 9 ~US$7400만급 vs. 레거시 US$1.5억–US$4억"
       },
       {
         "label": "시장 점유",
@@ -64,6 +64,11 @@
         "publisher": "SpaceX",
         "title": "Falcon 9",
         "url": "https://www.spacex.com/vehicles/falcon-9/"
+      },
+      {
+        "publisher": "SpaceX",
+        "title": "Capabilities & Services",
+        "url": "https://www.spacex.com/media/Capabilities&Services.pdf"
       }
     ]
   },
@@ -199,7 +204,7 @@
       {
         "publisher": "NASA",
         "title": "Commercial Orbital Transportation Services",
-        "url": "https://www.nasa.gov/commercial-orbital-transportation-services/"
+        "url": "https://www.nasa.gov/wp-content/uploads/2015/06/649910main_cots2_presskit_051412.pdf"
       }
     ]
   },
@@ -247,7 +252,7 @@
     "kernel": null,
     "body": [
       "Crew Dragon은 NASA 우주인을 ISS로 태운 첫 상업 우주선이 됐다. 2020년 Demo-2, 이후 정기 로테이션. 문제는 있었다. 모든 유인 스택이 그렇듯, 헬륨 누출, 기상 연기, 흔한 공학 잡티. NASA의 안전 절차는 희극 수준으로 보수적이다. 그래도 난다.",
-      "소유즈는 전설의 기계다. 승무원을 죽이기도 했다(1971, 1983 발사대 비상탈출 생존, 2018 비상탈출 생존). 2011년 이후 미국은 러시아에 돈을 내는 동승자였다. Dragon이 그걸 끝냈다. “소유즈보다 안전하지 않다”에는 사망자 수와 신뢰성 시계열이 필요하다. 낡은 소련 하드웨어가 마법처럼 성스럽다는 분위기가 아니다."
+      "소유즈는 전설의 기계다. 승무원을 죽이기도 했다(1967, 1971, 1983 발사대 비상탈출 생존, 2018 비상탈출 생존). 2011년 이후 미국은 러시아에 돈을 내는 동승자였다. Dragon이 그걸 끝냈다. “소유즈보다 안전하지 않다”에는 사망자 수와 신뢰성 시계열이 필요하다. 낡은 소련 하드웨어가 마법처럼 성스럽다는 분위기가 아니다."
     ],
     "keyFacts": [
       {
@@ -267,7 +272,7 @@
       {
         "publisher": "NASA",
         "title": "Crew Dragon",
-        "url": "https://www.nasa.gov/commercial-crew-program/"
+        "url": "https://www.nasa.gov/humans-in-space/commercial-space/commercial-crew-program/"
       }
     ]
   },

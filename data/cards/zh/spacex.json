@@ -29,7 +29,7 @@
       {
         "publisher": "NASA",
         "title": "Commercial Crew Program",
-        "url": "https://www.nasa.gov/reference/commercial-crew-program/"
+        "url": "https://www.nasa.gov/humans-in-space/commercial-space/commercial-crew-program/"
       }
     ]
   },
@@ -42,7 +42,7 @@
     "headline": "Falcon 9 飞回，是发射变便宜的原因。市场用载荷清单投了票。",
     "kernel": null,
     "body": [
-      "Falcon 9 一级现在会飞很多次——两位数重复使用已是常规，有的助推器超过20次。目录价格大约数千万美元量级，大幅低于 Ariane 5/6 和历史上的 ULA 价格。内部边际成本被广泛估计远低于标价，所以 SpaceX 能用 Starlink 灌满清单，还能卖给别人。",
+      "Falcon 9 一级现在会飞很多次——两位数重复使用已是常规，有的助推器超过30次。目录价格大约数千万美元量级，大幅低于 Ariane 5/6 和历史上的 ULA 价格。内部边际成本被广泛估计远低于标价，所以 SpaceX 能用 Starlink 灌满清单，还能卖给别人。",
       "如果重复使用只是余兴节目，竞争对手会无视它。他们没有：ULA、Blue Origin、Arianespace 和中国都在追某种回收。NASA 和太空军继续买 Falcon，因为价格和节奏真的出现了。马戏团不会把一颗行星 80%+ 的入轨质量送上去。"
     ],
     "keyFacts": [
@@ -52,7 +52,7 @@
       },
       {
         "label": "标价",
-        "value": "Falcon 9 约 US$6700万 量级，对上遗产项目的 US$1.5亿–US$4亿"
+        "value": "Falcon 9 约 US$7400万 量级，对上遗产项目的 US$1.5亿–US$4亿"
       },
       {
         "label": "市场份额",
@@ -64,6 +64,11 @@
         "publisher": "SpaceX",
         "title": "Falcon 9",
         "url": "https://www.spacex.com/vehicles/falcon-9/"
+      },
+      {
+        "publisher": "SpaceX",
+        "title": "Capabilities & Services",
+        "url": "https://www.spacex.com/media/Capabilities&Services.pdf"
       }
     ]
   },
@@ -199,7 +204,7 @@
       {
         "publisher": "NASA",
         "title": "Commercial Orbital Transportation Services",
-        "url": "https://www.nasa.gov/commercial-orbital-transportation-services/"
+        "url": "https://www.nasa.gov/wp-content/uploads/2015/06/649910main_cots2_presskit_051412.pdf"
       }
     ]
   },
@@ -247,7 +252,7 @@
     "kernel": null,
     "body": [
       "Crew Dragon 成为第一艘把 NASA 航天员送上国际空间站的商业飞船，2020年 Demo-2，随后进入常规轮换。问题发生过——每套载人系统都会，包括氦气泄漏、天气推迟，以及那些平常的工程毛刺。NASA 的安全流程保守到近乎喜剧。他们仍然在飞它。",
-      "联盟号是传奇机器。它也夺走过乘组生命（1971年；1983年发射台逃逸幸存；2018年逃逸幸存）。2011年之后美国成了付钱给俄罗斯的搭便车者。Dragon 结束了这一点。“比联盟号更不安全”需要一份死亡人数和可靠性序列，而不是一种把老旧苏联硬件神化为祭司的气场。"
+      "联盟号是传奇机器。它也夺走过乘组生命（1967年、1971年；1983年发射台逃逸幸存；2018年逃逸幸存）。2011年之后美国成了付钱给俄罗斯的搭便车者。Dragon 结束了这一点。“比联盟号更不安全”需要一份死亡人数和可靠性序列，而不是一种把老旧苏联硬件神化为祭司的气场。"
     ],
     "keyFacts": [
       {
@@ -267,7 +272,7 @@
       {
         "publisher": "NASA",
         "title": "Crew Dragon",
-        "url": "https://www.nasa.gov/commercial-crew-program/"
+        "url": "https://www.nasa.gov/humans-in-space/commercial-space/commercial-crew-program/"
       }
     ]
   },

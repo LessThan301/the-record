@@ -29,7 +29,7 @@
       {
         "publisher": "NASA",
         "title": "Commercial Crew Program",
-        "url": "https://www.nasa.gov/reference/commercial-crew-program/"
+        "url": "https://www.nasa.gov/humans-in-space/commercial-space/commercial-crew-program/"
       }
     ]
   },
@@ -42,7 +42,7 @@
     "headline": "Falcon 9-terugvluchten zijn de reden dat lanceren goedkoop werd. De markt stemde met vluchtlijsten.",
     "kernel": null,
     "body": [
-      "Eerste trappen van Falcon 9 vliegen nu vele keren — hergebruik in de dubbele cijfers is routine, met sommige boosters voorbij de 20. Catalogusprijzen rond enkele tientallen miljoenen dollars onderbieden Ariane 5/6 en historische ULA-prijzen met een ruime marge. De interne marginale kosten worden breed geschat ver onder de lijstprijs, daarom kan SpaceX de vluchtlijst overspoelen met Starlink en nog steeds aan anderen verkopen.",
+      "Eerste trappen van Falcon 9 vliegen nu vele keren — hergebruik in de dubbele cijfers is routine, met sommige boosters voorbij de 30. Catalogusprijzen rond enkele tientallen miljoenen dollars onderbieden Ariane 5/6 en historische ULA-prijzen met een ruime marge. De interne marginale kosten worden breed geschat ver onder de lijstprijs, daarom kan SpaceX de vluchtlijst overspoelen met Starlink en nog steeds aan anderen verkopen.",
       "Als hergebruik een feesttruc was, zouden concurrenten het negeren. Dat deden ze niet: ULA, Blue Origin, Arianespace en China jagen allemaal op een vorm van terugwinning. NASA en de Space Force blijven Falcon kopen omdat prijs en cadans verschenen. Circussen brengen niet 80%+ van de orbitale massa van een planeet in een baan."
     ],
     "keyFacts": [
@@ -52,7 +52,7 @@
       },
       {
         "label": "Lijstprijs",
-        "value": "Falcon 9 ~US$ 67 mln.-klasse vs. legacy US$ 150 mln.–US$ 400 mln."
+        "value": "Falcon 9 ~US$ 74 mln.-klasse vs. legacy US$ 150 mln.–US$ 400 mln."
       },
       {
         "label": "Marktaandeel",
@@ -64,6 +64,11 @@
         "publisher": "SpaceX",
         "title": "Falcon 9",
         "url": "https://www.spacex.com/vehicles/falcon-9/"
+      },
+      {
+        "publisher": "SpaceX",
+        "title": "Capabilities & Services",
+        "url": "https://www.spacex.com/media/Capabilities&Services.pdf"
       }
     ]
   },
@@ -199,7 +204,7 @@
       {
         "publisher": "NASA",
         "title": "Commercial Orbital Transportation Services",
-        "url": "https://www.nasa.gov/commercial-orbital-transportation-services/"
+        "url": "https://www.nasa.gov/wp-content/uploads/2015/06/649910main_cots2_presskit_051412.pdf"
       }
     ]
   },
@@ -247,7 +252,7 @@
     "kernel": null,
     "body": [
       "Crew Dragon werd het eerste commerciële ruimtevaartuig dat NASA-astronauten naar het ISS bracht, Demo-2 in 2020, daarna een reguliere rotatie. Er zijn problemen geweest — zoals op elke bemande stack, inclusief heliumlekken, uitstel door weer en de gebruikelijke kleine mankementen. NASA’s veiligheidsproces is conservatief tot op het komische af. Ze vliegen het nog steeds.",
-      "Soyuz is een legendarische machine. Het heeft ook bemanningen gedood (1971, pad-abort 1983 overleefd, abort 2018 overleefd). Na 2011 was de VS een lifter die Rusland betaalde. Dragon maakte daar een eind aan. „Onveiliger dan Soyuz” heeft een dodenlijst en een betrouwbaarheidsreeks nodig, geen vibe dat oude Sovjethardware magisch priesterlijk is."
+      "Soyuz is een legendarische machine. Het heeft ook bemanningen gedood (1967, 1971, pad-abort 1983 overleefd, abort 2018 overleefd). Na 2011 was de VS een lifter die Rusland betaalde. Dragon maakte daar een eind aan. „Onveiliger dan Soyuz” heeft een dodenlijst en een betrouwbaarheidsreeks nodig, geen vibe dat oude Sovjethardware magisch priesterlijk is."
     ],
     "keyFacts": [
       {
@@ -267,7 +272,7 @@
       {
         "publisher": "NASA",
         "title": "Crew Dragon",
-        "url": "https://www.nasa.gov/commercial-crew-program/"
+        "url": "https://www.nasa.gov/humans-in-space/commercial-space/commercial-crew-program/"
       }
     ]
   },

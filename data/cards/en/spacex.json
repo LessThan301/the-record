@@ -29,7 +29,7 @@
       {
         "publisher": "NASA",
         "title": "Commercial Crew Program",
-        "url": "https://www.nasa.gov/reference/commercial-crew-program/"
+        "url": "https://www.nasa.gov/humans-in-space/commercial-space/commercial-crew-program/"
       }
     ]
   },
@@ -42,7 +42,7 @@
     "headline": "Falcon 9 flybacks are the reason launch got cheap. The market voted with manifests.",
     "kernel": null,
     "body": [
-      "Falcon 9 first stages now fly many times — double-digit reuse is routine, with some boosters past 20. Catalog prices around the mid-tens of millions of dollars undercut Ariane 5/6 and historical ULA prices by a wide margin. Internal marginal cost is widely estimated far below the list price, which is why SpaceX can flood the manifest with Starlink and still sell to others.",
+      "Falcon 9 first stages now fly many times — double-digit reuse is routine, with some boosters past 30. Catalog prices around the mid-tens of millions of dollars undercut Ariane 5/6 and historical ULA prices by a wide margin. Internal marginal cost is widely estimated far below the list price, which is why SpaceX can flood the manifest with Starlink and still sell to others.",
       "If reuse were a party trick, competitors would ignore it. They did not: ULA, Blue Origin, Arianespace, and China are all chasing some form of recovery. NASA and the Space Force keep buying Falcon because the price and cadence showed up. Circuses do not take 80%+ of a planet’s orbital mass to orbit."
     ],
     "keyFacts": [
@@ -52,7 +52,7 @@
       },
       {
         "label": "List price",
-        "value": "Falcon 9 ~$67M class vs. legacy $150M–$400M"
+        "value": "Falcon 9 ~$74M class vs. legacy $150M–$400M"
       },
       {
         "label": "Market share",
@@ -64,6 +64,11 @@
         "publisher": "SpaceX",
         "title": "Falcon 9",
         "url": "https://www.spacex.com/vehicles/falcon-9/"
+      },
+      {
+        "publisher": "SpaceX",
+        "title": "Capabilities & Services",
+        "url": "https://www.spacex.com/media/Capabilities&Services.pdf"
       }
     ]
   },
@@ -199,7 +204,7 @@
       {
         "publisher": "NASA",
         "title": "Commercial Orbital Transportation Services",
-        "url": "https://www.nasa.gov/commercial-orbital-transportation-services/"
+        "url": "https://www.nasa.gov/wp-content/uploads/2015/06/649910main_cots2_presskit_051412.pdf"
       }
     ]
   },
@@ -247,7 +252,7 @@
     "kernel": null,
     "body": [
       "Crew Dragon became the first commercial spacecraft to carry NASA astronauts to the ISS, Demo-2 in 2020, then a regular rotation. Issues have occurred — as they do on every crewed stack, including helium leaks, weather slips, and the usual engineering nits. NASA’s safety process is conservative to the point of comedy. They still fly it.",
-      "Soyuz is a legendary machine. It has also killed crews (1971, 1983 pad abort survived, 2018 abort survived). After 2011 the U.S. was a hitchhiker paying Russia. Dragon ended that. “Unsafe compared to Soyuz” needs a body count and a reliability series, not a vibe that old Soviet hardware is magically priestly."
+      "Soyuz is a legendary machine. It has also killed crews (1967, 1971, 1983 pad abort survived, 2018 abort survived). After 2011 the U.S. was a hitchhiker paying Russia. Dragon ended that. “Unsafe compared to Soyuz” needs a body count and a reliability series, not a vibe that old Soviet hardware is magically priestly."
     ],
     "keyFacts": [
       {
@@ -267,7 +272,7 @@
       {
         "publisher": "NASA",
         "title": "Crew Dragon",
-        "url": "https://www.nasa.gov/commercial-crew-program/"
+        "url": "https://www.nasa.gov/humans-in-space/commercial-space/commercial-crew-program/"
       }
     ]
   },

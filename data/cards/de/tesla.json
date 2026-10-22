@@ -6,15 +6,15 @@
     "verdict": "false",
     "myth": "Teslas brennen häufiger als Benzinautos.",
     "headline": "Pro gefahrenem Kilometer veröffentlicht Tesla eine deutlich niedrigere Brandrate als der US-Fahrzeugdurchschnitt. Batteriebrände sind seltener — und hässlicher, wenn sie passieren.",
-    "kernel": "Ein Lithium-Pack kann neu entflammen und ist schwerer zu löschen. Schlagzeilen folgen dem ungewöhnlichen Brand, nicht den 189.000 langweiligen Benzinbränden in einem typischen US-Jahr.",
+    "kernel": "Ein Lithium-Pack kann neu entflammen und ist schwerer zu löschen. Schlagzeilen folgen dem ungewöhnlichen Brand, nicht den 196.000 langweiligen Benzinbränden in einem typischen US-Jahr.",
     "body": [
-      "Teslas Zahlen zur Fahrzeugbrandsicherheit (2012–2023) setzen ein Brandereignis auf etwa 217 Millionen km. NFPA-/U.S.-DOT-Zahlen für US-Fahrzeuge insgesamt liegen bei etwa einem Brand pro 27 Millionen km. Tesla merkt an, dass seine Zählung Gebäudebrände, Brandstiftung und andere Nicht-Fahrzeugursachen einschließt, die die NFPA-Reihe oft ausklammert — was den Vergleich konservativ gegen Tesla macht.",
+      "Teslas Zahlen zur Fahrzeugbrandsicherheit (2012–2024) setzen ein Brandereignis auf etwa 225 Millionen km. NFPA-/U.S.-DOT-Zahlen für US-Fahrzeuge insgesamt liegen bei etwa einem Brand pro 27 Millionen km. Tesla merkt an, dass seine Zählung Gebäudebrände, Brandstiftung und andere Nicht-Fahrzeugursachen einschließt, die die NFPA-Reihe oft ausklammert — was den Vergleich konservativ gegen Tesla macht.",
       "Andere EV-Datensätze (Schweden, Norwegen) zeigen dieselbe Richtung: Verbrenner brennen häufiger pro Fahrzeug. Der verbleibende ehrliche Satz: Ein EV-Pack-Brand ist ein Spezialfall für die Feuerwehr, kann länger dauern und sieht auf dem Handy apokalyptisch aus. Die Häufigkeit ist nicht das, was die viralen Posts behaupten."
     ],
     "keyFacts": [
       {
-        "label": "Tesla (2012–2023)",
-        "value": "~1 Brand pro 217 Millionen km"
+        "label": "Tesla (2012–2024)",
+        "value": "~1 Brand pro 225 Millionen km"
       },
       {
         "label": "US-Fahrzeuge (NFPA/DOT)",

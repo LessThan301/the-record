@@ -29,7 +29,7 @@
       {
         "publisher": "NASA",
         "title": "Commercial Crew Program",
-        "url": "https://www.nasa.gov/reference/commercial-crew-program/"
+        "url": "https://www.nasa.gov/humans-in-space/commercial-space/commercial-crew-program/"
       }
     ]
   },
@@ -42,7 +42,7 @@
     "headline": "Falcon 9の帰還が打ち上げを安くした理由だ。市場は打ち上げ計画で投票した。",
     "kernel": null,
     "body": [
-      "Falcon 9の第一段はいま何度も飛ぶ。二桁再使用は日常で、20回を超えたブースターもある。カタログ価格は数千万ドル台半ばで、Ariane 5/6や旧来のULA価格を大きく下回る。社内の限界費用はリスト価格をかなり下回ると広く推計され、だからSpaceXはStarlinkで計画を埋めつつ他者にも売れる。",
+      "Falcon 9の第一段はいま何度も飛ぶ。二桁再使用は日常で、30回を超えたブースターもある。カタログ価格は数千万ドル台半ばで、Ariane 5/6や旧来のULA価格を大きく下回る。社内の限界費用はリスト価格をかなり下回ると広く推計され、だからSpaceXはStarlinkで計画を埋めつつ他者にも売れる。",
       "再使用が余興なら、競合は無視する。しなかった。ULA、Blue Origin、Arianespace、中国はいずれも何らかの回収を追っている。NASAと宇宙軍がFalconを買い続けるのは、価格と頻度が出たからだ。サーカスが地球の軌道投入質量の8割超を運ぶことはない。"
     ],
     "keyFacts": [
@@ -52,7 +52,7 @@
       },
       {
         "label": "リスト価格",
-        "value": "Falcon 9は約6700万ドル級。旧来は1.5億〜4億ドル"
+        "value": "Falcon 9は約7400万ドル級。旧来は1.5億〜4億ドル"
       },
       {
         "label": "市場シェア",
@@ -64,6 +64,11 @@
         "publisher": "SpaceX",
         "title": "Falcon 9",
         "url": "https://www.spacex.com/vehicles/falcon-9/"
+      },
+      {
+        "publisher": "SpaceX",
+        "title": "Capabilities & Services",
+        "url": "https://www.spacex.com/media/Capabilities&Services.pdf"
       }
     ]
   },
@@ -199,7 +204,7 @@
       {
         "publisher": "NASA",
         "title": "Commercial Orbital Transportation Services",
-        "url": "https://www.nasa.gov/commercial-orbital-transportation-services/"
+        "url": "https://www.nasa.gov/wp-content/uploads/2015/06/649910main_cots2_presskit_051412.pdf"
       }
     ]
   },
@@ -247,7 +252,7 @@
     "kernel": null,
     "body": [
       "Crew DragonはNASA宇宙飛行士をISSへ運ぶ初の商業宇宙船となった。2020年のDemo-2、その後の定期交代。問題は起きた——ヘリウム漏れ、天候遅延、いつもの工学上の欠点。有人スタックならどれでもそうだ。NASAの安全手続きは喜劇になるほど保守的だ。それでも飛ばす。",
-      "ソユーズは伝説の機械だ。乗員も死なせている（1971年、1983年のパッドアボート生還、2018年アボート生還）。2011年以降、米国はロシアに金を払う便乗者だった。Dragonがそれを終わらせた。「ソユーズより危険」には死者数と信頼性系列が要る。古いソ連ハードが魔法のように聖職者である、という空気ではない。"
+      "ソユーズは伝説の機械だ。乗員も死なせている（1967年、1971年、1983年のパッドアボート生還、2018年アボート生還）。2011年以降、米国はロシアに金を払う便乗者だった。Dragonがそれを終わらせた。「ソユーズより危険」には死者数と信頼性系列が要る。古いソ連ハードが魔法のように聖職者である、という空気ではない。"
     ],
     "keyFacts": [
       {
@@ -267,7 +272,7 @@
       {
         "publisher": "NASA",
         "title": "Crew Dragon",
-        "url": "https://www.nasa.gov/commercial-crew-program/"
+        "url": "https://www.nasa.gov/humans-in-space/commercial-space/commercial-crew-program/"
       }
     ]
   },

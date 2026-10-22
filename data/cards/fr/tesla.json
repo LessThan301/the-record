@@ -6,15 +6,15 @@
     "verdict": "false",
     "myth": "Les Tesla prennent feu plus souvent que les voitures à essence.",
     "headline": "Au kilomètre, Tesla publie un taux d'incendie bien plus bas que la moyenne des véhicules américains. Les feux de batterie sont plus rares — et plus laids quand ils arrivent.",
-    "kernel": "Un pack lithium peut se rallumer et est plus dur à éteindre. Les gros titres suivent l'incendie inhabituel, pas les 189 000 incendies d'essence ennuyeux d'une année américaine typique.",
+    "kernel": "Un pack lithium peut se rallumer et est plus dur à éteindre. Les gros titres suivent l'incendie inhabituel, pas les 196 000 incendies d'essence ennuyeux d'une année américaine typique.",
     "body": [
-      "Les chiffres Tesla de sécurité incendie des véhicules (2012–2023) donnent un événement d'incendie pour environ 217 millions de km. Les chiffres NFPA / U.S. DOT pour l'ensemble des véhicules américains sont d'environ un incendie pour 27 millions de km. Tesla note que son décompte inclut incendies de structures, incendies criminels et autres causes non liées au véhicule que la série NFPA exclut souvent — ce qui rend la comparaison conservatrice contre Tesla.",
+      "Les chiffres Tesla de sécurité incendie des véhicules (2012–2024) donnent un événement d'incendie pour environ 225 millions de km. Les chiffres NFPA / U.S. DOT pour l'ensemble des véhicules américains sont d'environ un incendie pour 27 millions de km. Tesla note que son décompte inclut incendies de structures, incendies criminels et autres causes non liées au véhicule que la série NFPA exclut souvent — ce qui rend la comparaison conservatrice contre Tesla.",
       "D'autres jeux de données VE (Suède, Norvège) vont dans le même sens : les voitures à combustion s'enflamment plus souvent par véhicule. La phrase honnête qui reste : un feu de pack VE est un incident de spécialiste pour les pompiers, peut durer plus longtemps, et a l'air apocalyptique sur un téléphone. La fréquence n'est pas ce que les posts viraux prétendent."
     ],
     "keyFacts": [
       {
-        "label": "Tesla (2012–2023)",
-        "value": "~1 incendie pour 217 millions de km"
+        "label": "Tesla (2012–2024)",
+        "value": "~1 incendie pour 225 millions de km"
       },
       {
         "label": "Véhicules U.S. (NFPA/DOT)",

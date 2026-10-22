@@ -6,15 +6,15 @@
     "verdict": "false",
     "myth": "Tesla’s vatten vaker vlam dan benzineauto’s.",
     "headline": "Per kilometer publiceert Tesla een veel lager brandcijfer dan het Amerikaanse voertuiggemiddelde. Batterijbranden zijn zeldzamer — en lelijker als ze gebeuren.",
-    "kernel": "Een lithiumpack kan opnieuw ontsteken en is lastiger te blussen. Koppen volgen de ongebruikelijke brand, niet de 189.000 saaie benzinebranden in een typisch Amerikaans jaar.",
+    "kernel": "Een lithiumpack kan opnieuw ontsteken en is lastiger te blussen. Koppen volgen de ongebruikelijke brand, niet de 196.000 saaie benzinebranden in een typisch Amerikaans jaar.",
     "body": [
-      "Tesla’s cijfers over voertuigbrandveiligheid (2012–2023) zetten één brandincident per ongeveer 217 miljoen km. NFPA-/U.S. DOT-cijfers voor Amerikaanse voertuigen in totaal liggen rond één brand per 27 miljoen km. Tesla merkt op dat zijn telling structuurbranden, brandstichting en andere niet-voertuigoorzaken omvat die de NFPA-reeks vaak uitsluit — wat de vergelijking conservatief maakt tégen Tesla.",
+      "Tesla’s cijfers over voertuigbrandveiligheid (2012–2024) zetten één brandincident per ongeveer 225 miljoen km. NFPA-/U.S. DOT-cijfers voor Amerikaanse voertuigen in totaal liggen rond één brand per 27 miljoen km. Tesla merkt op dat zijn telling structuurbranden, brandstichting en andere niet-voertuigoorzaken omvat die de NFPA-reeks vaak uitsluit — wat de vergelijking conservatief maakt tégen Tesla.",
       "Andere EV-datasets (Zweden, Noorwegen) wijzen dezelfde kant op: verbrandingsauto’s vatten vaker vlam per voertuig. De resterende eerlijke zin: een EV-packbrand is een specialistenincident voor brandweer, kan langer duren, en ziet er apocalyptisch uit op een telefooncamera. Frequentie is niet wat de virale posts beweren."
     ],
     "keyFacts": [
       {
-        "label": "Tesla (2012–2023)",
-        "value": "~1 brand per 217 miljoen km"
+        "label": "Tesla (2012–2024)",
+        "value": "~1 brand per 225 miljoen km"
       },
       {
         "label": "Amerikaanse voertuigen (NFPA/DOT)",

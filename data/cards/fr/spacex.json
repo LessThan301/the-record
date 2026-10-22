@@ -29,7 +29,7 @@
       {
         "publisher": "NASA",
         "title": "Commercial Crew Program",
-        "url": "https://www.nasa.gov/reference/commercial-crew-program/"
+        "url": "https://www.nasa.gov/humans-in-space/commercial-space/commercial-crew-program/"
       }
     ]
   },
@@ -42,7 +42,7 @@
     "headline": "Les retours de Falcon 9 sont la raison pour laquelle le lancement est devenu bon marché. Le marché a voté avec les manifests.",
     "kernel": null,
     "body": [
-      "Les premiers étages de Falcon 9 volent désormais de nombreuses fois — la réutilisation à deux chiffres est routinière, certains boosters dépassant 20 vols. Les prix catalogue autour de quelques dizaines de millions de dollars sous-cotent largement Ariane 5/6 et les prix historiques d'ULA. Le coût marginal interne est largement estimé bien en dessous du prix affiché, ce qui permet à SpaceX d'inonder le manifeste avec Starlink et de vendre encore aux autres.",
+      "Les premiers étages de Falcon 9 volent désormais de nombreuses fois — la réutilisation à deux chiffres est routinière, certains boosters dépassant 30 vols. Les prix catalogue autour de quelques dizaines de millions de dollars sous-cotent largement Ariane 5/6 et les prix historiques d'ULA. Le coût marginal interne est largement estimé bien en dessous du prix affiché, ce qui permet à SpaceX d'inonder le manifeste avec Starlink et de vendre encore aux autres.",
       "Si la réutilisation n'était qu'un tour de piste, les concurrents l'ignoreraient. Ils ne l'ont pas fait : ULA, Blue Origin, Arianespace et la Chine poursuivent tous une forme de récupération. La NASA et la Space Force continuent d'acheter Falcon parce que le prix et la cadence se sont présentés. Les cirques n'emportent pas 80 %+ de la masse orbitale d'une planète."
     ],
     "keyFacts": [
@@ -52,7 +52,7 @@
       },
       {
         "label": "Prix affiché",
-        "value": "Falcon 9 classe ~67 M $US contre 150 M $US–400 M $US chez les héritiers"
+        "value": "Falcon 9 classe ~74 M $US contre 150 M $US–400 M $US chez les héritiers"
       },
       {
         "label": "Part de marché",
@@ -64,6 +64,11 @@
         "publisher": "SpaceX",
         "title": "Falcon 9",
         "url": "https://www.spacex.com/vehicles/falcon-9/"
+      },
+      {
+        "publisher": "SpaceX",
+        "title": "Capabilities & Services",
+        "url": "https://www.spacex.com/media/Capabilities&Services.pdf"
       }
     ]
   },
@@ -199,7 +204,7 @@
       {
         "publisher": "NASA",
         "title": "Commercial Orbital Transportation Services",
-        "url": "https://www.nasa.gov/commercial-orbital-transportation-services/"
+        "url": "https://www.nasa.gov/wp-content/uploads/2015/06/649910main_cots2_presskit_051412.pdf"
       }
     ]
   },
@@ -247,7 +252,7 @@
     "kernel": null,
     "body": [
       "Crew Dragon est devenu le premier vaisseau commercial à emmener des astronautes NASA vers l'ISS, Demo-2 en 2020, puis une rotation régulière. Des incidents se sont produits — comme sur chaque pile habitée, y compris des fuites d'hélium, des reports météo et les menus défauts d'ingénierie habituels. Le processus de sûreté de la NASA est conservateur jusqu'à la comédie. Ils le font quand même voler.",
-      "Soyouz est une machine légendaire. Il a aussi tué des équipages (1971, abort au pas de tir de 1983 survécu, abort de 2018 survécu). Après 2011, les États-Unis étaient un auto-stoppeur qui payait la Russie. Dragon y a mis fin. « Moins sûr que Soyouz » exige un décompte de corps et une série de fiabilité, pas une vibe selon laquelle le matériel soviétique ancien serait magiquement sacerdotal."
+      "Soyouz est une machine légendaire. Il a aussi tué des équipages (1967, 1971, abort au pas de tir de 1983 survécu, abort de 2018 survécu). Après 2011, les États-Unis étaient un auto-stoppeur qui payait la Russie. Dragon y a mis fin. « Moins sûr que Soyouz » exige un décompte de corps et une série de fiabilité, pas une vibe selon laquelle le matériel soviétique ancien serait magiquement sacerdotal."
     ],
     "keyFacts": [
       {
@@ -267,7 +272,7 @@
       {
         "publisher": "NASA",
         "title": "Crew Dragon",
-        "url": "https://www.nasa.gov/commercial-crew-program/"
+        "url": "https://www.nasa.gov/humans-in-space/commercial-space/commercial-crew-program/"
       }
     ]
   },

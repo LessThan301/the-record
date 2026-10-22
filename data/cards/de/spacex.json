@@ -29,7 +29,7 @@
       {
         "publisher": "NASA",
         "title": "Commercial Crew Program",
-        "url": "https://www.nasa.gov/reference/commercial-crew-program/"
+        "url": "https://www.nasa.gov/humans-in-space/commercial-space/commercial-crew-program/"
       }
     ]
   },
@@ -42,7 +42,7 @@
     "headline": "Die Falcon-9-Rückflüge sind der Grund, warum Starts billig wurden. Der Markt hat mit den Startlisten abgestimmt.",
     "kernel": null,
     "body": [
-      "Falcon-9-Erststufen fliegen inzwischen oft — zweistellige Wiederverwendung ist Routine, manche Booster über 20. Katalogpreise um die mittleren zweistelligen Millionen Dollar unterbieten Ariane 5/6 und historische ULA-Preise deutlich. Die internen Grenzkosten werden weithin weit unter dem Listenpreis geschätzt, deshalb kann SpaceX die Startliste mit Starlink fluten und trotzdem an andere verkaufen.",
+      "Falcon-9-Erststufen fliegen inzwischen oft — zweistellige Wiederverwendung ist Routine, manche Booster über 30. Katalogpreise um die mittleren zweistelligen Millionen Dollar unterbieten Ariane 5/6 und historische ULA-Preise deutlich. Die internen Grenzkosten werden weithin weit unter dem Listenpreis geschätzt, deshalb kann SpaceX die Startliste mit Starlink fluten und trotzdem an andere verkaufen.",
       "Wäre Wiederverwendung ein Partykunststück, würden Wettbewerber sie ignorieren. Haben sie nicht: ULA, Blue Origin, Arianespace und China jagen alle irgendeine Form der Bergung. NASA und Space Force kaufen Falcon weiter, weil Preis und Kadenz da waren. Zirkusse bringen nicht 80 %+ der orbitalen Masse eines Planeten in den Orbit."
     ],
     "keyFacts": [
@@ -52,7 +52,7 @@
       },
       {
         "label": "Listenpreis",
-        "value": "Falcon 9 Klasse ~67 Mio. $ gegen frühere 150 Mio. $–400 Mio. $"
+        "value": "Falcon 9 Klasse ~74 Mio. $ gegen frühere 150 Mio. $–400 Mio. $"
       },
       {
         "label": "Marktanteil",
@@ -74,6 +74,11 @@
         "publisher": "SpaceX",
         "title": "Falcon 9",
         "url": "https://www.spacex.com/vehicles/falcon-9/"
+      },
+      {
+        "publisher": "SpaceX",
+        "title": "Capabilities & Services",
+        "url": "https://www.spacex.com/media/Capabilities&Services.pdf"
       }
     ]
   },
@@ -229,7 +234,7 @@
       {
         "publisher": "NASA",
         "title": "Commercial Orbital Transportation Services",
-        "url": "https://www.nasa.gov/commercial-orbital-transportation-services/"
+        "url": "https://www.nasa.gov/wp-content/uploads/2015/06/649910main_cots2_presskit_051412.pdf"
       }
     ]
   },
@@ -287,7 +292,7 @@
     "kernel": null,
     "body": [
       "Crew Dragon wurde das erste kommerzielle Raumschiff, das NASA-Astronauten zur ISS brachte, Demo-2 2020, dann ein regelmäßiger Wechsel. Es gab Probleme — wie bei jedem bemannten System, einschließlich Heliumlecks, Wetterverschiebungen und der üblichen Ingenieursnörgeleien. Das NASA-Sicherheitsverfahren ist konservativ bis zur Komik. Sie fliegen es trotzdem.",
-      "Sojus ist eine legendäre Maschine. Sie hat auch Crews getötet (1971, Pad-Abort 1983 überlebt, Abort 2018 überlebt). Nach 2011 war die USA ein Anhalter, der Russland zahlte. Dragon hat das beendet. „Unsicherer als Sojus“ braucht eine Opferzahl und eine Zuverlässigkeitsreihe, kein Gefühl, alte sowjetische Hardware sei magisch priesterlich."
+      "Sojus ist eine legendäre Maschine. Sie hat auch Crews getötet (1967, 1971, Pad-Abort 1983 überlebt, Abort 2018 überlebt). Nach 2011 war die USA ein Anhalter, der Russland zahlte. Dragon hat das beendet. „Unsicherer als Sojus“ braucht eine Opferzahl und eine Zuverlässigkeitsreihe, kein Gefühl, alte sowjetische Hardware sei magisch priesterlich."
     ],
     "keyFacts": [
       {
@@ -307,7 +312,7 @@
       {
         "publisher": "NASA",
         "title": "Crew Dragon",
-        "url": "https://www.nasa.gov/commercial-crew-program/"
+        "url": "https://www.nasa.gov/humans-in-space/commercial-space/commercial-crew-program/"
       }
     ]
   },

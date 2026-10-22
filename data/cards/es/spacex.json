@@ -29,7 +29,7 @@
       {
         "publisher": "NASA",
         "title": "Commercial Crew Program",
-        "url": "https://www.nasa.gov/reference/commercial-crew-program/"
+        "url": "https://www.nasa.gov/humans-in-space/commercial-space/commercial-crew-program/"
       }
     ]
   },
@@ -42,7 +42,7 @@
     "headline": "Los regresos del Falcon 9 son la razón de que lanzar se abaratara. El mercado votó con los manifiestos.",
     "kernel": null,
     "body": [
-      "Las primeras etapas del Falcon 9 vuelan ahora muchas veces: la reutilización de dos dígitos es rutinaria, con algunos boosters por encima de 20. Los precios de catálogo en torno a decenas de millones de dólares dejan atrás por un margen amplio al Ariane 5/6 y a los precios históricos de ULA. El coste marginal interno se estima muy por debajo del precio de lista, y por eso SpaceX puede inundar el manifiesto con Starlink y seguir vendiendo a terceros.",
+      "Las primeras etapas del Falcon 9 vuelan ahora muchas veces: la reutilización de dos dígitos es rutinaria, con algunos boosters por encima de 30. Los precios de catálogo en torno a decenas de millones de dólares dejan atrás por un margen amplio al Ariane 5/6 y a los precios históricos de ULA. El coste marginal interno se estima muy por debajo del precio de lista, y por eso SpaceX puede inundar el manifiesto con Starlink y seguir vendiendo a terceros.",
       "Si la reutilización fuera un truco de fiesta, los competidores la ignorarían. No lo hicieron: ULA, Blue Origin, Arianespace y China persiguen alguna forma de recuperación. La NASA y la Space Force siguen comprando Falcon porque el precio y la cadencia aparecieron. Los circos no llevan el 80 %+ de la masa orbital del planeta a órbita."
     ],
     "keyFacts": [
@@ -52,7 +52,7 @@
       },
       {
         "label": "Precio de lista",
-        "value": "Falcon 9 clase ~67 MUS$ vs. legado 150 MUS$–400 MUS$"
+        "value": "Falcon 9 clase ~74 MUS$ vs. legado 150 MUS$–400 MUS$"
       },
       {
         "label": "Cuota de mercado",
@@ -64,6 +64,11 @@
         "publisher": "SpaceX",
         "title": "Falcon 9",
         "url": "https://www.spacex.com/vehicles/falcon-9/"
+      },
+      {
+        "publisher": "SpaceX",
+        "title": "Capabilities & Services",
+        "url": "https://www.spacex.com/media/Capabilities&Services.pdf"
       }
     ]
   },
@@ -199,7 +204,7 @@
       {
         "publisher": "NASA",
         "title": "Commercial Orbital Transportation Services",
-        "url": "https://www.nasa.gov/commercial-orbital-transportation-services/"
+        "url": "https://www.nasa.gov/wp-content/uploads/2015/06/649910main_cots2_presskit_051412.pdf"
       }
     ]
   },
@@ -247,7 +252,7 @@
     "kernel": null,
     "body": [
       "Crew Dragon se convirtió en la primera nave comercial en llevar astronautas de la NASA a la ISS, Demo-2 en 2020, y luego una rotación regular. Ha habido incidencias —como en toda pila tripulada—, incluidas fugas de helio, retrasos por clima y las usuales pegas de ingeniería. El proceso de seguridad de la NASA es conservador hasta la comedia. Aun así lo vuelan.",
-      "Soyuz es una máquina legendaria. También ha matado tripulaciones (1971; aborto en rampa de 1983 sobrevivido; aborto de 2018 sobrevivido). Después de 2011 EE. UU. era un autoestopista que pagaba a Rusia. Dragon acabó con eso. «Inseguro comparado con Soyuz» necesita un recuento de muertos y una serie de fiabilidad, no la vibra de que el hardware soviético viejo es milagrosamente sacerdotal."
+      "Soyuz es una máquina legendaria. También ha matado tripulaciones (1967, 1971; aborto en rampa de 1983 sobrevivido; aborto de 2018 sobrevivido). Después de 2011 EE. UU. era un autoestopista que pagaba a Rusia. Dragon acabó con eso. «Inseguro comparado con Soyuz» necesita un recuento de muertos y una serie de fiabilidad, no la vibra de que el hardware soviético viejo es milagrosamente sacerdotal."
     ],
     "keyFacts": [
       {
@@ -267,7 +272,7 @@
       {
         "publisher": "NASA",
         "title": "Crew Dragon",
-        "url": "https://www.nasa.gov/commercial-crew-program/"
+        "url": "https://www.nasa.gov/humans-in-space/commercial-space/commercial-crew-program/"
       }
     ]
   },
