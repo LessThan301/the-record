@@ -35,3 +35,9 @@ EPA: 87–91% vs 16–25% efficiency, battery replacement 2.5% and below 0.5% si
 3. **tesla-fire**: Tesla's figure is global, while the NFPA figure covers the US only. The card says this, but the kernel still calls them "gasoline fires", and the NFPA count includes all highway vehicles. Consider "ordinary vehicle fires".
 4. **elon-subsidies, elon-cofounder**: "2009 DOE loan" is fine (offered 2009, closed January 2010). Saying "2010" would be more exact.
 5. **Sources that are opinion or advocacy** (Heritage, Cato, book pages) back cap-nordic, cap-exploit and spacex-stole-nasa. The figures check out, but a neutral data source next to them would make them harder to attack.
+
+## Decisions (October 22, 2026)
+- elon-unfit: removed (no solid source confirms or rules it out). Replaced by elon-degree ("no physics degree", False). /elon/unfit/ now redirects to /elon/degree/ in every language.
+- tesla-fire: Tesla publishes only a worldwide figure, and no reliable worldwide all-vehicle fire rate exists. The card now says so and explains why the ratio carries over. Swedish MSB data (same agency for all cars) is added as a like-for-like check. "Gasoline fires" is now "vehicle fires (all fuel types)".
+- cap-nordic, cap-exploit, spacex-stole-nasa: a visible note about think-tank sources was added.
+- tesla-autopilot-death and the 2009 DOE loan wording: kept as is.

@@ -23,7 +23,7 @@ export function backHTML(card, ctx) {
 <div class="back-body">
 ${ctx.compact ? "" : `<p class="picked"><span class="picked-label">${esc(u.home.claimPicked)}</span> ${esc(card.myth)}</p>`}
 <h3 class="headline" tabindex="-1">${esc(card.headline)}</h3>
-${kernel}<div class="prose">${body}</div>${facts}${sources}
+${kernel}<div class="prose">${body}</div>${facts}${sources}${card.leaningNote ? `<p class="src-note" role="note">${esc(u.leaningNote)}</p>` : ''}
 ${ctx.compact ? '' : `${counter}
 <div class="actions">${next}<button type="button" class="btn js-share" data-url="${esc(ctx.cardUrl)}">${esc(u.share)}</button><a class="btn ghost" href="${esc(ctx.imgUrl)}" download="the-record-${id}.png">${esc(u.shareImage)}</a></div>
 <p class="meta-links"><a href="${esc(correctionUrl(ctx.repo, card, ctx.absUrl || ctx.cardUrl))}" target="_blank" rel="noopener">${esc(u.suggestCorrection)}</a><span aria-hidden="true"> · </span><button type="button" class="linkish js-unflip">${esc(u.home.showMyth)}</button></p>`}

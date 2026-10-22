@@ -179,3 +179,4 @@ html.cmp-open{overflow:hidden}
 .log-entry h2{font-size:1.25rem;margin:.25rem 0 .5rem}
 .log-entry ul{margin:0;padding-left:1.2rem}
 .log-entry li{margin:.3rem 0}
+.src-note{margin-top:.9rem;padding:.7rem .9rem;border-left:3px solid #f5c400;background:#16140a;font-size:.9rem;color:#d4d4d4;border-radius:0 8px 8px 0}

@@ -206,7 +206,8 @@
         "title": "Commercial Orbital Transportation Services",
         "url": "https://www.nasa.gov/wp-content/uploads/2015/06/649910main_cots2_presskit_051412.pdf"
       }
-    ]
+    ],
+    "leaningNote": true
   },
   {
     "id": "spacex-ukraine",

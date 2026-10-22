@@ -25,6 +25,76 @@
     {
       "date": "2026-10-22",
       "title": {
+        "en": "Card updates",
+        "de": "Kartenänderungen",
+        "fr": "Mises à jour des cartes",
+        "es": "Cambios en las tarjetas",
+        "it": "Aggiornamenti delle schede",
+        "nl": "Kaartupdates",
+        "zh": "卡片更新",
+        "ja": "カードの更新",
+        "ko": "카드 업데이트"
+      },
+      "items": {
+        "en": [
+          "Removed the card on Musk being \"unfit\" because of drug use: no solid sources confirm or rule it out.",
+          "New Elon card: \"He doesn't even have a physics degree\" (False).",
+          "Tesla fires: clearer like-for-like comparison, Swedish data for all cars added, and \"gasoline fires\" corrected to \"vehicle fires (all fuel types)\".",
+          "Note added on three cards that cite think tanks with a political leaning."
+        ],
+        "de": [
+          "Karte zu Musk als „unzurechnungsfähig“ wegen Drogen entfernt: Keine soliden Quellen bestätigen oder widerlegen das.",
+          "Neue Elon-Karte: „Er hat nicht einmal einen Physikabschluss“ (Falsch).",
+          "Tesla-Brände: klarerer Vergleich unter gleichen Bedingungen, schwedische Daten für alle Autos ergänzt, „Benzinbrände“ zu „Fahrzeugbrände (alle Antriebsarten)“ korrigiert.",
+          "Hinweis auf drei Karten ergänzt, die Denkfabriken mit politischer Ausrichtung zitieren."
+        ],
+        "fr": [
+          "Carte sur un Musk « inapte » à cause de drogues retirée : aucune source solide ne le confirme ni ne l'écarte.",
+          "Nouvelle carte Elon : « Il n'a même pas de diplôme de physique » (Faux).",
+          "Incendies Tesla : comparaison à conditions égales plus claire, données suédoises pour toutes les voitures ajoutées, « incendies d'essence » corrigé en « incendies de véhicules (toutes motorisations) ».",
+          "Note ajoutée sur trois cartes qui citent des think tanks ayant une orientation politique."
+        ],
+        "es": [
+          "Retirada la tarjeta sobre Musk «incapacitado» por drogas: ninguna fuente sólida lo confirma ni lo descarta.",
+          "Nueva tarjeta de Elon: «Ni siquiera tiene un título de física» (Falso).",
+          "Incendios de Tesla: comparación más clara en igualdad de condiciones, datos suecos de todos los coches añadidos y «incendios de gasolina» corregido a «incendios de vehículos (todos los combustibles)».",
+          "Nota añadida en tres tarjetas que citan think tanks con orientación política."
+        ],
+        "it": [
+          "Rimossa la scheda su Musk «inadatto» a causa di droghe: nessuna fonte solida lo conferma o lo esclude.",
+          "Nuova scheda su Elon: «Non ha nemmeno una laurea in fisica» (Falso).",
+          "Incendi Tesla: confronto a parità di condizioni più chiaro, aggiunti dati svedesi su tutte le auto, «incendi a benzina» corretto in «incendi di veicoli (tutte le alimentazioni)».",
+          "Aggiunta una nota su tre schede che citano think tank con un orientamento politico."
+        ],
+        "nl": [
+          "Kaart over Musk als „ongeschikt” door drugs verwijderd: geen degelijke bronnen bevestigen of weerleggen het.",
+          "Nieuwe Elon-kaart: „Hij heeft niet eens een natuurkundediploma” (Onwaar).",
+          "Tesla-branden: duidelijkere vergelijking op gelijke voet, Zweedse data voor alle auto's toegevoegd, „benzinebranden” gecorrigeerd naar „voertuigbranden (alle brandstoffen)”.",
+          "Opmerking toegevoegd bij drie kaarten die denktanks met een politieke kleur citeren."
+        ],
+        "zh": [
+          "删除了关于马斯克因吸毒而“不适合”的卡片：没有可靠来源能证实或排除这一说法。",
+          "新增 Elon 卡片：“他连物理学位都没有”（错误）。",
+          "Tesla 火灾：对比更加对等，新增瑞典全部汽车数据，并把“汽油车火灾”更正为“车辆火灾（各种动力类型）”。",
+          "在三张引用有政治倾向智库的卡片上添加了说明。"
+        ],
+        "ja": [
+          "薬物のせいでマスクは「不適格」だとするカードを削除：確認も否定もできる確かな出典がないため。",
+          "新しいイーロンのカード：「物理学の学位すら持っていない」（誤り）。",
+          "Teslaの火災：条件をそろえた比較を明確化し、スウェーデンの全乗用車データを追加。「ガソリン火災」を「車両火災（全動力方式）」に修正。",
+          "政治的傾向のあるシンクタンクを引用する3枚のカードに注記を追加。"
+        ],
+        "ko": [
+          "약물 때문에 머스크가 \"부적격\"이라는 카드를 삭제: 확인하거나 부정할 확실한 출처가 없다.",
+          "새 일론 카드: \"물리학 학위조차 없다\"(거짓).",
+          "Tesla 화재: 조건을 맞춘 비교를 명확히 하고 스웨덴 전체 승용차 자료를 추가했으며 \"가솔린 화재\"를 \"차량 화재(모든 연료 방식)\"로 고쳤다.",
+          "정치적 성향의 싱크탱크를 인용하는 카드 3장에 안내 문구 추가."
+        ]
+      }
+    },
+    {
+      "date": "2026-10-22",
+      "title": {
         "en": "Fact check: 6 figures corrected",
         "de": "Faktencheck: 6 Zahlen korrigiert",
         "fr": "Vérification : 6 chiffres corrigés",

@@ -35,7 +35,8 @@
     "swipeHint": "Swipe to see the other claim",
     "loadError": "Couldn't load this card. Check your connection and try again.",
     "retry": "Retry",
-    "whatsNew": "What's new"
+    "whatsNew": "What's new",
+    "leaningNote": "Some sources here come from think tanks with a political leaning. That's worth knowing, but it doesn't make the figures or the argument wrong: the numbers were checked against the original data."
   },
   "de": {
     "nextClaim": "Nächste Behauptung",
@@ -73,7 +74,8 @@
     "swipeHint": "Wischen, um die andere Behauptung zu sehen",
     "loadError": "Diese Karte konnte nicht geladen werden. Prüfe deine Verbindung und versuch es noch einmal.",
     "retry": "Erneut versuchen",
-    "whatsNew": "Neuigkeiten"
+    "whatsNew": "Neuigkeiten",
+    "leaningNote": "Einige Quellen hier stammen von Denkfabriken mit politischer Ausrichtung. Das ist gut zu wissen, macht die Zahlen oder das Argument aber nicht falsch: Die Zahlen wurden mit den Originaldaten abgeglichen."
   },
   "fr": {
     "nextClaim": "Affirmation suivante",
@@ -111,7 +113,8 @@
     "swipeHint": "Balayez pour voir l'autre affirmation",
     "loadError": "Impossible de charger cette carte. Vérifiez votre connexion et réessayez.",
     "retry": "Réessayer",
-    "whatsNew": "Nouveautés"
+    "whatsNew": "Nouveautés",
+    "leaningNote": "Certaines sources ici proviennent de think tanks ayant une orientation politique. C'est bon à savoir, mais cela ne rend ni les chiffres ni l'argument faux : les chiffres ont été vérifiés par rapport aux données d'origine."
   },
   "es": {
     "nextClaim": "Siguiente afirmación",
@@ -149,7 +152,8 @@
     "swipeHint": "Desliza para ver la otra afirmación",
     "loadError": "No se pudo cargar esta tarjeta. Comprueba tu conexión e inténtalo de nuevo.",
     "retry": "Reintentar",
-    "whatsNew": "Novedades"
+    "whatsNew": "Novedades",
+    "leaningNote": "Algunas fuentes aquí proceden de think tanks con una orientación política. Conviene saberlo, pero eso no hace falsos los datos ni el argumento: las cifras se contrastaron con los datos originales."
   },
   "it": {
     "nextClaim": "Prossima affermazione",
@@ -187,7 +191,8 @@
     "swipeHint": "Scorri per vedere l'altra affermazione",
     "loadError": "Impossibile caricare questa scheda. Controlla la connessione e riprova.",
     "retry": "Riprova",
-    "whatsNew": "Novità"
+    "whatsNew": "Novità",
+    "leaningNote": "Alcune fonti qui provengono da think tank con un orientamento politico. È bene saperlo, ma non rende sbagliati i dati né l'argomento: le cifre sono state verificate sui dati originali."
   },
   "nl": {
     "nextClaim": "Volgende bewering",
@@ -225,7 +230,8 @@
     "swipeHint": "Veeg om de andere bewering te zien",
     "loadError": "Deze kaart kon niet worden geladen. Controleer je verbinding en probeer het opnieuw.",
     "retry": "Opnieuw proberen",
-    "whatsNew": "Wat is er nieuw"
+    "whatsNew": "Wat is er nieuw",
+    "leaningNote": "Sommige bronnen hier komen van denktanks met een politieke kleur. Goed om te weten, maar het maakt de cijfers of het argument niet onjuist: de cijfers zijn gecontroleerd aan de hand van de oorspronkelijke data."
   },
   "zh": {
     "nextClaim": "下一条说法",
@@ -263,7 +269,8 @@
     "swipeHint": "滑动查看另一条说法",
     "loadError": "无法加载这张卡片。请检查网络连接后重试。",
     "retry": "重试",
-    "whatsNew": "更新日志"
+    "whatsNew": "更新日志",
+    "leaningNote": "这里的部分来源来自有政治倾向的智库。了解这一点很有必要，但这并不意味着数据或论证是错的：这些数字已对照原始数据核实。"
   },
   "ja": {
     "nextClaim": "次の主張",
@@ -301,7 +308,8 @@
     "swipeHint": "スワイプしてもう一方の主張を表示",
     "loadError": "このカードを読み込めませんでした。接続を確認して、もう一度お試しください。",
     "retry": "再試行",
-    "whatsNew": "更新情報"
+    "whatsNew": "更新情報",
+    "leaningNote": "ここにある出典の一部は、政治的な傾向を持つシンクタンクのものだ。知っておく価値はあるが、それで数値や論旨が間違いになるわけではない。数値は元データと照合済みだ。"
   },
   "ko": {
     "nextClaim": "다음 주장",
@@ -339,6 +347,7 @@
     "swipeHint": "밀어서 다른 주장 보기",
     "loadError": "이 카드를 불러오지 못했습니다. 연결을 확인하고 다시 시도하세요.",
     "retry": "다시 시도",
-    "whatsNew": "새 소식"
+    "whatsNew": "새 소식",
+    "leaningNote": "여기 출처 일부는 정치적 성향이 있는 싱크탱크에서 나왔다. 알아 둘 만하지만, 그렇다고 수치나 논지가 틀린 것은 아니다. 수치는 원자료와 대조해 확인했다."
   }
 }

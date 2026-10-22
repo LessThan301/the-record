@@ -127,7 +127,8 @@
         "title": "Economic Freedom Underpins Nordic Prosperity",
         "url": "https://www.heritage.org/international-economies/report/economic-freedom-underpins-nordic-prosperity"
       }
-    ]
+    ],
+    "leaningNote": true
   },
   {
     "id": "cap-planning",
@@ -252,7 +253,8 @@
         "title": "Out of Poverty: Sweatshops in the Global Economy",
         "url": "https://www.cato.org/books/out-poverty"
       }
-    ]
+    ],
+    "leaningNote": true
   },
   {
     "id": "cap-climate",
