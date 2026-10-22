@@ -34,7 +34,8 @@
     "compareTitle": "Compare two claims",
     "swipeHint": "Swipe to see the other claim",
     "loadError": "Couldn't load this card. Check your connection and try again.",
-    "retry": "Retry"
+    "retry": "Retry",
+    "whatsNew": "What's new"
   },
   "de": {
     "nextClaim": "Nächste Behauptung",
@@ -71,7 +72,8 @@
     "compareTitle": "Zwei Behauptungen vergleichen",
     "swipeHint": "Wischen, um die andere Behauptung zu sehen",
     "loadError": "Diese Karte konnte nicht geladen werden. Prüfe deine Verbindung und versuch es noch einmal.",
-    "retry": "Erneut versuchen"
+    "retry": "Erneut versuchen",
+    "whatsNew": "Neuigkeiten"
   },
   "fr": {
     "nextClaim": "Affirmation suivante",
@@ -108,7 +110,8 @@
     "compareTitle": "Comparer deux affirmations",
     "swipeHint": "Balayez pour voir l'autre affirmation",
     "loadError": "Impossible de charger cette carte. Vérifiez votre connexion et réessayez.",
-    "retry": "Réessayer"
+    "retry": "Réessayer",
+    "whatsNew": "Nouveautés"
   },
   "es": {
     "nextClaim": "Siguiente afirmación",
@@ -145,7 +148,8 @@
     "compareTitle": "Comparar dos afirmaciones",
     "swipeHint": "Desliza para ver la otra afirmación",
     "loadError": "No se pudo cargar esta tarjeta. Comprueba tu conexión e inténtalo de nuevo.",
-    "retry": "Reintentar"
+    "retry": "Reintentar",
+    "whatsNew": "Novedades"
   },
   "it": {
     "nextClaim": "Prossima affermazione",
@@ -182,7 +186,8 @@
     "compareTitle": "Confronta due affermazioni",
     "swipeHint": "Scorri per vedere l'altra affermazione",
     "loadError": "Impossibile caricare questa scheda. Controlla la connessione e riprova.",
-    "retry": "Riprova"
+    "retry": "Riprova",
+    "whatsNew": "Novità"
   },
   "nl": {
     "nextClaim": "Volgende bewering",
@@ -219,7 +224,8 @@
     "compareTitle": "Twee beweringen vergelijken",
     "swipeHint": "Veeg om de andere bewering te zien",
     "loadError": "Deze kaart kon niet worden geladen. Controleer je verbinding en probeer het opnieuw.",
-    "retry": "Opnieuw proberen"
+    "retry": "Opnieuw proberen",
+    "whatsNew": "Wat is er nieuw"
   },
   "zh": {
     "nextClaim": "下一条说法",
@@ -256,7 +262,8 @@
     "compareTitle": "对比两条说法",
     "swipeHint": "滑动查看另一条说法",
     "loadError": "无法加载这张卡片。请检查网络连接后重试。",
-    "retry": "重试"
+    "retry": "重试",
+    "whatsNew": "更新日志"
   },
   "ja": {
     "nextClaim": "次の主張",
@@ -293,7 +300,8 @@
     "compareTitle": "2つの主張を比較",
     "swipeHint": "スワイプしてもう一方の主張を表示",
     "loadError": "このカードを読み込めませんでした。接続を確認して、もう一度お試しください。",
-    "retry": "再試行"
+    "retry": "再試行",
+    "whatsNew": "更新情報"
   },
   "ko": {
     "nextClaim": "다음 주장",
@@ -330,6 +338,7 @@
     "compareTitle": "두 주장 비교",
     "swipeHint": "밀어서 다른 주장 보기",
     "loadError": "이 카드를 불러오지 못했습니다. 연결을 확인하고 다시 시도하세요.",
-    "retry": "다시 시도"
+    "retry": "다시 시도",
+    "whatsNew": "새 소식"
   }
 }

@@ -14,6 +14,7 @@ const SKIP_IMG = process.env.SKIP_IMAGES === '1';
 const LANGS = ['en', 'de', 'fr', 'es', 'it', 'nl', 'zh', 'ja', 'ko'];
 const TOPICS = ['elon', 'spacex', 'tesla', 'evs', 'capitalism'];
 const OUT = 'dist';
+const CHANGELOG = JSON.parse(fs.readFileSync('data/changelog.json', 'utf8'));
 const extra = JSON.parse(fs.readFileSync('data/ui-extra.json', 'utf8'));
 const UI = Object.fromEntries(LANGS.map((l) => [l, { ...JSON.parse(fs.readFileSync(`data/ui/${l}.json`, 'utf8')), ...extra[l] }]));
 const CARDS = Object.fromEntries(LANGS.map((l) => [l, Object.fromEntries(TOPICS.map((t) => [t, JSON.parse(fs.readFileSync(`data/cards/${l}/${t}.json`, 'utf8'))]))]));
@@ -69,7 +70,7 @@ function footer(l) {
     : `<span class="btn donate is-disabled" aria-disabled="true">${esc(u.donate)} · ${esc(u.donateSoon)}</span>`;
   return `<footer class="foot"><div class="wrap">
 <p class="foot-brand">The Record</p><p class="muted">${esc(u.footer.independent)}</p>
-<p class="foot-links"><a href="${url(l, 'method/')}">${esc(u.nav.method)}</a><a href="${url(l, 'legal/')}">${esc(u.legalNav)}</a><a href="${BASE}/privacy/">${esc(u.privacy)}</a><a href="${BASE}/imprint/">${esc(u.imprint)}</a></p>
+<p class="foot-links"><a href="${url(l, 'method/')}">${esc(u.nav.method)}</a><a href="${url(l, 'whats-new/')}">${esc(u.whatsNew)}</a><a href="${url(l, 'legal/')}">${esc(u.legalNav)}</a><a href="${BASE}/privacy/">${esc(u.privacy)}</a><a href="${BASE}/imprint/">${esc(u.imprint)}</a></p>
 ${donate}
 <p class="muted small">${esc(u.footer.trademarks)}</p>
 <nav class="foot-langs" aria-label="${esc(u.language)}">${LANGS.map((x) => `<a href="${url(x)}" lang="${x}" hreflang="${x}"${x === l ? ' aria-current="page"' : ''}>${LABELS[x]}</a>`).join('')}</nav>
@@ -131,6 +132,13 @@ for (const l of LANGS) {
   write(path.join(lp(l).slice(1), 'method', 'index.html'), head(l, { title: `${m.title} · The Record`, desc: m.p1, canonical: url(l, 'method/'), alt: (x) => url(x, 'method/') }) + header(l, (x) => url(x, 'method/')) +
     `<main id="main" class="wrap text"><p class="kicker">${esc(m.kicker)}</p><h1>${esc(m.title)}</h1><p class="lede">${esc(m.affiliation)}</p>${['p1', 'p2', 'p3', 'p4'].map((k) => `<p>${esc(m[k])}</p>`).join('')}${legend(u)}</main>` + pageCfg(l, { page: 'text' }) + footer(l));
   sitemap.push({ loc: url(l, 'method/'), alt: (x) => url(x, 'method/') });
+
+  // What's new (data/changelog.json)
+  const dfmt = (d) => new Intl.DateTimeFormat(l, { year: 'numeric', month: 'long', day: 'numeric', timeZone: 'UTC' }).format(new Date(d + 'T00:00:00Z'));
+  const log = CHANGELOG.entries.map((e) => `<section class="log-entry"><p class="kicker"><time datetime="${e.date}">${esc(dfmt(e.date))}</time></p><h2>${esc(e.title[l] ?? e.title.en)}</h2><ul>${(e.items[l] ?? e.items.en).map((x) => `<li>${esc(x)}</li>`).join('')}</ul></section>`).join('');
+  write(path.join(lp(l).slice(1), 'whats-new', 'index.html'), head(l, { title: `${CHANGELOG.title[l]} · The Record`, desc: CHANGELOG.lede[l], canonical: url(l, 'whats-new/'), alt: (x) => url(x, 'whats-new/') }) + header(l, (x) => url(x, 'whats-new/')) +
+    `<main id="main" class="wrap text"><h1>${esc(CHANGELOG.title[l])}</h1><p class="lede">${esc(CHANGELOG.lede[l])}</p>${log}</main>` + pageCfg(l, { page: 'text' }) + footer(l));
+  sitemap.push({ loc: url(l, 'whats-new/'), alt: (x) => url(x, 'whats-new/') });
 
   // Legal (disclaimer, terms, trademarks) – privacy & imprint are separate bilingual pages
   const g = u.legal;

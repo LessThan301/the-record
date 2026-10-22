@@ -175,3 +175,7 @@ html.cmp-open{overflow:hidden}
 }
 .load-error{margin-top:1rem;padding:.9rem 1rem;border:1px solid #e31937;border-radius:10px;background:#1a0508;display:flex;flex-wrap:wrap;gap:.75rem;align-items:center}
 .load-error p{margin:0;flex:1 1 14rem}
+.log-entry{border-top:1px solid #262626;padding-top:1.25rem;margin-top:1.5rem}
+.log-entry h2{font-size:1.25rem;margin:.25rem 0 .5rem}
+.log-entry ul{margin:0;padding-left:1.2rem}
+.log-entry li{margin:.3rem 0}

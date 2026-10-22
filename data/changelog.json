@@ -1,0 +1,175 @@
+{
+  "title": {
+    "en": "What's new",
+    "de": "Neuigkeiten",
+    "fr": "Nouveautés",
+    "es": "Novedades",
+    "it": "Novità",
+    "nl": "Wat is er nieuw",
+    "zh": "更新日志",
+    "ja": "更新情報",
+    "ko": "새 소식"
+  },
+  "lede": {
+    "en": "Changes to the cards and the site, newest first.",
+    "de": "Änderungen an den Karten und der Seite, neueste zuerst.",
+    "fr": "Modifications des cartes et du site, les plus récentes en premier.",
+    "es": "Cambios en las tarjetas y en el sitio, los más recientes primero.",
+    "it": "Modifiche alle schede e al sito, le più recenti prima.",
+    "nl": "Wijzigingen aan de kaarten en de site, nieuwste eerst.",
+    "zh": "卡片和网站的更改，最新的在前。",
+    "ja": "カードとサイトの変更。新しい順。",
+    "ko": "카드와 사이트의 변경 사항, 최신순."
+  },
+  "entries": [
+    {
+      "date": "2026-10-22",
+      "title": {
+        "en": "Fact check: 6 figures corrected",
+        "de": "Faktencheck: 6 Zahlen korrigiert",
+        "fr": "Vérification : 6 chiffres corrigés",
+        "es": "Verificación: 6 cifras corregidas",
+        "it": "Verifica: 6 cifre corrette",
+        "nl": "Factcheck: 6 cijfers gecorrigeerd",
+        "zh": "事实核查：更正了 6 个数字",
+        "ja": "ファクトチェック：6件の数値を修正",
+        "ko": "팩트체크: 수치 6건 수정"
+      },
+      "items": {
+        "en": [
+          "Musk left South Africa in 1989, not 1988.",
+          "Tesla fire data now covers 2012–2024: about 1 fire per 225 million km.",
+          "US vehicle fires: about 196,000 a year (NFPA average 2018–2022).",
+          "Falcon 9 list price: about $74 million (2026).",
+          "Reused Falcon 9 boosters: some past 30 flights (record: 37).",
+          "Soyuz crew deaths: 1967 and 1971.",
+          "5 dead source links replaced."
+        ],
+        "de": [
+          "Musk verließ Südafrika 1989, nicht 1988.",
+          "Teslas Branddaten reichen jetzt bis 2024: etwa 1 Brand pro 225 Millionen km.",
+          "Fahrzeugbrände in den USA: etwa 196.000 pro Jahr (NFPA-Mittel 2018–2022).",
+          "Listenpreis Falcon 9: etwa 74 Mio. $ (2026).",
+          "Wiederverwendete Falcon-9-Booster: manche über 30 Flüge (Rekord: 37).",
+          "Tote Sojus-Besatzungen: 1967 und 1971.",
+          "5 tote Quellenlinks ersetzt."
+        ],
+        "fr": [
+          "Musk a quitté l'Afrique du Sud en 1989, pas en 1988.",
+          "Les données incendie de Tesla couvrent désormais 2012–2024 : environ 1 incendie pour 225 millions de km.",
+          "Incendies de véhicules aux États-Unis : environ 196 000 par an (moyenne NFPA 2018–2022).",
+          "Prix catalogue Falcon 9 : environ 74 M $US (2026).",
+          "Boosters Falcon 9 réutilisés : certains au-delà de 30 vols (record : 37).",
+          "Équipages Soyouz tués : 1967 et 1971.",
+          "5 liens de sources morts remplacés."
+        ],
+        "es": [
+          "Musk se fue de Sudáfrica en 1989, no en 1988.",
+          "Los datos de incendios de Tesla cubren ahora 2012–2024: alrededor de 1 incendio por cada 225 millones de km.",
+          "Incendios de vehículos en EE. UU.: unos 196.000 al año (media NFPA 2018–2022).",
+          "Precio de lista del Falcon 9: unos 74 MUS$ (2026).",
+          "Boosters Falcon 9 reutilizados: algunos por encima de 30 vuelos (récord: 37).",
+          "Tripulaciones de Soyuz fallecidas: 1967 y 1971.",
+          "5 enlaces de fuentes rotos sustituidos."
+        ],
+        "it": [
+          "Musk lasciò il Sudafrica nel 1989, non nel 1988.",
+          "I dati Tesla sugli incendi coprono ora il 2012–2024: circa 1 incendio ogni 225 milioni di km.",
+          "Incendi di veicoli negli USA: circa 196.000 l’anno (media NFPA 2018–2022).",
+          "Prezzo di listino Falcon 9: circa 74 Mln USD (2026).",
+          "Booster Falcon 9 riutilizzati: alcuni oltre i 30 voli (record: 37).",
+          "Equipaggi Sojuz morti: 1967 e 1971.",
+          "5 link alle fonti non funzionanti sostituiti."
+        ],
+        "nl": [
+          "Musk verliet Zuid-Afrika in 1989, niet in 1988.",
+          "Teslas branddata lopen nu tot 2024: ongeveer 1 brand per 225 miljoen km.",
+          "Voertuigbranden in de VS: ongeveer 196.000 per jaar (NFPA-gemiddelde 2018–2022).",
+          "Catalogusprijs Falcon 9: ongeveer US$ 74 mln. (2026).",
+          "Hergebruikte Falcon 9-boosters: sommige voorbij de 30 vluchten (record: 37).",
+          "Omgekomen Sojoez-bemanningen: 1967 en 1971.",
+          "5 dode bronlinks vervangen."
+        ],
+        "zh": [
+          "马斯克于 1989 年离开南非，而不是 1988 年。",
+          "Tesla 火灾数据现已覆盖 2012–2024：约每 2.25亿 km 一起火灾。",
+          "美国车辆火灾：每年约 196,000 起（NFPA 2018–2022 年平均）。",
+          "Falcon 9 目录价：约 US$7400万（2026）。",
+          "重复使用的 Falcon 9 助推器：有的超过 30 次（纪录：37 次）。",
+          "联盟号乘组遇难：1967 年和 1971 年。",
+          "替换了 5 个失效的来源链接。"
+        ],
+        "ja": [
+          "マスクが南アフリカを離れたのは1988年ではなく1989年。",
+          "Teslaの火災データは2012〜2024年に更新：約2.25億 kmに1件。",
+          "米国の車両火災：年間約19万6000件（NFPA、2018〜2022年平均）。",
+          "Falcon 9のカタログ価格：約7400万ドル（2026年）。",
+          "再使用されたFalcon 9ブースター：30回を超えるものも（記録は37回）。",
+          "ソユーズの乗員死亡：1967年と1971年。",
+          "リンク切れの出典5件を差し替え。"
+        ],
+        "ko": [
+          "머스크는 1988년이 아니라 1989년에 남아공을 떠났다.",
+          "Tesla 화재 데이터를 2012–2024로 갱신: 약 2.25억 km당 1건.",
+          "미국 차량 화재: 연간 약 196,000건(NFPA 2018–2022 평균).",
+          "Falcon 9 정가: 약 US$7400만(2026).",
+          "재사용 Falcon 9 부스터: 일부는 30회 초과(기록: 37회).",
+          "소유즈 승무원 사망: 1967년과 1971년.",
+          "끊어진 출처 링크 5개 교체."
+        ]
+      }
+    },
+    {
+      "date": "2026-10-22",
+      "title": {
+        "en": "Launch: The Record, version 1",
+        "de": "Start: The Record, Version 1",
+        "fr": "Lancement : The Record, version 1",
+        "es": "Lanzamiento: The Record, versión 1",
+        "it": "Lancio: The Record, versione 1",
+        "nl": "Lancering: The Record, versie 1",
+        "zh": "上线：The Record 第 1 版",
+        "ja": "公開：The Record バージョン1",
+        "ko": "출시: The Record 버전 1"
+      },
+      "items": {
+        "en": [
+          "50 claims in 5 topics, in 9 languages.",
+          "Share images, Compare, and a correction form for every card."
+        ],
+        "de": [
+          "50 Behauptungen in 5 Themen, in 9 Sprachen.",
+          "Teilbilder, Vergleichen und ein Korrekturformular für jede Karte."
+        ],
+        "fr": [
+          "50 affirmations en 5 thèmes, en 9 langues.",
+          "Images de partage, Comparer et un formulaire de correction pour chaque carte."
+        ],
+        "es": [
+          "50 afirmaciones en 5 temas, en 9 idiomas.",
+          "Imágenes para compartir, Comparar y un formulario de corrección en cada tarjeta."
+        ],
+        "it": [
+          "50 affermazioni in 5 temi, in 9 lingue.",
+          "Immagini da condividere, Confronta e un modulo di correzione per ogni scheda."
+        ],
+        "nl": [
+          "50 beweringen in 5 onderwerpen, in 9 talen.",
+          "Deelafbeeldingen, Vergelijken en een correctieformulier bij elke kaart."
+        ],
+        "zh": [
+          "5 个主题共 50 条说法，9 种语言。",
+          "每张卡片都有分享图片、对比功能和更正表单。"
+        ],
+        "ja": [
+          "5つのテーマで50の主張、9言語。",
+          "すべてのカードに共有画像、比較、訂正フォーム。"
+        ],
+        "ko": [
+          "5개 주제, 50개 주장, 9개 언어.",
+          "모든 카드에 공유 이미지, 비교, 정정 양식."
+        ]
+      }
+    }
+  ]
+}
