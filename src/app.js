@@ -5,7 +5,16 @@ const u = cfg.ui;
 const live = document.getElementById('live');
 const say = (t) => { live.textContent = ''; setTimeout(() => (live.textContent = t), 30); };
 const cache = {};
-const loadTopic = (t) => (cache[t] ??= fetch(`${cfg.base}/data/${cfg.lang}/${t}.json`).then((r) => { if (!r.ok) throw r; return r.json(); }));
+const loadTopic = (t) => (cache[t] ??= fetch(`${cfg.base}/data/${cfg.lang}/${t}.json`).then((r) => { if (!r.ok) throw new Error(r.status); return r.json(); }).catch((e) => { delete cache[t]; throw e; }));
+// Inline, translated load error with a Retry button. `retry` runs again when pressed.
+function showLoadError(where, retry) {
+  where.querySelector('.load-error')?.remove();
+  const box = document.createElement('div'); box.className = 'load-error'; box.setAttribute('role', 'alert');
+  box.innerHTML = `<p></p><button type="button" class="btn primary"></button>`;
+  box.querySelector('p').textContent = u.loadError; const b = box.querySelector('button'); b.textContent = u.retry;
+  b.addEventListener('click', () => { box.remove(); retry(); });
+  where.append(box); b.focus({ preventScroll: true });
+}
 
 // language switcher
 const sel = document.querySelector('.js-lang');
@@ -26,6 +35,7 @@ function collapseOthers(keep) {
 }
 
 async function openCard(card) {
+  card.querySelector('.load-error')?.remove();
   collapseOthers(card);
   const back = card.querySelector('.face.back');
   const btn = card.querySelector('.js-believe');
@@ -36,7 +46,7 @@ async function openCard(card) {
       const list = await loadTopic(card.dataset.topic);
       const c = list.find((x) => x.id === card.dataset.id);
       back.innerHTML = backHTML(c, { lang: cfg.lang, ui: u, cardUrl: c.url, absUrl: cfg.origin + c.url, imgUrl: `${cfg.base}/share/${cfg.lang}/${c.id}.png`, repo: cfg.repo, nextUrl: null, counter: !!cfg.counter });
-    } catch { location.href = card.querySelector('.claim a')?.href || location.href; return; }
+    } catch { showLoadError(card.querySelector('.face.front'), () => openCard(card)); return; }
     finally { btn.removeAttribute('aria-busy'); }
   }
   back.hidden = false; card.classList.add('is-open'); btn.setAttribute('aria-expanded', 'true');
@@ -145,7 +155,9 @@ async function cardData(card) {
 }
 
 async function openCompare(a, b, opener) {
-  const [ca, cb] = await Promise.all([cardData(a), cardData(b)]);
+  let ca, cb;
+  try { [ca, cb] = await Promise.all([cardData(a), cardData(b)]); } catch { showLoadError(bar, () => openCompare(a, b, opener)); return; }
+  bar.querySelector('.load-error')?.remove();
   cancelPick();
   const col = (c, el) => `<article class="cmp-card" tabindex="0" aria-label="${el.querySelector('.claim').textContent.trim().replace(/"/g, '&quot;')}">
 <div class="cmp-front"><p class="kicker">${u.categories[el.dataset.topic].name} · ${String(c.number).padStart(2, '0')}</p><p class="cmp-claim">${el.querySelector('.claim').innerHTML}</p></div>
