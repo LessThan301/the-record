@@ -17,7 +17,11 @@ const OUT = 'dist';
 const extra = JSON.parse(fs.readFileSync('data/ui-extra.json', 'utf8'));
 const UI = Object.fromEntries(LANGS.map((l) => [l, { ...JSON.parse(fs.readFileSync(`data/ui/${l}.json`, 'utf8')), ...extra[l] }]));
 const CARDS = Object.fromEntries(LANGS.map((l) => [l, Object.fromEntries(TOPICS.map((t) => [t, JSON.parse(fs.readFileSync(`data/cards/${l}/${t}.json`, 'utf8'))]))]));
-const ver = Date.now().toString(36);
+import crypto from 'crypto';
+const hash = (buf) => crypto.createHash('sha256').update(buf).digest('hex').slice(0, 10);
+const renderSrc = fs.readFileSync('src/render.js'); const RENDER = `render.${hash(renderSrc)}.js`;
+const appSrc = fs.readFileSync('src/app.js', 'utf8').replace("from './render.js'", `from './${RENDER}'`); const APP = `app.${hash(appSrc)}.js`;
+const cssSrc = fs.readFileSync('src/style.css'); const CSS = `style.${hash(cssSrc)}.css`;
 
 fs.rmSync(OUT, { recursive: true, force: true });
 const write = (rel, s) => { const f = path.join(OUT, rel); fs.mkdirSync(path.dirname(f), { recursive: true }); fs.writeFileSync(f, s); };
@@ -38,9 +42,9 @@ ${PREVIEW ? '<meta name="robots" content="noindex,nofollow">' : ''}
 <meta property="og:type" content="website"><meta property="og:site_name" content="The Record"><meta property="og:title" content="${esc(title)}"><meta property="og:description" content="${esc(desc)}"><meta property="og:url" content="${ORIGIN}${canonical}">
 ${image ? `<meta property="og:image" content="${ORIGIN}${image}"><meta property="og:image:width" content="1200"><meta property="og:image:height" content="630"><meta name="twitter:card" content="summary_large_image">` : ''}
 <link rel="preload" href="${BASE}/assets/InterTight-var.woff2" as="font" type="font/woff2" crossorigin>
-<link rel="stylesheet" href="${BASE}/assets/style.css?v=${ver}">
+<link rel="stylesheet" href="${BASE}/assets/${CSS}">
 <link rel="icon" href="${BASE}/assets/icon.svg" type="image/svg+xml">
-<script type="module" src="${BASE}/assets/app.js?v=${ver}"></script>
+<script type="module" src="${BASE}/assets/${APP}"></script>
 </head><body>
 <a class="skip" href="#main">${esc(u.skip)}</a>`;
 }
@@ -152,7 +156,8 @@ write('robots.txt', PREVIEW ? 'User-agent: *\nDisallow: /\n' : `User-agent: *\nA
 
 // assets
 fs.mkdirSync(`${OUT}/assets`, { recursive: true });
-for (const f of ['style.css', 'app.js', 'render.js', 'icon.svg']) fs.copyFileSync(`src/${f}`, `${OUT}/assets/${f}`);
+fs.copyFileSync('src/icon.svg', `${OUT}/assets/icon.svg`);
+fs.writeFileSync(`${OUT}/assets/${RENDER}`, renderSrc); fs.writeFileSync(`${OUT}/assets/${APP}`, appSrc); fs.writeFileSync(`${OUT}/assets/${CSS}`, cssSrc);
 fs.copyFileSync('src/fonts/InterTight-var.woff2', `${OUT}/assets/InterTight-var.woff2`);
 fs.writeFileSync(`${OUT}/.nojekyll`, '');
 

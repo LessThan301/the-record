@@ -67,8 +67,11 @@ a{color:inherit}
 /* card */
 .card{background:var(--panel);border:1px solid var(--line);border-radius:var(--radius);overflow:hidden;scroll-margin-top:72px}
 .card.is-open,.card.is-current{grid-column:1/-1}
-.card.is-current{border-color:#fff}
-.card.is-current .claim{font-size:clamp(22px,3vw,30px)}
+.card.is-current{border:2px solid #fff;box-shadow:0 0 0 4px rgba(227,25,55,.55);animation:flip .35s ease}
+.card.is-current .face.front{min-height:300px;padding:26px 28px 0}
+.card.is-current .claim{font-size:clamp(26px,3.4vw,40px);line-height:1.2;max-width:28ch}
+.card.is-current .believe{width:calc(100% + 56px);margin:0 -28px;min-height:72px;font-size:19px}
+@media (prefers-reduced-motion:reduce){.card.is-current{animation:none}}
 .claim:focus{outline:none}
 .face.front{display:flex;flex-direction:column;min-height:230px;padding:18px 18px 0}
 .front-top{display:flex;justify-content:space-between;align-items:center}
