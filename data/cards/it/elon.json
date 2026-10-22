@@ -332,36 +332,51 @@
     ]
   },
   {
-    "id": "elon-unfit",
-    "slug": "unfit",
+    "id": "elon-degree",
+    "slug": "degree",
     "number": 10,
-    "verdict": "overstated",
-    "myth": "È intontito di ketamina e mentalmente inidoneo a guidare aziende.",
-    "headline": "Ha detto di usare ketamina prescritta per la depressione. Non è un accertamento pubblico di incapacità. Il mulino diagnostico online non è una cartella clinica.",
-    "kernel": "Lo stile di lavoro è estremo, i post sono spesso temerari, e diversi CdA hanno dovuto assorbire il costo della marca personale. Sono lamentele operative lecite.",
+    "verdict": "false",
+    "myth": "Non ha nemmeno una laurea in fisica. Le sue credenziali scientifiche sono inventate.",
+    "headline": "Penn lo conferma: un B.A. in fisica e un B.S. in economia, conferiti nel 1997. I veri nodi sono la data e Stanford, non la laurea.",
+    "kernel": "Musk ha detto a lungo di essersi laureato nel 1995. Secondo Penn i titoli sono stati conferiti nel maggio 1997, dopo aver risolto una questione di crediti in sospeso. E del dottorato a Stanford che avrebbe «lasciato dopo due giorni» non risulta alcuna iscrizione.",
     "body": [
-      "Musk ha descritto pubblicamente la ketamina, prescritta, come trattamento per la depressione. Non c'è una valutazione medica rilasciata che lo dica compromesso sul lavoro. SpaceX continua a volare, Tesla continua a produrre, xAI continua a spedire. Gli argomenti di Borsa sulla «distrazione» non sono criteri DSM.",
-      "Si può pensare che i post siano un problema di governance — i consiglieri Tesla, a tratti, l'hanno pensato chiaramente. Si può pensare che la privazione di sonno e i post alle 3 di notte siano sconsiderati. Tradurre tutto in «il CEO è in sbronza e i razzi non sono sorvegliati» è un racconto. Giornalisti al seguito, dipendenti e registri di volo non hanno prodotto il fascicolo-prova di inidoneità di cui il meme ha bisogno."
+      "Nel 2019 la University of Pennsylvania ha confermato per iscritto che Elon Musk ha conseguito un B.A. in fisica e un B.S. in economia (Wharton), entrambi conferiti il 19 maggio 1997. Il biografo Ashlee Vance ha verificato le stesse date con la segreteria di Penn. Il dipartimento di fisica di Penn lo elenca tra i suoi ex studenti.",
+      "Dove i critici hanno ragione: l'anno che ha indicato per anni (1995) è anticipato di due anni, e la sua spiegazione del divario è cambiata nel tempo. Stanford afferma che fu ammesso nel 1995 al suo programma di specializzazione in scienza e ingegneria dei materiali, ma non ha traccia della sua iscrizione. Quindi «ha abbandonato il dottorato» è un'esagerazione. «Non ha una laurea in fisica» è semplicemente falso."
     ],
     "keyFacts": [
       {
-        "label": "La sua versione",
-        "value": "Ketamina prescritta per la depressione"
+        "label": "Titoli di Penn",
+        "value": "B.A. fisica, B.S. economia"
       },
       {
-        "label": "Accertamento medico pubblico di inidoneità",
-        "value": "Nessuno"
+        "label": "Conferiti",
+        "value": "19 maggio 1997 (non 1995)"
       },
       {
-        "label": "Lamentela lecita",
-        "value": "Post erratici come rischio di governance e di marchio"
+        "label": "Stanford",
+        "value": "Ammesso nel 1995, nessuna iscrizione risulta"
       }
     ],
     "sources": [
       {
-        "publisher": "Wikipedia (personal life)",
-        "title": "Elon Musk",
-        "url": "https://en.wikipedia.org/wiki/Elon_Musk"
+        "publisher": "Snopes",
+        "title": "Does Elon Musk Have an Undergraduate Degree in Physics?",
+        "url": "https://www.snopes.com/fact-check/musk-physics-degree/"
+      },
+      {
+        "publisher": "University of Pennsylvania (statement, 2019, via PlainSite)",
+        "title": "Email from Penn confirming Elon Musk's degrees",
+        "url": "https://www.plainsite.org/documents/tbdmox/2019-email-from-the-university-of-pennsylvania-confirming-elon-musks-physics-degree/"
+      },
+      {
+        "publisher": "The Stanford Daily",
+        "title": "Elon Musk's Stanford ties raise questions about legal status",
+        "url": "https://stanforddaily.com/2024/11/11/elon-musk-stanford-work-status/"
+      },
+      {
+        "publisher": "CNN",
+        "title": "Elon Musk denies Washington Post report that he worked illegally in the US",
+        "url": "https://www.cnn.com/2024/10/28/us/elon-musk-immigration-washington-post-cec"
       }
     ]
   }

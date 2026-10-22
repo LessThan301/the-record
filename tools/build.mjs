@@ -157,6 +157,13 @@ for (const [slug, fn, title] of [['imprint', imprintHTML, 'Impressum / Imprint']
   sitemap.push({ loc: `${BASE}/${slug}/` });
 }
 
+// Redirects for removed cards (old URL -> replacement card)
+const REDIRECTS = { 'elon/unfit/': 'elon/degree/' };
+for (const l of LANGS) for (const [from, to] of Object.entries(REDIRECTS)) {
+  const dest = url(l, to);
+  write(path.join(lp(l).slice(1), from, 'index.html'), `<!doctype html><html lang="${l}"><head><meta charset="utf-8"><title>The Record</title><meta name="robots" content="noindex"><link rel="canonical" href="${ORIGIN}${dest}"><meta http-equiv="refresh" content="0; url=${dest}"><script>location.replace(${JSON.stringify(dest)} + location.search + location.hash)</script></head><body><p><a href="${dest}">${esc(UI[l].openCard)}</a></p></body></html>`);
+}
+
 // 404
 write('404.html', head('en', { title: 'Not found · The Record', desc: '', canonical: `${BASE}/404.html` }) + header('en', (x) => url(x)) +
   `<main id="main" class="wrap text"><h1>${esc(UI.en.notFoundTitle)}</h1><p>${esc(UI.en.notFoundBody)}</p><p><a class="btn primary" href="${url('en')}">${esc(UI.en.notFoundBack)}</a></p></main>` + pageCfg('en', { page: 'text' }) + footer('en'));

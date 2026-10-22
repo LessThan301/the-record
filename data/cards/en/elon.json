@@ -322,36 +322,51 @@
     ]
   },
   {
-    "id": "elon-unfit",
-    "slug": "unfit",
+    "id": "elon-degree",
+    "slug": "degree",
     "number": 10,
-    "verdict": "overstated",
-    "myth": "He is ketamine-addled and mentally unfit to run companies.",
-    "headline": "He has said he uses prescribed ketamine for depression. That is not a public finding of incapacity. The online diagnosis mill is not a medical chart.",
-    "kernel": "The work style is extreme, the posting is often reckless, and several boards have had to absorb the cost of the personal brand. Those are fair operational complaints.",
+    "verdict": "false",
+    "myth": "He doesn't even have a physics degree. His science credentials are made up.",
+    "headline": "Penn confirms it: a B.A. in physics and a B.S. in economics, awarded in 1997. The real wrinkles are the date and Stanford, not the degree.",
+    "kernel": "Musk long said he graduated in 1995. Penn's records show the degrees were awarded in May 1997, after an outstanding credit issue was settled. And the Stanford PhD he \"left after two days\" has no enrollment record.",
     "body": [
-      "Musk has publicly described ketamine, prescribed, as a treatment for depression. There is no released medical evaluation that he is impaired at work. SpaceX continues to fly, Tesla continues to produce, xAI continues to ship. Stock-market arguments about “distraction” are not DSM criteria.",
-      "You can think the posting is a governance problem — Tesla directors have, at times, clearly thought that. You can think sleep deprivation and forum-posting at 3 a.m. are unwise. Translating that into “the CEO is on a binge and the rockets are unsupervised” is a story. Fly-along journalists, employees, and flight records have not produced the smoking-gun impairment file the meme needs."
+      "In 2019 the University of Pennsylvania stated in writing that Elon Musk earned a B.A. in physics and a B.S. in economics (Wharton), both awarded on May 19, 1997. Biographer Ashlee Vance verified the same dates with Penn's registrar. Penn's physics department lists him as an alumnus.",
+      "What critics get right: the date he used for years (1995) is two years early, and his account of the gap changed over time. Stanford says he was accepted to its materials science and engineering graduate program in 1995 but has no record that he enrolled. So \"PhD dropout\" is a stretch. \"No physics degree\" is simply false."
     ],
     "keyFacts": [
       {
-        "label": "His account",
-        "value": "Prescribed ketamine for depression"
+        "label": "Penn degrees",
+        "value": "B.A. physics, B.S. economics"
       },
       {
-        "label": "Public medical finding of unfitness",
-        "value": "None"
+        "label": "Awarded",
+        "value": "May 19, 1997 (not 1995)"
       },
       {
-        "label": "Fair complaint",
-        "value": "Erratic posting as a governance and brand risk"
+        "label": "Stanford",
+        "value": "Admitted in 1995, no enrollment record"
       }
     ],
     "sources": [
       {
-        "publisher": "Wikipedia (personal life)",
-        "title": "Elon Musk",
-        "url": "https://en.wikipedia.org/wiki/Elon_Musk"
+        "publisher": "Snopes",
+        "title": "Does Elon Musk Have an Undergraduate Degree in Physics?",
+        "url": "https://www.snopes.com/fact-check/musk-physics-degree/"
+      },
+      {
+        "publisher": "University of Pennsylvania (statement, 2019, via PlainSite)",
+        "title": "Email from Penn confirming Elon Musk's degrees",
+        "url": "https://www.plainsite.org/documents/tbdmox/2019-email-from-the-university-of-pennsylvania-confirming-elon-musks-physics-degree/"
+      },
+      {
+        "publisher": "The Stanford Daily",
+        "title": "Elon Musk's Stanford ties raise questions about legal status",
+        "url": "https://stanforddaily.com/2024/11/11/elon-musk-stanford-work-status/"
+      },
+      {
+        "publisher": "CNN",
+        "title": "Elon Musk denies Washington Post report that he worked illegally in the US",
+        "url": "https://www.cnn.com/2024/10/28/us/elon-musk-immigration-washington-post-cec"
       }
     ]
   }

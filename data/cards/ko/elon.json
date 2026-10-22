@@ -322,36 +322,51 @@
     ]
   },
   {
-    "id": "elon-unfit",
-    "slug": "unfit",
+    "id": "elon-degree",
+    "slug": "degree",
     "number": 10,
-    "verdict": "overstated",
-    "myth": "그는 케타민에 절어 회사를 운영할 정신적 적격이 없다.",
-    "headline": "우울증에 처방 케타민을 쓴다고 본인이 말했다. 그건 공개된 무능력 판정이 아니다. 온라인 진단 공장은 진료 차트가 아니다.",
-    "kernel": "업무 스타일은 극단적이고, 게시물은 종종 무모하며, 여러 이사회가 개인 브랜드의 비용을 흡수해야 했다. 그건 공정한 운영 불만이다.",
+    "verdict": "false",
+    "myth": "그는 물리학 학위조차 없다. 과학 경력은 지어낸 것이다.",
+    "headline": "펜실베이니아대가 확인했다: 물리학 학사(B.A.)와 경제학 학사(B.S.), 1997년 수여. 진짜 문제는 학위가 아니라 날짜와 스탠퍼드다.",
+    "kernel": "머스크는 오랫동안 1995년에 졸업했다고 말했다. 대학 기록에 따르면 학위는 미이수 학점 문제가 정리된 뒤 1997년 5월에 수여됐다. 그리고 그가 \"이틀 만에 그만뒀다\"는 스탠퍼드 박사과정에는 등록 기록이 없다.",
     "body": [
-      "머스크는 우울증 치료로 처방받은 케타민을 공개적으로 설명했다. 업무에서 손상됐다는 공개 의학 평가는 없다. SpaceX는 계속 날고, Tesla는 계속 만들고, xAI는 계속 내놓는다. “산만함”에 대한 주식시장 논쟁은 DSM 기준이 아니다.",
-      "게시물이 거버넌스 문제라고 생각할 수 있다. Tesla 이사들은 때로 분명히 그렇게 생각했다. 수면 부족과 새벽 3시 포럼 글이 현명하지 않다고 생각할 수 있다. 그걸 “CEO가 폭주 중이고 로켓은 무인 상태다”로 옮기는 것은 이야기이다. 동승 기자, 직원, 비행 기록은 밈이 필요로 하는 결정적 손상 파일을 만들어 내지 못했다."
+      "2019년 펜실베이니아대는 일론 머스크가 물리학 B.A.와 경제학 B.S.(와튼)를 받았으며, 두 학위 모두 1997년 5월 19일에 수여됐다고 서면으로 확인했다. 전기 작가 애슐리 반스도 대학 학적 담당 부서에서 같은 날짜를 확인했다. 펜실베이니아대 물리학과는 그를 동문으로 소개한다.",
+      "비판자들이 맞는 부분: 그가 수년간 써 온 연도(1995년)는 2년 이르고, 그 차이에 대한 설명도 시간이 지나며 바뀌었다. 스탠퍼드는 그가 1995년 재료과학·공학 대학원 과정에 합격했지만 등록한 기록은 없다고 밝혔다. 그러니 \"박사과정 중퇴\"는 과장이다. \"물리학 학위가 없다\"는 그냥 틀렸다."
     ],
     "keyFacts": [
       {
-        "label": "본인 설명",
-        "value": "우울증에 처방 케타민"
+        "label": "펜실베이니아대 학위",
+        "value": "물리학 B.A., 경제학 B.S."
       },
       {
-        "label": "공개된 부적격 의학 판정",
-        "value": "없음"
+        "label": "수여",
+        "value": "1997년 5월 19일(1995년 아님)"
       },
       {
-        "label": "공정한 불만",
-        "value": "변덕스러운 게시물이 거버넌스·브랜드 리스크"
+        "label": "스탠퍼드",
+        "value": "1995년 합격, 등록 기록 없음"
       }
     ],
     "sources": [
       {
-        "publisher": "Wikipedia (personal life)",
-        "title": "Elon Musk",
-        "url": "https://en.wikipedia.org/wiki/Elon_Musk"
+        "publisher": "Snopes",
+        "title": "Does Elon Musk Have an Undergraduate Degree in Physics?",
+        "url": "https://www.snopes.com/fact-check/musk-physics-degree/"
+      },
+      {
+        "publisher": "University of Pennsylvania (statement, 2019, via PlainSite)",
+        "title": "Email from Penn confirming Elon Musk's degrees",
+        "url": "https://www.plainsite.org/documents/tbdmox/2019-email-from-the-university-of-pennsylvania-confirming-elon-musks-physics-degree/"
+      },
+      {
+        "publisher": "The Stanford Daily",
+        "title": "Elon Musk's Stanford ties raise questions about legal status",
+        "url": "https://stanforddaily.com/2024/11/11/elon-musk-stanford-work-status/"
+      },
+      {
+        "publisher": "CNN",
+        "title": "Elon Musk denies Washington Post report that he worked illegally in the US",
+        "url": "https://www.cnn.com/2024/10/28/us/elon-musk-immigration-washington-post-cec"
       }
     ]
   }

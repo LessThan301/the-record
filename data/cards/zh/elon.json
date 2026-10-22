@@ -322,36 +322,51 @@
     ]
   },
   {
-    "id": "elon-unfit",
-    "slug": "unfit",
+    "id": "elon-degree",
+    "slug": "degree",
     "number": 10,
-    "verdict": "overstated",
-    "myth": "埃隆·马斯克嗑了氯胺酮，精神状态不适合管公司。",
-    "headline": "他说过用处方氯胺酮治疗抑郁。那不是一份公开的丧失行为能力认定。网上诊断作坊不是病历。",
-    "kernel": "工作方式极端，发帖常常莽撞，好几块董事会都得消化个人品牌的成本。这些是公允的运营批评。",
+    "verdict": "false",
+    "myth": "他连物理学位都没有。他的科学背景是编出来的。",
+    "headline": "宾夕法尼亚大学已确认：物理学文学学士和经济学理学学士，1997 年授予。真正的问题在于日期和斯坦福，而不是学位本身。",
+    "kernel": "马斯克多年来一直说自己 1995 年毕业。宾大的记录显示，学位是在一项未完成的学分问题解决后，于 1997 年 5 月授予的。而他“两天后就退学”的斯坦福博士项目，并没有任何注册记录。",
     "body": [
-      "马斯克公开说过，处方氯胺酮是治疗抑郁的手段。没有公布过的医学评估认定他在工作中受损。SpaceX 继续飞，Tesla 继续产，xAI 继续交付。关于“分心”的股市争论不是 DSM 标准。",
-      "你可以认为发帖是治理问题——Tesla 董事有时显然这么想。你可以认为睡眠剥夺和凌晨三点泡论坛不明智。把它翻译成“CEO 在狂嗨、火箭没人看管”，是故事。随行记者、员工和飞行记录，并没有拿出这个梗所需要的那份铁证受损档案。"
+      "2019 年，宾夕法尼亚大学书面确认，埃隆·马斯克获得了物理学文学学士和经济学理学学士（沃顿商学院），两个学位均于 1997 年 5 月 19 日授予。传记作者阿什利·万斯也向宾大教务处核实了相同日期。宾大物理系将他列为校友。",
+      "批评者说对的地方：他多年来使用的年份（1995 年）早了两年，而且他对这一差距的解释前后有变。斯坦福表示，他在 1995 年被材料科学与工程研究生项目录取，但没有任何他注册入学的记录。所以“博士辍学”言过其实，而“没有物理学位”则完全错误。"
     ],
     "keyFacts": [
       {
-        "label": "他的说法",
-        "value": "处方氯胺酮治疗抑郁"
+        "label": "宾大学位",
+        "value": "物理学文学学士、经济学理学学士"
       },
       {
-        "label": "公开的不适任医学认定",
-        "value": "无"
+        "label": "授予时间",
+        "value": "1997 年 5 月 19 日（不是 1995 年）"
       },
       {
-        "label": "公允的抱怨",
-        "value": "飘忽的发帖构成治理和品牌风险"
+        "label": "斯坦福",
+        "value": "1995 年被录取，无注册记录"
       }
     ],
     "sources": [
       {
-        "publisher": "Wikipedia (personal life)",
-        "title": "Elon Musk",
-        "url": "https://en.wikipedia.org/wiki/Elon_Musk"
+        "publisher": "Snopes",
+        "title": "Does Elon Musk Have an Undergraduate Degree in Physics?",
+        "url": "https://www.snopes.com/fact-check/musk-physics-degree/"
+      },
+      {
+        "publisher": "University of Pennsylvania (statement, 2019, via PlainSite)",
+        "title": "Email from Penn confirming Elon Musk's degrees",
+        "url": "https://www.plainsite.org/documents/tbdmox/2019-email-from-the-university-of-pennsylvania-confirming-elon-musks-physics-degree/"
+      },
+      {
+        "publisher": "The Stanford Daily",
+        "title": "Elon Musk's Stanford ties raise questions about legal status",
+        "url": "https://stanforddaily.com/2024/11/11/elon-musk-stanford-work-status/"
+      },
+      {
+        "publisher": "CNN",
+        "title": "Elon Musk denies Washington Post report that he worked illegally in the US",
+        "url": "https://www.cnn.com/2024/10/28/us/elon-musk-immigration-washington-post-cec"
       }
     ]
   }

@@ -377,46 +377,51 @@
     ]
   },
   {
-    "id": "elon-unfit",
-    "slug": "unfit",
+    "id": "elon-degree",
+    "slug": "degree",
     "number": 10,
-    "verdict": "overstated",
-    "myth": "Er ist ketaminbenebelt und geistig unfähig, Unternehmen zu führen.",
-    "headline": "Er hat gesagt, er nutze verschriebenes Ketamin gegen Depression. Das ist kein öffentlicher Befund der Geschäftsunfähigkeit. Die Online-Diagnosemühle ist keine Krankenakte.",
-    "kernel": "Der Arbeitsstil ist extrem, das Posten oft rücksichtslos, und mehrere Aufsichtsgremien mussten die Kosten der persönlichen Marke tragen. Das sind faire betriebliche Einwände.",
+    "verdict": "false",
+    "myth": "Er hat nicht einmal einen Physikabschluss. Seine wissenschaftlichen Titel sind erfunden.",
+    "headline": "Penn bestätigt es: ein B.A. in Physik und ein B.S. in Wirtschaft, verliehen 1997. Die echten Haken sind das Datum und Stanford, nicht der Abschluss.",
+    "kernel": "Musk sagte lange, er habe 1995 abgeschlossen. Laut Penn wurden die Abschlüsse im Mai 1997 verliehen, nachdem eine offene Leistungsfrage geklärt war. Und für das Stanford-Promotionsstudium, das er „nach zwei Tagen verließ“, gibt es keinen Einschreibungsnachweis.",
     "body": [
-      "Musk hat öffentlich Ketamin, verschrieben, als Behandlung gegen Depression beschrieben. Es gibt keine veröffentlichte medizinische Bewertung, er sei bei der Arbeit beeinträchtigt. SpaceX fliegt weiter, Tesla produziert weiter, xAI liefert weiter. Börsenargumente über „Ablenkung“ sind keine DSM-Kriterien.",
-      "Man kann das Posten für ein Governance-Problem halten — Tesla-Direktoren haben das zeitweise klar so gesehen. Man kann Schlafmangel und Forenposts um 3 Uhr nachts für unklug halten. Daraus „der CEO ist im Rausch und die Raketen sind unüberwacht“ zu machen, ist eine Geschichte. Mitreisende Journalisten, Mitarbeiter und Flugakten haben die belastende Beeinträchtigungsakte nicht geliefert, die das Meme braucht."
+      "2019 bestätigte die University of Pennsylvania schriftlich, dass Elon Musk einen B.A. in Physik und einen B.S. in Wirtschaft (Wharton) erworben hat, beide verliehen am 19. Mai 1997. Biograf Ashlee Vance prüfte dieselben Daten beim Prüfungsamt von Penn. Die Physikfakultät von Penn führt ihn als Alumnus.",
+      "Was Kritiker richtig sehen: Das Jahr, das er jahrelang nannte (1995), liegt zwei Jahre zu früh, und seine Erklärung für die Lücke hat sich verändert. Stanford sagt, er sei 1995 für das Masterprogramm Materials Science and Engineering zugelassen worden, es gebe aber keinen Nachweis, dass er sich eingeschrieben habe. „Promotionsabbrecher“ ist also übertrieben. „Kein Physikabschluss“ ist schlicht falsch."
     ],
     "keyFacts": [
       {
-        "label": "Seine Darstellung",
-        "value": "Verschriebenes Ketamin gegen Depression"
+        "label": "Abschlüsse von Penn",
+        "value": "B.A. Physik, B.S. Wirtschaft"
       },
       {
-        "label": "Öffentlicher medizinischer Unfähigkeitsbefund",
-        "value": "Keiner"
+        "label": "Verliehen",
+        "value": "19. Mai 1997 (nicht 1995)"
       },
       {
-        "label": "Fairer Einwand",
-        "value": "Erratisches Posten als Governance- und Markenrisiko"
+        "label": "Stanford",
+        "value": "1995 zugelassen, keine Einschreibung belegt"
       }
     ],
     "sources": [
       {
-        "publisher": "Der Spiegel",
-        "title": "Ketamin: Die Droge für Klub und Klinik (inkl. Musk)",
-        "url": "https://www.spiegel.de/kultur/ketamin-die-droge-fuer-klub-und-klinik-a-e7e08898-9fb1-487d-a8af-b5b4c78d5c20"
+        "publisher": "Snopes",
+        "title": "Does Elon Musk Have an Undergraduate Degree in Physics?",
+        "url": "https://www.snopes.com/fact-check/musk-physics-degree/"
       },
       {
-        "publisher": "Die Zeit",
-        "title": "Ketamin — Musk zum verschriebenen Gebrauch",
-        "url": "https://www.zeit.de/news/2025-06/12/ketamin-als-droge-haeufig-konsumiert-trotz-grosser-risiken"
+        "publisher": "University of Pennsylvania (statement, 2019, via PlainSite)",
+        "title": "Email from Penn confirming Elon Musk's degrees",
+        "url": "https://www.plainsite.org/documents/tbdmox/2019-email-from-the-university-of-pennsylvania-confirming-elon-musks-physics-degree/"
       },
       {
-        "publisher": "Wikipedia (personal life)",
-        "title": "Elon Musk",
-        "url": "https://en.wikipedia.org/wiki/Elon_Musk"
+        "publisher": "The Stanford Daily",
+        "title": "Elon Musk's Stanford ties raise questions about legal status",
+        "url": "https://stanforddaily.com/2024/11/11/elon-musk-stanford-work-status/"
+      },
+      {
+        "publisher": "CNN",
+        "title": "Elon Musk denies Washington Post report that he worked illegally in the US",
+        "url": "https://www.cnn.com/2024/10/28/us/elon-musk-immigration-washington-post-cec"
       }
     ]
   }
