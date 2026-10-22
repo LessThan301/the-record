@@ -21,11 +21,11 @@ export function backHTML(card, ctx) {
   const counter = ctx.counter ? `<div class="counter" data-id="${id}" hidden><p class="counter-q">${esc(u.believedQ)}</p><div class="counter-btns"><button type="button" class="btn small js-vote" data-v="1">${esc(u.yes)}</button><button type="button" class="btn small js-vote" data-v="0">${esc(u.no)}</button></div><p class="counter-result" aria-live="polite"></p></div>` : '';
   return `<div class="banner v-${esc(card.verdict)}"><span class="banner-label">${esc(u.verdict[card.verdict])}</span><span class="banner-hint">${esc(u.verdictHint[card.verdict])}</span></div>
 <div class="back-body">
-<p class="picked"><span class="picked-label">${esc(u.home.claimPicked)}</span> ${esc(card.myth)}</p>
+${ctx.compact ? "" : `<p class="picked"><span class="picked-label">${esc(u.home.claimPicked)}</span> ${esc(card.myth)}</p>`}
 <h3 class="headline" tabindex="-1">${esc(card.headline)}</h3>
 ${kernel}<div class="prose">${body}</div>${facts}${sources}
-${counter}
+${ctx.compact ? '' : `${counter}
 <div class="actions">${next}<button type="button" class="btn js-share" data-url="${esc(ctx.cardUrl)}">${esc(u.share)}</button><a class="btn ghost" href="${esc(ctx.imgUrl)}" download="the-record-${id}.png">${esc(u.shareImage)}</a></div>
-<p class="meta-links"><a href="${esc(correctionUrl(ctx.repo, card, ctx.absUrl || ctx.cardUrl))}" target="_blank" rel="noopener">${esc(u.suggestCorrection)}</a><span aria-hidden="true"> · </span><button type="button" class="linkish js-unflip">${esc(u.home.showMyth)}</button></p>
+<p class="meta-links"><a href="${esc(correctionUrl(ctx.repo, card, ctx.absUrl || ctx.cardUrl))}" target="_blank" rel="noopener">${esc(u.suggestCorrection)}</a><span aria-hidden="true"> · </span><button type="button" class="linkish js-unflip">${esc(u.home.showMyth)}</button></p>`}
 </div>`;
 }

@@ -84,7 +84,7 @@ function legend(u) {
 function front(l, t, c, { headingTag = 'h3', link = true } = {}) {
   const u = UI[l];
   const n = String(c.number).padStart(2, '0');
-  return `<div class="face front"><div class="front-top"><span class="kicker">${esc(u.categories[t].shortName)} · ${n}</span><span class="stamp" aria-hidden="true">${esc(u.home.mythStamp)}</span></div>
+  return `<div class="face front"><div class="front-top"><span class="kicker">${esc(u.categories[t].shortName)} · ${n}</span><span class="front-tools">${link ? `<button type="button" class="cmp-toggle js-compare" aria-pressed="false" data-label="${esc(u.compare)}" data-selected="${esc(u.compareSelected)}">${esc(u.compare)}</button>` : ''}<span class="stamp" aria-hidden="true">${esc(u.home.mythStamp)}</span></span></div>
 <${headingTag} class="claim" id="claim-${c.id}">${link ? `<a href="${url(l, cardPath(t, c))}">${esc(c.myth)}</a>` : esc(c.myth)}</${headingTag}>
 <button type="button" class="believe js-believe" aria-expanded="false" aria-controls="back-${c.id}" aria-describedby="claim-${c.id}">${esc(u.home.iBelieve)}<span class="believe-arrow" aria-hidden="true">↻</span></button></div>`;
 }
