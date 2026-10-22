@@ -13,7 +13,20 @@ sel?.addEventListener('change', () => { try { localStorage.setItem('the-record-l
 
 function toast(t) { const el = document.createElement('div'); el.className = 'toast'; el.setAttribute('role', 'status'); el.textContent = t; document.body.append(el); setTimeout(() => el.remove(), 2200); }
 
+// Only one card may be expanded. Collapse all others and keep `keep` at the same place on screen.
+function collapseOthers(keep) {
+  const before = keep.getBoundingClientRect().top;
+  document.querySelectorAll('.card.is-open, .card.is-current').forEach((c) => {
+    if (c === keep) return;
+    c.classList.remove('is-current');
+    if (c.classList.contains('is-open')) closeCard(c, false);
+  });
+  const delta = keep.getBoundingClientRect().top - before;
+  if (delta) window.scrollBy({ top: delta, behavior: 'instant' });
+}
+
 async function openCard(card) {
+  collapseOthers(card);
   const back = card.querySelector('.face.back');
   const btn = card.querySelector('.js-believe');
   if (!back.innerHTML.trim()) {
@@ -42,7 +55,7 @@ function closeCard(card, focus = true) {
 
 // Present a card's front as the current claim: full width, scrolled to the top, focus on the claim.
 function showFront(card) {
-  document.querySelectorAll('.card.is-current').forEach((c) => c.classList.remove('is-current'));
+  collapseOthers(card);
   card.classList.add('is-current');
   const claim = card.querySelector('.claim');
   card.scrollIntoView({ block: 'start', behavior: matchMedia('(prefers-reduced-motion: reduce)').matches ? 'auto' : 'instant' });
@@ -53,7 +66,7 @@ function showFront(card) {
 document.addEventListener('click', async (e) => {
   const b = e.target.closest('button, a'); if (!b) return;
   const card = b.closest('.card');
-  if (b.matches('.js-believe')) { document.querySelectorAll('.card.is-current').forEach((c) => c !== card && c.classList.remove('is-current')); document.querySelectorAll('.card.is-open').forEach((c) => c !== card && closeCard(c, false)); openCard(card); }
+  if (b.matches('.js-believe')) openCard(card);
   else if (b.matches('.js-unflip')) closeCard(card);
   else if (b.matches('.js-next')) {
     const all = [...document.querySelectorAll('.topic:not([hidden]) .card')];
