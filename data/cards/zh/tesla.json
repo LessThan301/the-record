@@ -6,35 +6,45 @@
     "verdict": "false",
     "myth": "Tesla 比汽油车更容易起火。",
     "headline": "按行驶里程计，Tesla 公布的起火率远低于美国车辆均值。电池火更少见——真烧起来也更难看。",
-    "kernel": "锂电包可能复燃，也更难扑灭。头条跟着不寻常的火走，而不是美国典型一年里那 196,000 起无聊的汽油车火灾。",
+    "kernel": "锂电池包可能复燃，也更难扑灭。头条追着罕见的火灾走，而不是美国典型一年里约 196,000 起普通车辆火灾（各种动力类型）。",
     "body": [
-      "Tesla 的车辆火灾安全数据（2012–2024）给出大约每 2.25亿 km 一起火。NFPA / 美国交通部对美国车辆总体的数字大约是每 2700万 km 一起。Tesla 指出，它的统计包含结构火灾、纵火和其他非车辆原因，而 NFPA 序列常常排除这些——这使对比对 Tesla 更苛刻。",
-      "其他电动车数据集（瑞典、挪威）方向相同：燃油车按车计起火更频繁。剩下那句诚实的话：电动车电池包起火对消防员是专项事故，可能耗时更长，在手机镜头里看起来像末日。频率并不是那些病毒帖所声称的那样。"
+      "Tesla 的车辆火灾数据（2012–2024）显示，大约每行驶 2.25亿 km 发生一起火灾。Tesla 只公布全球车队的这一数字，没有公布仅限美国的数字。对美国所有车辆，NFPA 和美国交通部的数据显示大约每 2700万 km 一起火灾，频率约为 8 倍。Tesla 和燃油车在全球按同样的设计制造，所以这个比例可以在不同市场之间套用。此外，Tesla 的统计还包括由建筑火灾、野火和纵火引起的火灾，而 NFPA 序列不计入这些，所以这一对比只会对 Tesla 更苛刻。",
+      "目前没有可靠的全球所有车辆火灾率，因此无法做全球对全球的比较。最具可比性的数据来自瑞典，由同一机构（MSB）统计每一起汽车火灾：2022 年，610,716 辆纯电动和插电混动车中有 23 辆起火（约 26,500 辆中 1 辆），而全部 498万辆汽车中约有 3,400 辆起火（约 1,500 辆中 1 辆）。MSB 只在电动车一侧排除纵火，所以真实差距要小一些。诚实的保留：电池包火灾对消防员来说是专业任务，可能持续更久，在手机镜头里看起来像末日。但频率并不像病毒式帖子说的那样。"
     ],
     "keyFacts": [
       {
-        "label": "Tesla（2012–2024）",
-        "value": "约每 2.25亿 km 一起火"
+        "label": "Tesla，全球（2012–2024）",
+        "value": "约每 2.25亿 km 一起火灾"
       },
       {
-        "label": "美国车辆（NFPA/DOT）",
-        "value": "约每 2700万 km 一起火"
+        "label": "美国所有车辆（NFPA/DOT）",
+        "value": "约每 2700万 km 一起火灾"
       },
       {
-        "label": "但书",
-        "value": "电池包火很顽固；频率仍偏向电动车"
+        "label": "瑞典 2022（MSB）",
+        "value": "纯电和插混：约 26,500 辆中 1 辆起火；全部汽车：约 1,500 辆中 1 辆"
       }
     ],
     "sources": [
       {
         "publisher": "Tesla",
-        "title": "Vehicle Fire Safety Report",
+        "title": "Vehicle Fire Data",
         "url": "https://www.tesla.com/VehicleFireSafetyReport"
       },
       {
         "publisher": "NFPA",
-        "title": "Vehicle fires",
+        "title": "Vehicle Fires",
         "url": "https://www.nfpa.org/education-and-research/research/nfpa-research/fire-statistical-reports/vehicle-fires"
+      },
+      {
+        "publisher": "MSB (Swedish Civil Contingencies Agency)",
+        "title": "Sammanställning av bränder i elfordon och eltransportmedel 2018–2024",
+        "url": "https://rib.msb.se/filer/pdf/29438.pdf"
+      },
+      {
+        "publisher": "Ny Teknik / TT",
+        "title": "MSB:s sammanställning: Elbilar brinner mer sällan än andra bilar",
+        "url": "https://www.nyteknik.se/elbilar/msbs-sammanstallning-elbilar-brinner-mer-sallan-an-andra-bilar/2053312"
       }
     ]
   },

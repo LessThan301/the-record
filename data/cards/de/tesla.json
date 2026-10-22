@@ -6,45 +6,45 @@
     "verdict": "false",
     "myth": "Teslas brennen häufiger als Benzinautos.",
     "headline": "Pro gefahrenem Kilometer veröffentlicht Tesla eine deutlich niedrigere Brandrate als der US-Fahrzeugdurchschnitt. Batteriebrände sind seltener — und hässlicher, wenn sie passieren.",
-    "kernel": "Ein Lithium-Pack kann neu entflammen und ist schwerer zu löschen. Schlagzeilen folgen dem ungewöhnlichen Brand, nicht den 196.000 langweiligen Benzinbränden in einem typischen US-Jahr.",
+    "kernel": "Ein Lithium-Akku kann sich erneut entzünden und ist schwerer zu löschen. Schlagzeilen folgen dem ungewöhnlichen Brand, nicht den rund 196.000 gewöhnlichen Fahrzeugbränden (alle Antriebsarten) in einem typischen US-Jahr.",
     "body": [
-      "Teslas Zahlen zur Fahrzeugbrandsicherheit (2012–2024) setzen ein Brandereignis auf etwa 225 Millionen km. NFPA-/U.S.-DOT-Zahlen für US-Fahrzeuge insgesamt liegen bei etwa einem Brand pro 27 Millionen km. Tesla merkt an, dass seine Zählung Gebäudebrände, Brandstiftung und andere Nicht-Fahrzeugursachen einschließt, die die NFPA-Reihe oft ausklammert — was den Vergleich konservativ gegen Tesla macht.",
-      "Andere EV-Datensätze (Schweden, Norwegen) zeigen dieselbe Richtung: Verbrenner brennen häufiger pro Fahrzeug. Der verbleibende ehrliche Satz: Ein EV-Pack-Brand ist ein Spezialfall für die Feuerwehr, kann länger dauern und sieht auf dem Handy apokalyptisch aus. Die Häufigkeit ist nicht das, was die viralen Posts behaupten."
+      "Teslas Branddaten (2012–2024) zeigen ein Brandereignis pro etwa 225 Millionen gefahrene km. Tesla veröffentlicht diese Zahl nur für seine weltweite Flotte; eine reine US-Zahl für Tesla gibt es nicht. Für alle US-Fahrzeuge zeigen Daten von NFPA und US-Verkehrsministerium etwa einen Brand pro 27 Millionen km, also rund 8-mal so oft. Teslas und Verbrenner werden weltweit nach denselben Konstruktionen gebaut, daher lässt sich das Verhältnis zwischen Märkten übertragen. Teslas Zählung enthält zudem Brände durch Gebäude, Waldbrände und Brandstiftung, die die NFPA-Reihe weglässt. Der Vergleich ist also eher streng gegenüber Tesla.",
+      "Eine verlässliche weltweite Brandrate für alle Fahrzeuge gibt es nicht, ein Vergleich weltweit gegen weltweit ist daher nicht möglich. Die beste vergleichbare Datenbasis kommt aus Schweden, wo eine Behörde (MSB) jeden Autobrand erfasst: 2022 brannten 23 von 610.716 Elektroautos und Plug-in-Hybriden (etwa 1 von 26.500), gegenüber rund 3.400 von allen 4,98 Mio. Autos (etwa 1 von 1.500). MSB lässt Brandstiftung nur bei den Elektroautos weg, der echte Abstand ist also etwas kleiner. Die ehrliche Einschränkung: Ein Akkubrand ist ein Spezialeinsatz für die Feuerwehr, kann länger dauern und sieht auf dem Handyvideo apokalyptisch aus. Die Häufigkeit ist nicht das, was die viralen Posts behaupten."
     ],
     "keyFacts": [
       {
-        "label": "Tesla (2012–2024)",
+        "label": "Tesla, weltweit (2012–2024)",
         "value": "~1 Brand pro 225 Millionen km"
       },
       {
-        "label": "US-Fahrzeuge (NFPA/DOT)",
+        "label": "Alle US-Fahrzeuge (NFPA/DOT)",
         "value": "~1 Brand pro 27 Millionen km"
       },
       {
-        "label": "Vorbehalt",
-        "value": "Pack-Brände sind hartnäckig; die Häufigkeit spricht trotzdem für E-Autos"
+        "label": "Schweden 2022 (MSB)",
+        "value": "E-Autos und Plug-in-Hybride: ~1 von 26.500 brannte; alle Autos: ~1 von 1.500"
       }
     ],
     "sources": [
       {
-        "publisher": "ADAC",
-        "title": "E-Auto brennt: So löscht die Feuerwehr",
-        "url": "https://www.adac.de/rund-ums-fahrzeug/elektromobilitaet/elektroauto/e-auto-loeschen/"
-      },
-      {
-        "publisher": "GDV",
-        "title": "Brennen E-Autos wirklich öfter? Zahlen und Fakten",
-        "url": "https://www.gdv.de/gdv/themen/mobilitaet/dossier-elektromobilitaet/e-autos-elektroauto-braende-statistik-182792"
-      },
-      {
         "publisher": "Tesla",
-        "title": "Vehicle Fire Safety Report",
+        "title": "Vehicle Fire Data",
         "url": "https://www.tesla.com/VehicleFireSafetyReport"
       },
       {
         "publisher": "NFPA",
-        "title": "Vehicle fires",
+        "title": "Vehicle Fires",
         "url": "https://www.nfpa.org/education-and-research/research/nfpa-research/fire-statistical-reports/vehicle-fires"
+      },
+      {
+        "publisher": "MSB (Swedish Civil Contingencies Agency)",
+        "title": "Sammanställning av bränder i elfordon och eltransportmedel 2018–2024",
+        "url": "https://rib.msb.se/filer/pdf/29438.pdf"
+      },
+      {
+        "publisher": "Ny Teknik / TT",
+        "title": "MSB:s sammanställning: Elbilar brinner mer sällan än andra bilar",
+        "url": "https://www.nyteknik.se/elbilar/msbs-sammanstallning-elbilar-brinner-mer-sallan-an-andra-bilar/2053312"
       }
     ]
   },

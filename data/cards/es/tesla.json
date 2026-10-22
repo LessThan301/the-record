@@ -6,40 +6,45 @@
     "verdict": "false",
     "myth": "Los Tesla se incendian más a menudo que los autos de gasolina.",
     "headline": "Por kilómetro, Tesla publica una tasa de incendios mucho más baja que la media de vehículos de EE. UU. Los incendios de batería son más raros — y más feos cuando ocurren.",
-    "kernel": "Un pack de litio puede reencenderse y es más difícil de apagar. Los titulares siguen el fuego inusual, no los 196.000 incendios aburridos de gasolina de un año típico en EE. UU.",
+    "kernel": "Una batería de litio puede reavivarse y es más difícil de apagar. Los titulares siguen el incendio insólito, no los cerca de 196.000 incendios de vehículos corrientes (todos los combustibles) de un año típico en EE. UU.",
     "body": [
-      "Las cifras de seguridad contra incendios de Tesla (2012–2024) sitúan un evento de fuego por cada 225 millones de km, aproximadamente. Las cifras de NFPA / U.S. DOT para el conjunto de vehículos de EE. UU. rondan un incendio por cada 27 millones de km. Tesla señala que su recuento incluye incendios de estructuras, incendios provocados y otras causas no vehiculares que la serie de la NFPA suele excluir, lo que hace la comparación conservadora contra Tesla.",
-      "Otros conjuntos de datos de EV (Suecia, Noruega) muestran la misma dirección: los autos de combustión se incendian más a menudo por vehículo. La frase honesta que queda: un incendio de pack EV es un incidente de especialistas para los bomberos, puede tardar más y se ve apocalíptico en la cámara de un teléfono. La frecuencia no es lo que dicen los posts virales."
+      "Los datos de incendios de Tesla (2012–2024) muestran un incendio por cada 225 millones de km recorridos, aproximadamente. Tesla publica esta cifra solo para su flota mundial; no existe una cifra de Tesla solo para EE. UU. Para todos los vehículos de EE. UU., los datos de la NFPA y del Departamento de Transporte muestran alrededor de un incendio por cada 27 millones de km, unas 8 veces más a menudo. Los Tesla y los coches de combustión se fabrican con los mismos diseños en todo el mundo, así que la proporción se traslada de un mercado a otro. Además, el recuento de Tesla incluye incendios causados por edificios, incendios forestales e intencionados, que la serie de la NFPA excluye, de modo que la comparación es, si acaso, dura con Tesla.",
+      "No existe una tasa mundial fiable de incendios para todos los vehículos, así que no es posible comparar mundo contra mundo. Los mejores datos comparables vienen de Suecia, donde una sola agencia (MSB) registra cada incendio de coche: en 2022 ardieron 23 de 610.716 coches eléctricos e híbridos enchufables (alrededor de 1 de cada 26.500), frente a unos 3.400 del total de 4,98 millones de coches (alrededor de 1 de cada 1.500). La MSB excluye los incendios intencionados solo en los eléctricos, así que la diferencia real es algo menor. La salvedad honesta: un incendio de batería es una intervención especializada para los bomberos, puede durar más y parece apocalíptico en la cámara de un móvil. La frecuencia no es la que afirman las publicaciones virales."
     ],
     "keyFacts": [
       {
-        "label": "Tesla (2012–2024)",
-        "value": "~1 incendio por 225 millones de km"
+        "label": "Tesla, mundial (2012–2024)",
+        "value": "~1 incendio por cada 225 millones de km"
       },
       {
-        "label": "Vehículos EE. UU. (NFPA/DOT)",
-        "value": "~1 incendio por 27 millones de km"
+        "label": "Todos los vehículos de EE. UU. (NFPA/DOT)",
+        "value": "~1 incendio por cada 27 millones de km"
       },
       {
-        "label": "Matiz",
-        "value": "Los incendios de pack son tozudos; la frecuencia aún favorece a los EV"
+        "label": "Suecia 2022 (MSB)",
+        "value": "Eléctricos e híbridos enchufables: ~1 de cada 26.500 ardió; todos los coches: ~1 de cada 1.500"
       }
     ],
     "sources": [
       {
-        "publisher": "OCU",
-        "title": "Bulos y noticias fake sobre coches eléctricos",
-        "url": "https://www.ocu.org/coches/coches/noticias/fake-news-coche-electrico"
-      },
-      {
         "publisher": "Tesla",
-        "title": "Vehicle Fire Safety Report",
+        "title": "Vehicle Fire Data",
         "url": "https://www.tesla.com/VehicleFireSafetyReport"
       },
       {
         "publisher": "NFPA",
-        "title": "Vehicle fires",
+        "title": "Vehicle Fires",
         "url": "https://www.nfpa.org/education-and-research/research/nfpa-research/fire-statistical-reports/vehicle-fires"
+      },
+      {
+        "publisher": "MSB (Swedish Civil Contingencies Agency)",
+        "title": "Sammanställning av bränder i elfordon och eltransportmedel 2018–2024",
+        "url": "https://rib.msb.se/filer/pdf/29438.pdf"
+      },
+      {
+        "publisher": "Ny Teknik / TT",
+        "title": "MSB:s sammanställning: Elbilar brinner mer sällan än andra bilar",
+        "url": "https://www.nyteknik.se/elbilar/msbs-sammanstallning-elbilar-brinner-mer-sallan-an-andra-bilar/2053312"
       }
     ]
   },

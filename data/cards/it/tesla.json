@@ -6,35 +6,45 @@
     "verdict": "false",
     "myth": "Le Tesla prendono fuoco più spesso delle auto a benzina.",
     "headline": "Per chilometro, Tesla pubblica un tasso di incendi molto più basso della media dei veicoli USA. Gli incendi delle batterie sono più rari — e più brutti quando succedono.",
-    "kernel": "Un pacco al litio può riaccendersi ed è più difficile da spegnere. I titoli seguono l'incendio insolito, non i 196.000 noiosi incendi a benzina di un anno USA tipico.",
+    "kernel": "Una batteria al litio può riaccendersi ed è più difficile da spegnere. I titoli seguono l'incendio insolito, non i circa 196.000 incendi di veicoli comuni (tutte le alimentazioni) di un anno tipico negli USA.",
     "body": [
-      "Le cifre Tesla sulla sicurezza antincendio dei veicoli (2012–2024) mettono un evento-incendio ogni circa 225 milioni di km. Le cifre NFPA / U.S. DOT per i veicoli USA nel complesso sono circa un incendio ogni 27 milioni di km. Tesla nota che il suo conteggio include incendi di strutture, atti dolosi e altre cause non veicolari che la serie NFPA spesso esclude — il che rende il confronto conservativo contro Tesla.",
-      "Altri dataset EV (Svezia, Norvegia) mostrano la stessa direzione: le auto a combustione prendono fuoco più spesso per veicolo. La frase onesta che resta: un incendio di pacco EV è un incidente da specialisti per i vigili del fuoco, può durare di più, e sul telefono sembra apocalittico. La frequenza non è quella che i post virali pretendono."
+      "I dati Tesla sugli incendi (2012–2024) indicano un incendio ogni circa 225 milioni di km percorsi. Tesla pubblica questo dato solo per la flotta mondiale; non esiste un dato Tesla relativo ai soli USA. Per tutti i veicoli statunitensi, i dati NFPA e del Dipartimento dei Trasporti USA indicano circa un incendio ogni 27 milioni di km, cioè circa 8 volte più spesso. Le Tesla e le auto a combustione sono costruite con gli stessi progetti in tutto il mondo, quindi il rapporto vale anche tra mercati diversi. Il conteggio Tesla include inoltre incendi causati da edifici, incendi boschivi e dolosi, che la serie NFPA esclude: il confronto è semmai severo con Tesla.",
+      "Non esiste un tasso mondiale affidabile di incendi per tutti i veicoli, quindi un confronto mondo contro mondo non è possibile. I dati più comparabili vengono dalla Svezia, dove un'unica agenzia (MSB) registra ogni incendio d'auto: nel 2022 hanno preso fuoco 23 auto elettriche e ibride plug-in su 610.716 (circa 1 su 26.500), contro circa 3.400 sul totale di 4,98 milioni di auto (circa 1 su 1.500). La MSB esclude gli incendi dolosi solo per le auto elettriche, quindi il divario reale è un po' più piccolo. La riserva onesta: un incendio della batteria è un intervento specialistico per i vigili del fuoco, può durare di più e sembra apocalittico ripreso col telefono. La frequenza non è quella sostenuta dai post virali."
     ],
     "keyFacts": [
       {
-        "label": "Tesla (2012–2024)",
+        "label": "Tesla, mondo (2012–2024)",
         "value": "~1 incendio ogni 225 milioni di km"
       },
       {
-        "label": "Veicoli USA (NFPA/DOT)",
+        "label": "Tutti i veicoli USA (NFPA/DOT)",
         "value": "~1 incendio ogni 27 milioni di km"
       },
       {
-        "label": "Caveat",
-        "value": "Gli incendi di pacco sono ostinati; la frequenza resta a favore degli EV"
+        "label": "Svezia 2022 (MSB)",
+        "value": "Elettriche e ibride plug-in: ~1 su 26.500 ha preso fuoco; tutte le auto: ~1 su 1.500"
       }
     ],
     "sources": [
       {
         "publisher": "Tesla",
-        "title": "Vehicle Fire Safety Report",
+        "title": "Vehicle Fire Data",
         "url": "https://www.tesla.com/VehicleFireSafetyReport"
       },
       {
         "publisher": "NFPA",
-        "title": "Vehicle fires",
+        "title": "Vehicle Fires",
         "url": "https://www.nfpa.org/education-and-research/research/nfpa-research/fire-statistical-reports/vehicle-fires"
+      },
+      {
+        "publisher": "MSB (Swedish Civil Contingencies Agency)",
+        "title": "Sammanställning av bränder i elfordon och eltransportmedel 2018–2024",
+        "url": "https://rib.msb.se/filer/pdf/29438.pdf"
+      },
+      {
+        "publisher": "Ny Teknik / TT",
+        "title": "MSB:s sammanställning: Elbilar brinner mer sällan än andra bilar",
+        "url": "https://www.nyteknik.se/elbilar/msbs-sammanstallning-elbilar-brinner-mer-sallan-an-andra-bilar/2053312"
       }
     ]
   },

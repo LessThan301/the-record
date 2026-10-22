@@ -6,45 +6,45 @@
     "verdict": "false",
     "myth": "Tesla는 가솔린 차보다 더 자주 불이 난다.",
     "headline": "km당 Tesla가 공개하는 화재율은 미국 차량 평균보다 훨씬 낮다. 배터리 화재는 더 드물다. 다만 일단 나면 더 격렬하다.",
-    "kernel": "리튬 팩은 재발화할 수 있고 끄기 더 어렵다. 헤드라인은 이상한 불을 따라가지, 전형적인 미국 한 해의 따분한 가솔린 화재 196,000건을 따라가지 않는다.",
+    "kernel": "리튬 배터리 팩은 다시 불이 붙을 수 있고 끄기도 더 어렵다. 헤드라인은 드문 화재를 따라가지, 전형적인 미국 한 해의 약 196,000건의 평범한 차량 화재(모든 연료 방식)를 따라가지 않는다.",
     "body": [
-      "Tesla의 차량 화재 안전 수치(2012–2024)는 약 2.25억 km당 화재 1건이다. NFPA / 미 교통부 미국 차량 전체 수치는 약 2700만 km당 1건이다. Tesla는 그 집계에 건물 화재, 방화, NFPA 시계열이 종종 빼는 기타 비차량 원인을 포함한다고 적는다. 비교가 Tesla에 불리하게 보수적이라는 뜻이다.",
-      "다른 EV 데이터셋(스웨덴, 노르웨이)도 같은 방향을 보여 준다. 내연 차가 대수당 더 자주 불이 난다. 남은 정직한 문장: EV 팩 화재는 소방관에게 특수 사고이고, 더 오래 걸리고, 폰 카메라에는 종말처럼 보인다. 빈도는 바이럴 글이 주장하는 것이 아니다."
+      "Tesla의 화재 데이터(2012–2024)에 따르면 주행 약 2.25억 km당 화재 1건이다. Tesla는 이 수치를 전 세계 차량 전체에 대해서만 공개하며, 미국만의 수치는 없다. 미국 전체 차량의 경우 NFPA와 미 교통부 자료로 약 2700만 km당 1건, 약 8배 잦다. Tesla와 내연기관차는 전 세계에서 같은 설계로 만들어지므로 이 비율은 시장이 달라도 유지된다. 또 Tesla 집계에는 건물 화재, 산불, 방화로 인한 화재가 포함되는데 NFPA 통계는 이를 뺀다. 그러니 이 비교는 오히려 Tesla에 엄격하다.",
+      "모든 차량에 대한 신뢰할 만한 전 세계 화재율은 없어서, 전 세계 대 전 세계 비교는 불가능하다. 가장 조건이 맞는 자료는 스웨덴의 것으로, 한 기관(MSB)이 모든 자동차 화재를 집계한다. 2022년 전기차와 플러그인 하이브리드 610,716대 중 23대가 불탔다(약 26,500대 중 1대). 전체 승용차 498만 대 중에서는 약 3,400대(약 1,500대 중 1대)였다. MSB는 방화를 전기차 쪽에서만 제외하므로 실제 격차는 조금 더 작다. 정직한 단서: 배터리 화재는 소방관에게 전문적인 작업이고, 더 오래 걸릴 수 있으며, 휴대폰 영상으로는 종말처럼 보인다. 하지만 빈도는 바이럴 게시물이 말하는 것과 다르다."
     ],
     "keyFacts": [
       {
-        "label": "Tesla (2012–2024)",
-        "value": "~2.25억 km당 화재 1건"
+        "label": "Tesla, 전 세계(2012–2024)",
+        "value": "약 2.25억 km당 화재 1건"
       },
       {
-        "label": "미국 차량 (NFPA/DOT)",
-        "value": "~2700만 km당 화재 1건"
+        "label": "미국 전체 차량(NFPA/DOT)",
+        "value": "약 2700만 km당 화재 1건"
       },
       {
-        "label": "단서",
-        "value": "팩 화재는 고집세다; 빈도는 여전히 EV에 유리"
+        "label": "스웨덴 2022(MSB)",
+        "value": "전기차·PHEV: 약 26,500대 중 1대 화재, 전체 승용차: 약 1,500대 중 1대"
       }
     ],
     "sources": [
       {
-        "publisher": "전기신문",
-        "title": "전기차는 안전하다: 오해로 시작된 화재 포비아",
-        "url": "https://www.electimes.com/news/articleView.html?idxno=342856"
-      },
-      {
-        "publisher": "KFPA",
-        "title": "전기차 화재위험에 대한 오해와 진실",
-        "url": "http://web.archive.org/web/20240709110836/https://www.kfpa.or.kr/webzine/202302/disaster1.html"
-      },
-      {
         "publisher": "Tesla",
-        "title": "Vehicle Fire Safety Report",
+        "title": "Vehicle Fire Data",
         "url": "https://www.tesla.com/VehicleFireSafetyReport"
       },
       {
         "publisher": "NFPA",
-        "title": "Vehicle fires",
+        "title": "Vehicle Fires",
         "url": "https://www.nfpa.org/education-and-research/research/nfpa-research/fire-statistical-reports/vehicle-fires"
+      },
+      {
+        "publisher": "MSB (Swedish Civil Contingencies Agency)",
+        "title": "Sammanställning av bränder i elfordon och eltransportmedel 2018–2024",
+        "url": "https://rib.msb.se/filer/pdf/29438.pdf"
+      },
+      {
+        "publisher": "Ny Teknik / TT",
+        "title": "MSB:s sammanställning: Elbilar brinner mer sällan än andra bilar",
+        "url": "https://www.nyteknik.se/elbilar/msbs-sammanstallning-elbilar-brinner-mer-sallan-an-andra-bilar/2053312"
       }
     ]
   },

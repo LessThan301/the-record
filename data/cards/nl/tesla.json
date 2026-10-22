@@ -6,35 +6,45 @@
     "verdict": "false",
     "myth": "Tesla’s vatten vaker vlam dan benzineauto’s.",
     "headline": "Per kilometer publiceert Tesla een veel lager brandcijfer dan het Amerikaanse voertuiggemiddelde. Batterijbranden zijn zeldzamer — en lelijker als ze gebeuren.",
-    "kernel": "Een lithiumpack kan opnieuw ontsteken en is lastiger te blussen. Koppen volgen de ongebruikelijke brand, niet de 196.000 saaie benzinebranden in een typisch Amerikaans jaar.",
+    "kernel": "Een lithiumaccu kan opnieuw ontbranden en is moeilijker te blussen. Koppen volgen de ongewone brand, niet de ongeveer 196.000 gewone voertuigbranden (alle brandstoffen) in een typisch Amerikaans jaar.",
     "body": [
-      "Tesla’s cijfers over voertuigbrandveiligheid (2012–2024) zetten één brandincident per ongeveer 225 miljoen km. NFPA-/U.S. DOT-cijfers voor Amerikaanse voertuigen in totaal liggen rond één brand per 27 miljoen km. Tesla merkt op dat zijn telling structuurbranden, brandstichting en andere niet-voertuigoorzaken omvat die de NFPA-reeks vaak uitsluit — wat de vergelijking conservatief maakt tégen Tesla.",
-      "Andere EV-datasets (Zweden, Noorwegen) wijzen dezelfde kant op: verbrandingsauto’s vatten vaker vlam per voertuig. De resterende eerlijke zin: een EV-packbrand is een specialistenincident voor brandweer, kan langer duren, en ziet er apocalyptisch uit op een telefooncamera. Frequentie is niet wat de virale posts beweren."
+      "Teslas branddata (2012–2024) tonen één brand per ongeveer 225 miljoen gereden km. Tesla publiceert dit cijfer alleen voor zijn wereldwijde vloot; een Tesla-cijfer voor alleen de VS bestaat niet. Voor alle Amerikaanse voertuigen tonen gegevens van de NFPA en het Amerikaanse ministerie van Transport ongeveer één brand per 27 miljoen km, zo'n 8 keer zo vaak. Tesla's en brandstofauto's worden wereldwijd volgens dezelfde ontwerpen gebouwd, dus de verhouding geldt ook tussen markten. Tesla telt bovendien branden mee die door gebouwen, natuurbranden en brandstichting komen, die de NFPA-reeks weglaat. De vergelijking is dus eerder streng voor Tesla.",
+      "Een betrouwbaar wereldwijd brandcijfer voor alle voertuigen bestaat niet, dus wereldwijd tegen wereldwijd vergelijken kan niet. De best vergelijkbare data komen uit Zweden, waar één instantie (MSB) elke autobrand registreert: in 2022 brandden 23 van de 610.716 elektrische auto's en plug-inhybrides (ongeveer 1 op 26.500), tegenover zo'n 3.400 van alle 4,98 miljoen auto's (ongeveer 1 op 1.500). MSB laat brandstichting alleen bij de elektrische auto's weg, dus het werkelijke verschil is iets kleiner. Het eerlijke voorbehoud: een accubrand is specialistisch werk voor de brandweer, kan langer duren en ziet er op een telefooncamera apocalyptisch uit. De frequentie is niet wat de virale posts beweren."
     ],
     "keyFacts": [
       {
-        "label": "Tesla (2012–2024)",
+        "label": "Tesla, wereldwijd (2012–2024)",
         "value": "~1 brand per 225 miljoen km"
       },
       {
-        "label": "Amerikaanse voertuigen (NFPA/DOT)",
+        "label": "Alle Amerikaanse voertuigen (NFPA/DOT)",
         "value": "~1 brand per 27 miljoen km"
       },
       {
-        "label": "Voorbehoud",
-        "value": "Packbranden zijn koppig; frequentie valt nog steeds uit naar EV’s"
+        "label": "Zweden 2022 (MSB)",
+        "value": "EV's en plug-inhybrides: ~1 op 26.500 brandde; alle auto's: ~1 op 1.500"
       }
     ],
     "sources": [
       {
         "publisher": "Tesla",
-        "title": "Vehicle Fire Safety Report",
+        "title": "Vehicle Fire Data",
         "url": "https://www.tesla.com/VehicleFireSafetyReport"
       },
       {
         "publisher": "NFPA",
-        "title": "Vehicle fires",
+        "title": "Vehicle Fires",
         "url": "https://www.nfpa.org/education-and-research/research/nfpa-research/fire-statistical-reports/vehicle-fires"
+      },
+      {
+        "publisher": "MSB (Swedish Civil Contingencies Agency)",
+        "title": "Sammanställning av bränder i elfordon och eltransportmedel 2018–2024",
+        "url": "https://rib.msb.se/filer/pdf/29438.pdf"
+      },
+      {
+        "publisher": "Ny Teknik / TT",
+        "title": "MSB:s sammanställning: Elbilar brinner mer sällan än andra bilar",
+        "url": "https://www.nyteknik.se/elbilar/msbs-sammanstallning-elbilar-brinner-mer-sallan-an-andra-bilar/2053312"
       }
     ]
   },

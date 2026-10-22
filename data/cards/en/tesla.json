@@ -6,35 +6,45 @@
     "verdict": "false",
     "myth": "Teslas catch fire more often than gasoline cars.",
     "headline": "Per distance driven, Tesla publishes a much lower fire rate than the U.S. vehicle average. Battery fires are rarer — and uglier when they happen.",
-    "kernel": "A lithium pack can re-ignite and is harder to put out. Headlines follow the unusual fire, not the 196,000 boring gasoline fires in a typical U.S. year.",
+    "kernel": "A lithium pack can re-ignite and is harder to put out. Headlines follow the unusual fire, not the roughly 196,000 ordinary vehicle fires (all fuel types) in a typical U.S. year.",
     "body": [
-      "Tesla’s vehicle fire safety figures (2012–2024) put one fire event per about 225 million km (140 million miles). NFPA / U.S. DOT figures for U.S. vehicles overall are about one fire per 27 million km (17 million miles). Tesla notes its count includes structure fires, arson, and other non-vehicle causes that the NFPA series often excludes — which makes the comparison conservative against Tesla.",
-      "Other EV datasets (Sweden, Norway) show the same direction: combustion cars fire more often per vehicle. The remaining honest sentence: an EV pack fire is a specialist incident for firefighters, can take longer, and looks apocalyptic on a phone camera. Frequency is not what the viral posts claim."
+      "Tesla’s vehicle fire data (2012–2024) shows one fire event per about 225 million km (140 million miles) driven. Tesla publishes this figure for its worldwide fleet only; there is no published U.S.-only Tesla figure. For all U.S. vehicles, NFPA and U.S. DOT data show about one fire per 27 million km (17 million miles), roughly 8 times as often. Teslas and combustion cars are built to the same designs worldwide, so the ratio carries over between markets. Tesla’s count also includes fires caused by buildings, wildfires and arson, which the NFPA series leaves out, so the comparison is, if anything, harsh on Tesla.",
+      "No reliable worldwide fire rate for all vehicles exists, so a worldwide-vs-worldwide comparison is not possible. The best like-for-like data comes from Sweden, where one agency (MSB) counts every car fire: in 2022, 23 of 610,716 electric and plug-in hybrid cars burned (about 1 in 26,500), against roughly 3,400 of all 4.98 million cars (about 1 in 1,500). MSB leaves arson out only for the electric cars, so the true gap is somewhat smaller. The honest caveat: an EV pack fire is a specialist job for firefighters, can take longer, and looks apocalyptic on a phone camera. Frequency is not what the viral posts claim."
     ],
     "keyFacts": [
       {
-        "label": "Tesla (2012–2024)",
+        "label": "Tesla, worldwide (2012–2024)",
         "value": "~1 fire per 225 million km (140 million miles)"
       },
       {
-        "label": "U.S. vehicles (NFPA/DOT)",
+        "label": "All U.S. vehicles (NFPA/DOT)",
         "value": "~1 fire per 27 million km (17 million miles)"
       },
       {
-        "label": "Caveat",
-        "value": "Pack fires are stubborn; frequency still favors EVs"
+        "label": "Sweden 2022 (MSB)",
+        "value": "EVs and plug-in hybrids: ~1 in 26,500 burned; all cars: ~1 in 1,500"
       }
     ],
     "sources": [
       {
         "publisher": "Tesla",
-        "title": "Vehicle Fire Safety Report",
+        "title": "Vehicle Fire Data",
         "url": "https://www.tesla.com/VehicleFireSafetyReport"
       },
       {
         "publisher": "NFPA",
-        "title": "Vehicle fires",
+        "title": "Vehicle Fires",
         "url": "https://www.nfpa.org/education-and-research/research/nfpa-research/fire-statistical-reports/vehicle-fires"
+      },
+      {
+        "publisher": "MSB (Swedish Civil Contingencies Agency)",
+        "title": "Sammanställning av bränder i elfordon och eltransportmedel 2018–2024",
+        "url": "https://rib.msb.se/filer/pdf/29438.pdf"
+      },
+      {
+        "publisher": "Ny Teknik / TT",
+        "title": "MSB:s sammanställning: Elbilar brinner mer sällan än andra bilar",
+        "url": "https://www.nyteknik.se/elbilar/msbs-sammanstallning-elbilar-brinner-mer-sallan-an-andra-bilar/2053312"
       }
     ]
   },
