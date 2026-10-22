@@ -7,9 +7,6 @@ export function correctionUrl(repo, card, url) {
   return `https://github.com/${repo}/issues/new?${q}`;
 }
 
-export function fmtDate(iso, lang) {
-  try { return new Intl.DateTimeFormat(lang, { dateStyle: 'long', timeZone: 'UTC' }).format(new Date(iso + 'T12:00:00Z')); } catch { return iso; }
-}
 
 /** ctx: { lang, ui, cardUrl, imgUrl, repo, nextUrl (card page) | null (home), counter: bool } */
 export function backHTML(card, ctx) {
@@ -27,7 +24,6 @@ export function backHTML(card, ctx) {
 <p class="picked"><span class="picked-label">${esc(u.home.claimPicked)}</span> ${esc(card.myth)}</p>
 <h3 class="headline" tabindex="-1">${esc(card.headline)}</h3>
 ${kernel}<div class="prose">${body}</div>${facts}${sources}
-<p class="checked">${esc(u.lastChecked)}: <time datetime="${esc(card.lastChecked)}">${esc(fmtDate(card.lastChecked, ctx.lang))}</time></p>
 ${counter}
 <div class="actions">${next}<button type="button" class="btn js-share" data-url="${esc(ctx.cardUrl)}">${esc(u.share)}</button><a class="btn ghost" href="${esc(ctx.imgUrl)}" download="the-record-${id}.png">${esc(u.shareImage)}</a></div>
 <p class="meta-links"><a href="${esc(correctionUrl(ctx.repo, card, ctx.absUrl || ctx.cardUrl))}" target="_blank" rel="noopener">${esc(u.suggestCorrection)}</a><span aria-hidden="true"> · </span><button type="button" class="linkish js-unflip">${esc(u.home.showMyth)}</button></p>

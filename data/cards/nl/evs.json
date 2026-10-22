@@ -4,7 +4,6 @@
     "slug": "power-plants",
     "number": 1,
     "verdict": "false",
-    "lastChecked": "2026-08-22",
     "myth": "EV’s zijn slechter voor het klimaat omdat ze de schoorsteen alleen naar de centrale verplaatsen.",
     "headline": "Zelfs op een vuil net klopt een typische EV een typische benzineauto over zijn leven. Rendement is de truc: het merendeel van de benzine die je verbrandt, bereikt de wielen nooit.",
     "kernel": null,
@@ -44,18 +43,17 @@
     "slug": "battery-manufacturing",
     "number": 2,
     "verdict": "false",
-    "lastChecked": "2026-08-22",
     "myth": "Batterijproductie is zo vuil dat de EV zijn koolstofschuld nooit terugbetaalt.",
     "headline": "Productie is zwaarder aan de voorkant. Terugverdienen duurt doorgaans een paar jaar rijden, geen leven.",
     "kernel": "Een pack met grote actieradius stoot in de fabriek inderdaad meer uit dan een hatchback van staal en benzine. Dat deel van de slide is niet nep. De truc is de video stoppen voordat de auto wordt gereden.",
     "body": [
-      "Argonne GREET, ICCT en de herberekeningen van Carbon Brief van fabrikantenclaims zetten koolstofterugverdienen in de orde van 10–20 duizend mijl in Europa — vaak onder de twee jaar voor een normale rijder. Voorbeelden van Tesla Model Y-klasse in het VK zijn geschat rond de 13.000 mijl. Zelfs cijfers van Volvo en VW, als je de duim van de weegschaal haalt, vragen geen 70.000 mijl boete.",
+      "Argonne GREET, ICCT en de herberekeningen van Carbon Brief van fabrikantenclaims zetten koolstofterugverdienen in de orde van 16.000–32.000 km in Europa — vaak onder de twee jaar voor een normale rijder. Voorbeelden van Tesla Model Y-klasse in het VK zijn geschat rond de 21.000 km. Zelfs cijfers van Volvo en VW, als je de duim van de weegschaal haalt, vragen geen 110.000 km boete.",
       "Recycling en schonere celfabrieken krimpen de schuld verder. De eerlijke rest: koop het kleinste pack dat bij je leven past, houd de auto lang, en let op waar de cellen zijn gebakken. „Betaalt nooit terug” is een Facebook-deelbericht uit 2019 dat GREET niet overleefde."
     ],
     "keyFacts": [
       {
         "label": "Terugverdienen (Europa, typisch)",
-        "value": "~11k–20k mijl, vaak <2 jaar"
+        "value": "~18.000–32.000 km, vaak <2 jaar"
       },
       {
         "label": "Methode",
@@ -84,7 +82,6 @@
     "slug": "batteries-fail",
     "number": 3,
     "verdict": "false",
-    "lastChecked": "2026-08-22",
     "myth": "EV-batterijen falen na een paar jaar en worden dan giftig stort.",
     "headline": "Vervangingen wegens falen zijn zeldzaam. De meeste packs overleven de auto. Dode packs zijn waardevol schroot, geen nieuw Love Canal.",
     "kernel": null,
@@ -124,7 +121,6 @@
     "slug": "grid-collapse",
     "number": 4,
     "verdict": "false",
-    "lastChecked": "2026-08-22",
     "myth": "Het net stort in als we allemaal elektrisch rijden.",
     "headline": "Nationale netten kunnen EV’s absorberen, vooral met nachtladen. Lokale transformatoren zijn de volwassen bottleneck.",
     "kernel": "Een straat vol 11 kW-wallboxen op een voeding uit de jaren zeventig is een echte hoofdpijn voor het nutsbedrijf. Dat is een wijkupgrade, niet de dood van elektrificatie.",
@@ -159,12 +155,11 @@
     "slug": "nowhere-charge",
     "number": 5,
     "verdict": "overstated",
-    "lastChecked": "2026-08-22",
     "myth": "Er is nergens te laden. EV’s werken alleen als je een huis in Palo Alto hebt.",
     "headline": "Thuis (of op het werk) laden is het product. Publieke netwerken groeiden snel en zijn op de verkeerde plekken nog gatenkaas — vooral in appartementstraten.",
     "kernel": "Als je in een dichte Europese stad aan de straat parkeert zonder gedeelde box, is de auto een slechter apparaat. Dat is een planningsfalen, geen bewijs dat elektronen niet door een kabel kunnen.",
     "body": [
-      "De meeste EV-kilometers in Noorwegen, Californië en Duitsland worden niet gewonnen bij een snelwegplein. Ze worden gewonnen op een box van 7–11 kW ’s nachts. EPA merkt op dat de meerderheid van de dagelijkse Amerikaanse ritten kort is; 98% van de ritten is ≤75 mijl. Publieke DC-snelnetwerken zijn vermenigvuldigd (Amerikaans NEVI-geld, EU-AFIR-regels). Betrouwbaarheid van sommige netwerken is nog een meme, en terecht.",
+      "De meeste EV-kilometers in Noorwegen, Californië en Duitsland worden niet gewonnen bij een snelwegplein. Ze worden gewonnen op een box van 7–11 kW ’s nachts. EPA merkt op dat de meerderheid van de dagelijkse Amerikaanse ritten kort is; 98% van de ritten is ≤120 km. Publieke DC-snelnetwerken zijn vermenigvuldigd (Amerikaans NEVI-geld, EU-AFIR-regels). Betrouwbaarheid van sommige netwerken is nog een meme, en terecht.",
       "De resterende harde gevallen: huurders, bewoners van woontorens, mensen zonder eigen parkeerplaats. Beleid dwingt in de EU langzaam „recht op een stopcontact”-regels af. Totdat dat saaie infrastructuur is, hebben die bestuurders gelijk om te aarzelen. Zij zijn niet hetzelfde als „er zijn geen laders.”"
     ],
     "keyFacts": [
@@ -174,7 +169,7 @@
       },
       {
         "label": "Dagelijkse ritten (VS)",
-        "value": "73% ≤10 mijl; 98% ≤75 mijl (NHTS)"
+        "value": "73% ≤16 km; 98% ≤120 km (NHTS)"
       },
       {
         "label": "Moeilijke modus",
@@ -194,18 +189,17 @@
     "slug": "range",
     "number": 6,
     "verdict": "false",
-    "lastChecked": "2026-08-22",
     "myth": "EV’s hebben niet genoeg actieradius voor het echte leven.",
     "headline": "Moderne volume-EV’s halen 300–500+ km WLTP. Het echte leven is een woon-werkrit, geen filmopname dwars door Texas.",
     "kernel": null,
     "body": [
-      "EPA: de meeste nieuwe modellen zitten boven de 200 mijl gewaardeerd; de Amerikaanse verdeling van dagelijks verkeer maakt dat overschot, geen schaarste. Europese WLTP-cijfers voor Model Y, de ID.-familie, Hyundai/Kia en Chinese import zitten in dezelfde band waarin mensen al leven met een diesel die ze uit gewoonte tanken, niet uit nood.",
+      "EPA (VS): de meeste nieuwe modellen zitten boven de 320 km gewaardeerd; de Amerikaanse verdeling van dagelijks verkeer maakt dat overschot, geen schaarste. Europese WLTP-cijfers voor Model Y, de ID.-familie, Hyundai/Kia en Chinese import zitten in dezelfde band waarin mensen al leven met een diesel die ze uit gewoonte tanken, niet uit nood.",
       "Actieradiusangst is een probleem van de jaarlijkse vakantie plus een winterprobleem (volgende kaart). Het is geen dinsdagprobleem voor de mediane bestuurder. Als je leven 800 km Autobahn in een sneeuwstorm met een skibox is, weet je al dat je een speciaal geval bent — plan het, of houd die week een lange-afstands-ICE. Schrijf geen natuurwet van het speciale geval."
     ],
     "keyFacts": [
       {
         "label": "Actieradius nieuwe auto",
-        "value": "Doorgaans 200+ mijl EPA / 300–500 km WLTP"
+        "value": "Doorgaans 320+ km EPA / 300–500 km WLTP"
       },
       {
         "label": "Dagelijkse behoefte",
@@ -229,7 +223,6 @@
     "slug": "cold",
     "number": 7,
     "verdict": "misleading",
-    "lastChecked": "2026-08-22",
     "myth": "EV’s werken niet in de kou. De winter bewijst dat het idee dood is.",
     "headline": "Actieradius daalt — vaak 20–40% in de nare weken. De auto’s starten nog. Noorwegen heeft al gestemd.",
     "kernel": "Cabineverwarming komt uit de batterij, niet uit motorafval. Chemie wordt traag. Beide zijn natuurkunde. „Werkt niet” is een categoriefout.",
@@ -269,7 +262,6 @@
     "slug": "lithium",
     "number": 8,
     "verdict": "false",
-    "lastChecked": "2026-08-22",
     "myth": "Er is niet genoeg lithium (of koper, of zeldzame aardmetalen) zodat iedereen elektrisch kan rijden.",
     "headline": "Geologische voorraden overtreffen de vraagramingen. Prijsseinen ontgrendelen mijnen en recycling. Flessenhalzen zijn vergunningen en tijd, geen ontbrekend element.",
     "kernel": null,
@@ -304,7 +296,6 @@
     "slug": "heavy-dangerous",
     "number": 9,
     "verdict": "overstated",
-    "lastChecked": "2026-08-22",
     "myth": "EV’s zijn zo zwaar dat ze dodelijke vallen zijn voor iedereen anders en de wegen kapotmaken.",
     "headline": "Ze zijn zwaarder. Crashtestscores zijn doorgaans uitstekend. Slijtage van het wegdek en de fysica van de voetganger zijn de delen die niet niks zijn.",
     "kernel": "Massa is energie in een crash met een kleine auto of een mens. Regeneratief remmen snijdt remsstof; extra gewicht kan bandenslijtage toevoegen. Netto luchtkwaliteit is nog meestal beter omdat er geen uitlaat is.",
@@ -344,7 +335,6 @@
     "slug": "hybrids-better",
     "number": 10,
     "verdict": "misleading",
-    "lastChecked": "2026-08-22",
     "myth": "Hybrides zijn strikt beter. Batterij-elektrisch is een doodlopende weg.",
     "headline": "Hybrides zijn een goede brug, vooral voor weinigrijders zonder stekker. Op de levenscyclus winnen ze niet zodra het net ook maar matig schoon is.",
     "kernel": "Als je 6.000 km per jaar rijdt, aan de straat parkeert, en je stroom is vuil, kan een kleine hybride de rationele auto zijn. Dat is een niche, geen weerlegging van de categorie.",

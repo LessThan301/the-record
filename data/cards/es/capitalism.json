@@ -4,27 +4,26 @@
     "slug": "poverty",
     "number": 1,
     "verdict": "false",
-    "lastChecked": "2026-08-22",
     "myth": "El capitalismo mantiene pobres a los pobres. Las economías de mercado empeoran la pobreza.",
     "headline": "La pobreza extrema se desplomó en la era del comercio, la propiedad y el crecimiento — no a pesar de ellos.",
     "kernel": "Cientos de millones siguen siendo extremadamente pobres, y el progreso se ha ralentizado desde el COVID, sobre todo en Estados frágiles. Eso es una razón para querer más crecimiento, no una razón para llamar fracaso a los últimos 40 años.",
     "body": [
-      "Our World in Data, con encuestas de hogares del Banco Mundial, registra unos 2.310 millones de personas con menos de 3 dólares al día en 1990. En 2025 esa cifra ronda los 808 millones: más de 1.500 millones menos, del orden de 100.000 personas al día a lo largo de una generación. La línea de 2,15 dólares del Banco Mundial cuenta la misma historia: más o menos el 8,5% de la humanidad, frente a una mayoría en 1950 y cerca del 38% tan recientemente como 1990.",
+      "Our World in Data, con encuestas de hogares del Banco Mundial, registra unos 2.310 millones de personas con menos de 3 dólares al día en 1990. En 2025 esa cifra ronda los 808 millones: más de 1.500 millones menos, del orden de 100.000 personas al día a lo largo de una generación. La línea de 2,15 dólares del Banco Mundial cuenta la misma historia: más o menos el 8,5 % de la humanidad, frente a una mayoría en 1950 y cerca del 38 % tan recientemente como 1990.",
       "La caída no es un misterioso evento benéfico. Se concentra donde los países se abrieron al comercio, dejaron que agricultores y empresas se quedaran con lo que producían y se enchufaron a las cadenas de suministro globales: China después de 1978, India después de 1991, Vietnam, Bangladés, buena parte de Asia Oriental. Las economías de mando que mantuvieron ilegales los mercados no entregaron una huida comparable.",
       "Una economía de mercado no es la promesa de que cada región se mueva a la misma velocidad. La cuota del África subsahariana en pobreza extrema cayó incluso cuando el recuento subió con la población. Eso es un problema de política y productividad dentro de sistemas de mercado, no una prueba de que los mercados causen pobreza."
     ],
     "keyFacts": [
       {
-        "label": "1990, $3/día",
-        "value": "2.31 billion people"
+        "label": "1990, 3 US$/día",
+        "value": "2.310 millones de personas"
       },
       {
-        "label": "2025, $3/día",
-        "value": "~808 million"
+        "label": "2025, 3 US$/día",
+        "value": "~808 millones"
       },
       {
         "label": "Desde 1950",
-        "value": "~60% de la humanidad → ~10%"
+        "value": "~60 % de la humanidad → ~10 %"
       }
     ],
     "sources": [
@@ -50,7 +49,6 @@
     "slug": "zero-sum",
     "number": 2,
     "verdict": "false",
-    "lastChecked": "2026-08-22",
     "myth": "La economía es de suma cero. Los ricos solo se hacen ricos empobreciendo a todos los demás.",
     "headline": "El pastel creció. Ese es todo el sentido de una economía de mercado.",
     "kernel": "Algunas ganancias son posicionales, y algunas fortunas son de amiguete. Ninguno de los dos hechos convierte un mundo que crece en una mesa de póker cerrada.",
@@ -91,7 +89,6 @@
     "slug": "nordic",
     "number": 3,
     "verdict": "false",
-    "lastChecked": "2026-08-22",
     "myth": "Los países nórdicos demuestran que el socialismo funciona, y que el capitalismo es el sistema inferior.",
     "headline": "Dinamarca y Noruega son economías de mercado capitalistas con un Estado de bienestar grande encima.",
     "kernel": "Gravan mucho y gastan mucho en servicios. Eso no es propiedad pública de los medios de producción, y lo financia la empresa privada que opera en mercados abiertos.",
@@ -137,7 +134,6 @@
     "slug": "planning",
     "number": 4,
     "verdict": "false",
-    "lastChecked": "2026-08-22",
     "myth": "Una economía planificada entrega mejores niveles de vida que una economía de mercado.",
     "headline": "Los países partidos son el experimento. Los mercados ganaron, una y otra vez.",
     "kernel": "Los gobiernos pueden planificar carreteras, vacunas y producción de guerra. No pueden sustituir a los precios como la forma en que toda una economía decide qué fabricar.",
@@ -183,7 +179,6 @@
     "slug": "inequality",
     "number": 5,
     "verdict": "misleading",
-    "lastChecked": "2026-08-22",
     "myth": "La desigualdad creciente demuestra que el capitalismo es un sistema fallido.",
     "headline": "La desigualdad global entre países ha caído a medida que crecieron los países pobres. La pobreza es la mejor prueba.",
     "kernel": "Dentro de algunos países ricos, la cúspide se ha alejado. Eso es un hecho político real. No es lo mismo que «el sistema empobrece a los pobres».",
@@ -224,7 +219,6 @@
     "slug": "exploit",
     "number": 6,
     "verdict": "misleading",
-    "lastChecked": "2026-08-22",
     "myth": "El capitalismo exige explotar a los trabajadores. Los talleres de explotación demuestran que el sistema es extractivo.",
     "headline": "La gente toma el trabajo de fábrica porque la alternativa es peor. Luego los salarios suben con la productividad.",
     "kernel": "Las condiciones industriales tempranas suelen ser duras. Eso es una razón para el crecimiento y las opciones de salida, no una razón para prohibir la escalera.",
@@ -265,12 +259,11 @@
     "slug": "climate",
     "number": 7,
     "verdict": "overstated",
-    "lastChecked": "2026-08-22",
     "myth": "El capitalismo va a cocinar el planeta. Una economía de mercado no puede recortar emisiones.",
     "headline": "Las economías de mercado ricas han empezado a desacoplar el PIB del CO₂. El problema que queda es global y político.",
     "kernel": "Las emisiones globales siguen siendo demasiado altas. El desacople en la UE y EE. UU. no es una política climática terminada. Es evidencia de que crecimiento y emisiones a la baja pueden coexistir.",
     "body": [
-      "La IEA: desde 1990 la economía de EE. UU. se duplicó más o menos mientras el CO₂ volvió a cerca del nivel de 1990. La economía de la UE es del orden de dos tercios más grande con emisiones un 30% más bajas. Our World in Data documenta el desacople basado en consumo en una larga lista de países ricos: no solo un truco de deslocalizar la chimenea.",
+      "La IEA: desde 1990 la economía de EE. UU. se duplicó más o menos mientras el CO₂ volvió a cerca del nivel de 1990. La economía de la UE es del orden de dos tercios más grande con emisiones un 30 % más bajas. Our World in Data documenta el desacople basado en consumo en una larga lista de países ricos: no solo un truco de deslocalizar la chimenea.",
       "Una lectura de 2025 del ECIU del Global Carbon Budget halló que países que representan la mayor parte del PIB mundial se expandían mientras el carbono basado en consumo caía o se aplanaba. Eso es lo que hace una economía de mercado cuando el carbono tiene un precio, el carbón se encarece y las empresas venden bombas de calor y reactores: sustituye.",
       "El modo de fallo es el carbono sin precio, no «tener mercados». Las economías de mando (metano soviético, deforestación maoísta, lignito de Alemania Oriental) no eran verdes. Si se quieren recortes más rápidos, grávase la externalidad y que los precios reasignen. Abolir la economía de mercado quita la máquina que inventa los sustitutos."
     ],
@@ -281,7 +274,7 @@
       },
       {
         "label": "UE desde 1990",
-        "value": "PIB ~+66%; CO₂ ~−30%"
+        "value": "PIB ~+66 %; CO₂ ~−30 %"
       },
       {
         "label": "Herramienta",
@@ -311,7 +304,6 @@
     "slug": "billionaires",
     "number": 8,
     "verdict": "misleading",
-    "lastChecked": "2026-08-22",
     "myth": "Si existen milmillonarios, robaron el dinero. Una economía de mercado justa no los produciría.",
     "headline": "La mayoría de las grandes fortunas estadounidenses son capital en empresas que escalaron un producto. El amiguismo es la excepción a vigilar, no la regla a abolir.",
     "kernel": "Algunos milmillonarios son granjeros de subsidios o herederos de monopolio. Nómbralos. No pretendas que cada residual de fundador es un robo a un oficinista.",
@@ -352,7 +344,6 @@
     "slug": "war",
     "number": 9,
     "verdict": "false",
-    "lastChecked": "2026-08-22",
     "myth": "El capitalismo causa la guerra. Los mercados necesitan sangre para crecer.",
     "headline": "Las democracias de mercado rara vez se pelean entre sí. La matanza industrial del siglo XX no fue una junta de accionistas.",
     "kernel": "Los Estados van a la guerra por territorio, miedo y gloria bajo cualquier régimen de propiedad. Las compañías coloniales hicieron cosas feas. Eso no es una ley única del capitalismo.",
@@ -393,7 +384,6 @@
     "slug": "public-goods",
     "number": 10,
     "verdict": "overstated",
-    "lastChecked": "2026-08-22",
     "myth": "Los mercados no pueden proveer sanidad, escuelas ni una red de seguridad, así que el capitalismo es el sistema equivocado.",
     "headline": "Una economía de mercado es cómo te haces lo bastante rico para comprar bienes públicos. No es una prohibición de ellos.",
     "kernel": "Los bienes públicos puros y los mercados de seguros fallan de modos de manual. Eso justifica algo de gobierno. No justifica sustituir a los precios como valor por defecto del resto de la economía.",

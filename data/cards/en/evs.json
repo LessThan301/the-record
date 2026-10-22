@@ -4,7 +4,6 @@
     "slug": "power-plants",
     "number": 1,
     "verdict": "false",
-    "lastChecked": "2026-08-22",
     "myth": "EVs are worse for the climate because they just move the smokestack to the power plant.",
     "headline": "Even on a dirty grid, a typical EV beats a typical gasoline car over its life. Efficiency is the cheat code: most of the gasoline you burn never reaches the wheels.",
     "kernel": null,
@@ -44,18 +43,17 @@
     "slug": "battery-manufacturing",
     "number": 2,
     "verdict": "false",
-    "lastChecked": "2026-08-22",
     "myth": "Battery manufacturing is so dirty the EV never pays back its carbon debt.",
     "headline": "Manufacturing is heavier up front. Payback is typically a couple of years of driving, not a lifetime.",
     "kernel": "A long-range pack does emit more in the factory than a steel-and-petrol hatch. That part of the slide is not fake. The trick is stopping the video before the car is driven.",
     "body": [
-      "Argonne GREET, ICCT, and Carbon Brief’s re-runs of manufacturer claims put carbon payback on the order of 10–20 thousand miles in Europe — often under two years for a normal driver. Tesla Model Y-class examples in the UK have been estimated around 13,000 miles. Even Volvo and VW figures, once you unwind the thumb on the scale, do not require 70,000 miles of penance.",
+      "Argonne GREET, ICCT, and Carbon Brief’s re-runs of manufacturer claims put carbon payback on the order of 16,000–32,000 km (10–20 thousand miles) in Europe — often under two years for a normal driver. Tesla Model Y-class examples in the UK have been estimated around 21,000 km (13,000 miles). Even Volvo and VW figures, once you unwind the thumb on the scale, do not require 110,000 km (70,000 miles) of penance.",
       "Recycling and cleaner cell plants shrink the debt further. The honest remainder: buy the smallest pack that fits your life, keep the car a long time, and care where the cells were cooked. “Never pays back” is a 2019 Facebook share that did not survive GREET."
     ],
     "keyFacts": [
       {
         "label": "Payback (Europe, typical)",
-        "value": "~11k–20k miles, often <2 years"
+        "value": "~18,000–32,000 km (11k–20k miles), often <2 years"
       },
       {
         "label": "Method",
@@ -84,7 +82,6 @@
     "slug": "batteries-fail",
     "number": 3,
     "verdict": "false",
-    "lastChecked": "2026-08-22",
     "myth": "EV batteries fail after a few years and then become toxic landfill.",
     "headline": "Replacements for failure are rare. Most packs outlive the car. Dead packs are valuable scrap, not a new Love Canal.",
     "kernel": null,
@@ -99,7 +96,7 @@
       },
       {
         "label": "Warranty floor",
-        "value": "Typically 8 years / mileage cap"
+        "value": "Typically 8 years / distance cap"
       },
       {
         "label": "End of life",
@@ -124,7 +121,6 @@
     "slug": "grid-collapse",
     "number": 4,
     "verdict": "false",
-    "lastChecked": "2026-08-22",
     "myth": "The grid will collapse if we all drive electric.",
     "headline": "National grids can absorb EVs, especially with overnight charging. Local transformers are the grown-up constraint.",
     "kernel": "A street of 11 kW wallboxes on a 1970s feeder is a real utility headache. That is a neighborhood upgrade, not the death of electrification.",
@@ -159,12 +155,11 @@
     "slug": "nowhere-charge",
     "number": 5,
     "verdict": "overstated",
-    "lastChecked": "2026-08-22",
     "myth": "There is nowhere to charge. EVs only work if you have a house in Palo Alto.",
     "headline": "Home (or workplace) charging is the product. Public networks grew fast and are still patchy in the wrong places — especially apartment streets.",
     "kernel": "If you street-park in a dense European city with no shared box, the car is a worse appliance. That is a planning failure, not proof that electrons cannot travel through a cable.",
     "body": [
-      "Most EV kilometers in Norway, California, and Germany are not won at a highway plaza. They are won on a 7–11 kW box overnight. EPA notes the majority of U.S. daily trips are short; 98% of trips are ≤75 miles. Public DC fast networks have multiplied (U.S. NEVI money, EU AFIR rules). Reliability of some networks is still a meme for a reason.",
+      "Most EV kilometers in Norway, California, and Germany are not won at a highway plaza. They are won on a 7–11 kW box overnight. EPA notes the majority of U.S. daily trips are short; 98% of trips are ≤120 km (75 miles). Public DC fast networks have multiplied (U.S. NEVI money, EU AFIR rules). Reliability of some networks is still a meme for a reason.",
       "The remaining hard cases: renters, tower-block residents, people without a dedicated parking space. Policy is slowly forcing “right to socket” rules in the EU. Until that is boring infrastructure, those drivers are right to hesitate. They are not the same as “there are no chargers.”"
     ],
     "keyFacts": [
@@ -174,7 +169,7 @@
       },
       {
         "label": "Daily trips (U.S.)",
-        "value": "73% ≤10 miles; 98% ≤75 miles (NHTS)"
+        "value": "73% ≤16 km (10 miles); 98% ≤120 km (75 miles) (NHTS)"
       },
       {
         "label": "Hard mode",
@@ -194,18 +189,17 @@
     "slug": "range",
     "number": 6,
     "verdict": "false",
-    "lastChecked": "2026-08-22",
     "myth": "EVs do not have enough range for real life.",
     "headline": "Modern volume EVs clear 300–500+ km WLTP. Real life is a commute, not a film shoot across Texas.",
     "kernel": null,
     "body": [
-      "EPA: most new models are over 200 miles rated; the U.S. daily-travel distribution makes that surplus, not scarcity. European WLTP numbers for Model Y, ID. family, Hyundai/Kia, and Chinese imports sit in the same band people already live inside with a diesel that they refuel out of habit, not need.",
+      "EPA (US): most new models are over 320 km (200 miles) rated; the U.S. daily-travel distribution makes that surplus, not scarcity. European WLTP numbers for Model Y, ID. family, Hyundai/Kia, and Chinese imports sit in the same band people already live inside with a diesel that they refuel out of habit, not need.",
       "Range anxiety is a once-a-year holiday problem plus a winter problem (next card). It is not a Tuesday problem for the median driver. If your life is 800 km of Autobahn in a blizzard with a ski box, you already know you are a special case — plan it, or keep a long-range ICE for that week. Do not write a law of nature from the special case."
     ],
     "keyFacts": [
       {
         "label": "New-car range",
-        "value": "Typically 200+ miles EPA / 300–500 km WLTP"
+        "value": "Typically 320+ km (200+ miles) EPA / 300–500 km WLTP"
       },
       {
         "label": "Daily need",
@@ -229,7 +223,6 @@
     "slug": "cold",
     "number": 7,
     "verdict": "misleading",
-    "lastChecked": "2026-08-22",
     "myth": "EVs do not work in the cold. Winter proves the idea is dead.",
     "headline": "Range drops — often 20–40% in the nasty weeks. The cars still start. Norway already voted.",
     "kernel": "Cabin heat comes from the battery, not from engine waste. Chemistry gets sluggish. Both are physics. “Does not work” is a category error.",
@@ -269,7 +262,6 @@
     "slug": "lithium",
     "number": 8,
     "verdict": "false",
-    "lastChecked": "2026-08-22",
     "myth": "There is not enough lithium (or copper, or rare earths) for everyone to drive electric.",
     "headline": "Geological resources exceed the demand forecasts. Price signals unlock mines and recycling. Bottlenecks are permits and time, not a missing element.",
     "kernel": null,
@@ -304,7 +296,6 @@
     "slug": "heavy-dangerous",
     "number": 9,
     "verdict": "overstated",
-    "lastChecked": "2026-08-22",
     "myth": "EVs are so heavy they are death traps for everyone else and they destroy the roads.",
     "headline": "They are heavier. Crash-test scores are typically excellent. Road wear and pedestrian physics are the parts that are not nothing.",
     "kernel": "Mass is energy in a crash with a small car or a person. Regenerative braking cuts brake dust; extra weight can add tire wear. Net air-quality is still usually better because there is no tailpipe.",
@@ -344,7 +335,6 @@
     "slug": "hybrids-better",
     "number": 10,
     "verdict": "misleading",
-    "lastChecked": "2026-08-22",
     "myth": "Hybrids are strictly better. Battery-electric is a dead end.",
     "headline": "Hybrids are a good bridge, especially for low-mileage drivers without a plug. They do not win the lifecycle once the grid is even moderately clean.",
     "kernel": "If you drive 6,000 km a year, street-park, and your electricity is filthy, a small hybrid can be the rational car. That is a niche, not a refutation of the category.",

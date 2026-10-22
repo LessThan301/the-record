@@ -4,22 +4,21 @@
     "slug": "fire",
     "number": 1,
     "verdict": "false",
-    "lastChecked": "2026-08-22",
     "myth": "Le Tesla prendono fuoco più spesso delle auto a benzina.",
-    "headline": "Per miglio, Tesla pubblica un tasso di incendi molto più basso della media dei veicoli USA. Gli incendi delle batterie sono più rari — e più brutti quando succedono.",
+    "headline": "Per chilometro, Tesla pubblica un tasso di incendi molto più basso della media dei veicoli USA. Gli incendi delle batterie sono più rari — e più brutti quando succedono.",
     "kernel": "Un pacco al litio può riaccendersi ed è più difficile da spegnere. I titoli seguono l'incendio insolito, non i 189.000 noiosi incendi a benzina di un anno USA tipico.",
     "body": [
-      "Le cifre Tesla sulla sicurezza antincendio dei veicoli (2012–2023) mettono un evento-incendio ogni circa 135 milioni di miglia. Le cifre NFPA / U.S. DOT per i veicoli USA nel complesso sono circa un incendio ogni 17 milioni di miglia. Tesla nota che il suo conteggio include incendi di strutture, atti dolosi e altre cause non veicolari che la serie NFPA spesso esclude — il che rende il confronto conservativo contro Tesla.",
+      "Le cifre Tesla sulla sicurezza antincendio dei veicoli (2012–2023) mettono un evento-incendio ogni circa 217 milioni di km. Le cifre NFPA / U.S. DOT per i veicoli USA nel complesso sono circa un incendio ogni 27 milioni di km. Tesla nota che il suo conteggio include incendi di strutture, atti dolosi e altre cause non veicolari che la serie NFPA spesso esclude — il che rende il confronto conservativo contro Tesla.",
       "Altri dataset EV (Svezia, Norvegia) mostrano la stessa direzione: le auto a combustione prendono fuoco più spesso per veicolo. La frase onesta che resta: un incendio di pacco EV è un incidente da specialisti per i vigili del fuoco, può durare di più, e sul telefono sembra apocalittico. La frequenza non è quella che i post virali pretendono."
     ],
     "keyFacts": [
       {
         "label": "Tesla (2012–2023)",
-        "value": "~1 incendio ogni 135 milioni di miglia"
+        "value": "~1 incendio ogni 217 milioni di km"
       },
       {
         "label": "Veicoli USA (NFPA/DOT)",
-        "value": "~1 incendio ogni 17 milioni di miglia"
+        "value": "~1 incendio ogni 27 milioni di km"
       },
       {
         "label": "Caveat",
@@ -44,7 +43,6 @@
     "slug": "build",
     "number": 2,
     "verdict": "overstated",
-    "lastChecked": "2026-08-22",
     "myth": "La qualità costruttiva Tesla è uno scherzo. I pannelli cadono sulla via di casa.",
     "headline": "I primi anni di volume erano sciatti. I giochi tra i pannelli erano un classico di Consumer Reports. Le auto degli anni 2020 sono un'altra fabbrica.",
     "kernel": "Se il campione è una Model 3 del 2018 dalla rampa di produzione, non state allucinando. Se il campione è un'auto 2024–2026, state discutendo con un fantasma.",
@@ -79,7 +77,6 @@
     "slug": "bankrupt",
     "number": 3,
     "verdict": "false",
-    "lastChecked": "2026-08-22",
     "myth": "Tesla sta per fallire. Sempre lo è stata, sempre lo sarà.",
     "headline": "Lo spavento del «production hell» del 2018 era reale. La versione 2026 del meme è uno zombie. I cicli di domanda non sono il Chapter 11.",
     "kernel": null,
@@ -114,12 +111,11 @@
     "slug": "battery-die",
     "number": 4,
     "verdict": "misleading",
-    "lastChecked": "2026-08-22",
     "myth": "La batteria muore in otto anni e costa 20.000 dollari da sostituire.",
     "headline": "I pacchi sono in garanzia 8 anni e di solito sopravvivono alla vita utile dell'auto. Una sostituzione è cara se vi serve. La maggior parte dei proprietari non ne ha bisogno.",
     "kernel": "L'intuizione della batteria del telefono è la trappola. Un pacco di trazione è gestito termicamente e ciclato con ben più delicatezza di un dispositivo da tasca.",
     "body": [
-      "Tesla garantisce i pacchi ad alta tensione per 8 anni / 100.000–150.000 miglia a seconda del modello, fino a una soglia minima di capacità. I grandi studi Recurrent sulle EV usate trovano che la sostituzione per guasto è rara (bassa percentuale a una cifra storicamente, ben sotto l'1% per molte auto dal 2016 in poi, esclusi i richiami). Un degrado del 10% su una vita di servizio lunga è un quadro reale comune, non un pacco morto.",
+      "Tesla garantisce i pacchi ad alta tensione per 8 anni / 160.000–240.000 km a seconda del modello (garanzia USA), fino a una soglia minima di capacità. I grandi studi Recurrent sulle EV usate trovano che la sostituzione per guasto è rara (bassa percentuale a una cifra storicamente, ben sotto l'1% per molte auto dal 2016 in poi, esclusi i richiami). Un degrado del 10% su una vita di servizio lunga è un quadro reale comune, non un pacco morto.",
       "Se un pacco fallisce fuori garanzia, il conto può essere brutale — migliaia o decine di migliaia, a seconda del modello e di se si cambiano i moduli o l'intero pacco. Quello è il nocciolo. È un rischio di coda da assicurazione, non la voce di manutenzione programmata che il mito descrive. I dati del mercato dell'usato avrebbero un aspetto molto diverso se i pacchi fossero usa-e-getta da otto anni."
     ],
     "keyFacts": [
@@ -154,7 +150,6 @@
     "slug": "range-fake",
     "number": 5,
     "verdict": "overstated",
-    "lastChecked": "2026-08-22",
     "myth": "I numeri di autonomia Tesla sono finti. L'auto muore al 60% dello sticker.",
     "headline": "EPA (e WLTP) sono procedure di laboratorio. Velocità, freddo e caldo spostano il numero — come per i consumi di ogni auto.",
     "kernel": null,
@@ -189,18 +184,17 @@
     "slug": "autopilot-death",
     "number": 6,
     "verdict": "misleading",
-    "lastChecked": "2026-08-22",
     "myth": "Autopilot è una trappola mortale. Tesla ha nascosto i cadaveri.",
-    "headline": "Ci sono stati incidenti mortali con Autopilot coinvolto. Per miglio, le statistiche di sicurezza pubblicate da Tesla battono la media USA. Entrambe le frasi stanno sulla scheda.",
+    "headline": "Ci sono stati incidenti mortali con Autopilot coinvolto. Per chilometro, le statistiche di sicurezza pubblicate da Tesla battono la media USA. Entrambe le frasi stanno sulla scheda.",
     "kernel": "Il nome vende troppo. Un sistema supervisionato più un ufficio marketing è un mix cattivo. La NHTSA ha aperto indagini. Non è «le auto cacciano i pedoni».",
     "body": [
-      "Il Vehicle Safety Report di Tesla sostiene meno incidenti per miglio con Autopilot inserito che senza, e meno della media USA. Quelle cifre sono pubblicate dall'azienda, con effetti di selezione (chi lo inserisce, su quali strade). Ricercatori indipendenti hanno smontato il confronto. Trattate il multiplo esatto con cautela; trattate «molto peggio dei guidatori umani per miglio» come non provato.",
+      "Il Vehicle Safety Report di Tesla sostiene meno incidenti per chilometro con Autopilot inserito che senza, e meno della media USA. Quelle cifre sono pubblicate dall'azienda, con effetti di selezione (chi lo inserisce, su quali strade). Ricercatori indipendenti hanno smontato il confronto. Trattate il multiplo esatto con cautela; trattate «molto peggio dei guidatori umani per chilometro» come non provato.",
       "Fallimenti documentati: conducenti che non supervisionano, confusione del sistema nel traffico che incrocia, veicoli di emergenza fermi. Alcuni incidenti sono orrendi. Il nodo etico è lo scarto tra la parola «Autopilot» e l'obbligo legale di prestare attenzione. Si possono volere nomi più stretti e monitoraggio del conducente senza pretendere una strage unica. Si confronti con i 40.000 morti stradali USA all'anno, quasi tutti non in una Tesla."
     ],
     "keyFacts": [
       {
         "label": "Statistiche aziendali",
-        "value": "Meno incidenti per miglio con Autopilot della media USA"
+        "value": "Meno incidenti per chilometro con Autopilot della media USA"
       },
       {
         "label": "Caveat",
@@ -224,7 +218,6 @@
     "slug": "cobalt",
     "number": 7,
     "verdict": "misleading",
-    "lastChecked": "2026-08-22",
     "myth": "Le Tesla sono costruite sul cobalto da lavoro minorile del Congo.",
     "headline": "Il cobalto artigianale della RDC è una macchia reale dell'industria. Tesla sta spostando i pacchi fuori dal cobalto. Il problema è l'economia mineraria, non una piantagione solo Tesla.",
     "kernel": null,
@@ -259,7 +252,6 @@
     "slug": "only-rich",
     "number": 8,
     "verdict": "overstated",
-    "lastChecked": "2026-08-22",
     "myth": "Le Tesla sono giocattoli per ricchi. Musk ha ucciso l'auto accessibile.",
     "headline": "La Tesla da 25.000 dollari è in ritardo. Model 3/Y non sono Rolls-Royce. Gli esemplari usati sono ormai soldi da auto ordinaria in molti mercati.",
     "kernel": "Ha parlato per anni di una Tesla di massa a buon mercato. La piattaforma cheap di nuova generazione ha continuato a slittare. Quella promessa rotta è sua.",
@@ -274,7 +266,7 @@
       },
       {
         "label": "Slide rotta",
-        "value": "Next-gen da $25k ripetutamente rinviata"
+        "value": "Next-gen da 25.000 USD ripetutamente rinviata"
       },
       {
         "label": "Mercato dell'usato",
@@ -294,7 +286,6 @@
     "slug": "repair",
     "number": 9,
     "verdict": "overstated",
-    "lastChecked": "2026-08-22",
     "myth": "Le Tesla non si possono riparare. Un urto al parafango e l'assicuratore la demolisce.",
     "headline": "Parti, manuali e accesso indipendente erano davvero ostili. Si sta allentando. Gli alti tassi di perdita totale sulle auto vecchie mescolavano sensori cari e carrozzerie economiche che non conoscevano l'auto.",
     "kernel": null,
@@ -329,7 +320,6 @@
     "slug": "robotaxi-vapor",
     "number": 10,
     "verdict": "overstated",
-    "lastChecked": "2026-08-22",
     "myth": "Robotaxi e Optimus sono vaporware, come l'auto da 25.000 dollari e il Semi.",
     "headline": "I calendari erano teatro. L'hardware esiste. Un servizio robotaxi limitato è partito. Optimus è un prototipo, non un evento del mercato del lavoro.",
     "kernel": "Musk ha venduto il futuro su un calendario che l'universo non ha firmato. Scontate ogni data. Non scontate ogni oggetto.",

@@ -4,22 +4,21 @@
     "slug": "power-plants",
     "number": 1,
     "verdict": "false",
-    "lastChecked": "2026-08-22",
     "myth": "Los EV son peores para el clima porque solo mueven la chimenea a la central.",
     "headline": "Incluso en una red sucia, un EV típico gana a un auto de gasolina típico a lo largo de su vida. La eficiencia es el truco: la mayor parte de la gasolina que quemas nunca llega a las ruedas.",
     "kernel": null,
     "body": [
-      "La página de mitos de la EPA es directa: los EV convierten alrededor del 87–91% de la energía de la batería en movimiento; los autos de gasolina ponen algo así como el 16–25% de la energía del combustible a las ruedas. Puedes generar esa electricidad con carbón y aun así ganar en ciclo de vida en la mayoría de sitios, porque no tiras tres cuartos de la energía como calor en un radiador.",
+      "La página de mitos de la EPA es directa: los EV convierten alrededor del 87–91 % de la energía de la batería en movimiento; los autos de gasolina ponen algo así como el 16–25 % de la energía del combustible a las ruedas. Puedes generar esa electricidad con carbón y aun así ganar en ciclo de vida en la mayoría de sitios, porque no tiras tres cuartos de la energía como calor en un radiador.",
       "Cifras de Carbon Brief e ICCT: en Europa, el CO₂ de ciclo de vida ronda dos tercios menos que un auto de gasolina, y la brecha crece a medida que las redes se limpian. En Polonia o China densas en carbón la ventaja se encoge pero no se invierte para un auto típico. El lugar importa —usa una calculadora de tubo de escape más red si vives en una isla de lignito—, pero el eslogan de la chimenea como ley general es falso."
     ],
     "keyFacts": [
       {
         "label": "Del depósito a la rueda",
-        "value": "EV ~87–91% vs ICE ~16–25% (EPA)"
+        "value": "EV ~87–91 % vs ICE ~16–25 % (EPA)"
       },
       {
         "label": "Ciclo de vida Europa",
-        "value": "Del orden de 60–70% menos CO₂ que la gasolina"
+        "value": "Del orden de 60–70 % menos CO₂ que la gasolina"
       },
       {
         "label": "Redes de carbón",
@@ -44,18 +43,17 @@
     "slug": "battery-manufacturing",
     "number": 2,
     "verdict": "false",
-    "lastChecked": "2026-08-22",
     "myth": "Fabricar la batería es tan sucio que el EV nunca paga su deuda de carbono.",
     "headline": "La fabricación pesa más al principio. La amortización suele ser un par de años de conducción, no toda una vida.",
     "kernel": "Un pack de larga autonomía sí emite más en fábrica que un hatch de acero y gasolina. Esa parte de la diapositiva no es falsa. El truco es parar el vídeo antes de que el auto se conduzca.",
     "body": [
-      "GREET de Argonne, ICCT y las repeticiones de Carbon Brief de cifras de fabricantes sitúan la amortización de carbono en el orden de 10–20 mil millas en Europa: a menudo menos de dos años para un conductor normal. Ejemplos de clase Tesla Model Y en el Reino Unido se han estimado en torno a 13.000 millas. Incluso las cifras de Volvo y VW, una vez se quita el pulgar de la balanza, no exigen 70.000 millas de penitencia.",
+      "GREET de Argonne, ICCT y las repeticiones de Carbon Brief de cifras de fabricantes sitúan la amortización de carbono en el orden de 16.000–32.000 km en Europa: a menudo menos de dos años para un conductor normal. Ejemplos de clase Tesla Model Y en el Reino Unido se han estimado en torno a 21.000 km. Incluso las cifras de Volvo y VW, una vez se quita el pulgar de la balanza, no exigen 110.000 km de penitencia.",
       "El reciclaje y las plantas de celdas más limpias encogen la deuda aún más. El resto honesto: compra el pack más pequeño que quepa en tu vida, consérvalo mucho tiempo y fíjate dónde se cocinaron las celdas. «Nunca se amortiza» es un share de Facebook de 2019 que no sobrevivió a GREET."
     ],
     "keyFacts": [
       {
         "label": "Amortización (Europa, típica)",
-        "value": "~11k–20k miles, a menudo <2 años"
+        "value": "~18.000–32.000 km, a menudo <2 años"
       },
       {
         "label": "Método",
@@ -84,22 +82,21 @@
     "slug": "batteries-fail",
     "number": 3,
     "verdict": "false",
-    "lastChecked": "2026-08-22",
     "myth": "Las baterías de EV fallan a los pocos años y luego se vuelven un vertedero tóxico.",
     "headline": "Los recambios por fallo son raros. La mayoría de packs sobreviven al auto. Los packs muertos son chatarra valiosa, no un nuevo Love Canal.",
     "kernel": null,
     "body": [
-      "La EPA citando a Recurrent (2025): en una gran muestra de EV de ocasión, el recambio medio de batería se situó en torno al 2,5% históricamente, y por debajo del 0,5% en muchos modelos de 2016 en adelante (excluyendo recalls). Nissan ha dicho que casi todos sus packs tempranos siguen en autos después de más de una década. Las garantías de ocho años existen porque la química aguanta.",
+      "La EPA citando a Recurrent (2025): en una gran muestra de EV de ocasión, el recambio medio de batería se situó en torno al 2,5 % históricamente, y por debajo del 0,5 % en muchos modelos de 2016 en adelante (excluyendo recalls). Nissan ha dicho que casi todos sus packs tempranos siguen en autos después de más de una década. Las garantías de ocho años existen porque la química aguanta.",
       "El fin de vida es un problema de reciclaje, no de basurero municipal. Las celdas contienen níquel, litio, cobre: la gente paga por recuperarlos. El almacenamiento estacionario de segunda vida es una vía real, aunque aún en crecimiento. El folclore de la batería del teléfono no se transfiere. La gestión térmica y la profundidad de ciclo son otro deporte."
     ],
     "keyFacts": [
       {
         "label": "Recambio (Recurrent)",
-        "value": "~2.5% histórico; <0.5% muchos modelos 2016+"
+        "value": "~2,5 % histórico; <0.5 % muchos modelos 2016+"
       },
       {
         "label": "Suelo de garantía",
-        "value": "Típicamente 8 years / tope de millas"
+        "value": "Típicamente 8 años / tope de kilómetros"
       },
       {
         "label": "Fin de vida",
@@ -129,7 +126,6 @@
     "slug": "grid-collapse",
     "number": 4,
     "verdict": "false",
-    "lastChecked": "2026-08-22",
     "myth": "La red se vendrá abajo si todos conducimos eléctrico.",
     "headline": "Las redes nacionales pueden absorber EV, sobre todo con carga nocturna. Los transformadores locales son la restricción de adultos.",
     "kernel": "Una calle de wallboxes de 11 kW en un alimentador de los 70 es un verdadero dolor de cabeza para la eléctrica. Eso es una mejora de barrio, no la muerte de la electrificación.",
@@ -164,12 +160,11 @@
     "slug": "nowhere-charge",
     "number": 5,
     "verdict": "overstated",
-    "lastChecked": "2026-08-22",
     "myth": "No hay dónde cargar. Los EV solo funcionan si tienes una casa en Palo Alto.",
     "headline": "La carga en casa (o en el trabajo) es el producto. Las redes públicas crecieron rápido y siguen irregulares en los sitios equivocados —sobre todo en calles de apartamentos.",
     "kernel": "Si aparcas en la calle en una ciudad europea densa sin un box compartido, el auto es un electrodoméstico peor. Eso es un fallo de planificación, no la prueba de que los electrones no pueden viajar por un cable.",
     "body": [
-      "La mayoría de los kilómetros EV en Noruega, California y Alemania no se ganan en un área de servicio de autopista. Se ganan en un box de 7–11 kW por la noche. La EPA señala que la mayoría de los trayectos diarios en EE. UU. son cortos; el 98% de los viajes son ≤75 millas. Las redes públicas de carga rápida DC se han multiplicado (dinero NEVI en EE. UU., normas AFIR en la UE). La fiabilidad de algunas redes sigue siendo un meme por una razón.",
+      "La mayoría de los kilómetros EV en Noruega, California y Alemania no se ganan en un área de servicio de autopista. Se ganan en un box de 7–11 kW por la noche. La EPA señala que la mayoría de los trayectos diarios en EE. UU. son cortos; el 98 % de los viajes son ≤120 km. Las redes públicas de carga rápida DC se han multiplicado (dinero NEVI en EE. UU., normas AFIR en la UE). La fiabilidad de algunas redes sigue siendo un meme por una razón.",
       "Los casos duros que quedan: inquilinos, residentes de torres, gente sin plaza dedicada. La política va forzando poco a poco reglas de «derecho al enchufe» en la UE. Hasta que eso sea infraestructura aburrida, esos conductores tienen razón en dudar. No son lo mismo que «no hay cargadores»."
     ],
     "keyFacts": [
@@ -179,7 +174,7 @@
       },
       {
         "label": "Trayectos diarios (EE. UU.)",
-        "value": "73% ≤10 millas; 98% ≤75 millas (NHTS)"
+        "value": "73 % ≤16 km; 98 % ≤120 km (NHTS)"
       },
       {
         "label": "Modo difícil",
@@ -204,18 +199,17 @@
     "slug": "range",
     "number": 6,
     "verdict": "false",
-    "lastChecked": "2026-08-22",
     "myth": "Los EV no tienen autonomía suficiente para la vida real.",
     "headline": "Los EV modernos de volumen superan 300–500+ km WLTP. La vida real es un trayecto al trabajo, no un rodaje a través de Texas.",
     "kernel": null,
     "body": [
-      "EPA: la mayoría de los modelos nuevos superan 200 millas homologadas; la distribución de viajes diarios en EE. UU. convierte eso en excedente, no en escasez. Las cifras WLTP europeas de Model Y, familia ID., Hyundai/Kia e importaciones chinas se sientan en la misma banda en la que la gente ya vive con un diésel que recarga por hábito, no por necesidad.",
+      "EPA (EE. UU.): la mayoría de los modelos nuevos superan 320 km homologadas; la distribución de viajes diarios en EE. UU. convierte eso en excedente, no en escasez. Las cifras WLTP europeas de Model Y, familia ID., Hyundai/Kia e importaciones chinas se sientan en la misma banda en la que la gente ya vive con un diésel que recarga por hábito, no por necesidad.",
       "La ansiedad de autonomía es un problema de vacaciones una vez al año más un problema de invierno (ficha siguiente). No es un problema de martes para el conductor mediano. Si tu vida son 800 km de Autobahn en una ventisca con un cofre de esquí, ya sabes que eres un caso especial: plánalo, o quédate un ICE de larga autonomía esa semana. No escribas una ley de la naturaleza a partir del caso especial."
     ],
     "keyFacts": [
       {
         "label": "Autonomía de auto nuevo",
-        "value": "Típicamente 200+ millas EPA / 300–500 km WLTP"
+        "value": "Típicamente 320+ km EPA / 300–500 km WLTP"
       },
       {
         "label": "Necesidad diaria",
@@ -244,18 +238,17 @@
     "slug": "cold",
     "number": 7,
     "verdict": "misleading",
-    "lastChecked": "2026-08-22",
     "myth": "Los EV no funcionan en el frío. El invierno demuestra que la idea está muerta.",
-    "headline": "La autonomía cae —a menudo 20–40% en las semanas feas. Los autos siguen arrancando. Noruega ya votó.",
+    "headline": "La autonomía cae —a menudo 20–40 % en las semanas feas. Los autos siguen arrancando. Noruega ya votó.",
     "kernel": "El calor de cabina sale de la batería, no del desperdicio del motor. La química se vuelve perezosa. Las dos cosas son física. «No funciona» es un error de categoría.",
     "body": [
-      "AAA (2019) halló del orden de un 40% de pérdida de autonomía en un test duro de frío con la calefacción puesta. Los inviernos reales varían: preacondicionamiento, bombas de calor y calefactores de asiento recuperan buena parte. La carga DC es más lenta cuando el pack está helado: otra molestia cierta, resuelta preacondicionando de camino al stall.",
+      "AAA (2019) halló del orden de un 40 % de pérdida de autonomía en un test duro de frío con la calefacción puesta. Los inviernos reales varían: preacondicionamiento, bombas de calor y calefactores de asiento recuperan buena parte. La carga DC es más lenta cuando el pack está helado: otra molestia cierta, resuelta preacondicionando de camino al stall.",
       "Noruega, Islandia, Canadá, Suecia, Finlandia y los Alpes tienen cuotas EV grandes o en crecimiento. La gente de allí no está haciendo un milagro. Enchufan en casa, preacondicionan y conducen. Un auto de gasolina también usa más combustible en invierno; solo esconde el impuesto en el mismo tanque. Si vives en Bitburg y te desplazas 30 km, notarás enero. No irás andando."
     ],
     "keyFacts": [
       {
         "label": "Golpe de autonomía",
-        "value": "A menudo 20–40% en frío duro con calor de cabina"
+        "value": "A menudo 20–40 % en frío duro con calor de cabina"
       },
       {
         "label": "Mitigación",
@@ -284,7 +277,6 @@
     "slug": "lithium",
     "number": 8,
     "verdict": "false",
-    "lastChecked": "2026-08-22",
     "myth": "No hay litio suficiente (ni cobre, ni tierras raras) para que todos conduzcan eléctrico.",
     "headline": "Los recursos geológicos superan las previsiones de demanda. Las señales de precio desbloquean minas y reciclaje. Los cuellos de botella son permisos y tiempo, no un elemento que falte.",
     "kernel": null,
@@ -319,7 +311,6 @@
     "slug": "heavy-dangerous",
     "number": 9,
     "verdict": "overstated",
-    "lastChecked": "2026-08-22",
     "myth": "Los EV son tan pesados que son trampas mortales para todos los demás y destrozan las carreteras.",
     "headline": "Son más pesados. Las puntuaciones de choque suelen ser excelentes. El desgaste de la calzada y la física peatonal son las partes que no son insignificantes.",
     "kernel": "La masa es energía en un choque con un auto pequeño o con una persona. El frenado regenerativo recorta el polvo de frenos; el peso extra puede sumar desgaste de neumáticos. La calidad del aire neta suele ser aún mejor porque no hay tubo de escape.",
@@ -359,7 +350,6 @@
     "slug": "hybrids-better",
     "number": 10,
     "verdict": "misleading",
-    "lastChecked": "2026-08-22",
     "myth": "Los híbridos son estrictamente mejores. El eléctrico de batería es un callejón sin salida.",
     "headline": "Los híbridos son un buen puente, sobre todo para conductores de bajo kilometraje sin enchufe. No ganan el ciclo de vida cuando la red está siquiera moderadamente limpia.",
     "kernel": "Si conduces 6.000 km al año, aparcas en la calle y tu electricidad es sucia, un híbrido pequeño puede ser el auto racional. Eso es un nicho, no una refutación de la categoría.",

@@ -4,7 +4,6 @@
     "slug": "emerald",
     "number": 1,
     "verdict": "false",
-    "lastChecked": "2026-08-22",
     "myth": "Elon Musk ha ereditato una fortuna dalle miniere di smeraldi dell'apartheid e si è comprato l'ingresso in Tesla e SpaceX.",
     "headline": "A fondare le società sono stati i proventi di PayPal. Nella cap table non c'è nessuna eredità di smeraldi.",
     "kernel": "Il padre Errol ha raccontato una storia instabile sugli smeraldi in Zambia. Non equivale a dire che Elon abbia ereditato una miniera, o che abbia usato quei soldi per avviare SpaceX.",
@@ -16,11 +15,11 @@
     "keyFacts": [
       {
         "label": "Proventi PayPal",
-        "value": "~$180M (quota di Elon, 2002)"
+        "value": "~180 Mln USD (quota di Elon, 2002)"
       },
       {
         "label": "Assegno Tesla 2004",
-        "value": "~$6.5M di quei soldi, investitore principale"
+        "value": "~6,5 Mln USD di quei soldi, investitore principale"
       },
       {
         "label": "Miniera di smeraldi",
@@ -45,7 +44,6 @@
     "slug": "never-built",
     "number": 2,
     "verdict": "false",
-    "lastChecked": "2026-08-22",
     "myth": "Non ha mai costruito niente. È un CEO che compra le aziende degli altri e twitta.",
     "headline": "Ha fondato aziende, e non è l'ingegnere di ogni pezzo. Le due cose possono essere vere insieme.",
     "kernel": null,
@@ -80,7 +78,6 @@
     "slug": "taxes",
     "number": 3,
     "verdict": "false",
-    "lastChecked": "2026-08-22",
     "myth": "Elon Musk non paga le tasse.",
     "headline": "Ha versato la più grande imposta sul reddito individuale nota negli Stati Uniti. Le plusvalenze non realizzate non si tassano. È il sistema, non un buco segreto fatto su misura per lui.",
     "kernel": "Negli anni in cui non vende azioni e non esercita opzioni, il reddito in contanti può sembrare piccolo rispetto al patrimonio. È così che funzionano le plusvalenze non realizzate per ogni fondatore, non un'esenzione speciale di Elon.",
@@ -91,7 +88,7 @@
     "keyFacts": [
       {
         "label": "Conto fiscale 2021",
-        "value": "~$11–12 miliardi (sua cifra / stime stampa)"
+        "value": "~11-12 Mld USD (sua cifra / stime stampa)"
       },
       {
         "label": "Innesco",
@@ -120,7 +117,6 @@
     "slug": "cofounder",
     "number": 4,
     "verdict": "misleading",
-    "lastChecked": "2026-08-22",
     "myth": "Chiamare Elon cofondatore di Tesla è una bugia. Ha comprato l'azienda e si è fatto strada sulla targa a suon di cause.",
     "headline": "Martin Eberhard e Marc Tarpenning hanno fondato Tesla nel 2003. Musk è stato l'investitore principale nel 2004. Un accordo del 2009 gli consente di usare il titolo di cofondatore.",
     "kernel": "L'atto costitutivo originale non lo comprendeva. L'azienda che è sopravvissuta al 2008 sì, con i suoi soldi, la direzione di prodotto e il posto da CEO. Le due metà di quella frase sono il dossier.",
@@ -155,7 +151,6 @@
     "slug": "salute",
     "number": 5,
     "verdict": "misleading",
-    "lastChecked": "2026-08-22",
     "myth": "Il gesto all'insediamento del gennaio 2025 ha dimostrato che Elon Musk è un nazista.",
     "headline": "Il video è brutto. L'intento non è stato dimostrato. «Sembra un saluto» non è una tessera di partito.",
     "kernel": "Si è battuto il petto e ha gettato un braccio in fuori due volte. Chi guardava, soprattutto in Germania, ha sentito un allarme molto preciso. Quella rima visiva è reale. Lo è anche l'assenza di un programma, di un manifesto o di un procedimento che abbia trasformato il clip in prova di nazismo.",
@@ -205,7 +200,6 @@
     "slug": "subsidies",
     "number": 6,
     "verdict": "misleading",
-    "lastChecked": "2026-08-22",
     "myth": "Inveisce contro gli sprechi pubblici mentre le sue aziende vivono di sussidi.",
     "headline": "Tesla ha usato la politica industriale. SpaceX vende lanci. Fondere le due cose in «figlio dei sussidi» è il gioco di prestigio.",
     "kernel": "Il prestito DOE da 465 milioni di dollari era reale — e rimborsato in anticipo, con interessi, nel 2013. I crediti d'imposta EV per gli acquirenti e i crediti ZEV sono reali. La NASA che paga per cargo e equipaggio è l'acquisto di un servizio, come pagava lo Shuttle.",
@@ -216,7 +210,7 @@
     "keyFacts": [
       {
         "label": "Prestito DOE",
-        "value": "$465M, rimborsato nel 2013 con interessi"
+        "value": "465 Mln USD, rimborsato nel 2013 con interessi"
       },
       {
         "label": "NASA / DoD",
@@ -240,13 +234,12 @@
     "slug": "fsd-fraud",
     "number": 7,
     "verdict": "overstated",
-    "lastChecked": "2026-08-22",
     "myth": "Ha promesso la guida autonoma completa anni fa. Quindi tutta la faccenda è una truffa.",
     "headline": "Le date erano cronicamente ottimistiche. Lo stack ha continuato a migliorare. Calendari mancati non sono un prodotto finto.",
     "kernel": "Dal 2016 in poi ha venduto un futuro che non è arrivato come da slide. È un copione reale, e i regolatori hanno notato lo scarto tra «Full Self-Driving» come nome e come capacità legale.",
     "body": [
       "Autopilot è arrivato come sistema autostradale supervisionato. «Full Self-Driving» come pacchetto software è stato in beta, poi in una release più ampia, con il conducente ancora responsabile. Il servizio robotaxi è iniziato in forma limitata (Austin, 2025) senza un prodotto nazionale non supervisionato. Ogni anno saltato è registrato.",
-      "L'inquadramento da truffa ha bisogno di una cosa che non è mai esistita. Tesla ha raccolto miliardi di miglia reali, ha iterato reti end-to-end e ha rimosso il radar a favore della visione — una scommessa tecnica, non una slide di vapore. Si possono tenere due fatti: ha sopravvalutato i tempi, e il sistema non è un cartone. Se affidereste la famiglia a quel sistema è una domanda distinta e legittima (si veda la scheda Tesla Autopilot)."
+      "L'inquadramento da truffa ha bisogno di una cosa che non è mai esistita. Tesla ha raccolto miliardi di chilometri reali, ha iterato reti end-to-end e ha rimosso il radar a favore della visione — una scommessa tecnica, non una slide di vapore. Si possono tenere due fatti: ha sopravvalutato i tempi, e il sistema non è un cartone. Se affidereste la famiglia a quel sistema è una domanda distinta e legittima (si veda la scheda Tesla Autopilot)."
     ],
     "keyFacts": [
       {
@@ -275,7 +268,6 @@
     "slug": "twitter",
     "number": 8,
     "verdict": "overstated",
-    "lastChecked": "2026-08-22",
     "myth": "Ha distrutto Twitter e ha trasformato X in un bar nazista.",
     "headline": "Gli inserzionisti se ne sono andati. La moderazione è diventata più strana. Community Notes è reale. Non è 8chan con il logo dell'uccellino.",
     "kernel": "Il passaggio in privato da 44 miliardi di dollari è stato caotico. Il crollo degli organici, un'ondata di account prima bannati e gli spaventi sulla brand safety non erano un'allucinazione dei giornalisti.",
@@ -286,7 +278,7 @@
     "keyFacts": [
       {
         "label": "Acquisto",
-        "value": "$44B, chiuso ottobre 2022"
+        "value": "44 Mld USD, chiuso ottobre 2022"
       },
       {
         "label": "Effetto chiaro",
@@ -310,7 +302,6 @@
     "slug": "apartheid",
     "number": 9,
     "verdict": "misleading",
-    "lastChecked": "2026-08-22",
     "myth": "È un figlio dell'apartheid che vuole quel sistema indietro. Nato a Pretoria, quindi la politica.",
     "headline": "Il luogo di nascita non è un manifesto. Se n'è andato a 17 anni. Criticare la criminalità post-apartheid non è un voto per il National Party.",
     "kernel": "È nato a Pretoria nel 1971 in una famiglia bianca agiata sotto l'apartheid. È vero, e non è un fatto piccolo. Il salto a «sosteneva il regime / vuole restaurarlo» ha bisogno di prove dei suoi atti politici di allora. Sono deboli.",
@@ -345,7 +336,6 @@
     "slug": "unfit",
     "number": 10,
     "verdict": "overstated",
-    "lastChecked": "2026-08-22",
     "myth": "È intontito di ketamina e mentalmente inidoneo a guidare aziende.",
     "headline": "Ha detto di usare ketamina prescritta per la depressione. Non è un accertamento pubblico di incapacità. Il mulino diagnostico online non è una cartella clinica.",
     "kernel": "Lo stile di lavoro è estremo, i post sono spesso temerari, e diversi CdA hanno dovuto assorbire il costo della marca personale. Sono lamentele operative lecite.",

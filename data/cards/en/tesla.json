@@ -4,22 +4,21 @@
     "slug": "fire",
     "number": 1,
     "verdict": "false",
-    "lastChecked": "2026-08-22",
     "myth": "Teslas catch fire more often than gasoline cars.",
-    "headline": "Per mile, Tesla publishes a much lower fire rate than the U.S. vehicle average. Battery fires are rarer — and uglier when they happen.",
+    "headline": "Per distance driven, Tesla publishes a much lower fire rate than the U.S. vehicle average. Battery fires are rarer — and uglier when they happen.",
     "kernel": "A lithium pack can re-ignite and is harder to put out. Headlines follow the unusual fire, not the 189,000 boring gasoline fires in a typical U.S. year.",
     "body": [
-      "Tesla’s vehicle fire safety figures (2012–2023) put one fire event per about 135 million miles. NFPA / U.S. DOT figures for U.S. vehicles overall are about one fire per 17 million miles. Tesla notes its count includes structure fires, arson, and other non-vehicle causes that the NFPA series often excludes — which makes the comparison conservative against Tesla.",
+      "Tesla’s vehicle fire safety figures (2012–2023) put one fire event per about 217 million km (135 million miles). NFPA / U.S. DOT figures for U.S. vehicles overall are about one fire per 27 million km (17 million miles). Tesla notes its count includes structure fires, arson, and other non-vehicle causes that the NFPA series often excludes — which makes the comparison conservative against Tesla.",
       "Other EV datasets (Sweden, Norway) show the same direction: combustion cars fire more often per vehicle. The remaining honest sentence: an EV pack fire is a specialist incident for firefighters, can take longer, and looks apocalyptic on a phone camera. Frequency is not what the viral posts claim."
     ],
     "keyFacts": [
       {
         "label": "Tesla (2012–2023)",
-        "value": "~1 fire per 135 million miles"
+        "value": "~1 fire per 217 million km (135 million miles)"
       },
       {
         "label": "U.S. vehicles (NFPA/DOT)",
-        "value": "~1 fire per 17 million miles"
+        "value": "~1 fire per 27 million km (17 million miles)"
       },
       {
         "label": "Caveat",
@@ -44,7 +43,6 @@
     "slug": "build",
     "number": 2,
     "verdict": "overstated",
-    "lastChecked": "2026-08-22",
     "myth": "Tesla build quality is a joke. Panels fall off on the way home.",
     "headline": "Early volume years were sloppy. Panel gaps were a real Consumer Reports staple. The 2020s cars are a different factory.",
     "kernel": "If your sample is a 2018 Model 3 from the production ramp, you are not hallucinating. If your sample is a 2024–2026 car, you are arguing with a ghost.",
@@ -79,7 +77,6 @@
     "slug": "bankrupt",
     "number": 3,
     "verdict": "false",
-    "lastChecked": "2026-08-22",
     "myth": "Tesla is about to go bankrupt. Always has been, always will be.",
     "headline": "The 2018 “production hell” scare was real. The 2026 version of the meme is a zombie. Demand cycles are not Chapter 11.",
     "kernel": null,
@@ -114,18 +111,17 @@
     "slug": "battery-die",
     "number": 4,
     "verdict": "misleading",
-    "lastChecked": "2026-08-22",
     "myth": "The battery dies in eight years and costs $20,000 to replace.",
     "headline": "Packs are warranted 8 years and usually outlast the car’s useful life. A replacement is expensive if you need one. Most owners do not.",
     "kernel": "Phone-battery intuition is the trap. A traction pack is thermally managed and cycled far more gently than a pocket device.",
     "body": [
-      "Tesla warranties high-voltage packs for 8 years / 100,000–150,000 miles depending on model, to a capacity floor. Recurrent’s large used-EV studies find replacement for failure is rare (low single-digit percent historically, well under 1% for many 2016+ cars, excluding recalls). Degradation of 10% over a long service life is a common real-world picture, not a brick.",
+      "Tesla warranties high-voltage packs for 8 years / 160,000–240,000 km (100,000–150,000 miles) depending on model (US terms), to a capacity floor. Recurrent’s large used-EV studies find replacement for failure is rare (low single-digit percent historically, well under 1% for many 2016+ cars, excluding recalls). Degradation of 10% over a long service life is a common real-world picture, not a brick.",
       "If a pack does fail out of warranty, the bill can be brutal — thousands to tens of thousands, depending on model and whether modules or the whole pack get swapped. That is the kernel. It is an insurance-like tail risk, not the scheduled maintenance item the myth describes. Used-market data would look very different if packs were eight-year disposables."
     ],
     "keyFacts": [
       {
         "label": "Warranty",
-        "value": "8 years, mileage cap by model, capacity floor"
+        "value": "8 years, distance cap by model (US terms), capacity floor"
       },
       {
         "label": "Failure rate",
@@ -154,7 +150,6 @@
     "slug": "range-fake",
     "number": 5,
     "verdict": "overstated",
-    "lastChecked": "2026-08-22",
     "myth": "Tesla range numbers are fake. The car dies at 60% of the sticker.",
     "headline": "EPA (and WLTP) are lab procedures. Speed, cold, and heat move the number — as they do for every car’s fuel economy.",
     "kernel": null,
@@ -189,18 +184,17 @@
     "slug": "autopilot-death",
     "number": 6,
     "verdict": "misleading",
-    "lastChecked": "2026-08-22",
     "myth": "Autopilot is a death trap. Tesla hid the bodies.",
-    "headline": "There have been fatal Autopilot-involved crashes. Per mile, Tesla’s published safety stats beat the U.S. average. Both sentences belong on the card.",
+    "headline": "There have been fatal Autopilot-involved crashes. Per distance driven, Tesla’s published safety stats beat the U.S. average. Both sentences belong on the card.",
     "kernel": "The name oversells. A supervised system plus a marketing department is a bad mix. NHTSA has opened investigations. That is not “the cars hunt pedestrians.”",
     "body": [
-      "Tesla’s Vehicle Safety Report claims fewer crashes per mile with Autopilot engaged than with it off, and fewer than the U.S. average. Those figures are company-published, with selection effects (who engages it, on which roads). Independent researchers have poked holes in the comparison. Treat the exact multiple with caution; treat “much worse than human drivers per mile” as unproven.",
+      "Tesla’s Vehicle Safety Report claims fewer crashes per km with Autopilot engaged than with it off, and fewer than the U.S. average. Those figures are company-published, with selection effects (who engages it, on which roads). Independent researchers have poked holes in the comparison. Treat the exact multiple with caution; treat “much worse than human drivers per km” as unproven.",
       "Documented failures: drivers not supervising, system confusion at crossing traffic, parked emergency vehicles. Some crashes are ghastly. The ethical issue is the gap between the word “Autopilot” and the legal requirement to pay attention. You can want stricter naming and driver monitoring without claiming a unique slaughter. Compare to the 40,000 U.S. road deaths a year, almost all of them not in a Tesla."
     ],
     "keyFacts": [
       {
         "label": "Company stats",
-        "value": "Fewer crashes per mile with Autopilot than U.S. average"
+        "value": "Fewer crashes per km with Autopilot than U.S. average"
       },
       {
         "label": "Caveat",
@@ -224,7 +218,6 @@
     "slug": "cobalt",
     "number": 7,
     "verdict": "misleading",
-    "lastChecked": "2026-08-22",
     "myth": "Teslas are built on child-labor cobalt from the Congo.",
     "headline": "Artisanal DRC cobalt is a real industry stain. Tesla has been moving packs off cobalt. The problem is the mineral economy, not a Tesla-only plantation.",
     "kernel": null,
@@ -259,7 +252,6 @@
     "slug": "only-rich",
     "number": 8,
     "verdict": "overstated",
-    "lastChecked": "2026-08-22",
     "myth": "Teslas are toys for the rich. Musk killed the affordable car.",
     "headline": "The $25,000 Tesla is late. Model 3/Y are not Rolls-Royces. Used examples are now ordinary-car money in many markets.",
     "kernel": "He did talk about a cheap mass-market Tesla for years. The next-generation cheap platform kept slipping. That broken promise is on him.",
@@ -294,7 +286,6 @@
     "slug": "repair",
     "number": 9,
     "verdict": "overstated",
-    "lastChecked": "2026-08-22",
     "myth": "Teslas cannot be repaired. One fender-bender and the insurer totals it.",
     "headline": "Parts, manuals, and independent access were genuinely hostile. That is easing. High total-loss rates on early cars mixed expensive sensors with cheap body shops that did not know the car.",
     "kernel": null,
@@ -329,7 +320,6 @@
     "slug": "robotaxi-vapor",
     "number": 10,
     "verdict": "overstated",
-    "lastChecked": "2026-08-22",
     "myth": "Robotaxi and Optimus are vaporware, like the $25k car and the Semi.",
     "headline": "Timelines were theater. Hardware exists. Limited robotaxi service has started. Optimus is a prototype, not a labor-market event.",
     "kernel": "Musk has sold the future on a calendar the universe did not sign. Discount every date. Do not discount every object.",

@@ -4,22 +4,21 @@
     "slug": "power-plants",
     "number": 1,
     "verdict": "false",
-    "lastChecked": "2026-08-22",
     "myth": "Les VE sont pires pour le climat parce qu'ils ne font que déplacer la cheminée vers la centrale.",
     "headline": "Même sur un réseau sale, un VE typique bat une voiture à essence typique sur sa vie. L'efficacité est le code de triche : l'essentiel de l'essence brûlée n'atteint jamais les roues.",
     "kernel": null,
     "body": [
-      "La page mythes de l'EPA est brutale : les VE convertissent environ 87–91 % de l'énergie de la batterie en mouvement ; les voitures à essence mettent quelque chose comme 16–25 % de l'énergie du carburant aux roues. On peut produire cette électricité au charbon et gagner encore sur le cycle de vie dans la plupart des endroits, parce qu'on ne jette pas les trois quarts de l'énergie en chaleur dans un radiateur.",
+      "La page mythes de l'EPA est brutale : les VE convertissent environ 87–91 % de l'énergie de la batterie en mouvement ; les voitures à essence mettent quelque chose comme 16–25 % de l'énergie du carburant aux roues. On peut produire cette électricité au charbon et gagner encore sur le cycle de vie dans la plupart des endroits, parce qu'on ne jette pas les trois quarts de l'énergie en chaleur dans un radiateur.",
       "Chiffres Carbon Brief et ICCT : en Europe, le CO₂ de cycle de vie est de l'ordre des deux tiers plus bas qu'une voiture essence, et l'écart grandit à mesure que les réseaux se nettoient. En Pologne ou en Chine lourdes en charbon, l'avantage se réduit mais ne s'inverse pas pour une voiture typique. Le lieu compte — utilisez un calculateur échappement-plus-réseau si vous vivez sur une île de lignite — mais l'argument de la cheminée comme loi générale est faux."
     ],
     "keyFacts": [
       {
         "label": "Réservoir-roues",
-        "value": "VE ~87–91 % vs thermique ~16–25 % (EPA)"
+        "value": "VE ~87–91 % vs thermique ~16–25 % (EPA)"
       },
       {
         "label": "Cycle de vie Europe",
-        "value": "De l'ordre de 60–70 % de CO₂ en moins que l'essence"
+        "value": "De l'ordre de 60–70 % de CO₂ en moins que l'essence"
       },
       {
         "label": "Réseaux charbon",
@@ -49,18 +48,17 @@
     "slug": "battery-manufacturing",
     "number": 2,
     "verdict": "false",
-    "lastChecked": "2026-08-22",
     "myth": "La fabrication des batteries est si sale que le VE ne rembourse jamais sa dette carbone.",
     "headline": "La fabrication est plus lourde au départ. Le retour est typiquement de quelques années de conduite, pas d'une vie.",
     "kernel": "Un pack longue autonomie émet bien plus à l'usine qu'une citadine acier-et-essence. Cette part de la slide n'est pas fausse. Le tour consiste à arrêter la vidéo avant que la voiture ne roule.",
     "body": [
-      "GREET d'Argonne, l'ICCT et les recalculs de Carbon Brief des claims constructeurs situent le retour carbone de l'ordre de 10 à 20 milliers de miles en Europe — souvent sous deux ans pour un conducteur normal. Des exemples de classe Tesla Model Y au Royaume-Uni ont été estimés autour de 13 000 miles. Même les chiffres Volvo et VW, une fois le pouce retiré de la balance, n'exigent pas 70 000 miles de pénitence.",
+      "GREET d'Argonne, l'ICCT et les recalculs de Carbon Brief des claims constructeurs situent le retour carbone de l'ordre de 16 000 à 32 000 km en Europe — souvent sous deux ans pour un conducteur normal. Des exemples de classe Tesla Model Y au Royaume-Uni ont été estimés autour de 21 000 km. Même les chiffres Volvo et VW, une fois le pouce retiré de la balance, n'exigent pas 110 000 km de pénitence.",
       "Le recyclage et des usines de cellules plus propres réduisent encore la dette. Le reste honnête : achetez le plus petit pack qui convient à votre vie, gardez la voiture longtemps, et intéressez-vous à l'endroit où les cellules ont été cuites. « Ne rembourse jamais » est un partage Facebook de 2019 qui n'a pas survécu à GREET."
     ],
     "keyFacts": [
       {
         "label": "Retour (Europe, typique)",
-        "value": "~11k–20k miles, souvent <2 ans"
+        "value": "~18 000–32 000 km, souvent <2 ans"
       },
       {
         "label": "Méthode",
@@ -94,18 +92,17 @@
     "slug": "batteries-fail",
     "number": 3,
     "verdict": "false",
-    "lastChecked": "2026-08-22",
     "myth": "Les batteries de VE lâchent après quelques années et finissent en décharge toxique.",
     "headline": "Les remplacements pour panne sont rares. La plupart des packs survivent à la voiture. Les packs morts sont de la ferraille de valeur, pas un nouveau Love Canal.",
     "kernel": null,
     "body": [
-      "L'EPA citant Recurrent (2025) : sur un large échantillon de VE d'occasion, le remplacement moyen de batterie se situait autour de 2,5 % historiquement, et sous 0,5 % pour beaucoup de modèles 2016 et plus tard (hors rappels). Nissan a dit que la quasi-totalité de ses premiers packs sont encore dans des voitures après plus d'une décennie. Les garanties de huit ans existent parce que la chimie tient.",
+      "L'EPA citant Recurrent (2025) : sur un large échantillon de VE d'occasion, le remplacement moyen de batterie se situait autour de 2,5 % historiquement, et sous 0,5 % pour beaucoup de modèles 2016 et plus tard (hors rappels). Nissan a dit que la quasi-totalité de ses premiers packs sont encore dans des voitures après plus d'une décennie. Les garanties de huit ans existent parce que la chimie tient.",
       "La fin de vie est un problème de recyclage, pas un problème de décharge municipale. Les cellules contiennent nickel, lithium, cuivre — on paie pour les récupérer. Le stockage stationnaire de seconde vie est une voie réelle, encore en croissance. Le folklore de la batterie de téléphone ne se transfère pas. La gestion thermique et la profondeur de cycle sont d'autres sports."
     ],
     "keyFacts": [
       {
         "label": "Remplacement (Recurrent)",
-        "value": "~2,5 % historique ; <0,5 % beaucoup de modèles 2016+"
+        "value": "~2,5 % historique ; <0,5 % beaucoup de modèles 2016+"
       },
       {
         "label": "Plancher de garantie",
@@ -134,7 +131,6 @@
     "slug": "grid-collapse",
     "number": 4,
     "verdict": "false",
-    "lastChecked": "2026-08-22",
     "myth": "Le réseau s'effondrera si nous roulons tous à l'électrique.",
     "headline": "Les réseaux nationaux peuvent absorber les VE, surtout avec la recharge de nuit. Les transformateurs locaux sont la contrainte d'adulte.",
     "kernel": "Une rue de wallbox 11 kW sur un départ des années 1970 est un vrai casse-tête de concessionnaire. C'est une mise à niveau de quartier, pas la mort de l'électrification.",
@@ -169,12 +165,11 @@
     "slug": "nowhere-charge",
     "number": 5,
     "verdict": "overstated",
-    "lastChecked": "2026-08-22",
     "myth": "Il n'y a nulle part où recharger. Les VE ne marchent que si vous avez une maison à Palo Alto.",
     "headline": "La recharge à la maison (ou au travail) est le produit. Les réseaux publics ont grandi vite et restent inégaux aux mauvais endroits — surtout les rues d'immeubles.",
     "kernel": "Si vous stationnez dans la rue d'une ville européenne dense sans coffret partagé, la voiture est un pire appareil. C'est un échec d'aménagement, pas la preuve que les électrons ne peuvent pas voyager dans un câble.",
     "body": [
-      "La plupart des kilomètres VE en Norvège, en Californie et en Allemagne ne se gagnent pas sur une aire d'autoroute. Ils se gagnent sur un coffret 7–11 kW la nuit. L'EPA note que la majorité des trajets quotidiens américains sont courts ; 98 % des trajets font ≤75 miles. Les réseaux publics de recharge rapide DC se sont multipliés (argent NEVI aux États-Unis, règles AFIR de l'UE). La fiabilité de certains réseaux reste un mème pour une raison.",
+      "La plupart des kilomètres VE en Norvège, en Californie et en Allemagne ne se gagnent pas sur une aire d'autoroute. Ils se gagnent sur un coffret 7–11 kW la nuit. L'EPA note que la majorité des trajets quotidiens américains sont courts ; 98 % des trajets font ≤120 km. Les réseaux publics de recharge rapide DC se sont multipliés (argent NEVI aux États-Unis, règles AFIR de l'UE). La fiabilité de certains réseaux reste un mème pour une raison.",
       "Les cas durs qui restent : locataires, habitants de tours, gens sans place dédiée. La politique force lentement des règles de « droit à la prise » dans l'UE. Tant que ce n'est pas une infrastructure ennuyeuse, ces conducteurs ont raison d'hésiter. Ils ne sont pas la même chose que « il n'y a pas de bornes »."
     ],
     "keyFacts": [
@@ -184,7 +179,7 @@
       },
       {
         "label": "Trajets quotidiens (U.S.)",
-        "value": "73 % ≤10 miles ; 98 % ≤75 miles (NHTS)"
+        "value": "73 % ≤16 km ; 98 % ≤120 km (NHTS)"
       },
       {
         "label": "Mode difficile",
@@ -204,18 +199,17 @@
     "slug": "range",
     "number": 6,
     "verdict": "false",
-    "lastChecked": "2026-08-22",
     "myth": "Les VE n'ont pas assez d'autonomie pour la vraie vie.",
     "headline": "Les VE de volume modernes dépassent 300–500+ km WLTP. La vraie vie est un trajet domicile-travail, pas un tournage à travers le Texas.",
     "kernel": null,
     "body": [
-      "EPA : la plupart des modèles neufs dépassent 200 miles d'autonomie homologuée ; la distribution des déplacements quotidiens américains en fait un surplus, pas une pénurie. Les chiffres WLTP européens pour Model Y, famille ID., Hyundai/Kia et importations chinoises se tiennent dans la même bande que celle dans laquelle les gens vivent déjà avec un diesel qu'ils font le plein par habitude, pas par besoin.",
+      "EPA (États-Unis) : la plupart des modèles neufs dépassent 320 km d'autonomie homologuée ; la distribution des déplacements quotidiens américains en fait un surplus, pas une pénurie. Les chiffres WLTP européens pour Model Y, famille ID., Hyundai/Kia et importations chinoises se tiennent dans la même bande que celle dans laquelle les gens vivent déjà avec un diesel qu'ils font le plein par habitude, pas par besoin.",
       "L'angoisse de l'autonomie est un problème de vacances une fois l'an plus un problème d'hiver (carte suivante). Ce n'est pas un problème de mardi pour le conducteur médian. Si votre vie, c'est 800 km d'autoroute sous le blizzard avec un coffre à skis, vous savez déjà que vous êtes un cas particulier — planifiez-le, ou gardez un thermique longue autonomie pour cette semaine. N'écrivez pas une loi de la nature à partir du cas particulier."
     ],
     "keyFacts": [
       {
         "label": "Autonomie des voitures neuves",
-        "value": "Typiquement 200+ miles EPA / 300–500 km WLTP"
+        "value": "Typiquement 320+ km EPA / 300–500 km WLTP"
       },
       {
         "label": "Besoin quotidien",
@@ -239,18 +233,17 @@
     "slug": "cold",
     "number": 7,
     "verdict": "misleading",
-    "lastChecked": "2026-08-22",
     "myth": "Les VE ne marchent pas dans le froid. L'hiver prouve que l'idée est morte.",
-    "headline": "L'autonomie chute — souvent de 20–40 % les mauvaises semaines. Les voitures démarrent quand même. La Norvège a déjà voté.",
+    "headline": "L'autonomie chute — souvent de 20–40 % les mauvaises semaines. Les voitures démarrent quand même. La Norvège a déjà voté.",
     "kernel": "La chaleur d'habitacle vient de la batterie, pas des pertes du moteur. La chimie devient pâteuse. Les deux sont de la physique. « Ne marche pas » est une erreur de catégorie.",
     "body": [
-      "AAA (2019) a trouvé de l'ordre de 40 % de perte d'autonomie dans un essai de grand froid avec le chauffage allumé. Les vrais hivers varient : préconditionnement, pompes à chaleur et sièges chauffants en récupèrent une bonne part. La recharge DC est plus lente quand le pack est gelé — autre vrai agacement, résolu par le préconditionnement en route vers la borne.",
+      "AAA (2019) a trouvé de l'ordre de 40 % de perte d'autonomie dans un essai de grand froid avec le chauffage allumé. Les vrais hivers varient : préconditionnement, pompes à chaleur et sièges chauffants en récupèrent une bonne part. La recharge DC est plus lente quand le pack est gelé — autre vrai agacement, résolu par le préconditionnement en route vers la borne.",
       "La Norvège, l'Islande, le Canada, la Suède, la Finlande et les Alpes ont des parts VE grandes ou croissantes. Les gens là-bas n'accomplissent pas un miracle. Ils branchent à la maison, préconditionnent et roulent. Une voiture à essence consomme aussi plus en hiver ; elle cache simplement la taxe dans le même réservoir. Si vous vivez à Bitburg et faites 30 km de trajet, vous remarquerez janvier. Vous ne marcherez pas."
     ],
     "keyFacts": [
       {
         "label": "Coup d'autonomie",
-        "value": "Souvent 20–40 % par grand froid avec chauffage d'habitacle"
+        "value": "Souvent 20–40 % par grand froid avec chauffage d'habitacle"
       },
       {
         "label": "Atténuation",
@@ -279,7 +272,6 @@
     "slug": "lithium",
     "number": 8,
     "verdict": "false",
-    "lastChecked": "2026-08-22",
     "myth": "Il n'y a pas assez de lithium (ni de cuivre, ni de terres rares) pour que tout le monde roule à l'électrique.",
     "headline": "Les ressources géologiques dépassent les prévisions de demande. Les signaux de prix débloquent mines et recyclage. Les goulets sont les permis et le temps, pas un élément manquant.",
     "kernel": null,
@@ -314,7 +306,6 @@
     "slug": "heavy-dangerous",
     "number": 9,
     "verdict": "overstated",
-    "lastChecked": "2026-08-22",
     "myth": "Les VE sont si lourds qu'ils sont des pièges mortels pour tous les autres et qu'ils détruisent les routes.",
     "headline": "Ils sont plus lourds. Les notes de crash-test sont en général excellentes. L'usure des chaussées et la physique piétonne sont les parts qui ne sont pas rien.",
     "kernel": "La masse, c'est de l'énergie dans un choc avec une petite voiture ou une personne. Le freinage régénératif coupe la poussière de frein ; le poids en plus peut augmenter l'usure des pneus. La qualité de l'air nette reste en général meilleure parce qu'il n'y a pas d'échappement.",
@@ -354,7 +345,6 @@
     "slug": "hybrids-better",
     "number": 10,
     "verdict": "misleading",
-    "lastChecked": "2026-08-22",
     "myth": "Les hybrides sont strictement meilleurs. L'électrique à batterie est une impasse.",
     "headline": "Les hybrides sont un bon pont, surtout pour les petits rouleurs sans prise. Ils ne gagnent pas le cycle de vie dès que le réseau est même modérément propre.",
     "kernel": "Si vous faites 6 000 km par an, stationnez dans la rue, et que votre électricité est sale, un petit hybride peut être la voiture rationnelle. C'est une niche, pas une réfutation de la catégorie.",

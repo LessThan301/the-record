@@ -4,22 +4,21 @@
     "slug": "fire",
     "number": 1,
     "verdict": "false",
-    "lastChecked": "2026-08-22",
     "myth": "Teslas brennen häufiger als Benzinautos.",
-    "headline": "Pro Meile veröffentlicht Tesla eine deutlich niedrigere Brandrate als der US-Fahrzeugdurchschnitt. Batteriebrände sind seltener — und hässlicher, wenn sie passieren.",
+    "headline": "Pro gefahrenem Kilometer veröffentlicht Tesla eine deutlich niedrigere Brandrate als der US-Fahrzeugdurchschnitt. Batteriebrände sind seltener — und hässlicher, wenn sie passieren.",
     "kernel": "Ein Lithium-Pack kann neu entflammen und ist schwerer zu löschen. Schlagzeilen folgen dem ungewöhnlichen Brand, nicht den 189.000 langweiligen Benzinbränden in einem typischen US-Jahr.",
     "body": [
-      "Teslas Zahlen zur Fahrzeugbrandsicherheit (2012–2023) setzen ein Brandereignis auf etwa 135 Millionen Meilen. NFPA-/U.S.-DOT-Zahlen für US-Fahrzeuge insgesamt liegen bei etwa einem Brand pro 17 Millionen Meilen. Tesla merkt an, dass seine Zählung Gebäudebrände, Brandstiftung und andere Nicht-Fahrzeugursachen einschließt, die die NFPA-Reihe oft ausklammert — was den Vergleich konservativ gegen Tesla macht.",
+      "Teslas Zahlen zur Fahrzeugbrandsicherheit (2012–2023) setzen ein Brandereignis auf etwa 217 Millionen km. NFPA-/U.S.-DOT-Zahlen für US-Fahrzeuge insgesamt liegen bei etwa einem Brand pro 27 Millionen km. Tesla merkt an, dass seine Zählung Gebäudebrände, Brandstiftung und andere Nicht-Fahrzeugursachen einschließt, die die NFPA-Reihe oft ausklammert — was den Vergleich konservativ gegen Tesla macht.",
       "Andere EV-Datensätze (Schweden, Norwegen) zeigen dieselbe Richtung: Verbrenner brennen häufiger pro Fahrzeug. Der verbleibende ehrliche Satz: Ein EV-Pack-Brand ist ein Spezialfall für die Feuerwehr, kann länger dauern und sieht auf dem Handy apokalyptisch aus. Die Häufigkeit ist nicht das, was die viralen Posts behaupten."
     ],
     "keyFacts": [
       {
         "label": "Tesla (2012–2023)",
-        "value": "~1 Brand pro 135 Millionen Meilen"
+        "value": "~1 Brand pro 217 Millionen km"
       },
       {
         "label": "US-Fahrzeuge (NFPA/DOT)",
-        "value": "~1 Brand pro 17 Millionen Meilen"
+        "value": "~1 Brand pro 27 Millionen km"
       },
       {
         "label": "Vorbehalt",
@@ -54,7 +53,6 @@
     "slug": "build",
     "number": 2,
     "verdict": "overstated",
-    "lastChecked": "2026-08-22",
     "myth": "Teslas Verarbeitungsqualität ist ein Witz. Die Bleche fallen auf dem Heimweg ab.",
     "headline": "Die frühen Volumenjahre waren schlampig. Spaltmaße waren ein echtes Consumer-Reports-Dauerthema. Die Autos der 2020er sind eine andere Fabrik.",
     "kernel": "Wenn die Stichprobe ein Model 3 von 2018 aus dem Produktionshochlauf ist, halluziniert man nicht. Wenn die Stichprobe ein Auto von 2024–2026 ist, diskutiert man mit einem Geist.",
@@ -99,12 +97,11 @@
     "slug": "bankrupt",
     "number": 3,
     "verdict": "false",
-    "lastChecked": "2026-08-22",
     "myth": "Tesla steht kurz vor der Pleite. Immer schon, immer noch.",
     "headline": "Die Angst vor der „production hell“ 2018 war real. Die 2026-Version des Memes ist ein Zombie. Nachfrageschwankungen sind nicht Chapter 11.",
     "kernel": null,
     "body": [
-      "Leerverkäufer hatten 2017–2019 einen Punkt: Der Model-3-Hochlauf hätte die Firma fast umgebracht. Tesla skalierte dann, schrieb in mehreren Jahren GAAP-Gewinne, häufte ein großes Cash-Polster und wurde einer der wertvollsten Autobauer der Welt. Leute, die diese Wette bei $20 (splitbereinigt) gemacht und die Tabelle nie aktualisiert haben, betreiben Folklore.",
+      "Leerverkäufer hatten 2017–2019 einen Punkt: Der Model-3-Hochlauf hätte die Firma fast umgebracht. Tesla skalierte dann, schrieb in mehreren Jahren GAAP-Gewinne, häufte ein großes Cash-Polster und wurde einer der wertvollsten Autobauer der Welt. Leute, die diese Wette bei 20 $ (splitbereinigt) gemacht und die Tabelle nie aktualisiert haben, betreiben Folklore.",
       "Nichts davon macht Tesla unsterblich. Preissenkungen, eine durchwachsene Nachfragephase 2024–2025, Wettbewerb von BYD und der Peitschenhieb aus Marke und Politik sind echte Geschäftsrisiken. „Nächstes Quartal pleite“ ist seit einem Jahrzehnt eine stehengebliebene Uhr. Man behandle es als Risikofaktor, nicht als Prophezeiung."
     ],
     "keyFacts": [
@@ -134,18 +131,17 @@
     "slug": "battery-die",
     "number": 4,
     "verdict": "misleading",
-    "lastChecked": "2026-08-22",
-    "myth": "Die Batterie ist nach acht Jahren tot und kostet $20.000 zum Tausch.",
+    "myth": "Die Batterie ist nach acht Jahren tot und kostet 20.000 $ zum Tausch.",
     "headline": "Packs sind 8 Jahre garantiert und überdauern meist das Nutzleben des Autos. Ein Tausch ist teuer, wenn man einen braucht. Die meisten Besitzer brauchen keinen.",
     "kernel": "Die Intuition vom Handy-Akku ist die Falle. Ein Traktionspack wird thermisch gesteuert und weit schonender zykliert als ein Taschengerät.",
     "body": [
-      "Tesla garantiert Hochvolt-Packs 8 Jahre / 100.000–150.000 Meilen je nach Modell, bis zu einer Kapazitätsuntergrenze. Recurrents große Gebraucht-EV-Studien finden Tausch wegen Ausfall selten (historisch niedriger einstelliger Prozentbereich, deutlich unter 1% für viele Autos ab 2016, ohne Rückrufe). 10% Degradation über ein langes Nutzleben ist ein übliches Realbild, kein toter Klotz.",
+      "Tesla garantiert Hochvolt-Packs 8 Jahre / 160.000–240.000 km je nach Modell (US-Garantie), bis zu einer Kapazitätsuntergrenze. Recurrents große Gebraucht-EV-Studien finden Tausch wegen Ausfall selten (historisch niedriger einstelliger Prozentbereich, deutlich unter 1 % für viele Autos ab 2016, ohne Rückrufe). 10 % Degradation über ein langes Nutzleben ist ein übliches Realbild, kein toter Klotz.",
       "Fällt ein Pack außerhalb der Garantie aus, kann die Rechnung brutal sein — Tausende bis Zehntausende, je nach Modell und ob Module oder das ganze Pack getauscht werden. Das ist der wahre Kern. Es ist ein versicherungsähnliches Endrisiko, nicht der geplante Wartungsposten, den der Mythos beschreibt. Der Gebrauchtmarkt sähe sehr anders aus, wären Packs Achtjahres-Wegwerfartikel."
     ],
     "keyFacts": [
       {
         "label": "Garantie",
-        "value": "8 Jahre, Meilendeckel je Modell, Kapazitätsuntergrenze"
+        "value": "8 Jahre, Kilometergrenze je Modell, Kapazitätsuntergrenze"
       },
       {
         "label": "Ausfallrate",
@@ -184,13 +180,12 @@
     "slug": "range-fake",
     "number": 5,
     "verdict": "overstated",
-    "lastChecked": "2026-08-22",
-    "myth": "Teslas Reichweitenzahlen sind gefälscht. Das Auto stirbt bei 60% des Aufklebers.",
+    "myth": "Teslas Reichweitenzahlen sind gefälscht. Das Auto stirbt bei 60 % des Aufklebers.",
     "headline": "EPA (und WLTP) sind Laborverfahren. Tempo, Kälte und Hitze verschieben die Zahl — wie bei jedem Auto der Verbrauch.",
     "kernel": null,
     "body": [
       "Teslas EPA-Werte lagen in unabhängigen Autobahntests manchmal auf der optimistischen Seite, besonders bei deutschen Autobahngeschwindigkeiten oder im tiefen Winter. Diese Lücke ist eine faire Tester-Klage. Es ist keine einzigartige Tesla-Lüge: Jeder Herstelleraufkleber ist ein standardisierter Zyklus, nicht der Januar-Pendlerweg bei 140 km/h.",
-      "Realwelt-Aggregatoren (Recurrent, Flottentelematik, ADAC) finden Teslas Reichweite in der Klasse in der Regel wettbewerbsfähig. Kälteverluste von 20–40% sind eine EV-Physikgeschichte (Kabinenvärme plus Chemie), behandelt auf der E-Auto-Karte. Wer eine Zahl braucht, der man trauen kann, nutze Autobahntests bei dem Tempo, das man wirklich fährt, nicht einen Screenshot eines Forenzusammenbruchs."
+      "Realwelt-Aggregatoren (Recurrent, Flottentelematik, ADAC) finden Teslas Reichweite in der Klasse in der Regel wettbewerbsfähig. Kälteverluste von 20–40 % sind eine EV-Physikgeschichte (Kabinenvärme plus Chemie), behandelt auf der E-Auto-Karte. Wer eine Zahl braucht, der man trauen kann, nutze Autobahntests bei dem Tempo, das man wirklich fährt, nicht einen Screenshot eines Forenzusammenbruchs."
     ],
     "keyFacts": [
       {
@@ -224,18 +219,17 @@
     "slug": "autopilot-death",
     "number": 6,
     "verdict": "misleading",
-    "lastChecked": "2026-08-22",
     "myth": "Autopilot ist eine Todesfalle. Tesla hat die Leichen versteckt.",
-    "headline": "Es gab tödliche Unfälle mit Autopilot-Beteiligung. Pro Meile schlagen Teslas veröffentlichte Sicherheitszahlen den US-Durchschnitt. Beide Sätze gehören auf die Karte.",
+    "headline": "Es gab tödliche Unfälle mit Autopilot-Beteiligung. Pro gefahrenem Kilometer schlagen Teslas veröffentlichte Sicherheitszahlen den US-Durchschnitt. Beide Sätze gehören auf die Karte.",
     "kernel": "Der Name verspricht zu viel. Ein überwachtes System plus eine Marketingabteilung ist eine schlechte Mischung. Die NHTSA hat Untersuchungen eröffnet. Das ist nicht „die Autos jagen Fußgänger“.",
     "body": [
-      "Teslas Vehicle Safety Report behauptet weniger Unfälle pro Meile mit eingeschaltetem Autopilot als ohne, und weniger als der US-Durchschnitt. Das sind Unternehmenszahlen, mit Selektionseffekten (wer ihn wann auf welchen Straßen einschaltet). Unabhängige Forscher haben Löcher in den Vergleich gestochen. Die genaue Größenordnung behandle man mit Vorsicht; „viel schlechter als menschliche Fahrer pro Meile“ behandle man als unbewiesen.",
+      "Teslas Vehicle Safety Report behauptet weniger Unfälle pro Kilometer mit eingeschaltetem Autopilot als ohne, und weniger als der US-Durchschnitt. Das sind Unternehmenszahlen, mit Selektionseffekten (wer ihn wann auf welchen Straßen einschaltet). Unabhängige Forscher haben Löcher in den Vergleich gestochen. Die genaue Größenordnung behandle man mit Vorsicht; „viel schlechter als menschliche Fahrer pro Kilometer“ behandle man als unbewiesen.",
       "Dokumentierte Fehler: Fahrer, die nicht aufpassen, Systemverwirrung bei kreuzendem Verkehr, parkende Einsatzfahrzeuge. Manche Unfälle sind grauenvoll. Das ethische Problem ist die Lücke zwischen dem Wort „Autopilot“ und der rechtlichen Pflicht, aufzupassen. Man kann strengere Namen und Fahrerüberwachung wollen, ohne ein einzigartiges Gemetzel zu behaupten. Man vergleiche mit den 40.000 US-Straßentoten im Jahr, fast alle nicht in einem Tesla."
     ],
     "keyFacts": [
       {
         "label": "Unternehmenszahlen",
-        "value": "Weniger Unfälle pro Meile mit Autopilot als der US-Durchschnitt"
+        "value": "Weniger Unfälle pro Kilometer mit Autopilot als der US-Durchschnitt"
       },
       {
         "label": "Vorbehalt",
@@ -264,7 +258,6 @@
     "slug": "cobalt",
     "number": 7,
     "verdict": "misleading",
-    "lastChecked": "2026-08-22",
     "myth": "Teslas werden mit Kobalt aus Kinderarbeit im Kongo gebaut.",
     "headline": "Handwerklicher DRC-Kobalt ist ein echter Industriemakel. Tesla zieht Packs vom Kobalt weg. Das Problem ist die Mineralwirtschaft, keine Tesla-eigene Plantage.",
     "kernel": null,
@@ -309,13 +302,12 @@
     "slug": "only-rich",
     "number": 8,
     "verdict": "overstated",
-    "lastChecked": "2026-08-22",
     "myth": "Teslas sind Spielzeuge für Reiche. Musk hat das bezahlbare Auto getötet.",
-    "headline": "Der $25.000-Tesla kommt spät. Model 3/Y sind keine Rolls-Royces. Gebrauchte sind in vielen Märkten inzwischen normales Autogeld.",
+    "headline": "Der 25.000 $-Tesla kommt spät. Model 3/Y sind keine Rolls-Royces. Gebrauchte sind in vielen Märkten inzwischen normales Autogeld.",
     "kernel": "Er hat jahrelang über einen billigen Massen-Tesla gesprochen. Die günstige Plattform der nächsten Generation rutschte immer weiter. Dieses gebrochene Versprechen geht auf seine Kappe.",
     "body": [
       "Die Preise neuer Model 3 und Y, zumal nach den Preissenkungen der mittleren 2020er, liegen in der Nachbarschaft vollausgestatteter Verbrenner-SUVs — kein Hypercar. In Europa konkurrieren sie mit VW-, Hyundai- und BMW-E-Autos. Der Gebrauchtmarkt ist, wo „für Reiche“ am härtesten stirbt: vier Jahre alte Autos handeln wie andere Premium-Volumenmarken.",
-      "Was stimmt: Tesla hat die legendäre $25k-Schrägheck auf der Originalfolie nie ausgeliefert, und Cybertruck / S / X verzerren das Markenbild. Was falsch ist: dass der Median-Tesla-Besitzer Milliardär ist, oder dass kein Tesla unter dem Preis deutscher Premiummarken existiert. Bezahlbarkeit ist ein Spektrum. Tesla besetzt mehr davon, als das Meme erlaubt, weniger, als die Keynote versprach."
+      "Was stimmt: Tesla hat die legendäre 25.000 $-Schrägheck auf der Originalfolie nie ausgeliefert, und Cybertruck / S / X verzerren das Markenbild. Was falsch ist: dass der Median-Tesla-Besitzer Milliardär ist, oder dass kein Tesla unter dem Preis deutscher Premiummarken existiert. Bezahlbarkeit ist ein Spektrum. Tesla besetzt mehr davon, als das Meme erlaubt, weniger, als die Keynote versprach."
     ],
     "keyFacts": [
       {
@@ -324,7 +316,7 @@
       },
       {
         "label": "Gebrochene Folie",
-        "value": "Nächste Generation $25k wiederholt verschoben"
+        "value": "Nächste Generation 25.000 $ wiederholt verschoben"
       },
       {
         "label": "Gebrauchtmarkt",
@@ -349,7 +341,6 @@
     "slug": "repair",
     "number": 9,
     "verdict": "overstated",
-    "lastChecked": "2026-08-22",
     "myth": "Teslas lassen sich nicht reparieren. Ein Blechschaden, und der Versicherer stuft Totalschaden ein.",
     "headline": "Teile, Handbücher und unabhängiger Zugang waren wirklich feindlich. Das lockert sich. Hohe Totalschadenraten bei frühen Autos mischten teure Sensoren mit billigen Werkstätten, die das Auto nicht kannten.",
     "kernel": null,
@@ -389,8 +380,7 @@
     "slug": "robotaxi-vapor",
     "number": 10,
     "verdict": "overstated",
-    "lastChecked": "2026-08-22",
-    "myth": "Robotaxi und Optimus sind Vaporware, wie das $25k-Auto und der Semi.",
+    "myth": "Robotaxi und Optimus sind Vaporware, wie das 25.000 $-Auto und der Semi.",
     "headline": "Zeitpläne waren Theater. Hardware existiert. Begrenzter Robotaxi-Dienst hat begonnen. Optimus ist ein Prototyp, kein Arbeitsmarktereignis.",
     "kernel": "Musk hat die Zukunft auf einem Kalender verkauft, den das Universum nicht unterschrieben hat. Jeden Termin abschlagen. Nicht jedes Objekt abschlagen.",
     "body": [

@@ -4,7 +4,6 @@
     "slug": "emerald",
     "number": 1,
     "verdict": "false",
-    "lastChecked": "2026-08-22",
     "myth": "Elon Musk heredó una fortuna de minas de esmeraldas del apartheid y se compró el paso a Tesla y SpaceX.",
     "headline": "El dinero de PayPal fundó las empresas. No hay ninguna herencia de esmeraldas en la tabla de capitalización.",
     "kernel": "Su padre, Errol, ha contado una historia cambiante sobre esmeraldas en Zambia. Eso no es lo mismo que Elon heredara una mina, ni que usara dinero minero para fundar SpaceX.",
@@ -16,11 +15,11 @@
     "keyFacts": [
       {
         "label": "Ingresos de PayPal",
-        "value": "~$180M (la parte de Elon, 2002)"
+        "value": "~180 MUS$ (la parte de Elon, 2002)"
       },
       {
         "label": "Cheque Tesla 2004",
-        "value": "~$6.5M de ese dinero, inversor principal"
+        "value": "~6,5 MUS$ de ese dinero, inversor principal"
       },
       {
         "label": "Mina de esmeraldas",
@@ -45,7 +44,6 @@
     "slug": "never-built",
     "number": 2,
     "verdict": "false",
-    "lastChecked": "2026-08-22",
     "myth": "Nunca construyó nada. Es un CEO que compra empresas ajenas y tuitea.",
     "headline": "Fundó empresas, y no es el ingeniero de cada pieza. Las dos cosas pueden ser ciertas.",
     "kernel": null,
@@ -80,7 +78,6 @@
     "slug": "taxes",
     "number": 3,
     "verdict": "false",
-    "lastChecked": "2026-08-22",
     "myth": "Elon Musk no paga impuestos.",
     "headline": "Pagó la mayor factura individual conocida de impuesto sobre la renta en EE. UU. Las plusvalías no realizadas no se gravan. Eso es el sistema, no una trampa secreta exclusiva suya.",
     "kernel": "En los años en que no vende acciones ni ejerce opciones, su ingreso en efectivo puede parecer pequeño junto a su patrimonio. Así funcionan las plusvalías no realizadas para cualquier fundador, no una exención especial de Elon.",
@@ -91,7 +88,7 @@
     "keyFacts": [
       {
         "label": "Factura fiscal 2021",
-        "value": "~$11–12 billion (su cifra / estimaciones de prensa)"
+        "value": "~11-12 mil MUS$ (su cifra / estimaciones de prensa)"
       },
       {
         "label": "El disparador",
@@ -120,7 +117,6 @@
     "slug": "cofounder",
     "number": 4,
     "verdict": "misleading",
-    "lastChecked": "2026-08-22",
     "myth": "Llamar a Elon cofundador de Tesla es una mentira. Compró la empresa y se metió a pleitos en la placa.",
     "headline": "Martin Eberhard y Marc Tarpenning fundaron Tesla en 2003. Musk fue el inversor principal en 2004. Un acuerdo de 2009 le permite usar el título de cofundador.",
     "kernel": "La constitución original no lo incluía. La empresa que sobrevivió a 2008 sí, con su dinero, su dirección de producto y su silla de CEO. Las dos mitades de esa frase son el expediente.",
@@ -155,7 +151,6 @@
     "slug": "salute",
     "number": 5,
     "verdict": "misleading",
-    "lastChecked": "2026-08-22",
     "myth": "El gesto de la investidura de enero de 2025 demostró que Elon Musk es nazi.",
     "headline": "El clip se ve feo. La intención no quedó establecida. «Parece un saludo» no es un carné de militancia.",
     "kernel": "Se golpeó el pecho y lanzó un brazo hacia fuera dos veces. Quienes lo vieron, sobre todo en Alemania, oyeron una alarma muy concreta. Esa rima visual es real. También lo es la ausencia de un programa, un manifiesto o una fiscalía que convirtiera el clip en prueba de nazismo.",
@@ -200,7 +195,6 @@
     "slug": "subsidies",
     "number": 6,
     "verdict": "misleading",
-    "lastChecked": "2026-08-22",
     "myth": "Arremete contra el despilfarro público mientras sus empresas viven de subsidios.",
     "headline": "Tesla usó política industrial. SpaceX vende lanzamientos. Mezclar las dos cosas en «bebé de los subsidios» es el truco de magia.",
     "kernel": "El préstamo de 465 millones de dólares del DOE fue real — y se devolvió antes de tiempo, con intereses, en 2013. Los créditos fiscales al comprador de EV y los créditos ZEV son reales. Que la NASA pague por carga y tripulación es la compra de un servicio, como pagaba el Shuttle.",
@@ -211,7 +205,7 @@
     "keyFacts": [
       {
         "label": "Préstamo DOE",
-        "value": "$465M, devuelto en 2013 con intereses"
+        "value": "465 MUS$, devuelto en 2013 con intereses"
       },
       {
         "label": "NASA / DoD",
@@ -235,13 +229,12 @@
     "slug": "fsd-fraud",
     "number": 7,
     "verdict": "overstated",
-    "lastChecked": "2026-08-22",
     "myth": "Prometió la conducción autónoma total hace años. Por lo tanto todo es un fraude.",
     "headline": "Las fechas fueron crónicamente optimistas. La pila no dejó de mejorar. Fallar calendarios no es lo mismo que un producto falso.",
     "kernel": "Desde 2016 vendió un futuro que no llegó en la diapositiva. Ese patrón es real, y los reguladores han notado el hueco entre «Full Self-Driving» como nombre y como capacidad legal.",
     "body": [
       "Autopilot salió como un sistema supervisado de autopista. «Full Self-Driving» como paquete de software ha estado en beta y luego en un lanzamiento más amplio, con el conductor aún responsable. El servicio robotaxi empezó de forma limitada (Austin, 2025) sin un producto nacional no supervisado. Cada año de retraso está en la cinta.",
-      "El encuadre de fraude necesita una cosa que nunca existió. Tesla ha reunido miles de millones de millas reales, iterado redes de extremo a extremo y retirado el radar a favor de la visión: una apuesta técnica, no una diapositiva de humo. Se pueden sostener dos hechos: prometió de más, y el sistema no es una caricatura. Si lo confiarías a tu familia es una pregunta aparte y legítima (véase la ficha de Tesla Autopilot)."
+      "El encuadre de fraude necesita una cosa que nunca existió. Tesla ha reunido miles de millones de kilómetros reales, iterado redes de extremo a extremo y retirado el radar a favor de la visión: una apuesta técnica, no una diapositiva de humo. Se pueden sostener dos hechos: prometió de más, y el sistema no es una caricatura. Si lo confiarías a tu familia es una pregunta aparte y legítima (véase la ficha de Tesla Autopilot)."
     ],
     "keyFacts": [
       {
@@ -270,7 +263,6 @@
     "slug": "twitter",
     "number": 8,
     "verdict": "overstated",
-    "lastChecked": "2026-08-22",
     "myth": "Destruyó Twitter y convirtió X en un bar nazi.",
     "headline": "Los anunciantes se fueron. La moderación se volvió más rara. Community Notes es real. No es 8chan con el logo de un pájaro.",
     "kernel": "La compra privada de 44.000 millones de dólares fue caótica. El derrumbe de plantilla, una avalancha de cuentas antes baneadas y los sustos de seguridad de marca no fueron una alucinación de periodistas.",
@@ -281,7 +273,7 @@
     "keyFacts": [
       {
         "label": "Compra",
-        "value": "$44B, cerrada oct. 2022"
+        "value": "44 mil MUS$, cerrada oct. 2022"
       },
       {
         "label": "Efecto claro",
@@ -305,7 +297,6 @@
     "slug": "apartheid",
     "number": 9,
     "verdict": "misleading",
-    "lastChecked": "2026-08-22",
     "myth": "Es un hijo del apartheid que quiere ese sistema de vuelta. Nacido en Pretoria, por lo tanto la política.",
     "headline": "El lugar de nacimiento no es un manifiesto. Se fue a los 17. Criticar el crimen posapartheid no es un voto por el Partido Nacional.",
     "kernel": "Nació en Pretoria en 1971, en una familia blanca acomodada bajo el apartheid. Eso es cierto, y no es un hecho menor. El salto a «apoyó el régimen / quiere restaurarlo» necesita evidencia de sus actos políticos entonces. Es delgada.",
@@ -340,7 +331,6 @@
     "slug": "unfit",
     "number": 10,
     "verdict": "overstated",
-    "lastChecked": "2026-08-22",
     "myth": "Está atontado por la ketamina e incapaz mentalmente de dirigir empresas.",
     "headline": "Ha dicho que usa ketamina recetada para la depresión. Eso no es un dictamen público de incapacidad. El molino de diagnósticos de internet no es una historia clínica.",
     "kernel": "El estilo de trabajo es extremo, los posts suelen ser temerarios, y varios consejos han tenido que absorber el coste de la marca personal. Esas son quejas operativas justas.",

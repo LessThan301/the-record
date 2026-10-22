@@ -4,22 +4,21 @@
     "slug": "poverty",
     "number": 1,
     "verdict": "false",
-    "lastChecked": "2026-08-22",
     "myth": "Het kapitalisme houdt de armen arm. Markteconomieën maken armoede erger.",
     "headline": "Extreme armoede stortte in tijdens het tijdperk van handel, eigendom en groei — niet ondanks dat.",
     "kernel": "Honderden miljoenen zijn nog extreem arm, en de vooruitgang is sinds covid vertraagd, vooral in fragiele staten. Dat is een reden om meer groei te willen, geen reden om de laatste 40 jaar een mislukking te noemen.",
     "body": [
-      "Our World in Data, op basis van huishoudensurveys van de Wereldbank, telt in 1990 ongeveer 2,31 miljard mensen op minder dan $3 per dag. In 2025 is dat aantal ongeveer 808 miljoen — meer dan 1,5 miljard minder, in de orde van 100.000 mensen per dag over een generatie. De $2.15-lijn van de Wereldbank vertelt hetzelfde verhaal: ruwweg 8,5% van de mensheid, versus een meerderheid in 1950 en ongeveer 38% nog in 1990.",
+      "Our World in Data, op basis van huishoudensurveys van de Wereldbank, telt in 1990 ongeveer 2,31 miljard mensen op minder dan US$ 3 per dag. In 2025 is dat aantal ongeveer 808 miljoen — meer dan 1,5 miljard minder, in de orde van 100.000 mensen per dag over een generatie. De US$ 2,15-lijn van de Wereldbank vertelt hetzelfde verhaal: ruwweg 8,5% van de mensheid, versus een meerderheid in 1950 en ongeveer 38% nog in 1990.",
       "De daling is geen mysterieus liefdadigheidsevenement. Ze is geconcentreerd waar landen opengingen voor handel, boeren en bedrijven lieten houden wat ze produceerden, en in globale toeleveringsketens stapten — China na 1978, India na 1991, Vietnam, Bangladesh, een groot deel van Oost-Azië. Planeconomieën die markten illegaal hielden, leverden geen vergelijkbare ontsnapping.",
       "Een markteconomie belooft niet dat elke regio even hard beweegt. Het aandeel van Sub-Sahara-Afrika in extreme armoede daalde terwijl het absolute aantal meegroeide met de bevolking. Dat is een beleids- en productiviteitsprobleem binnen marktsystemen, geen bewijs dat markten armoede veroorzaken."
     ],
     "keyFacts": [
       {
-        "label": "1990, $3/dag",
+        "label": "1990, US$ 3/dag",
         "value": "2,31 miljard mensen"
       },
       {
-        "label": "2025, $3/dag",
+        "label": "2025, US$ 3/dag",
         "value": "~808 miljoen"
       },
       {
@@ -50,7 +49,6 @@
     "slug": "zero-sum",
     "number": 2,
     "verdict": "false",
-    "lastChecked": "2026-08-22",
     "myth": "De economie is een nulsom. Rijken worden alleen rijk door iedereen anders armer te maken.",
     "headline": "De taart groeide. Dat is het hele punt van een markteconomie.",
     "kernel": "Sommige winsten zijn positioneel, en sommige fortuinen zijn vriendjeskapitalisme. Geen van beide feiten maakt van een groeiende wereld een gesloten pokertafel.",
@@ -91,7 +89,6 @@
     "slug": "nordic",
     "number": 3,
     "verdict": "false",
-    "lastChecked": "2026-08-22",
     "myth": "De Noordse landen bewijzen dat socialisme werkt, en dat kapitalisme het mindere stelsel is.",
     "headline": "Denemarken en Noorwegen zijn kapitalistische markteconomieën met daarbovenop een grote verzorgingsstaat.",
     "kernel": "Ze belasten veel en geven veel uit aan diensten. Dat is geen publiek eigendom van de productiemiddelen, en het wordt gefinancierd door private bedrijven die in open markten opereren.",
@@ -137,7 +134,6 @@
     "slug": "planning",
     "number": 4,
     "verdict": "false",
-    "lastChecked": "2026-08-22",
     "myth": "Een planeconomie levert betere levensstandaarden dan een markteconomie.",
     "headline": "Gedeelde landen zijn het experiment. Markten wonnen, herhaaldelijk.",
     "kernel": "Overheden kunnen wegen, vaccins en oorlogsproductie plannen. Ze kunnen prijzen niet vervangen als de manier waarop een hele economie beslist wat er gemaakt wordt.",
@@ -183,12 +179,11 @@
     "slug": "inequality",
     "number": 5,
     "verdict": "misleading",
-    "lastChecked": "2026-08-22",
     "myth": "Stijgende ongelijkheid bewijst dat het kapitalisme een mislukt stelsel is.",
     "headline": "Wereldwijde ongelijkheid tussen landen is gedaald naarmate arme landen groeiden. Armoede is de betere toets.",
     "kernel": "Binnen sommige rijke landen is de top weggelopen. Dat is een echt politiek feit. Het is iets anders dan „het stelsel maakt de armen armer.”",
     "body": [
-      "Als de aanklacht is dat marktgroei de wereldarmen achterlaat, zijn de laatste 40 jaar de weerlegging. Groei van China en India is een compressie van ongelijkheid tussen landen — het gat dat vroeger de wereld-Gini domineerde. De reeks wereldongelijkheid van Our World in Data toont dat verhaal. De mensen die de armoede van $3 per dag verlieten, deden dat niet door Zwitserse tandartsen te onteigenen.",
+      "Als de aanklacht is dat marktgroei de wereldarmen achterlaat, zijn de laatste 40 jaar de weerlegging. Groei van China en India is een compressie van ongelijkheid tussen landen — het gat dat vroeger de wereld-Gini domineerde. De reeks wereldongelijkheid van Our World in Data toont dat verhaal. De mensen die de armoede van US$ 3 per dag verlieten, deden dat niet door Zwitserse tandartsen te onteigenen.",
       "Binnen de Verenigde Staten en delen van Europa hebben technologie die hoogopgeleiden bevoordeelt, woningschaarste en winner-take-most-markten de top uitgerekt. Je kunt meer concurrentie, dichtere steden en een betere belastingmix willen zonder een Gini-coëfficiënt als overlijdensakte van markten te behandelen. Gelijke armoede is geen succes; ongelijke welvaart met een dalend armoedecijfer komt dichter in de buurt.",
       "Een markteconomie belooft geen identieke uitkomsten. Ze belooft dat mensen kunnen handelen en investeren zonder een ministerie dat hun baan toewijst. Beoordeel haar op mobiliteit, absolute levensstandaarden, en of de vloer stijgt. Op die punten is het kapitalistische dossier het dossier dat andere stelsels blijven proberen te kopiëren."
     ],
@@ -224,12 +219,11 @@
     "slug": "exploit",
     "number": 6,
     "verdict": "misleading",
-    "lastChecked": "2026-08-22",
     "myth": "Kapitalisme vereist uitbuiting van werknemers. Sweatshops bewijzen dat het stelsel extractief is.",
     "headline": "Mensen nemen de fabrieksbaan omdat het alternatief slechter is. Lonen stijgen daarna mee met de productiviteit.",
     "kernel": "Vroege industriële omstandigheden zijn vaak grimmig. Dat is een reden voor groei en uitstapopties, geen reden om de ladder te verbieden.",
     "body": [
-      "Paul Krugmans „In Praise of Cheap Labor” en de latere sweatshopliteratuur (Powell en anderen) maken een onsentimenteel punt: een fabrieksbaan van $2 wordt gekozen boven een boerderijdag van $1 of geen baan. De fabriek verbieden tovert geen salaris van een Deense verpleegkundige tevoorschijn. Het verwijst de werknemer naar de slechtere optie. Daarom hebben campagnes die fabrieken sluiten zonder een betere lokale werkgever een dodenlijst in verloren inkomen.",
+      "Paul Krugmans „In Praise of Cheap Labor” en de latere sweatshopliteratuur (Powell en anderen) maken een onsentimenteel punt: een fabrieksbaan van US$ 2 wordt gekozen boven een boerderijdag van US$ 1 of geen baan. De fabriek verbieden tovert geen salaris van een Deense verpleegkundige tevoorschijn. Het verwijst de werknemer naar de slechtere optie. Daarom hebben campagnes die fabrieken sluiten zonder een betere lokale werkgever een dodenlijst in verloren inkomen.",
       "Uitbuiting, in de slogan, betekent „de eigenaar kreeg restwinst.” In een competitieve arbeidsmarkt wordt het loon naar het marginale product van de werknemer geboden. Het historische patroon in Korea, Taiwan, China en Bangladesh is hetzelfde: eerst de grimmige fabriek, dan de betere fabriek, dan de dienstbaan. Reële productielonen in Oost-Azië stagneerden geen eeuw.",
       "Waar werknemers niet weg kunnen, zich niet kunnen organiseren en niet kunnen bezitten, heb je geen marktfalen — je hebt een politiek falen. Horige toestanden, de Hukou-val, en bedrijfsdorpen met gewapende poorten zijn beperkingen op markten, niet de definitie ervan."
     ],
@@ -265,7 +259,6 @@
     "slug": "climate",
     "number": 7,
     "verdict": "overstated",
-    "lastChecked": "2026-08-22",
     "myth": "Het kapitalisme kookt de planeet. Een markteconomie kan uitstoot niet snijden.",
     "headline": "Rijke markteconomieën zijn begonnen bbp van CO₂ te ontkoppelen. Het resterende probleem is mondiaal en politiek.",
     "kernel": "Mondiale uitstoot is nog te hoog. Ontkoppeling in de EU en VS is geen afgerond klimaatbeleid. Het is bewijs dat groei en dalende uitstoot kunnen samengaan.",
@@ -311,7 +304,6 @@
     "slug": "billionaires",
     "number": 8,
     "verdict": "misleading",
-    "lastChecked": "2026-08-22",
     "myth": "Als er miljardairs bestaan, hebben ze het geld gestolen. Een rechtvaardige markteconomie zou ze niet voortbrengen.",
     "headline": "De meeste grote Amerikaanse fortuinen zijn aandelen in bedrijven die een product opschaalden. Vriendjeskapitalisme is de uitzondering om aan te pakken, niet de regel om af te schaffen.",
     "kernel": "Sommige miljardairs zijn subsidieboeren of monopolie-erfgenamen. Noem ze. Doe niet alsof elke oprichtersrest een diefstal van een klerk is.",
@@ -352,7 +344,6 @@
     "slug": "war",
     "number": 9,
     "verdict": "false",
-    "lastChecked": "2026-08-22",
     "myth": "Het kapitalisme veroorzaakt oorlog. Markten hebben bloed nodig om te groeien.",
     "headline": "Marktdemocratieën bevechten elkaar zelden. De industriële slachtpartij van de twintigste eeuw was geen aandeelhoudersvergadering.",
     "kernel": "Staten gaan onder elk eigendomsregime naar oorlog om grondgebied, angst en glorie. Koloniale bedrijven deden lelijke dingen. Dat is geen unieke wet van het kapitalisme.",
@@ -393,7 +384,6 @@
     "slug": "public-goods",
     "number": 10,
     "verdict": "overstated",
-    "lastChecked": "2026-08-22",
     "myth": "Markten kunnen geen zorg, scholen of een vangnet leveren, dus is het kapitalisme het verkeerde stelsel.",
     "headline": "Een markteconomie is hoe je rijk genoeg wordt om publieke goederen te kopen. Het is geen verbod erop.",
     "kernel": "Zuivere publieke goederen en verzekeringsmarkten falen op de manieren uit het leerboek. Dat rechtvaardigt enige overheid. Het rechtvaardigt niet om prijzen als uitgangspunt voor de rest van de economie te vervangen.",

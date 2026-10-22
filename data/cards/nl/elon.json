@@ -4,23 +4,22 @@
     "slug": "emerald",
     "number": 1,
     "verdict": "false",
-    "lastChecked": "2026-08-22",
     "myth": "Elon Musk erfde een fortuin uit een smaragdenmijn in de apartheidstijd en kocht zich daarmee in bij Tesla en SpaceX.",
     "headline": "De opbrengst van PayPal financierde de bedrijven. In het aandeelhoudersregister staat geen smaragdenerfenis.",
     "kernel": "Zijn vader Errol heeft een wisselend verhaal verteld over smaragden in Zambia. Dat is iets anders dan dat Elon een mijn erfde, of mijnengeld gebruikte om SpaceX te beginnen.",
     "body": [
-      "Elon vertrok op zijn zeventiende uit Zuid-Afrika, werkte in Canada en studeerde daarna in de VS. Zip2 was een softwarestart-up uit de jaren negentig; Compaq kocht het in 1999. X.com, dat PayPal werd, is waar het echte belang vandaan kwam: ruwweg $180 miljoen na de overname door eBay. Dat is het gedocumenteerde startkapitaal van SpaceX (2002) en van zijn Tesla-investering in 2004.",
+      "Elon vertrok op zijn zeventiende uit Zuid-Afrika, werkte in Canada en studeerde daarna in de VS. Zip2 was een softwarestart-up uit de jaren negentig; Compaq kocht het in 1999. X.com, dat PayPal werd, is waar het echte belang vandaan kwam: ruwweg US$ 180 mln. na de overname door eBay. Dat is het gedocumenteerde startkapitaal van SpaceX (2002) en van zijn Tesla-investering in 2004.",
       "Errol Musk heeft op verschillende momenten beweerd een belang te hebben gehad in de Zambiaanse smaragdproductie, en het verhaal later teruggedraaid tot „een deel van de smaragden.” Maye Musk heeft een comfortabel huishouden beschreven, geen dynastiek mijnbouwimperium. De biografie van Walter Isaacson en contemporaine verslaggeving vinden geen overdracht van mijnvermogen naar Zip2, PayPal, Tesla of SpaceX.",
       "Een vader die ooit in stenen handelde, is een kleurrijk ontstaansverhaal. Het is geen vervanging voor de aandeelhoudersregisters, de PayPal-uitkering, of het decennium van bijna-faillissement bij SpaceX en Tesla dat volgde."
     ],
     "keyFacts": [
       {
         "label": "Opbrengst PayPal",
-        "value": "~$180M (Elons aandeel, 2002)"
+        "value": "~US$ 180 mln. (Elons aandeel, 2002)"
       },
       {
         "label": "Tesla-cheque 2004",
-        "value": "~$6.5M van dat geld, hoofdinvesteerder"
+        "value": "~US$ 6,5 mln. van dat geld, hoofdinvesteerder"
       },
       {
         "label": "Smaragdenmijn",
@@ -45,7 +44,6 @@
     "slug": "never-built",
     "number": 2,
     "verdict": "false",
-    "lastChecked": "2026-08-22",
     "myth": "Hij heeft nooit iets gebouwd. Hij is een CEO die andermans bedrijven koopt en tweets.",
     "headline": "Hij heeft bedrijven opgericht, en hij is niet de ingenieur van elk onderdeel. Beide kunnen waar zijn.",
     "kernel": null,
@@ -80,18 +78,17 @@
     "slug": "taxes",
     "number": 3,
     "verdict": "false",
-    "lastChecked": "2026-08-22",
     "myth": "Elon Musk betaalt geen belasting.",
     "headline": "Hij betaalde de hoogst bekende individuele Amerikaanse inkomstenbelastingaanslag. Ongerealiseerde winsten worden niet belast. Dat is het stelsel, geen geheime achterdeur alleen voor hem.",
     "kernel": "In jaren waarin hij geen aandelen verkoopt of opties uitoefent, kan zijn kasinkomen klein lijken naast zijn vermogen. Zo werken ongerealiseerde winsten voor elke oprichter, niet als een speciale Elon-vrijstelling.",
     "body": [
-      "In 2021 oefende hij een groot Tesla-optiepakket uit en verkocht hij aandelen. Hij zei dat de resulterende belastingaanslag boven de $11 miljard lag — contemporaine schattingen zetten het federale deel rond de $10–12 miljard, breed gerapporteerd als de grootste individuele inkomstenbelastingbetaling ooit.",
+      "In 2021 oefende hij een groot Tesla-optiepakket uit en verkocht hij aandelen. Hij zei dat de resulterende belastingaanslag boven de US$ 11 mld. lag — contemporaine schattingen zetten het federale deel rond de US$ 10-12 mld., breed gerapporteerd als de grootste individuele inkomstenbelastingbetaling ooit.",
       "Critici merken terecht op dat vermogen (vooral Tesla- en SpaceX-aandelen) jaren kan groeien zonder belastbaar feit. Dat is een argument over of de VS ongerealiseerde winsten moet belasten, geen bewijs dat hij „geen belasting betaalt.” Toen de opties vielen, viel de aanslag."
     ],
     "keyFacts": [
       {
         "label": "Belastingaanslag 2021",
-        "value": "~$11–12 miljard (zijn cijfer / persschattingen)"
+        "value": "~US$ 11-12 mld. (zijn cijfer / persschattingen)"
       },
       {
         "label": "Aanleiding",
@@ -130,7 +127,6 @@
     "slug": "cofounder",
     "number": 4,
     "verdict": "misleading",
-    "lastChecked": "2026-08-22",
     "myth": "Elon een Tesla-medeoprichter noemen is een leugen. Hij kocht het bedrijf en sleepte zich via de rechter op de plaquette.",
     "headline": "Martin Eberhard en Marc Tarpenning richtten Tesla op in 2003. Musk was de hoofdinvesteerder in 2004. Een schikking uit 2009 laat hem de titel medeoprichter gebruiken.",
     "kernel": "De oorspronkelijke oprichting nam hem niet op. Het bedrijf dat 2008 overleefde wel, onder zijn geld, productsturing en CEO-stoel. Beide helften van die zin zijn het dossier.",
@@ -165,7 +161,6 @@
     "slug": "salute",
     "number": 5,
     "verdict": "misleading",
-    "lastChecked": "2026-08-22",
     "myth": "Het gebaar bij de inauguratie van januari 2025 bewees dat Elon Musk een nazi is.",
     "headline": "Het fragment ziet er lelijk uit. Opzet is niet vastgesteld. „Ziet eruit als een groet” is geen lidmaatschapskaart van een partij.",
     "kernel": "Hij sloeg op zijn borst en zwaaide twee keer een arm naar voren. Kijkers, vooral in Duitsland, hoorden een heel specifiek alarm. Die visuele rijm is echt. Even echt is de afwezigheid van een programma, een manifest of een vervolging die het fragment tot bewijs van nazisme maakte.",
@@ -205,18 +200,17 @@
     "slug": "subsidies",
     "number": 6,
     "verdict": "misleading",
-    "lastChecked": "2026-08-22",
     "myth": "Hij fulmineert tegen overheidsverspilling terwijl zijn bedrijven op subsidies bestaan.",
     "headline": "Tesla gebruikte industriepolitiek. SpaceX verkoopt lanceringen. Die twee tot „subsidiekind” mengen is het goocheltrucje.",
-    "kernel": "De DOE-lening van $465 miljoen was echt — en in 2013 vervroegd terugbetaald, met rente. Belastingkortingen voor kopers van EV’s en ZEV-credits zijn echt. NASA die betaalt voor vracht en bemanning is aankoop van een dienst, zoals het betaalde voor de Shuttle.",
+    "kernel": "De DOE-lening van US$ 465 mln. was echt — en in 2013 vervroegd terugbetaald, met rente. Belastingkortingen voor kopers van EV’s en ZEV-credits zijn echt. NASA die betaalt voor vracht en bemanning is aankoop van een dienst, zoals het betaalde voor de Shuttle.",
     "body": [
-      "De vroege jaren van Tesla liepen via de DOE-ATVM-lening van 2009 ($465 miljoen). Tesla betaalde die in 2013 terug, negen jaar eerder. Amerikaanse en Europese EV-belastingkortingen gaan naar kopers; ze hielpen de vraag nog steeds. Credits voor voertuigen zonder uitstoot, verkocht aan andere autofabrikanten, waren jarenlang een betekenisvolle Tesla-omzetlijn. Dat is industriepolitiek, en het tegendeel beweren is fantasie.",
+      "De vroege jaren van Tesla liepen via de DOE-ATVM-lening van 2009 (US$ 465 mln.). Tesla betaalde die in 2013 terug, negen jaar eerder. Amerikaanse en Europese EV-belastingkortingen gaan naar kopers; ze hielpen de vraag nog steeds. Credits voor voertuigen zonder uitstoot, verkocht aan andere autofabrikanten, waren jarenlang een betekenisvolle Tesla-omzetlijn. Dat is industriepolitiek, en het tegendeel beweren is fantasie.",
       "Het NASA-geld voor COTS en Commercial Crew was contracteren op mijlpalen, bedoeld om vracht- en astronautenvluchten goedkoper te kopen dan de Shuttle. De U.S. Space Force koopt lanceringen via een competitieve catalogus. De Starlink-subsidie voor landelijk breedband werd later de rechtszaal in getrokken. Elke overheidscheque een „subsidie” noemen wist het verschil weg tussen een gift en een rekening voor een lancering."
     ],
     "keyFacts": [
       {
         "label": "DOE-lening",
-        "value": "$465M, in 2013 terugbetaald met rente"
+        "value": "US$ 465 mln., in 2013 terugbetaald met rente"
       },
       {
         "label": "NASA / DoD",
@@ -240,7 +234,6 @@
     "slug": "fsd-fraud",
     "number": 7,
     "verdict": "overstated",
-    "lastChecked": "2026-08-22",
     "myth": "Hij beloofde jaren geleden volledig autonoom rijden. Dus is het hele ding fraude.",
     "headline": "De datums waren chronisch te optimistisch. De stack werd steeds beter. Gemiste kalenders zijn iets anders dan een nepproduct.",
     "kernel": "Vanaf 2016 verkocht hij een toekomst die niet op de slide aankwam. Dat is een echt patroon, en toezichthouders hebben het gat gezien tussen „Full Self-Driving” als naam en als wettelijk kunnen.",
@@ -275,18 +268,17 @@
     "slug": "twitter",
     "number": 8,
     "verdict": "overstated",
-    "lastChecked": "2026-08-22",
     "myth": "Hij heeft Twitter kapotgemaakt en X tot een nazikroeg gemaakt.",
     "headline": "Adverteerders vertrokken. Moderatie werd vreemder. Community Notes is echt. Het is geen 8chan met een vogellogo.",
-    "kernel": "De overname van $44 miljard, van de beurs af, was chaotisch. Instortend personeelsbestand, een vloed van eerder verbannen accounts, en schrik over merkveiligheid waren geen hallucinatie van journalisten.",
+    "kernel": "De overname van US$ 44 mld., van de beurs af, was chaotisch. Instortend personeelsbestand, een vloed van eerder verbannen accounts, en schrik over merkveiligheid waren geen hallucinatie van journalisten.",
     "body": [
       "Na oktober 2022 verloor X een groot deel van de advertenties. Vertrouwens- en veiligheidspersoneel werd weggesneden. Sommige extremistische accounts kwamen terug. Onderzoekers van haattaal rapporteerden in de eerste maanden hogere percentages scheldwoorden. Dat is gedocumenteerd.",
-      "De lijn „nazikroeg” is een stemming, geen telling. Community Notes werd een van de interessantere publieke factchecksystemen op het internet, ook tegen Musks eigen posts. Politiek bereik werd heterodoxer: rechtser, ook anti-woke, en nog steeds vol linkse gebruikers. Een rommeliger stadsplein is iets anders dan een toegewijd extremistenforum. Of die ruil $44 miljard waard was, is een bedrijfsvraag. Of je de sfeer mag, is een smaakvraag."
+      "De lijn „nazikroeg” is een stemming, geen telling. Community Notes werd een van de interessantere publieke factchecksystemen op het internet, ook tegen Musks eigen posts. Politiek bereik werd heterodoxer: rechtser, ook anti-woke, en nog steeds vol linkse gebruikers. Een rommeliger stadsplein is iets anders dan een toegewijd extremistenforum. Of die ruil US$ 44 mld. waard was, is een bedrijfsvraag. Of je de sfeer mag, is een smaakvraag."
     ],
     "keyFacts": [
       {
         "label": "Aankoop",
-        "value": "$44B, afgerond okt 2022"
+        "value": "US$ 44 mld., afgerond okt 2022"
       },
       {
         "label": "Duidelijk effect",
@@ -310,7 +302,6 @@
     "slug": "apartheid",
     "number": 9,
     "verdict": "misleading",
-    "lastChecked": "2026-08-22",
     "myth": "Hij is een kind van de apartheid dat dat stelsel terugwil. Geboren in Pretoria, dus de politiek.",
     "headline": "Geboorteplaats is geen pamflet. Hij vertrok op zijn zeventiende. Kritiek op criminaliteit na de apartheid is geen stem op de National Party.",
     "kernel": "Hij werd in 1971 in Pretoria geboren in een welgesteld blank gezin onder apartheid. Dat is waar, en het is geen klein feit. De sprong naar „hij steunde het regime / wil het herstellen” vraagt bewijs van zijn politieke daden toen. Dat is mager.",
@@ -345,7 +336,6 @@
     "slug": "unfit",
     "number": 10,
     "verdict": "overstated",
-    "lastChecked": "2026-08-22",
     "myth": "Hij is ketamineversuft en mentaal ongeschikt om bedrijven te leiden.",
     "headline": "Hij heeft gezegd dat hij voorgeschreven ketamine gebruikt tegen depressie. Dat is geen publieke vaststelling van onbekwaamheid. De internetdiagnose is geen medisch dossier.",
     "kernel": "De werkstijl is extreem, het posten is vaak roekeloos, en verscheidene raden van bestuur hebben de kosten van het persoonlijke merk moeten slikken. Dat zijn redelijke operationele klachten.",

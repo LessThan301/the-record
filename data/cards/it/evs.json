@@ -4,7 +4,6 @@
     "slug": "power-plants",
     "number": 1,
     "verdict": "false",
-    "lastChecked": "2026-08-22",
     "myth": "Gli EV sono peggiori per il clima perché spostano solo il camino sulla centrale.",
     "headline": "Anche su una rete sporca, un EV tipico batte un'auto a benzina tipica sulla vita intera. L'efficienza è il trucco: gran parte della benzina che bruciate non arriva mai alle ruote.",
     "kernel": null,
@@ -44,18 +43,17 @@
     "slug": "battery-manufacturing",
     "number": 2,
     "verdict": "false",
-    "lastChecked": "2026-08-22",
     "myth": "La produzione delle batterie è così sporca che l'EV non ripaga mai il debito di carbonio.",
     "headline": "La produzione pesa di più in partenza. Il payback è in genere un paio d'anni di guida, non una vita.",
     "kernel": "Un pacco di lunga autonomia emette davvero di più in fabbrica di una hatch di acciaio e benzina. Quella parte della slide non è finta. Il trucco è fermare il video prima che l'auto venga guidata.",
     "body": [
-      "Argonne GREET, ICCT e i ricalcoli Carbon Brief delle pretese dei costruttori mettono il payback di carbonio dell'ordine di 10–20 mila miglia in Europa — spesso sotto i due anni per un guidatore normale. Esempi di classe Tesla Model Y nel Regno Unito sono stati stimati intorno alle 13.000 miglia. Anche le cifre Volvo e VW, una volta tolta la spinta sul piatto, non richiedono 70.000 miglia di penitenza.",
+      "Argonne GREET, ICCT e i ricalcoli Carbon Brief delle pretese dei costruttori mettono il payback di carbonio dell'ordine di 16.000–32.000 km in Europa — spesso sotto i due anni per un guidatore normale. Esempi di classe Tesla Model Y nel Regno Unito sono stati stimati intorno alle 21.000 km. Anche le cifre Volvo e VW, una volta tolta la spinta sul piatto, non richiedono 110.000 km di penitenza.",
       "Riciclo e impianti di celle più puliti restringono ulteriormente il debito. Il residuo onesto: comprate il pacco più piccolo che vi basta, tenete l'auto a lungo, e badate a dove le celle sono state cotte. «Non ripaga mai» è una condivisione Facebook del 2019 che non è sopravvissuta a GREET."
     ],
     "keyFacts": [
       {
         "label": "Payback (Europa, tipico)",
-        "value": "~11k–20k miglia, spesso <2 anni"
+        "value": "~18.000–32.000 km, spesso <2 anni"
       },
       {
         "label": "Metodo",
@@ -84,7 +82,6 @@
     "slug": "batteries-fail",
     "number": 3,
     "verdict": "false",
-    "lastChecked": "2026-08-22",
     "myth": "Le batterie EV si rompono dopo pochi anni e poi diventano discarica tossica.",
     "headline": "Le sostituzioni per guasto sono rare. La maggior parte dei pacchi sopravvive all'auto. I pacchi morti sono rottame di valore, non un nuovo Love Canal.",
     "kernel": null,
@@ -124,7 +121,6 @@
     "slug": "grid-collapse",
     "number": 4,
     "verdict": "false",
-    "lastChecked": "2026-08-22",
     "myth": "La rete crollerà se guidiamo tutti elettrico.",
     "headline": "Le reti nazionali possono assorbire gli EV, soprattutto con la ricarica notturna. I trasformatori locali sono il vincolo da adulti.",
     "kernel": "Una via di wallbox da 11 kW su un feeder anni Settanta è un vero mal di testa per il gestore. È un upgrade di quartiere, non la morte dell'elettrificazione.",
@@ -159,12 +155,11 @@
     "slug": "nowhere-charge",
     "number": 5,
     "verdict": "overstated",
-    "lastChecked": "2026-08-22",
     "myth": "Non c'è dove ricaricare. Gli EV funzionano solo se avete una casa a Palo Alto.",
     "headline": "La ricarica a casa (o al lavoro) è il prodotto. Le reti pubbliche sono cresciute in fretta e restano a macchia di leopardo nei posti sbagliati — soprattutto le strade dei condomini.",
     "kernel": "Se lasciate l'auto in strada in una città europea densa senza una box condivisa, l'auto è un elettrodomestico peggiore. È un fallimento di pianificazione, non la prova che gli elettroni non possano viaggiare in un cavo.",
     "body": [
-      "Gran parte dei chilometri EV in Norvegia, California e Germania non si vincono a un'area di servizio autostradale. Si vincono su una box da 7–11 kW di notte. L'EPA nota che la maggioranza dei tragitti quotidiani USA è breve; il 98% dei viaggi è ≤75 miglia. Le reti pubbliche DC fast si sono moltiplicate (soldi NEVI USA, regole AFIR UE). L'affidabilità di alcune reti è ancora un meme per una ragione.",
+      "Gran parte dei chilometri EV in Norvegia, California e Germania non si vincono a un'area di servizio autostradale. Si vincono su una box da 7–11 kW di notte. L'EPA nota che la maggioranza dei tragitti quotidiani USA è breve; il 98% dei viaggi è ≤120 km. Le reti pubbliche DC fast si sono moltiplicate (soldi NEVI USA, regole AFIR UE). L'affidabilità di alcune reti è ancora un meme per una ragione.",
       "I casi duri che restano: gli inquilini, i residenti di torri, chi non ha un posto auto dedicato. La policy sta spingendo piano regole da «diritto alla presa» in UE. Finché non è infrastruttura noiosa, quei guidatori hanno ragione a esitare. Non è la stessa cosa di «non ci sono colonnine»."
     ],
     "keyFacts": [
@@ -174,7 +169,7 @@
       },
       {
         "label": "Tragitti quotidiani (USA)",
-        "value": "73% ≤10 miglia; 98% ≤75 miglia (NHTS)"
+        "value": "73% ≤16 km; 98% ≤120 km (NHTS)"
       },
       {
         "label": "Modalità difficile",
@@ -194,18 +189,17 @@
     "slug": "range",
     "number": 6,
     "verdict": "false",
-    "lastChecked": "2026-08-22",
     "myth": "Gli EV non hanno abbastanza autonomia per la vita reale.",
     "headline": "Gli EV di volume moderni superano i 300–500+ km WLTP. La vita reale è un tragitto, non un set cinematografico attraverso il Texas.",
     "kernel": null,
     "body": [
-      "EPA: la maggior parte dei modelli nuovi supera le 200 miglia omologate; la distribuzione dei viaggi quotidiani USA rende quello un surplus, non una scarsità. I numeri WLTP europei per Model Y, famiglia ID., Hyundai/Kia e import cinesi stanno nella stessa fascia in cui la gente già vive con un diesel che rifornisce per abitudine, non per bisogno.",
+      "EPA: la maggior parte dei modelli nuovi supera le 320 km omologate; la distribuzione dei viaggi quotidiani USA rende quello un surplus, non una scarsità. I numeri WLTP europei per Model Y, famiglia ID., Hyundai/Kia e import cinesi stanno nella stessa fascia in cui la gente già vive con un diesel che rifornisce per abitudine, non per bisogno.",
       "L'ansia da autonomia è un problema da vacanza una volta l'anno più un problema d'inverno (scheda successiva). Non è un problema di martedì per il guidatore mediano. Se la vostra vita è 800 km di Autobahn in una bufera con un box da sci, sapete già di essere un caso speciale — pianificatelo, o tenete un ICE di lunga autonomia per quella settimana. Non scrivete una legge di natura dal caso speciale."
     ],
     "keyFacts": [
       {
         "label": "Autonomia auto nuove",
-        "value": "Di solito 200+ miglia EPA / 300–500 km WLTP"
+        "value": "Di solito 320+ km EPA / 300–500 km WLTP"
       },
       {
         "label": "Fabbisogno quotidiano",
@@ -229,7 +223,6 @@
     "slug": "cold",
     "number": 7,
     "verdict": "misleading",
-    "lastChecked": "2026-08-22",
     "myth": "Gli EV non funzionano col freddo. L'inverno dimostra che l'idea è morta.",
     "headline": "L'autonomia cala — spesso del 20–40% nelle settimane cattive. Le auto partono lo stesso. La Norvegia ha già votato.",
     "kernel": "Il calore dell'abitacolo arriva dalla batteria, non dallo scarto del motore. La chimica diventa pigra. Entrambe sono fisica. «Non funziona» è un errore di categoria.",
@@ -269,7 +262,6 @@
     "slug": "lithium",
     "number": 8,
     "verdict": "false",
-    "lastChecked": "2026-08-22",
     "myth": "Non c'è abbastanza litio (o rame, o terre rare) perché tutti guidino elettrico.",
     "headline": "Le risorse geologiche superano le previsioni di domanda. I segnali di prezzo sbloccano miniere e riciclo. I colli di bottiglia sono permessi e tempi, non un elemento mancante.",
     "kernel": null,
@@ -304,7 +296,6 @@
     "slug": "heavy-dangerous",
     "number": 9,
     "verdict": "overstated",
-    "lastChecked": "2026-08-22",
     "myth": "Gli EV sono così pesanti da essere trappole mortali per tutti gli altri e distruggono le strade.",
     "headline": "Sono più pesanti. I punteggi crash-test sono in genere eccellenti. L'usura delle strade e la fisica del pedone sono le parti che non sono niente.",
     "kernel": "La massa è energia in uno scontro con un'utilitaria o una persona. La frenata rigenerativa taglia la polvere dei freni; il peso extra può aggiungere usura delle gomme. La qualità dell'aria netta resta di solito migliore perché non c'è tubo di scappamento.",
@@ -344,7 +335,6 @@
     "slug": "hybrids-better",
     "number": 10,
     "verdict": "misleading",
-    "lastChecked": "2026-08-22",
     "myth": "Le ibride sono strettamente migliori. L'elettrico a batteria è un vicolo cieco.",
     "headline": "Le ibride sono un buon ponte, soprattutto per chi fa pochi chilometri e non ha una presa. Non vincono il ciclo di vita una volta che la rete è anche solo moderatamente pulita.",
     "kernel": "Se fate 6.000 km l'anno, parcheggiate in strada, e la vostra elettricità è sporca, una piccola ibrida può essere l'auto razionale. È una nicchia, non una confutazione della categoria.",

@@ -4,7 +4,6 @@
     "slug": "emerald",
     "number": 1,
     "verdict": "false",
-    "lastChecked": "2026-08-22",
     "myth": "Elon Musk a hérité d'une fortune minière d'émeraudes sous l'apartheid et s'est acheté une place chez Tesla et SpaceX.",
     "headline": "C'est le produit de la cession de PayPal qui a fondé les entreprises. Il n'y a pas d'héritage d'émeraudes dans la table de capitalisation.",
     "kernel": "Son père Errol a raconté une histoire changeante sur des émeraudes en Zambie. Ce n'est pas la même chose qu'Elon héritant d'une mine, ou utilisant l'argent de la mine pour lancer SpaceX.",
@@ -16,11 +15,11 @@
     "keyFacts": [
       {
         "label": "Produit de cession PayPal",
-        "value": "~$180M (part d'Elon, 2002)"
+        "value": "~180 M $US (part d'Elon, 2002)"
       },
       {
         "label": "Chèque Tesla 2004",
-        "value": "~$6.5M de cette somme, investisseur principal"
+        "value": "~6,5 M $US de cette somme, investisseur principal"
       },
       {
         "label": "Mine d'émeraudes",
@@ -45,7 +44,6 @@
     "slug": "never-built",
     "number": 2,
     "verdict": "false",
-    "lastChecked": "2026-08-22",
     "myth": "Il n'a jamais rien construit. C'est un PDG qui rachète les entreprises des autres et qui tweete.",
     "headline": "Il a fondé des entreprises, et il n'est pas l'ingénieur de chaque pièce. Les deux peuvent être vrais.",
     "kernel": null,
@@ -80,7 +78,6 @@
     "slug": "taxes",
     "number": 3,
     "verdict": "false",
-    "lastChecked": "2026-08-22",
     "myth": "Elon Musk ne paie pas d'impôts.",
     "headline": "Il a réglé la plus grosse facture d'impôt sur le revenu individuelle connue aux États-Unis. Les plus-values latentes ne sont pas taxées. C'est le système, pas une niche secrète qui lui serait propre.",
     "kernel": "Les années où il ne vend pas d'actions ni n'exerce d'options, son revenu en cash peut paraître dérisoire à côté de sa fortune. C'est ainsi que fonctionnent les plus-values latentes pour tout fondateur, pas une exonération spéciale Elon.",
@@ -91,7 +88,7 @@
     "keyFacts": [
       {
         "label": "Facture fiscale 2021",
-        "value": "~$11–12 milliards (son chiffre / estimations de la presse)"
+        "value": "~11–12 Md $US (son chiffre / estimations de la presse)"
       },
       {
         "label": "Déclencheur",
@@ -120,7 +117,6 @@
     "slug": "cofounder",
     "number": 4,
     "verdict": "misleading",
-    "lastChecked": "2026-08-22",
     "myth": "Dire qu'Elon est cofondateur de Tesla est un mensonge. Il a racheté l'entreprise et a obtenu son nom sur la plaque par procès.",
     "headline": "Martin Eberhard et Marc Tarpenning ont fondé Tesla en 2003. Musk a été l'investisseur principal en 2004. Un accord de 2009 l'autorise à utiliser le titre de cofondateur.",
     "kernel": "L'acte de constitution d'origine ne l'incluait pas. L'entreprise qui a survécu à 2008, si : avec son argent, sa direction produit et son siège de PDG. Les deux moitiés de cette phrase sont le dossier.",
@@ -155,7 +151,6 @@
     "slug": "salute",
     "number": 5,
     "verdict": "misleading",
-    "lastChecked": "2026-08-22",
     "myth": "Le geste de l'investiture de janvier 2025 a prouvé qu'Elon Musk est nazi.",
     "headline": "La séquence est laide. L'intention n'a pas été établie. « On dirait un salut » n'est pas une carte de membre d'un parti.",
     "kernel": "Il s'est frappé la poitrine et a jeté un bras en avant, deux fois. Les spectateurs, surtout en Allemagne, y ont entendu une alarme très précise. Cette rime visuelle est réelle. Tout autant que l'absence d'un programme, d'un manifeste ou d'une poursuite qui aurait transformé la séquence en preuve de nazisme.",
@@ -195,7 +190,6 @@
     "slug": "subsidies",
     "number": 6,
     "verdict": "misleading",
-    "lastChecked": "2026-08-22",
     "myth": "Il fustige le gaspillage public alors que ses entreprises vivent de subventions.",
     "headline": "Tesla a utilisé la politique industrielle. SpaceX vend des lancements. Fusionner les deux en « bébé des subventions » est le tour de passe-passe.",
     "kernel": "Le prêt DOE de 465 millions de dollars était réel — et remboursé par anticipation, avec intérêts, en 2013. Les crédits d'impôt VE pour les acheteurs et les crédits ZEV sont réels. La NASA qui paie le cargo et les équipages, c'est l'achat d'un service, comme elle payait la navette.",
@@ -206,7 +200,7 @@
     "keyFacts": [
       {
         "label": "Prêt DOE",
-        "value": "$465M, remboursé en 2013 avec intérêts"
+        "value": "465 M $US, remboursé en 2013 avec intérêts"
       },
       {
         "label": "NASA / DoD",
@@ -230,13 +224,12 @@
     "slug": "fsd-fraud",
     "number": 7,
     "verdict": "overstated",
-    "lastChecked": "2026-08-22",
     "myth": "Il a promis la conduite autonome complète il y a des années. Donc tout n'est que fraude.",
     "headline": "Les dates ont été chroniquement optimistes. La pile n'a cessé de s'améliorer. Rater un calendrier n'est pas la même chose qu'un produit fictif.",
     "kernel": "À partir de 2016, il a vendu un avenir qui n'est pas arrivé à la date de la slide. C'est un vrai schéma, et les régulateurs ont remarqué l'écart entre « Full Self-Driving » comme nom et comme capacité juridique.",
     "body": [
       "Autopilot a été livré comme un système autoroutier supervisé. « Full Self-Driving » comme pack logiciel a été en bêta, puis en diffusion plus large, le conducteur restant responsable. Un service robotaxi a commencé sous forme limitée (Austin, 2025) sans produit national non supervisé. Chaque année glissée est au dossier.",
-      "Le cadrage « fraude » a besoin d'une chose qui n'a jamais existé. Tesla a collecté des milliards de miles en conditions réelles, itéré des réseaux de bout en bout, et retiré le radar au profit de la vision — un pari technique, pas une slide de vaporware. On peut tenir deux faits : il a trop promis, et le système n'est pas un dessin animé. Savoir si on lui confierait sa famille est une question distincte, légitime (voir la carte Tesla Autopilot)."
+      "Le cadrage « fraude » a besoin d'une chose qui n'a jamais existé. Tesla a collecté des milliards de kilomètres en conditions réelles, itéré des réseaux de bout en bout, et retiré le radar au profit de la vision — un pari technique, pas une slide de vaporware. On peut tenir deux faits : il a trop promis, et le système n'est pas un dessin animé. Savoir si on lui confierait sa famille est une question distincte, légitime (voir la carte Tesla Autopilot)."
     ],
     "keyFacts": [
       {
@@ -265,7 +258,6 @@
     "slug": "twitter",
     "number": 8,
     "verdict": "overstated",
-    "lastChecked": "2026-08-22",
     "myth": "Il a détruit Twitter et transformé X en bar nazi.",
     "headline": "Les annonceurs sont partis. La modération est devenue plus étrange. Community Notes est réel. Ce n'est pas 8chan avec un logo d'oiseau.",
     "kernel": "Le passage en privé à 44 milliards de dollars a été chaotique. L'effondrement des effectifs, le retour d'un flot de comptes auparavant bannis et les frayeurs de brand safety n'étaient pas une hallucination de journalistes.",
@@ -276,7 +268,7 @@
     "keyFacts": [
       {
         "label": "Rachat",
-        "value": "$44B, clos en oct. 2022"
+        "value": "44 Md $US, clos en oct. 2022"
       },
       {
         "label": "Effet net",
@@ -300,7 +292,6 @@
     "slug": "apartheid",
     "number": 9,
     "verdict": "misleading",
-    "lastChecked": "2026-08-22",
     "myth": "C'est un enfant de l'apartheid qui veut ce système de retour. Né à Pretoria, donc la politique.",
     "headline": "Le lieu de naissance n'est pas un manifeste. Il est parti à 17 ans. Critiquer la criminalité post-apartheid n'est pas un vote pour le National Party.",
     "kernel": "Il est né à Pretoria en 1971 dans une famille blanche aisée sous l'apartheid. C'est vrai, et ce n'est pas un petit fait. Le saut vers « il a soutenu le régime / il veut le restaurer » exige des preuves de ses actes politiques d'alors. Elles sont minces.",
@@ -335,7 +326,6 @@
     "slug": "unfit",
     "number": 10,
     "verdict": "overstated",
-    "lastChecked": "2026-08-22",
     "myth": "Il est sous kétamine et mentalement inapte à diriger des entreprises.",
     "headline": "Il a dit qu'il utilise de la kétamine prescrite contre la dépression. Ce n'est pas une constatation publique d'incapacité. Le moulin à diagnostics en ligne n'est pas un dossier médical.",
     "kernel": "Le style de travail est extrême, les posts souvent imprudents, et plusieurs conseils ont dû encaisser le coût de la marque personnelle. Ce sont de justes griefs opérationnels.",

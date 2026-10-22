@@ -4,7 +4,6 @@
     "slug": "subsidy",
     "number": 1,
     "verdict": "misleading",
-    "lastChecked": "2026-08-22",
     "myth": "SpaceX n'existe que grâce aux subventions du contribuable. Le public a payé la R&D ; Musk possède la PI.",
     "headline": "La NASA a acheté du cargo et des équipages comme elle achetait autrefois les vols de la navette — sur jalons, moins cher. C'est de la commande publique, pas un argent de poche.",
     "kernel": "L'argent COTS précoce de la NASA a beaucoup compté. SpaceX n'était pas un hobby de garage qui n'a jamais touché d'argent fédéral. La distorsion, c'est d'appeler subvention un contrat à prix forfaitaire pour un amarrage Dragon.",
@@ -39,13 +38,12 @@
     "slug": "reuse",
     "number": 2,
     "verdict": "false",
-    "lastChecked": "2026-08-22",
     "myth": "Faire atterrir des fusées est un numéro de cirque. La réutilisation ne fait pas vraiment économiser.",
     "headline": "Les retours de Falcon 9 sont la raison pour laquelle le lancement est devenu bon marché. Le marché a voté avec les manifests.",
     "kernel": null,
     "body": [
       "Les premiers étages de Falcon 9 volent désormais de nombreuses fois — la réutilisation à deux chiffres est routinière, certains boosters dépassant 20 vols. Les prix catalogue autour de quelques dizaines de millions de dollars sous-cotent largement Ariane 5/6 et les prix historiques d'ULA. Le coût marginal interne est largement estimé bien en dessous du prix affiché, ce qui permet à SpaceX d'inonder le manifeste avec Starlink et de vendre encore aux autres.",
-      "Si la réutilisation n'était qu'un tour de piste, les concurrents l'ignoreraient. Ils ne l'ont pas fait : ULA, Blue Origin, Arianespace et la Chine poursuivent tous une forme de récupération. La NASA et la Space Force continuent d'acheter Falcon parce que le prix et la cadence se sont présentés. Les cirques n'emportent pas 80 %+ de la masse orbitale d'une planète."
+      "Si la réutilisation n'était qu'un tour de piste, les concurrents l'ignoreraient. Ils ne l'ont pas fait : ULA, Blue Origin, Arianespace et la Chine poursuivent tous une forme de récupération. La NASA et la Space Force continuent d'acheter Falcon parce que le prix et la cadence se sont présentés. Les cirques n'emportent pas 80 %+ de la masse orbitale d'une planète."
     ],
     "keyFacts": [
       {
@@ -54,7 +52,7 @@
       },
       {
         "label": "Prix affiché",
-        "value": "Falcon 9 classe ~$67M contre $150M–$400M chez les héritiers"
+        "value": "Falcon 9 classe ~67 M $US contre 150 M $US–400 M $US chez les héritiers"
       },
       {
         "label": "Part de marché",
@@ -74,7 +72,6 @@
     "slug": "astronomy",
     "number": 3,
     "verdict": "overstated",
-    "lastChecked": "2026-08-22",
     "myth": "Starlink a ruiné l'astronomie. Le ciel nocturne est fini.",
     "headline": "Les traînées de satellites sont un problème réel, mesuré. SpaceX a assombri les générations suivantes. Le ciel n'est pas fermé.",
     "kernel": "Les relevés grand champ (Vera Rubin, astrophotographie amateur) captent bien des stries. Ce n'est pas une invention de forum. DarkSat, visières et astuces d'attitude ont réduit la brillance ; les astronomes disent que ce n'est pas assez.",
@@ -109,7 +106,6 @@
     "slug": "kessler",
     "number": 4,
     "verdict": "overstated",
-    "lastChecked": "2026-08-22",
     "myth": "Starlink déclenchera le syndrome de Kessler et enfermera l'humanité hors de l'espace.",
     "headline": "Le risque de collision est un vrai problème d'exploitation. Starlink est conçu pour se désorbiter depuis une altitude basse. Ce n'est pas une bombe de débris à retardement.",
     "kernel": null,
@@ -144,7 +140,6 @@
     "slug": "starship",
     "number": 5,
     "verdict": "false",
-    "lastChecked": "2026-08-22",
     "myth": "Starship est du vaporware. Il ne fera jamais voler quoi que ce soit qui compte.",
     "headline": "C'est un véhicule lourd inachevé qui a déjà volé. Le vaporware n'allume pas de moteurs Raptor au-dessus du Golfe.",
     "kernel": "Les missions opérationnelles d'équipage, de ravitailleur et de HLS sont encore devant. Les calendriers ont glissé. Ce n'est pas la même chose qu'un diaporama qui n'a jamais quitté le hangar.",
@@ -179,7 +174,6 @@
     "slug": "stole-nasa",
     "number": 6,
     "verdict": "false",
-    "lastChecked": "2026-08-22",
     "myth": "SpaceX a simplement volé la technologie de la NASA et collé un logo dessus.",
     "headline": "Ils ont embauché des gens qui avaient travaillé dans l'aérospatial et utilisé de la recherche publique, comme tout le monde. Merlin, Raptor et Dragon ne sont pas des étages Saturne de reste.",
     "kernel": null,
@@ -214,7 +208,6 @@
     "slug": "ukraine",
     "number": 7,
     "verdict": "misleading",
-    "lastChecked": "2026-08-22",
     "myth": "Elon a coupé Starlink et saboté la guerre de l'Ukraine.",
     "headline": "Starlink a été allumé pour l'Ukraine et est resté allumé. Un geofence a refusé d'activer une frappe de drones précise en Crimée. Ce n'est pas « il a débranché le pays ».",
     "kernel": "Musk a été un acteur politique erratique sur l'Ukraine. Il a flotté un « plan de paix » que Kiev détestait. Ce n'est pas la même chose qu'une coupure totale du réseau.",
@@ -249,7 +242,6 @@
     "slug": "dragon-unsafe",
     "number": 8,
     "verdict": "false",
-    "lastChecked": "2026-08-22",
     "myth": "Crew Dragon n'est pas sûr. La NASA aurait dû rester sur Soyouz.",
     "headline": "Dragon fait voler des équipages NASA depuis 2020. Soyouz est un bon véhicule, avec ses propres échecs. La nostalgie n'est pas une analyse de sûreté.",
     "kernel": null,
@@ -284,7 +276,6 @@
     "slug": "kill-nasa",
     "number": 9,
     "verdict": "misleading",
-    "lastChecked": "2026-08-22",
     "myth": "SpaceX est en train de tuer la NASA et détient un monopole illégal sur l'espace.",
     "headline": "La NASA existe toujours, fait encore voler SLS, écrit encore des missions scientifiques. La part de lancement de Falcon est un résultat de marché de la réutilisation, pas un régulateur capturé.",
     "kernel": "La domination au lancement est réelle. Cette concentration mérite d'être surveillée pour des raisons de sécurité nationale. Ce n'est pas un dessin animé du Sherman Act, et ce n'est pas l'enterrement de la NASA.",
@@ -319,7 +310,6 @@
     "slug": "boca",
     "number": 10,
     "verdict": "overstated",
-    "lastChecked": "2026-08-22",
     "myth": "Starbase est une scène de crime environnemental sans aucun contrôle.",
     "headline": "Boca Chica est un vrai combat de zones humides, avec paperasse FAA, procès et explosions. Ce n'est pas une décharge secrète dans le désert.",
     "kernel": "Les essais Starship ont dispersé des débris, perturbé des habitats et exaspéré riverains et ONG. Zones humides, oiseaux nicheurs et un village à côté d'un pas de tir sont une collision réelle d'usage des sols.",

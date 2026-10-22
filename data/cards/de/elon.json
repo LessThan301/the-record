@@ -4,23 +4,22 @@
     "slug": "emerald",
     "number": 1,
     "verdict": "false",
-    "lastChecked": "2026-08-22",
     "myth": "Elon Musk hat ein Smaragdminen-Vermögen aus der Apartheid geerbt und sich damit bei Tesla und SpaceX eingekauft.",
     "headline": "Das PayPal-Geld hat die Unternehmen finanziert. In der Gesellschafterliste steht keine Smaragd-Erbschaft.",
     "kernel": "Sein Vater Errol hat eine wechselnde Geschichte über Smaragde in Sambia erzählt. Das ist nicht dasselbe, als hätte Elon eine Mine geerbt oder Minengeld zum Start von SpaceX verwendet.",
     "body": [
-      "Elon verließ Südafrika mit 17, arbeitete in Kanada und studierte dann in den USA. Zip2 war ein Software-Start-up der 1990er; Compaq kaufte es 1999. X.com, daraus wurde PayPal, lieferte den eigentlichen Einsatz: rund $180 Millionen nach der Übernahme durch eBay. Das ist der dokumentierte Samen von SpaceX (2002) und seiner Tesla-Beteiligung 2004.",
+      "Elon verließ Südafrika mit 17, arbeitete in Kanada und studierte dann in den USA. Zip2 war ein Software-Start-up der 1990er; Compaq kaufte es 1999. X.com, daraus wurde PayPal, lieferte den eigentlichen Einsatz: rund 180 Mio. $ nach der Übernahme durch eBay. Das ist der dokumentierte Samen von SpaceX (2002) und seiner Tesla-Beteiligung 2004.",
       "Errol Musk hat zu verschiedenen Zeiten eine Beteiligung an sambischer Smaragdproduktion behauptet und die Geschichte später auf „einen Teil der Smaragde“ zurückgenommen. Maye Musk hat einen wohlhabenden Haushalt beschrieben, kein dynastisches Minenhaus. Walter Isaacsons Biografie und zeitgenössische Berichte finden keine Übertragung von Minenvermögen in Zip2, PayPal, Tesla oder SpaceX.",
       "Ein Vater, der einmal mit Steinen handelte, ist eine farbige Ursprungsgeschichte. Sie ersetzt weder die Gesellschafterlisten noch die PayPal-Auszahlung noch das Jahrzehnt der Beinahe-Insolvenz, das bei SpaceX und Tesla folgte."
     ],
     "keyFacts": [
       {
         "label": "PayPal-Erlös",
-        "value": "~$180M (Elons Anteil, 2002)"
+        "value": "~180 Mio. $ (Elons Anteil, 2002)"
       },
       {
         "label": "Tesla-Scheck 2004",
-        "value": "~$6.5M aus diesem Geld, führender Investor"
+        "value": "~6,5 Mio. $ aus diesem Geld, führender Investor"
       },
       {
         "label": "Smaragdmine",
@@ -45,7 +44,6 @@
     "slug": "never-built",
     "number": 2,
     "verdict": "false",
-    "lastChecked": "2026-08-22",
     "myth": "Er hat nie etwas gebaut. Er ist ein CEO, der fremde Firmen kauft und twittert.",
     "headline": "Er hat Unternehmen gegründet, und er ist nicht der Ingenieur jedes Teils. Beides kann stimmen.",
     "kernel": null,
@@ -80,18 +78,17 @@
     "slug": "taxes",
     "number": 3,
     "verdict": "false",
-    "lastChecked": "2026-08-22",
     "myth": "Elon Musk zahlt keine Steuern.",
     "headline": "Er hat die größte bekannte individuelle US-Einkommensteuerrechnung bezahlt. Nicht realisierte Gewinne werden nicht besteuert. Das ist das System, kein geheimes Schlupfloch nur für ihn.",
     "kernel": "In Jahren, in denen er keine Aktien verkauft und keine Optionen ausübt, kann sein Bareinkommen neben dem Vermögen klein wirken. So funktionieren nicht realisierte Gewinne für jeden Gründer, das ist keine Elon-Sonderregel.",
     "body": [
-      "2021 übte er ein großes Tesla-Optionsprogramm aus und verkaufte Aktien. Er sagte, die Steuerrechnung habe über $11 Milliarden gelegen — zeitgenössische Schätzungen setzten den Bundesanteil bei etwa $10–12 Milliarden an, weithin als die größte individuelle Einkommensteuerzahlung im Rekord geführt.",
+      "2021 übte er ein großes Tesla-Optionsprogramm aus und verkaufte Aktien. Er sagte, die Steuerrechnung habe über 11 Mrd. $ gelegen — zeitgenössische Schätzungen setzten den Bundesanteil bei etwa 10–12 Mrd. $ an, weithin als die größte individuelle Einkommensteuerzahlung im Rekord geführt.",
       "Kritiker merken zu Recht an, dass Vermögen (vor allem Tesla- und SpaceX-Anteile) jahrelang wachsen kann, ohne steuerlichen Tatbestand. Das ist ein Argument, ob die USA nicht realisierte Gewinne besteuern sollten — kein Beleg, dass er „keine Steuern zahlt“. Als die Optionen fällig wurden, wurde die Rechnung fällig."
     ],
     "keyFacts": [
       {
         "label": "Steuerrechnung 2021",
-        "value": "~$11–12 Milliarden (seine Zahl / Presseschätzungen)"
+        "value": "~11–12 Mrd. $ (seine Zahl / Presseschätzungen)"
       },
       {
         "label": "Auslöser",
@@ -130,7 +127,6 @@
     "slug": "cofounder",
     "number": 4,
     "verdict": "misleading",
-    "lastChecked": "2026-08-22",
     "myth": "Elon als Tesla-Mitgründer zu bezeichnen ist eine Lüge. Er hat die Firma gekauft und sich den Titel erklagt.",
     "headline": "Martin Eberhard und Marc Tarpenning gründeten Tesla 2003. Musk war 2004 der führende Investor. Ein Vergleich von 2009 erlaubt ihm den Mitgründer-Titel.",
     "kernel": "In der ursprünglichen Gründungsurkunde stand er nicht. In der Firma, die 2008 überlebte, schon: mit seinem Geld, seiner Produktführung und dem CEO-Sitz. Beide Hälften dieses Satzes sind die Aktenlage.",
@@ -175,7 +171,6 @@
     "slug": "salute",
     "number": 5,
     "verdict": "misleading",
-    "lastChecked": "2026-08-22",
     "myth": "Die Geste bei der Amtseinführung im Januar 2025 hat bewiesen, dass Elon Musk ein Nazi ist.",
     "headline": "Der Clip sieht hässlich aus. Die Absicht ist nicht belegt. „Sieht aus wie ein Hitlergruß“ ist kein Parteibuch.",
     "kernel": "Er schlug sich an die Brust und warf den Arm zweimal nach vorn. Zuschauer, zumal in Deutschland, hörten einen sehr bestimmten Alarm. Dieser visuelle Reim ist real. Ebenso das Fehlen eines Programms, eines Manifests oder einer Strafverfolgung, die den Clip zum Beweis für Nazismus gemacht hätte.",
@@ -225,18 +220,17 @@
     "slug": "subsidies",
     "number": 6,
     "verdict": "misleading",
-    "lastChecked": "2026-08-22",
     "myth": "Er wettert gegen Staatsverschwendung, während seine Firmen von Subventionen leben.",
     "headline": "Tesla hat Industriepolitik genutzt. SpaceX verkauft Starts. Beides zu „Subventionskind“ zu vermengen ist der Taschenspielertrick.",
-    "kernel": "Der DOE-Kredit über $465 Millionen war real — und 2013 vorzeitig zurückgezahlt, mit Zinsen. Steuerkredite für E-Auto-Käufer und ZEV-Credits sind real. Wenn die NASA Fracht und Crew bezahlt, ist das der Kauf einer Leistung, so wie sie das Shuttle bezahlt hat.",
+    "kernel": "Der DOE-Kredit über 465 Mio. $ war real — und 2013 vorzeitig zurückgezahlt, mit Zinsen. Steuerkredite für E-Auto-Käufer und ZEV-Credits sind real. Wenn die NASA Fracht und Crew bezahlt, ist das der Kauf einer Leistung, so wie sie das Shuttle bezahlt hat.",
     "body": [
-      "Teslas frühe Jahre liefen über den ATVM-Kredit des DOE 2009 ($465 Millionen). Tesla zahlte ihn 2013 zurück, neun Jahre zu früh. US- und europäische E-Auto-Steuervergünstigungen gehen an die Käufer; sie haben die Nachfrage trotzdem gestützt. Zero-Emission-Credits, verkauft an andere Autobauer, waren jahrelang eine spürbare Tesla-Erlösposition. Das ist Industriepolitik, und das Gegenteil zu behaupten ist Fantasterei.",
+      "Teslas frühe Jahre liefen über den ATVM-Kredit des DOE 2009 (465 Mio. $). Tesla zahlte ihn 2013 zurück, neun Jahre zu früh. US- und europäische E-Auto-Steuervergünstigungen gehen an die Käufer; sie haben die Nachfrage trotzdem gestützt. Zero-Emission-Credits, verkauft an andere Autobauer, waren jahrelang eine spürbare Tesla-Erlösposition. Das ist Industriepolitik, und das Gegenteil zu behaupten ist Fantasterei.",
       "Das NASA-Geld für COTS und Commercial Crew lief über Verträge nach Meilensteinen, gedacht, Fracht und Astronautenflüge billiger einzukaufen als das Shuttle. Die U.S. Space Force kauft Starts aus einem Wettbewerbskatalog. Die Starlink-Förderung für ländliches Breitband landete später vor Gericht. Jeden staatlichen Scheck „Subvention“ zu nennen, löscht den Unterschied zwischen einem Zuschuss und einer Rechnung für einen Start."
     ],
     "keyFacts": [
       {
         "label": "DOE-Kredit",
-        "value": "$465M, 2013 mit Zinsen zurückgezahlt"
+        "value": "465 Mio. $, 2013 mit Zinsen zurückgezahlt"
       },
       {
         "label": "NASA / DoD",
@@ -270,13 +264,12 @@
     "slug": "fsd-fraud",
     "number": 7,
     "verdict": "overstated",
-    "lastChecked": "2026-08-22",
     "myth": "Er hat vor Jahren vollautonomes Fahren versprochen. Also ist das Ganze Betrug.",
     "headline": "Die Termine waren chronisch zu früh. Der technische Stand wurde besser. Verpasste Kalender sind nicht dasselbe wie ein Scheinprodukt.",
     "kernel": "Ab 2016 verkaufte er eine Zukunft, die nicht zum Folientermin kam. Das ist ein echtes Muster, und die Aufsicht hat die Lücke zwischen „Full Self-Driving“ als Name und als rechtlicher Fähigkeit bemerkt.",
     "body": [
       "Autopilot kam als überwachtes Autobahnsystem. „Full Self-Driving“ als Softwarepaket war in der Beta, dann in einer breiteren Freigabe, der Fahrer blieb verantwortlich. Ein Robotaxi-Dienst begann in begrenzter Form (Austin, 2025), ohne ein voll unüberwachtes nationales Produkt. Jedes verschobene Jahr steht im Protokoll.",
-      "Die Betrugs-Erzählung braucht etwas, das nie existiert hat. Tesla hat Milliarden realer Meilen gesammelt, Ende-zu-Ende-Netze weiterentwickelt und Radar zugunsten von Kameras aufgegeben — eine technische Wette, keine Luftnummer. Man kann zwei Tatsachen halten: Er hat zu viel versprochen, und das System ist kein Zeichentrick. Ob man es der eigenen Familie anvertraut, ist eine andere, legitime Frage (siehe die Tesla-Autopilot-Karte)."
+      "Die Betrugs-Erzählung braucht etwas, das nie existiert hat. Tesla hat Milliarden realer Kilometer gesammelt, Ende-zu-Ende-Netze weiterentwickelt und Radar zugunsten von Kameras aufgegeben — eine technische Wette, keine Luftnummer. Man kann zwei Tatsachen halten: Er hat zu viel versprochen, und das System ist kein Zeichentrick. Ob man es der eigenen Familie anvertraut, ist eine andere, legitime Frage (siehe die Tesla-Autopilot-Karte)."
     ],
     "keyFacts": [
       {
@@ -310,18 +303,17 @@
     "slug": "twitter",
     "number": 8,
     "verdict": "overstated",
-    "lastChecked": "2026-08-22",
     "myth": "Er hat Twitter zerstört und X in eine Nazi-Bar verwandelt.",
     "headline": "Werbetreibende sind gegangen. Die Moderation wurde seltsamer. Community Notes ist real. Es ist nicht 8chan mit Vogel-Logo.",
-    "kernel": "Die Privatübernahme für $44 Milliarden war chaotisch. Personalkahlschlag, eine Flut zuvor gesperrter Konten und Ängste um die Markensicherheit waren keine Halluzination von Journalisten.",
+    "kernel": "Die Privatübernahme für 44 Mrd. $ war chaotisch. Personalkahlschlag, eine Flut zuvor gesperrter Konten und Ängste um die Markensicherheit waren keine Halluzination von Journalisten.",
     "body": [
       "Nach Oktober 2022 verlor X einen großen Teil der Werbung. Die Teams für Vertrauen und Sicherheit wurden gekürzt. Einige extremistische Konten kamen zurück. Forscher zu Hassrede meldeten in den ersten Monaten höhere Raten von Beleidigungen. Das ist dokumentiert.",
-      "Die Formel „Nazi-Bar“ ist eine Stimmung, keine Zählung. Community Notes wurde eines der interessanteren öffentlichen Faktencheck-Systeme im Netz, auch gegen Musks eigene Posts. Die politische Reichweite wurde heterodoxer: mehr rechts, auch mehr anti-woke, und immer noch voller linker Nutzer. Ein chaotischerer Marktplatz ist nicht dasselbe wie ein Forum für Extremisten. Ob der Handel $44 Milliarden wert war, ist eine Geschäftsfrage. Ob einem die Stimmung gefällt, eine Geschmacksfrage."
+      "Die Formel „Nazi-Bar“ ist eine Stimmung, keine Zählung. Community Notes wurde eines der interessanteren öffentlichen Faktencheck-Systeme im Netz, auch gegen Musks eigene Posts. Die politische Reichweite wurde heterodoxer: mehr rechts, auch mehr anti-woke, und immer noch voller linker Nutzer. Ein chaotischerer Marktplatz ist nicht dasselbe wie ein Forum für Extremisten. Ob der Handel 44 Mrd. $ wert war, ist eine Geschäftsfrage. Ob einem die Stimmung gefällt, eine Geschmacksfrage."
     ],
     "keyFacts": [
       {
         "label": "Kauf",
-        "value": "$44B, abgeschlossen Okt. 2022"
+        "value": "44 Mrd. $, abgeschlossen Okt. 2022"
       },
       {
         "label": "Klarer Effekt",
@@ -350,7 +342,6 @@
     "slug": "apartheid",
     "number": 9,
     "verdict": "misleading",
-    "lastChecked": "2026-08-22",
     "myth": "Er ist ein Apartheid-Kind, das dieses System zurückwill. Geboren in Pretoria, also die Politik.",
     "headline": "Der Geburtsort ist kein Manifest. Er ging mit 17. Kriminalität nach der Apartheid zu kritisieren ist keine Stimme für die National Party.",
     "kernel": "Er wurde 1971 in Pretoria in eine wohlhabende weiße Familie unter der Apartheid geboren. Das ist wahr, und es ist keine Kleinigkeit. Der Sprung zu „er hat das Regime unterstützt / will es wiederherstellen“ braucht Belege für seine damaligen politischen Taten. Die sind dünn.",
@@ -390,7 +381,6 @@
     "slug": "unfit",
     "number": 10,
     "verdict": "overstated",
-    "lastChecked": "2026-08-22",
     "myth": "Er ist ketaminbenebelt und geistig unfähig, Unternehmen zu führen.",
     "headline": "Er hat gesagt, er nutze verschriebenes Ketamin gegen Depression. Das ist kein öffentlicher Befund der Geschäftsunfähigkeit. Die Online-Diagnosemühle ist keine Krankenakte.",
     "kernel": "Der Arbeitsstil ist extrem, das Posten oft rücksichtslos, und mehrere Aufsichtsgremien mussten die Kosten der persönlichen Marke tragen. Das sind faire betriebliche Einwände.",
