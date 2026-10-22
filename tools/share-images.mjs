@@ -42,10 +42,29 @@ ${claim}
 </svg>`;
 }
 
+export function homeSVG(u, lang) {
+  const fam = `${CJK_FAMILY[lang] ? CJK_FAMILY[lang] + ', ' : ''}Inter Tight, Noto Sans CJK SC`;
+  let size = 76, lines;
+  for (size of [76, 68, 60, 54]) { lines = wrap(u.home.title, size, 1060, 2); if (!lines.at(-1).endsWith('…')) break; }
+  const lede = wrap(u.home.lede, 32, 1060, 3);
+  const y0 = 230;
+  const t = lines.map((l, i) => `<text x="70" y="${y0 + i * size * 1.12}" font-size="${size}" font-weight="700" fill="#ffffff">${esc(l)}</text>`).join('');
+  const ly = y0 + (lines.length - 1) * size * 1.12 + 70;
+  const ld = lede.map((l, i) => `<text x="70" y="${ly + i * 44}" font-size="32" font-weight="500" fill="#a3a3a3">${esc(l)}</text>`).join('');
+  const bars = ['false', 'misleading', 'overstated'].map((v, i) => `<rect x="${i * 400}" y="540" width="400" height="90" fill="${COLORS[v]}"/><text x="${i * 400 + 40}" y="598" font-size="34" font-weight="700" fill="#ffffff">${esc(u.verdict[v])}</text>`).join('');
+  return `<svg xmlns="http://www.w3.org/2000/svg" width="1200" height="630" viewBox="0 0 1200 630" font-family="${fam}">
+<rect width="1200" height="630" fill="#000"/>
+<text x="70" y="100" font-size="30" font-weight="700" letter-spacing="6" fill="#ffffff">THE RECORD</text>
+${t}${ld}${bars}
+</svg>`;
+}
+
 export async function renderShareImages({ LANGS, TOPICS, CARDS, UI, OUT }) {
   let n = 0;
   for (const l of LANGS) {
     fs.mkdirSync(`${OUT}/share/${l}`, { recursive: true });
+    const h = new Resvg(homeSVG(UI[l], l), { font: { fontFiles: FONT_FILES, loadSystemFonts: false, defaultFontFamily: 'Inter Tight' }, fitTo: { mode: 'original' } });
+    fs.writeFileSync(`${OUT}/share/${l}/home.png`, h.render().asPng()); n++;
     for (const t of TOPICS) for (const c of CARDS[l][t]) {
       const r = new Resvg(shareSVG(c, UI[l], l), { font: { fontFiles: FONT_FILES, loadSystemFonts: false, defaultFontFamily: 'Inter Tight' }, fitTo: { mode: 'original' } });
       fs.writeFileSync(`${OUT}/share/${l}/${c.id}.png`, r.render().asPng()); n++;

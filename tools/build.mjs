@@ -33,6 +33,7 @@ const sitemap = [];
 
 function head(l, { title, desc, canonical, alt, image }) {
   const u = UI[l];
+  image = image || `${BASE}/share/${l}/home.png`;
   const alts = alt ? LANGS.map((x) => `<link rel="alternate" hreflang="${x}" href="${ORIGIN}${alt(x)}">`).join('') : '';
   return `<!doctype html><html lang="${l}"><head><meta charset="utf-8"><meta name="viewport" content="width=device-width,initial-scale=1">
 <title>${esc(title)}</title><meta name="description" content="${esc(desc)}">
@@ -40,7 +41,7 @@ ${PREVIEW ? '<meta name="robots" content="noindex,nofollow">' : ''}
 <meta name="theme-color" content="#000000"><meta name="color-scheme" content="dark">
 <link rel="canonical" href="${ORIGIN}${canonical}">${alts}
 <meta property="og:type" content="website"><meta property="og:site_name" content="The Record"><meta property="og:title" content="${esc(title)}"><meta property="og:description" content="${esc(desc)}"><meta property="og:url" content="${ORIGIN}${canonical}">
-${image ? `<meta property="og:image" content="${ORIGIN}${image}"><meta property="og:image:width" content="1200"><meta property="og:image:height" content="630"><meta name="twitter:card" content="summary_large_image">` : ''}
+${image ? `<meta property="og:image" content="${ORIGIN}${image}"><meta property="og:image:width" content="1200"><meta property="og:image:height" content="630"><meta property="og:image:alt" content="${esc(title)}"><meta name="twitter:card" content="summary_large_image"><meta name="twitter:title" content="${esc(title)}"><meta name="twitter:description" content="${esc(desc)}"><meta name="twitter:image" content="${ORIGIN}${image}">` : ''}<meta property="og:locale" content="${OGLOC[l]}">
 <link rel="preload" href="${BASE}/assets/InterTight-var.woff2" as="font" type="font/woff2" crossorigin>
 <link rel="stylesheet" href="${BASE}/assets/${CSS}">
 <link rel="icon" href="${BASE}/assets/icon.svg" type="image/svg+xml">
@@ -58,6 +59,7 @@ function header(l, altPath) {
 <label class="lang"><span class="sr">${esc(u.language)}</span><span aria-hidden="true" class="lang-ico">文A</span><select class="js-lang" aria-label="${esc(u.language)}">${opts}</select></label>
 </div></header>`;
 }
+const OGLOC = { en: 'en_US', de: 'de_DE', fr: 'fr_FR', es: 'es_ES', it: 'it_IT', nl: 'nl_NL', zh: 'zh_CN', ja: 'ja_JP', ko: 'ko_KR' };
 const LABELS = { en: 'English', de: 'Deutsch', fr: 'Français', es: 'Español', it: 'Italiano', nl: 'Nederlands', zh: '中文', ja: '日本語', ko: '한국어' };
 
 function footer(l) {
