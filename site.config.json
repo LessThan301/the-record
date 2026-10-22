@@ -4,5 +4,11 @@
   "preview": true,
   "counterEndpoint": "",
   "donationUrl": "",
-  "operator": { "name": "", "street": "", "city": "", "email": "" }
+  "operator": {
+    "name": "",
+    "street": "",
+    "city": "",
+    "email": ""
+  },
+  "cloudflareAnalyticsToken": ""
 }

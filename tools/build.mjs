@@ -10,6 +10,8 @@ const ORIGIN = (process.env.SITE_ORIGIN ?? 'http://localhost:8080').replace(/\/$
 const PREVIEW = process.env.PREVIEW ? process.env.PREVIEW === '1' : cfg.preview;
 const COUNTER = process.env.COUNTER_ENDPOINT ?? cfg.counterEndpoint ?? '';
 const DONATE = process.env.DONATION_URL ?? cfg.donationUrl ?? '';
+const CF_TOKEN = (process.env.CF_ANALYTICS_TOKEN ?? cfg.cloudflareAnalyticsToken ?? '').trim();
+const ANALYTICS = !!CF_TOKEN && !PREVIEW; // never on the preview
 const SKIP_IMG = process.env.SKIP_IMAGES === '1';
 const LANGS = ['en', 'de', 'fr', 'es', 'it', 'nl', 'zh', 'ja', 'ko'];
 const TOPICS = ['elon', 'spacex', 'tesla', 'evs', 'capitalism'];
@@ -46,7 +48,7 @@ ${image ? `<meta property="og:image" content="${ORIGIN}${image}"><meta property=
 <link rel="preload" href="${BASE}/assets/InterTight-var.woff2" as="font" type="font/woff2" crossorigin>
 <link rel="stylesheet" href="${BASE}/assets/${CSS}">
 <link rel="icon" href="${BASE}/assets/icon.svg" type="image/svg+xml">
-<script type="module" src="${BASE}/assets/${APP}"></script>
+<script type="module" src="${BASE}/assets/${APP}"></script>${ANALYTICS ? `<script defer src="https://static.cloudflareinsights.com/beacon.min.js" data-cf-beacon='${JSON.stringify({ token: CF_TOKEN }).replace(/'/g, '&#39;')}'></script>` : ''}
 </head><body>
 <a class="skip" href="#main">${esc(u.skip)}</a>`;
 }
@@ -151,7 +153,7 @@ for (const l of LANGS) {
 import { imprintHTML, privacyHTML } from './legal-pages.mjs';
 for (const [slug, fn, title] of [['imprint', imprintHTML, 'Impressum / Imprint'], ['privacy', privacyHTML, 'Datenschutzerklärung / Privacy policy']]) {
   write(`${slug}/index.html`, head('de', { title: `${title} · The Record`, desc: title, canonical: `${BASE}/${slug}/` }) + header('en', (x) => url(x)) +
-    `<main id="main" class="wrap text legal-page">${fn({ op: cfg.operator, counter: !!COUNTER, repo: cfg.repo })}</main>` + pageCfg('en', { page: 'text' }) + footer('en'));
+    `<main id="main" class="wrap text legal-page">${fn({ op: cfg.operator, counter: !!COUNTER, repo: cfg.repo, analytics: ANALYTICS })}</main>` + pageCfg('en', { page: 'text' }) + footer('en'));
   sitemap.push({ loc: `${BASE}/${slug}/` });
 }
 
