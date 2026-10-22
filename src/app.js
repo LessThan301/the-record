@@ -40,16 +40,26 @@ function closeCard(card, focus = true) {
   if (focus) btn.focus();
 }
 
+// Present a card's front as the current claim: full width, scrolled to the top, focus on the claim.
+function showFront(card) {
+  document.querySelectorAll('.card.is-current').forEach((c) => c.classList.remove('is-current'));
+  card.classList.add('is-current');
+  const claim = card.querySelector('.claim');
+  card.scrollIntoView({ block: 'start', behavior: matchMedia('(prefers-reduced-motion: reduce)').matches ? 'auto' : 'instant' });
+  card.querySelector('.js-believe').focus({ preventScroll: true });
+  say(claim.textContent.trim());
+}
+
 document.addEventListener('click', async (e) => {
   const b = e.target.closest('button, a'); if (!b) return;
   const card = b.closest('.card');
-  if (b.matches('.js-believe')) openCard(card);
+  if (b.matches('.js-believe')) { document.querySelectorAll('.card.is-current').forEach((c) => c !== card && c.classList.remove('is-current')); document.querySelectorAll('.card.is-open').forEach((c) => c !== card && closeCard(c, false)); openCard(card); }
   else if (b.matches('.js-unflip')) closeCard(card);
   else if (b.matches('.js-next')) {
     const all = [...document.querySelectorAll('.topic:not([hidden]) .card')];
     const next = all[(all.indexOf(card) + 1) % all.length];
     closeCard(card, false);
-    next.scrollIntoView({ block: 'center' }); next.querySelector('.js-believe').focus({ preventScroll: true });
+    showFront(next);
   } else if (b.matches('.js-share')) {
     const url = cfg.origin + b.dataset.url;
     const back = b.closest('.face.back');
