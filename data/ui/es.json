@@ -1,0 +1,144 @@
+{
+  "language": "Idioma",
+  "close": "Cerrar",
+  "notFoundTitle": "Página no encontrada",
+  "notFoundBody": "Esa página no está en el archivo.",
+  "notFoundBack": "Volver al inicio",
+  "nav": {
+    "method": "Método",
+    "all": "Todas",
+    "menu": "Menú"
+  },
+  "home": {
+    "kicker": "Corta el ruido, abraza la señal.",
+    "title": "¿Cuál de estas te suena verdadera?",
+    "lede": "Cincuenta afirmaciones sobre Elon Musk, SpaceX, Tesla, los vehículos eléctricos y el capitalismo.",
+    "gradeKey": "Cómo se califica cada ficha",
+    "iBelieve": "Yo creo esto",
+    "mythStamp": "Mito",
+    "record": "Los hechos",
+    "claimPicked": "La afirmación que elegiste",
+    "tapAgain": "Toca la ficha para ver de nuevo la afirmación",
+    "flipping": "Pasando a los hechos…",
+    "sources": "Fuentes",
+    "grade": "Calificación",
+    "showMyth": "Mostrar el mito",
+    "showRecord": "Mostrar los hechos"
+  },
+  "verdict": {
+    "false": "Falso",
+    "misleading": "Engañoso",
+    "overstated": "Exagerado"
+  },
+  "verdictHint": {
+    "false": "Esta afirmación es falsa.",
+    "misleading": "Una parte es cierta, pero lleva a la conclusión equivocada.",
+    "overstated": "Hay algo de verdad, pero la afirmación va demasiado lejos."
+  },
+  "categories": {
+    "elon": {
+      "name": "Elon Musk",
+      "shortName": "Elon",
+      "kicker": "Persona",
+      "blurb": "Historias de origen, impuestos, política y el mito del fundador."
+    },
+    "spacex": {
+      "name": "SpaceX",
+      "shortName": "SpaceX",
+      "kicker": "Lanzamiento",
+      "blurb": "Cohetes, Starlink, dinero de la NASA y lo que realmente cambió la reutilización."
+    },
+    "tesla": {
+      "name": "Tesla",
+      "shortName": "Tesla",
+      "kicker": "Vehículo",
+      "blurb": "Incendios, Autopilot, baterías, holguras de paneles y la afirmación del robotaxi."
+    },
+    "evs": {
+      "name": "Vehículos eléctricos",
+      "shortName": "VE",
+      "kicker": "La categoría",
+      "blurb": "Cálculo climático, la red, la minería, la autonomía en invierno y el desvío híbrido."
+    },
+    "capitalism": {
+      "name": "Capitalismo",
+      "shortName": "Capitalismo",
+      "kicker": "El sistema",
+      "blurb": "Pobreza, planificación, los nórdicos, desigualdad — y si los mercados son el problema."
+    }
+  },
+  "footer": {
+    "independent": "Sitio editorial independiente. No está afiliado a Tesla, SpaceX, xAI ni Elon Musk.",
+    "trademarks": "Tesla, SpaceX, Starlink, Autopilot y las marcas relacionadas pertenecen a sus titulares. Aquí se usan solo para comentar."
+  },
+  "method": {
+    "kicker": "Método",
+    "title": "Cómo se califican estas fichas",
+    "affiliation": "The Record es un sitio editorial independiente. No está afiliado a Tesla, Inc., SpaceX, xAI ni Elon Musk.",
+    "p1": "Cada ficha parte de una afirmación que realmente circula — resultados de búsqueda, informativos de televisión, foros, sobremesas — no de un hombre de paja inventado para derribarlo.",
+    "p2": "Donde una crítica se sostiene — el nombre Autopilot, las fechas de FSD, el hábitat de Boca Chica, la recarga para inquilinos, las holguras de paneles en los vehículos del año de rampa — permanece en la ficha. Una fuente de verdad que no puede decir «sí, esa parte» es solo otro mito.",
+    "p3": "Las fuentes son primarias o cercanas: los propios informes de incendios y seguridad de Tesla, las páginas de mitos de la EPA, la verificación de VE de Carbon Brief, el material de NASA sobre tripulación comercial, las series de pobreza del Banco Mundial y Our World in Data, la cobertura contemporánea de la factura fiscal de 2021 y del gesto en la toma de posesión de 2025. Sigue los enlaces. Si un dato se mueve, la ficha debe moverse.",
+    "p4": "Si hay reportajes reales en ese idioma que hablan de la ficha — Spiegel, ADEME, El País — van encima. Si no, se quedan las fuentes en inglés.",
+    "legalLead": "Afiliación, privacidad, condiciones e imprenta:"
+  },
+  "legal": {
+    "kicker": "Legal",
+    "title": "Letra pequeña",
+    "updated": "Última actualización: 22 de agosto de 2026.",
+    "navDisclaimer": "Descargo",
+    "navTerms": "Condiciones",
+    "navPrivacy": "Privacidad",
+    "navCookies": "Cookies",
+    "navIp": "Marcas",
+    "navImprint": "Imprenta",
+    "disclaimerTitle": "Descargo de responsabilidad",
+    "disclaimer": [
+      "The Record es un sitio web editorial independiente. No está afiliado, respaldado, patrocinado ni asociado con Tesla, Inc., Space Exploration Technologies Corp. (SpaceX), xAI, Neuralink, The Boring Company, X Corp. ni Elon Musk. Las menciones de esas personas y empresas son para identificación, comentario y crítica.",
+      "Las fichas son notas de briefing con fuentes, no asesoramiento de inversión, asesoramiento jurídico, asesoramiento de ingeniería ni un sustituto de los informes originales. Las calificaciones — Falso, Engañoso, Exagerado — son juicios editoriales. Las cifras se mueven. Si una fuente se mueve, la ficha debe moverse.",
+      "Nada en este sitio es una oferta de venta de valores, vehículos, lanzamientos ni de ninguna otra cosa. No tomes una ficha como diligencia debida."
+    ],
+    "termsTitle": "Condiciones de uso",
+    "terms": [
+      "Al usar The Record aceptas estas condiciones. Si no estás de acuerdo, no uses el sitio.",
+      "El sitio se ofrece «tal cual» y «según disponibilidad», sin garantías de ningún tipo, expresas o implícitas, incluidas exactitud, comerciabilidad, idoneidad para un fin determinado y no infracción. No garantizamos que el sitio sea ininterrumpido, esté libre de errores o carezca de componentes dañinos.",
+      "En la máxima medida que permite la ley, el editor no responde de daños indirectos, incidentales, especiales, consecuentes ni punitivos, ni de lucro cesante, pérdida de datos o de fondo de comercio, derivados del uso del sitio o de la confianza en cualquier ficha. Siguen aplicando los derechos irrenunciables que la ley de tu país no te deja ceder — incluidos, donde existan, los derechos de los consumidores de la UE.",
+      "Puedes enlazar a cualquier página pública. No puedes extraer por scraping, republicar ni presentar las fichas como obra propia. Una cita breve con enlace de vuelta está bien. La recolección automatizada que sobrecarga el servicio, no.",
+      "Los enlaces a fuentes externas salen de este sitio. No controlamos esas páginas y no respondemos de su contenido, disponibilidad ni políticas."
+    ],
+    "privacyTitle": "Privacidad",
+    "privacyIntro": [
+      "Este sitio no opera cuentas de usuario, listas de correo, redes publicitarias ni una base de datos de datos personales. Aquí no hay nada a lo que «iniciar sesión».",
+      "Lo que puede tratarse en el curso ordinario de ofrecer un sitio web:"
+    ],
+    "privacyBullets": [
+      "Registros técnicos habituales en el alojamiento (dirección IP, navegador, hora, URL solicitada), en la medida necesaria para servir las páginas, mantener el sitio y responder a abusos.",
+      "La barra de direcciones, si abres una ficha: un id de afirmación puede aparecer en la URL (por ejemplo ?claim=elon-emerald). Eso permanece en tu navegador, salvo que compartas el enlace.",
+      "No se venden datos personales. No hay perfilado para publicidad. Este sitio no instala píxeles de marketing de terceros."
+    ],
+    "privacyOutro": [
+      "Si sigues el enlace de una fuente, ese destino tiene su propia política de privacidad. No somos el responsable del tratamiento del Banco Mundial, Our World in Data, Tesla, NASA ni de ningún otro editor citado.",
+      "Según el RGPD, un «responsable del tratamiento» es la persona u organización que determina los fines del tratamiento. Para este sitio es el editor nombrado en la imprenta — la persona u organización que puso esta URL en la web pública. Puedes pedir a ese editor acceso, rectificación, supresión, limitación, oposición o portabilidad cuando esos derechos apliquen, y puedes reclamar ante tu autoridad de control (en Alemania, una Landesdatenschutzbehörde; en la UE, tu autoridad local de protección de datos)."
+    ],
+    "cookiesTitle": "Cookies",
+    "cookies": [
+      "The Record no instala cookies de publicidad ni de analítica. No usamos un banner de cookies porque no colocamos cookies no esenciales.",
+      "La plataforma de alojamiento puede usar cookies estrictamente necesarias o almacenamiento similar para servir el sitio, equilibrar el tráfico o proteger contra abusos. Tu navegador también puede guardar datos ordinarios de sesión con ese fin técnico. Puedes bloquear las cookies en el navegador; el sitio debería seguir siendo legible."
+    ],
+    "ipTitle": "Marcas y derechos de autor",
+    "ip": [
+      "Tesla, Model Y, Model 3, Model S, Model X, Cybertruck, Autopilot, Full Self-Driving, Supercharger, SpaceX, Falcon, Dragon, Starship, Starlink, Neuralink, xAI y las marcas relacionadas son marcas de sus respectivos titulares. El nombre y la imagen de Elon Musk se usan aquí para comentar afirmaciones públicas. Los demás nombres en las fichas pertenecen a sus titulares.",
+      "El texto de las fichas en The Record se presenta como contenido editorial independiente. Las cifras citadas y los títulos de documentos siguen siendo obra de los editores citados. Sigue los enlaces. No copies un informe de seguridad de Tesla de esta página para hacerlo pasar por nuestro, ni copies nuestras calificaciones para hacerlas pasar por las de Tesla."
+    ],
+    "imprintTitle": "Imprenta",
+    "imprintIntro": "Información conforme al § 5 DDG (Alemania) y a las normas equivalentes de identificación de la UE para servicios digitales:",
+    "imprintService": "Servicio",
+    "imprintServiceValue": "The Record — sitio editorial independiente",
+    "imprintNature": "Naturaleza",
+    "imprintNatureValue": "Comentario no oficial. No es un producto de Tesla, SpaceX ni xAI.",
+    "imprintOperator": "Operador / responsable del tratamiento",
+    "imprintOperatorValue": "La persona u organización que publicó esta URL es el operador del servicio y el responsable del tratamiento de cualquier dato técnico procesado para alojarlo. Un sitio público dirigido a lectores en Alemania o la UE debería indicar, en esta página, el nombre completo del operador, la dirección postal y un correo de contacto (y, si es una empresa, el juzgado del registro y el número).",
+    "imprintEditor": "Responsable del contenido",
+    "imprintEditorValue": "La responsabilidad editorial recae en ese mismo operador. Las calificaciones son suyas y debe responder de ellas.",
+    "imprintOutro": "Esta página describe cómo funciona The Record. No es asesoramiento jurídico. Las leyes varían según el país; si eres el editor, haz que un abogado revise la imprenta antes de tratar la URL como una oferta comercial."
+  }
+}

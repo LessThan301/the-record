@@ -1,0 +1,437 @@
+[
+  {
+    "id": "cap-poverty",
+    "slug": "poverty",
+    "number": 1,
+    "verdict": "false",
+    "lastChecked": "2026-08-22",
+    "myth": "Il capitalismo tiene i poveri poveri. Le economie di mercato peggiorano la povertà.",
+    "headline": "La povertà estrema è crollata nell'era di commercio, proprietà e crescita — non nonostante.",
+    "kernel": "Centinaia di milioni sono ancora estremamente poveri, e i progressi hanno rallentato dal COVID, soprattutto negli Stati fragili. È una ragione per volere più crescita, non per chiamare fallimento gli ultimi 40 anni.",
+    "body": [
+      "Our World in Data, usando le indagini sulle famiglie della Banca Mondiale, registra circa 2,31 miliardi di persone sotto i 3 dollari al giorno nel 1990. Nel 2025 quel conteggio è circa 808 milioni — più di 1,5 miliardi in meno, dell'ordine di 100.000 persone al giorno su una generazione. La linea da 2,15 dollari della Banca Mondiale racconta la stessa storia: circa l'8,5% dell'umanità, contro una maggioranza nel 1950 e circa il 38% ancora nel 1990.",
+      "Il calo non è un misterioso evento di carità. È concentrato dove i Paesi si sono aperti al commercio, hanno lasciato a contadini e imprese ciò che producevano, e si sono innestati nelle filiere globali — Cina dopo il 1978, India dopo il 1991, Vietnam, Bangladesh, gran parte dell'Asia orientale. Le economie di comando che tenevano i mercati illegali non hanno consegnato una fuga comparabile.",
+      "Un'economia di mercato non è la promessa che ogni regione si muova alla stessa velocità. La quota dell'Africa subsahariana in povertà estrema è scesa anche mentre la testa di conteggio saliva con la popolazione. È un problema di policy e produttività dentro sistemi di mercato, non la prova che i mercati causino povertà."
+    ],
+    "keyFacts": [
+      {
+        "label": "1990, $3/giorno",
+        "value": "2,31 miliardi di persone"
+      },
+      {
+        "label": "2025, $3/giorno",
+        "value": "~808 milioni"
+      },
+      {
+        "label": "Dal 1950",
+        "value": "~60% dell'umanità → ~10%"
+      }
+    ],
+    "sources": [
+      {
+        "publisher": "Our World in Data",
+        "title": "Poverty",
+        "url": "https://ourworldindata.org/poverty"
+      },
+      {
+        "publisher": "Our World in Data / World Bank PIP",
+        "title": "Share of population in extreme poverty",
+        "url": "https://ourworldindata.org/grapher/share-of-population-in-extreme-poverty"
+      },
+      {
+        "publisher": "World Bank",
+        "title": "Poverty, Prosperity, and Planet Report 2024",
+        "url": "https://www.worldbank.org/en/publication/poverty-prosperity-and-planet"
+      }
+    ]
+  },
+  {
+    "id": "cap-zero-sum",
+    "slug": "zero-sum",
+    "number": 2,
+    "verdict": "false",
+    "lastChecked": "2026-08-22",
+    "myth": "L'economia è a somma zero. I ricchi si arricchiscono solo impoverendo tutti gli altri.",
+    "headline": "La torta è cresciuta. È tutto il punto di un'economia di mercato.",
+    "kernel": "Alcuni guadagni sono posizionali, e alcune fortune sono clientelari. Nessuno dei due fatti trasforma un mondo in crescita in un tavolo da poker chiuso.",
+    "body": [
+      "La somma zero è una buona descrizione di una razzia, di un trono, o di un appezzamento fisso in un mondo malthusiano. È una cattiva descrizione di un'economia in cui la gente fa beni nuovi. Il prodotto mondiale per persona è salito molte volte dal XIX secolo; la persona tipica in un Paese a guida di mercato consuma oggi ciò che nessun re preindustriale poteva comprare — antibiotici, refrigerazione, uno smartphone, un volo.",
+      "Se Jeff Bezos si arricchisce costruendo una rete logistica, i clienti che l'hanno usata non sono stati spogliati di un mucchio equivalente di contanti. Hanno pagato un prezzo sotto il valore che davano alla consegna. Quello scarto è surplus del consumatore. I salari nelle imprese che riforniscono Amazon sono un costo, non un furto da una pentola fissa.",
+      "La storia a somma zero sopravvive perché lo status relativo è a somma zero. Potete risentire la casa del vicino e vivere lo stesso in un Paese più ricco dei vostri nonni. Un'economia di mercato si giudica sul secondo fatto."
+    ],
+    "keyFacts": [
+      {
+        "label": "Meccanismo",
+        "value": "Commercio e produttività, non una pentola fissa"
+      },
+      {
+        "label": "Cosa è cresciuto",
+        "value": "PIL globale pro capite, durata della vita, calorie, beni"
+      },
+      {
+        "label": "Cosa è a somma zero",
+        "value": "Status, troni, razzie — non l'output"
+      }
+    ],
+    "sources": [
+      {
+        "publisher": "Our World in Data",
+        "title": "Economic Growth",
+        "url": "https://ourworldindata.org/economic-growth"
+      },
+      {
+        "publisher": "Our World in Data",
+        "title": "GDP per capita",
+        "url": "https://ourworldindata.org/grapher/gdp-per-capita-world-bank-constant-usd"
+      }
+    ]
+  },
+  {
+    "id": "cap-nordic",
+    "slug": "nordic",
+    "number": 3,
+    "verdict": "false",
+    "lastChecked": "2026-08-22",
+    "myth": "I Paesi nordici dimostrano che il socialismo funziona, e che il capitalismo è il sistema inferiore.",
+    "headline": "Danimarca e Norvegia sono economie capitaliste di mercato con un grande Stato sociale sopra.",
+    "kernel": "Tassano molto e spendono molto in servizi. Non è la proprietà pubblica dei mezzi di produzione, ed è finanziato da imprese private che operano in mercati aperti.",
+    "body": [
+      "Il modello nordico, come lo descrivono i Paesi stessi, è proprietà privata, prezzi di mercato e libero scambio, più servizi universali e contrattazione coordinata. IKEA, Novo Nordisk, Volvo, Maersk ed Equinor non sono Gosplan. I mercati dei prodotti nei Paesi nordici figurano tra i più aperti dell'OCSE.",
+      "L'Index of Economic Freedom Heritage 2026 mette la Norvegia all'8° posto al mondo (punteggio 78,8). Danimarca, Svezia, Finlandia e Norvegia sono da anni nel primo livello su diritti di proprietà, libertà di commercio e regolazione delle imprese. È l'opposto di un'economia pianificata.",
+      "La lezione utile è più stretta: un Paese capitalista ricco può scegliere di comprare una rete di sicurezza generosa. Non può saltare la parte capitalista e tenere la rete. Lo sconfinamento svedese degli anni Settanta, e la riparazione degli anni Novanta, sono il racconto cautelativo che lo slogan lascia fuori."
+    ],
+    "keyFacts": [
+      {
+        "label": "Nucleo nordico",
+        "value": "Imprese private, prezzi di mercato, commercio aperto"
+      },
+      {
+        "label": "Norvegia 2026",
+        "value": "Libertà economica Heritage: 8ª al mondo"
+      },
+      {
+        "label": "Cosa non è",
+        "value": "Proprietà statale della produzione"
+      }
+    ],
+    "sources": [
+      {
+        "publisher": "Wikipedia (sourced overview)",
+        "title": "Nordic model",
+        "url": "https://en.wikipedia.org/wiki/Nordic_model"
+      },
+      {
+        "publisher": "Heritage Foundation",
+        "title": "Index of Economic Freedom: Norway",
+        "url": "https://economicfreedom.heritage.org/pages/country-pages/norway"
+      },
+      {
+        "publisher": "Heritage Foundation",
+        "title": "Economic Freedom Underpins Nordic Prosperity",
+        "url": "https://www.heritage.org/international-economies/report/economic-freedom-underpins-nordic-prosperity"
+      }
+    ]
+  },
+  {
+    "id": "cap-planning",
+    "slug": "planning",
+    "number": 4,
+    "verdict": "false",
+    "lastChecked": "2026-08-22",
+    "myth": "Un'economia pianificata consegna standard di vita migliori di un'economia di mercato.",
+    "headline": "I Paesi spezzati sono l'esperimento. I mercati hanno vinto, ripetutamente.",
+    "kernel": "I governi possono pianificare strade, vaccini e produzione di guerra. Non possono sostituire i prezzi come modo in cui un'economia intera decide cosa fare.",
+    "body": [
+      "Germania Ovest contro RDT, Corea del Sud contro il Nord, Taiwan contro la Cina maoista, e la Cina contro se stessa prima e dopo il 1978 sono il più vicino a una prova controllata che la storia faccia correre. In ciascun caso il lato di mercato — proprietà privata, prezzi, commercio — ha prodotto la ricchezza. Il lato pianificato ha prodotto carenze, una polizia segreta, e un PIL pro capite rimasto indietro di un fattore di molti.",
+      "Il PIL pro capite della Corea del Sud è dell'ordine di 20–50 volte quello della Corea del Nord, a seconda della ricostruzione. Il calo della povertà cinese documentato dalla Banca Mondiale inizia sul serio dopo le riforme di Deng, non durante il Grande Balzo. L'Unione Sovietica poteva versare acciaio e non mettere comunque il sapone sullo scaffale, che è il problema di calcolo descritto da Hayek: senza prezzi, nessuno sa cosa è scarso.",
+      "I mercati falliscono in modi noti — esternalità, monopoli, beni pubblici. È un argomento per un governo mirato. Non è un argomento che Gosplan sia un sistema operativo migliore per un'economia di mercato, perché un'economia di mercato è il sistema che usa i prezzi."
+    ],
+    "keyFacts": [
+      {
+        "label": "Corea",
+        "value": "Il Sud molte volte più ricco del Nord"
+      },
+      {
+        "label": "Cina",
+        "value": "Crollo della povertà dopo la riforma di mercato del 1978"
+      },
+      {
+        "label": "Meccanismo",
+        "value": "I prezzi portano informazione di scarsità che la pianificazione non può"
+      }
+    ],
+    "sources": [
+      {
+        "publisher": "Our World in Data",
+        "title": "GDP per capita (Maddison)",
+        "url": "https://ourworldindata.org/grapher/gdp-per-capita-maddison-project-database"
+      },
+      {
+        "publisher": "World Bank",
+        "title": "Four Decades of Poverty Reduction in China",
+        "url": "https://www.worldbank.org/en/news/press-release/2022/04/01/lifting-800-million-people-out-of-poverty-new-report-looks-at-lessons-from-china-s-experience"
+      },
+      {
+        "publisher": "F. A. Hayek / AER 1945 (reprint)",
+        "title": "The Use of Knowledge in Society",
+        "url": "https://www.econlib.org/library/Essays/hykKnw.html"
+      }
+    ]
+  },
+  {
+    "id": "cap-inequality",
+    "slug": "inequality",
+    "number": 5,
+    "verdict": "misleading",
+    "lastChecked": "2026-08-22",
+    "myth": "La disuguaglianza crescente dimostra che il capitalismo è un sistema fallito.",
+    "headline": "La disuguaglianza globale tra Paesi è scesa mentre i Paesi poveri crescevano. La povertà è il test migliore.",
+    "kernel": "Dentro alcuni Paesi ricchi, la cima si è staccata. È un fatto politico reale. Non è la stessa cosa di «il sistema rende i poveri più poveri».",
+    "body": [
+      "Se l'accusa è che la crescita di mercato lascia indietro i poveri del mondo, gli ultimi 40 anni sono la replica. La crescita di Cina e India è una compressione della disuguaglianza tra Paesi — il divario che un tempo dominava il Gini mondiale. La serie sulla disuguaglianza globale di Our World in Data mostra quella storia. Chi è uscito dalla povertà da 3 dollari al giorno non l'ha fatto espropriando i dentisti svizzeri.",
+      "Dentro gli Stati Uniti e parti d'Europa, la tecnologia che premia le competenze, la scarsità di case e i mercati in cui il vincitore prende quasi tutto hanno allungato la cima. Si possono volere più concorrenza, città più dense e un mix fiscale migliore senza trattare un coefficiente di Gini come un certificato di morte dei mercati. La povertà uguale non è un successo; l'abbondanza diseguale con un tasso di povertà in calo è più vicina a uno.",
+      "Un'economia di mercato non promette esiti identici. Promette che la gente possa commerciare e investire senza un ministero che assegni il posto. Giudicatela su mobilità, standard di vita assoluti, e se sale il minimo. Su quelli, il dossier capitalista è quello che gli altri sistemi continuano a copiare."
+    ],
+    "keyFacts": [
+      {
+        "label": "Quadro globale",
+        "value": "I divari tra Paesi si sono ristretti mentre l'Asia cresceva"
+      },
+      {
+        "label": "Test migliore",
+        "value": "Povertà assoluta e consumi, non il Gini da solo"
+      },
+      {
+        "label": "Nocciolo",
+        "value": "Lo stiramento in cima in alcuni Paesi ricchi è reale"
+      }
+    ],
+    "sources": [
+      {
+        "publisher": "Our World in Data",
+        "title": "Global economic inequality",
+        "url": "https://ourworldindata.org/global-economic-inequality"
+      },
+      {
+        "publisher": "Our World in Data",
+        "title": "Poverty",
+        "url": "https://ourworldindata.org/poverty"
+      }
+    ]
+  },
+  {
+    "id": "cap-exploit",
+    "slug": "exploit",
+    "number": 6,
+    "verdict": "misleading",
+    "lastChecked": "2026-08-22",
+    "myth": "Il capitalismo richiede lo sfruttamento dei lavoratori. Le sweatshop dimostrano che il sistema è estrattivo.",
+    "headline": "La gente prende il posto in fabbrica perché l'alternativa è peggiore. I salari poi salgono con la produttività.",
+    "kernel": "Le condizioni industriali precoci sono spesso tetre. È una ragione per crescita e opzioni di uscita, non per vietare la scala.",
+    "body": [
+      "«In Praise of Cheap Labor» di Paul Krugman e la letteratura successiva sulle sweatshop (Powell e altri) fanno un punto senza sentimentalismo: un posto in fabbrica da 2 dollari si sceglie rispetto a una giornata in fattoria da 1 dollaro o a nessun posto. Vietare la fabbrica non evoca lo stipendio di un'infermiera danese. Consegna il lavoratore all'opzione peggiore. È per questo che le campagne che chiudono impianti senza un datore locale migliore hanno un bilancio di vittime in reddito perso.",
+      "Sfruttamento, nello slogan, significa «il proprietario ha preso il profitto residuale». In un mercato del lavoro competitivo il salario è offerto verso il prodotto marginale del lavoratore. Il copione storico in Corea, Taiwan, Cina e Bangladesh è lo stesso: prima la fabbrica tetra, poi la fabbrica migliore, poi il posto nei servizi. I salari manifatturieri reali in Asia orientale non sono stagnati per un secolo.",
+      "Dove i lavoratori non possono andarsene, non possono organizzarsi e non possono possedere, non avete un fallimento di mercato — ne avete uno politico. La servitù della gleba, la trappola Hukou e le company town con cancelli armati sono restrizioni sui mercati, non la definizione di essi."
+    ],
+    "keyFacts": [
+      {
+        "label": "Test",
+        "value": "Rispetto all'alternativa reale, non alla Danimarca"
+      },
+      {
+        "label": "Copione",
+        "value": "Fabbrica → fabbrica migliore → servizi man mano che sale la produttività"
+      },
+      {
+        "label": "Coercizione vera",
+        "value": "Quando la gente non può licenziarsi o competere"
+      }
+    ],
+    "sources": [
+      {
+        "publisher": "Paul Krugman / Slate (1997)",
+        "title": "In Praise of Cheap Labor",
+        "url": "https://slate.com/business/1997/03/in-praise-of-cheap-labor.html"
+      },
+      {
+        "publisher": "Benjamin Powell / Cato",
+        "title": "Out of Poverty: Sweatshops in the Global Economy",
+        "url": "https://www.cato.org/books/out-poverty"
+      }
+    ]
+  },
+  {
+    "id": "cap-climate",
+    "slug": "climate",
+    "number": 7,
+    "verdict": "overstated",
+    "lastChecked": "2026-08-22",
+    "myth": "Il capitalismo cuocerà il pianeta. Un'economia di mercato non può tagliare le emissioni.",
+    "headline": "Le economie di mercato ricche hanno cominciato a disaccoppiare il PIL dalla CO₂. Il problema che resta è globale e politico.",
+    "kernel": "Le emissioni globali sono ancora troppo alte. Il disaccoppiamento in UE e USA non è una policy climatica completata. È la prova che crescita ed emissioni in calo possono coesistere.",
+    "body": [
+      "L'IEA: dal 1990 l'economia USA è grosso modo raddoppiata mentre la CO₂ è tornata circa al livello del 1990. L'economia UE è dell'ordine di due terzi più grande con emissioni circa il 30% più basse. Our World in Data documenta il disaccoppiamento al consumo in una lunga lista di Paesi ricchi — non solo un trucco di delocalizzare il camino.",
+      "Una lettura ECIU 2025 del Global Carbon Budget ha trovato Paesi che rappresentano gran parte del PIL mondiale in espansione mentre il carbonio al consumo scendeva o si appiattiva. È ciò che fa un'economia di mercato quando il carbonio prende un prezzo, il carbone diventa caro, e le imprese vendono pompe di calore e reattori: sostituisce.",
+      "Il modo di fallire è il carbonio non prezzato, non «avere i mercati». Le economie di comando (metano sovietico, deforestazione maoista, lignite della Germania Est) non erano verdi. Se volete tagli più rapidi, tassate l'esternalità e lasciate che i prezzi riallochino. Abolire l'economia di mercato toglie la macchina che inventa i sostituti."
+    ],
+    "keyFacts": [
+      {
+        "label": "USA dal 1990",
+        "value": "PIL ~raddoppiato; CO₂ di nuovo vicino al 1990"
+      },
+      {
+        "label": "UE dal 1990",
+        "value": "PIL ~+66%; CO₂ ~−30%"
+      },
+      {
+        "label": "Strumento",
+        "value": "Prezzare l'esternalità; non buttare i prezzi"
+      }
+    ],
+    "sources": [
+      {
+        "publisher": "IEA",
+        "title": "The relationship between growth in GDP and CO2 has loosened",
+        "url": "https://www.iea.org/commentaries/the-relationship-between-growth-in-gdp-and-co2-has-loosened-it-needs-to-be-cut-completely"
+      },
+      {
+        "publisher": "Our World in Data",
+        "title": "CO₂ emissions and GDP decoupling",
+        "url": "https://ourworldindata.org/co2-gdp-decoupling"
+      },
+      {
+        "publisher": "Our World in Data",
+        "title": "Change in CO₂ emissions and GDP",
+        "url": "https://ourworldindata.org/grapher/co2-emissions-and-gdp"
+      }
+    ]
+  },
+  {
+    "id": "cap-billionaires",
+    "slug": "billionaires",
+    "number": 8,
+    "verdict": "misleading",
+    "lastChecked": "2026-08-22",
+    "myth": "Se esistono i miliardari, hanno rubato i soldi. Un'economia di mercato giusta non li produrrebbe.",
+    "headline": "Gran parte delle grandi fortune americane è equity in imprese che hanno scalato un prodotto. Il clientelismo è l'eccezione da poliziare, non la regola da abolire.",
+    "kernel": "Alcuni miliardari sono coltivatori di sussidi o eredi di monopoli. Nominate loro. Non fingete che ogni residuale di fondatore sia un furto a un impiegato.",
+    "body": [
+      "Le azioni di un fondatore sono una pretesa su un residuale dopo che lavoratori e fornitori sono pagati. Se l'impresa crea più valore di quanto costi, quel residuale può essere enorme perché software e marche scalano. Il lavoro di Kaplan e Rauh sulla ricchezza americana è la versione noiosa: una fetta larga della nuova ricchezza in cima è equity imprenditoriale, non una concessione terriera da XIX secolo.",
+      "Il surplus del consumatore è di solito più grande del mucchio del fondatore. La gente usa il prodotto perché batte l'alternativa. È un test di mercato. Un sistema giusto può comunque tassare le successioni, finanziare un minimo e spezzare i monopoli veri. Sono riparazioni che preservano il mercato.",
+      "Lo slogan «i miliardari non dovrebbero esistere» è una tesi sulla forma del residuale, non su se un'economia di mercato sia un buon sistema operativo. Potete detestare gli yacht e volere lo stesso prezzi, costituzione di società e il diritto di avviare un'impresa. Confondere le due cose è come si ottiene un ministero della produzione con un impiegato più povero."
+    ],
+    "keyFacts": [
+      {
+        "label": "Percorso tipico",
+        "value": "Equity del fondatore in un'impresa scalata"
+      },
+      {
+        "label": "Bersaglio migliore",
+        "value": "Sussidi clientelari e ingresso chiuso"
+      },
+      {
+        "label": "Non implicato",
+        "value": "Che i residuali debbano essere zero"
+      }
+    ],
+    "sources": [
+      {
+        "publisher": "Kaplan & Rauh",
+        "title": "It’s the Market: The Broad-Based Rise in the Return to Top Talent (NBER w19846)",
+        "url": "https://www.nber.org/papers/w19846"
+      },
+      {
+        "publisher": "Our World in Data",
+        "title": "Wealth",
+        "url": "https://ourworldindata.org/wealth"
+      }
+    ]
+  },
+  {
+    "id": "cap-war",
+    "slug": "war",
+    "number": 9,
+    "verdict": "false",
+    "lastChecked": "2026-08-22",
+    "myth": "Il capitalismo causa la guerra. I mercati hanno bisogno di sangue per crescere.",
+    "headline": "Le democrazie di mercato raramente si combattono. Il massacro industriale del XX secolo non era un'assemblea di azionisti.",
+    "kernel": "Gli Stati vanno in guerra per territorio, paura e gloria sotto ogni regime di proprietà. Le compagnie coloniali hanno fatto cose brutte. Non è una legge unica del capitalismo.",
+    "body": [
+      "La serie guerra-e-pace di Our World in Data, e la letteratura più ampia sulla «pace capitalista» / pace democratica, trovano che le democrazie commercialmente integrate sono i vicini più noiosi del dataset. I morti in battaglia interstatali come quota dell'umanità sono crollati dopo il 1945 proprio mentre esplodeva il commercio.",
+      "Il bilancio di vittime del XX secolo è dominato da progetti totalitari che hanno abolito i mercati: la carestia e i campi di Stalin, il Balzo e la Rivoluzione Culturale di Mao, i Khmer rossi. I conteggi di democidio di Rummel e il Libro nero sono il registro che lo slogan salta. Un'economia pianificata con una polizia segreta non è un movimento per la pace.",
+      "Le imprese vendono a entrambi i lati di una guerra quando gli Stati le lasciano fare. È un'incriminazione degli Stati. Anche gli imperi autarchici invadono. Se il commercio facesse la guerra, il boom di globalizzazione post-1980 sarebbe un cimitero. È il copione opposto."
+    ],
+    "keyFacts": [
+      {
+        "label": "Copione",
+        "value": "Le democrazie di mercato quasi mai si combattono"
+      },
+      {
+        "label": "Registro del XX secolo",
+        "value": "Il democidio sotto pianificazione totalitaria eclissa le guerre commerciali"
+      },
+      {
+        "label": "Dal 1945",
+        "value": "Commercio su; morti di guerra interstatale giù"
+      }
+    ],
+    "sources": [
+      {
+        "publisher": "Our World in Data",
+        "title": "War and Peace",
+        "url": "https://ourworldindata.org/war-and-peace"
+      },
+      {
+        "publisher": "Our World in Data / UCDP",
+        "title": "Deaths in state-based conflicts",
+        "url": "https://ourworldindata.org/grapher/deaths-in-armed-conflicts-by-type"
+      }
+    ]
+  },
+  {
+    "id": "cap-public-goods",
+    "slug": "public-goods",
+    "number": 10,
+    "verdict": "overstated",
+    "lastChecked": "2026-08-22",
+    "myth": "I mercati non possono fornire sanità, scuole o una rete di sicurezza, quindi il capitalismo è il sistema sbagliato.",
+    "headline": "Un'economia di mercato è come si diventa abbastanza ricchi da comprare beni pubblici. Non è un divieto di averli.",
+    "kernel": "I beni pubblici puri e i mercati assicurativi falliscono in modi da manuale. Questo giustifica un po' di governo. Non giustifica di sostituire i prezzi come default per il resto dell'economia.",
+    "body": [
+      "La difesa nazionale, la ricerca di base e un minimo contro l'indigenza non sono ben forniti da un negozio all'angolo. Gli economisti lo dicono da Smith. Ogni Paese di mercato ricco già gestisce scuole, pensioni e ospedali con un mix di tasse e offerta privata. Speranza di vita, alfabetizzazione e calorie sono esplose in quei Paesi mentre restavano capitalisti.",
+      "L'errore di categoria è trattare «dovremmo finanziare i vaccini» come «dovremmo abolire pretese residuali, prezzi e ingresso». Il NHS compra comunque farmaci dalle imprese. Le scuole svedesi affrontano comunque un mercato del lavoro. Il risparmio medico di Singapore più l'assicurazione catastrofale è un dispositivo di mercato. La scheda nordica ha già coperto il resto: tassate un settore privato produttivo.",
+      "Quando gli Stati provano a far girare l'intera economia come se fosse un bene pubblico, ottenete la scheda della pianificazione. Quando prezzano il carbonio, finanziano un minimo e lasciano competere le imprese, ottenete l'unico sistema che abbia mai reso normale l'abbondanza di massa. È un'economia di mercato con un governo — che è ciò che è il capitalismo di successo."
+    ],
+    "keyFacts": [
+      {
+        "label": "Beni pubblici",
+        "value": "Reali; giustificano una certa offerta finanziata dalle tasse"
+      },
+      {
+        "label": "Cosa li ha pagati",
+        "value": "Un settore privato produttivo"
+      },
+      {
+        "label": "Errore di categoria",
+        "value": "Confondere una rete di sicurezza con Gosplan"
+      }
+    ],
+    "sources": [
+      {
+        "publisher": "Our World in Data",
+        "title": "Life expectancy",
+        "url": "https://ourworldindata.org/life-expectancy"
+      },
+      {
+        "publisher": "Our World in Data",
+        "title": "Global education",
+        "url": "https://ourworldindata.org/global-education"
+      },
+      {
+        "publisher": "Wikipedia (sourced overview)",
+        "title": "Nordic model",
+        "url": "https://en.wikipedia.org/wiki/Nordic_model"
+      }
+    ]
+  }
+]

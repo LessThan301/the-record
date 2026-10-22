@@ -1,0 +1,437 @@
+[
+  {
+    "id": "cap-poverty",
+    "slug": "poverty",
+    "number": 1,
+    "verdict": "false",
+    "lastChecked": "2026-08-22",
+    "myth": "Het kapitalisme houdt de armen arm. Markteconomieën maken armoede erger.",
+    "headline": "Extreme armoede stortte in tijdens het tijdperk van handel, eigendom en groei — niet ondanks dat.",
+    "kernel": "Honderden miljoenen zijn nog extreem arm, en de vooruitgang is sinds covid vertraagd, vooral in fragiele staten. Dat is een reden om meer groei te willen, geen reden om de laatste 40 jaar een mislukking te noemen.",
+    "body": [
+      "Our World in Data, op basis van huishoudensurveys van de Wereldbank, telt in 1990 ongeveer 2,31 miljard mensen op minder dan $3 per dag. In 2025 is dat aantal ongeveer 808 miljoen — meer dan 1,5 miljard minder, in de orde van 100.000 mensen per dag over een generatie. De $2.15-lijn van de Wereldbank vertelt hetzelfde verhaal: ruwweg 8,5% van de mensheid, versus een meerderheid in 1950 en ongeveer 38% nog in 1990.",
+      "De daling is geen mysterieus liefdadigheidsevenement. Ze is geconcentreerd waar landen opengingen voor handel, boeren en bedrijven lieten houden wat ze produceerden, en in globale toeleveringsketens stapten — China na 1978, India na 1991, Vietnam, Bangladesh, een groot deel van Oost-Azië. Planeconomieën die markten illegaal hielden, leverden geen vergelijkbare ontsnapping.",
+      "Een markteconomie belooft niet dat elke regio even hard beweegt. Het aandeel van Sub-Sahara-Afrika in extreme armoede daalde terwijl het absolute aantal meegroeide met de bevolking. Dat is een beleids- en productiviteitsprobleem binnen marktsystemen, geen bewijs dat markten armoede veroorzaken."
+    ],
+    "keyFacts": [
+      {
+        "label": "1990, $3/dag",
+        "value": "2,31 miljard mensen"
+      },
+      {
+        "label": "2025, $3/dag",
+        "value": "~808 miljoen"
+      },
+      {
+        "label": "Sinds 1950",
+        "value": "~60% van de mensheid → ~10%"
+      }
+    ],
+    "sources": [
+      {
+        "publisher": "Our World in Data",
+        "title": "Poverty",
+        "url": "https://ourworldindata.org/poverty"
+      },
+      {
+        "publisher": "Our World in Data / World Bank PIP",
+        "title": "Share of population in extreme poverty",
+        "url": "https://ourworldindata.org/grapher/share-of-population-in-extreme-poverty"
+      },
+      {
+        "publisher": "World Bank",
+        "title": "Poverty, Prosperity, and Planet Report 2024",
+        "url": "https://www.worldbank.org/en/publication/poverty-prosperity-and-planet"
+      }
+    ]
+  },
+  {
+    "id": "cap-zero-sum",
+    "slug": "zero-sum",
+    "number": 2,
+    "verdict": "false",
+    "lastChecked": "2026-08-22",
+    "myth": "De economie is een nulsom. Rijken worden alleen rijk door iedereen anders armer te maken.",
+    "headline": "De taart groeide. Dat is het hele punt van een markteconomie.",
+    "kernel": "Sommige winsten zijn positioneel, en sommige fortuinen zijn vriendjeskapitalisme. Geen van beide feiten maakt van een groeiende wereld een gesloten pokertafel.",
+    "body": [
+      "Nulsom is een goede beschrijving van een overval, een troon, of een vast stuk land in een Malthusiaanse wereld. Het is een slechte beschrijving van een economie waarin mensen nieuwe goederen maken. De wereldproductie per persoon is sinds de negentiende eeuw vele malen gestegen; de typische persoon in een marktgedreven land consumeert vandaag wat geen pre-industriële koning kon kopen — antibiotica, koeling, een smartphone, een vlucht.",
+      "Als Jeff Bezos rijk wordt door een logistiek netwerk te bouwen, zijn de klanten die het gebruikten niet van een even grote stapel cash beroofd. Ze betaalden een prijs onder de waarde die ze aan de bezorging hechtten. Dat gat is consumentensurplus. Lonen in de bedrijven die Amazon bevoorraden zijn een kostenpost, geen diefstal uit een vaste pot.",
+      "Het nulsomverhaal overleeft omdat relatieve status een nulsom is. Je kunt het huis van een buurman resenteren en nog in een rijker land leven dan je grootouders. Een markteconomie wordt beoordeeld op het tweede feit."
+    ],
+    "keyFacts": [
+      {
+        "label": "Mechanisme",
+        "value": "Handel en productiviteit, geen vaste pot"
+      },
+      {
+        "label": "Wat groeide",
+        "value": "Wereld-bbp per persoon, levensduur, calorieën, goederen"
+      },
+      {
+        "label": "Wat nulsom is",
+        "value": "Status, tronen, overvallen — niet productie"
+      }
+    ],
+    "sources": [
+      {
+        "publisher": "Our World in Data",
+        "title": "Economic Growth",
+        "url": "https://ourworldindata.org/economic-growth"
+      },
+      {
+        "publisher": "Our World in Data",
+        "title": "GDP per capita",
+        "url": "https://ourworldindata.org/grapher/gdp-per-capita-world-bank-constant-usd"
+      }
+    ]
+  },
+  {
+    "id": "cap-nordic",
+    "slug": "nordic",
+    "number": 3,
+    "verdict": "false",
+    "lastChecked": "2026-08-22",
+    "myth": "De Noordse landen bewijzen dat socialisme werkt, en dat kapitalisme het mindere stelsel is.",
+    "headline": "Denemarken en Noorwegen zijn kapitalistische markteconomieën met daarbovenop een grote verzorgingsstaat.",
+    "kernel": "Ze belasten veel en geven veel uit aan diensten. Dat is geen publiek eigendom van de productiemiddelen, en het wordt gefinancierd door private bedrijven die in open markten opereren.",
+    "body": [
+      "Het Noordse model, zoals de landen zelf het beschrijven, is privé-eigendom, marktprijzen en vrijhandel, plus universele diensten en gecoördineerd overleg. IKEA, Novo Nordisk, Volvo, Maersk en Equinor zijn geen Gosplan. Productmarkten in de Noordse landen horen tot de openste in de OESO.",
+      "De Index of Economic Freedom 2026 van Heritage zet Noorwegen wereldwijd op de 8e plaats (score 78,8). Denemarken, Zweden, Finland en Noorwegen zitten al jaren in de topklasse op eigendomsrechten, handelsvrijheid en bedrijfsregulering. Dat is het tegendeel van een planeconomie.",
+      "De nuttige les is smaller: een rijk kapitalistisch land kan kiezen een genereus vangnet te kopen. Het kan het kapitalistische deel niet overslaan en het net houden. De Zweedse overschrijding van de jaren zeventig, en de reparatie van de jaren negentig, zijn het waarschuwende verhaal dat de slogan weglaat."
+    ],
+    "keyFacts": [
+      {
+        "label": "Noordse kern",
+        "value": "Private bedrijven, marktprijzen, open handel"
+      },
+      {
+        "label": "Noorwegen 2026",
+        "value": "Heritage economische vrijheid: 8e wereldwijd"
+      },
+      {
+        "label": "Wat het niet is",
+        "value": "Staatseigendom van productie"
+      }
+    ],
+    "sources": [
+      {
+        "publisher": "Wikipedia (sourced overview)",
+        "title": "Nordic model",
+        "url": "https://en.wikipedia.org/wiki/Nordic_model"
+      },
+      {
+        "publisher": "Heritage Foundation",
+        "title": "Index of Economic Freedom: Norway",
+        "url": "https://economicfreedom.heritage.org/pages/country-pages/norway"
+      },
+      {
+        "publisher": "Heritage Foundation",
+        "title": "Economic Freedom Underpins Nordic Prosperity",
+        "url": "https://www.heritage.org/international-economies/report/economic-freedom-underpins-nordic-prosperity"
+      }
+    ]
+  },
+  {
+    "id": "cap-planning",
+    "slug": "planning",
+    "number": 4,
+    "verdict": "false",
+    "lastChecked": "2026-08-22",
+    "myth": "Een planeconomie levert betere levensstandaarden dan een markteconomie.",
+    "headline": "Gedeelde landen zijn het experiment. Markten wonnen, herhaaldelijk.",
+    "kernel": "Overheden kunnen wegen, vaccins en oorlogsproductie plannen. Ze kunnen prijzen niet vervangen als de manier waarop een hele economie beslist wat er gemaakt wordt.",
+    "body": [
+      "West-Duitsland versus de DDR, Zuid-Korea versus het Noorden, Taiwan versus maoïstisch China, en China versus zichzelf voor en na 1978 komen zo dicht bij een gecontroleerde proef als de geschiedenis draait. In elk geval produceerde de marktkant — privé-eigendom, prijzen, handel — de rijkdom. De geplande kant produceerde tekorten, een geheime politie, en een bbp per persoon dat met een factor van velen achterbleef.",
+      "Het bbp per persoon van Zuid-Korea ligt in de orde van 20–50 keer dat van Noord-Korea, afhankelijk van de reconstructie. China’s door de Wereldbank gedocumenteerde armoededaal begint ernstig na Dengs hervormingen, niet tijdens de Grote Sprong. De Sovjet-Unie kon staal gieten en toch geen zeep in het schap krijgen, wat het rekenprobleem is dat Hayek beschreef: zonder prijzen weet niemand wat schaars is.",
+      "Markten falen op bekende manieren — externaliteiten, monopolies, publieke goederen. Dat is een argument voor gerichte overheid. Het is geen argument dat Gosplan een beter besturingssysteem is voor een markteconomie, omdat een markteconomie het stelsel is dat prijzen gebruikt."
+    ],
+    "keyFacts": [
+      {
+        "label": "Korea",
+        "value": "Zuiden vele malen rijker dan het Noorden"
+      },
+      {
+        "label": "China",
+        "value": "Armoede-instorting na markthervorming 1978"
+      },
+      {
+        "label": "Mechanisme",
+        "value": "Prijzen dragen schaarste-informatie die planning niet kan"
+      }
+    ],
+    "sources": [
+      {
+        "publisher": "Our World in Data",
+        "title": "GDP per capita (Maddison)",
+        "url": "https://ourworldindata.org/grapher/gdp-per-capita-maddison-project-database"
+      },
+      {
+        "publisher": "World Bank",
+        "title": "Four Decades of Poverty Reduction in China",
+        "url": "https://www.worldbank.org/en/news/press-release/2022/04/01/lifting-800-million-people-out-of-poverty-new-report-looks-at-lessons-from-china-s-experience"
+      },
+      {
+        "publisher": "F. A. Hayek / AER 1945 (reprint)",
+        "title": "The Use of Knowledge in Society",
+        "url": "https://www.econlib.org/library/Essays/hykKnw.html"
+      }
+    ]
+  },
+  {
+    "id": "cap-inequality",
+    "slug": "inequality",
+    "number": 5,
+    "verdict": "misleading",
+    "lastChecked": "2026-08-22",
+    "myth": "Stijgende ongelijkheid bewijst dat het kapitalisme een mislukt stelsel is.",
+    "headline": "Wereldwijde ongelijkheid tussen landen is gedaald naarmate arme landen groeiden. Armoede is de betere toets.",
+    "kernel": "Binnen sommige rijke landen is de top weggelopen. Dat is een echt politiek feit. Het is iets anders dan „het stelsel maakt de armen armer.”",
+    "body": [
+      "Als de aanklacht is dat marktgroei de wereldarmen achterlaat, zijn de laatste 40 jaar de weerlegging. Groei van China en India is een compressie van ongelijkheid tussen landen — het gat dat vroeger de wereld-Gini domineerde. De reeks wereldongelijkheid van Our World in Data toont dat verhaal. De mensen die de armoede van $3 per dag verlieten, deden dat niet door Zwitserse tandartsen te onteigenen.",
+      "Binnen de Verenigde Staten en delen van Europa hebben technologie die hoogopgeleiden bevoordeelt, woningschaarste en winner-take-most-markten de top uitgerekt. Je kunt meer concurrentie, dichtere steden en een betere belastingmix willen zonder een Gini-coëfficiënt als overlijdensakte van markten te behandelen. Gelijke armoede is geen succes; ongelijke welvaart met een dalend armoedecijfer komt dichter in de buurt.",
+      "Een markteconomie belooft geen identieke uitkomsten. Ze belooft dat mensen kunnen handelen en investeren zonder een ministerie dat hun baan toewijst. Beoordeel haar op mobiliteit, absolute levensstandaarden, en of de vloer stijgt. Op die punten is het kapitalistische dossier het dossier dat andere stelsels blijven proberen te kopiëren."
+    ],
+    "keyFacts": [
+      {
+        "label": "Wereldbeeld",
+        "value": "Gaten tussen landen krompen naarmate Azië groeide"
+      },
+      {
+        "label": "Betere toets",
+        "value": "Absolute armoede en consumptie, niet Gini alleen"
+      },
+      {
+        "label": "Kern",
+        "value": "Rek aan de top in sommige rijke landen is echt"
+      }
+    ],
+    "sources": [
+      {
+        "publisher": "Our World in Data",
+        "title": "Global economic inequality",
+        "url": "https://ourworldindata.org/global-economic-inequality"
+      },
+      {
+        "publisher": "Our World in Data",
+        "title": "Poverty",
+        "url": "https://ourworldindata.org/poverty"
+      }
+    ]
+  },
+  {
+    "id": "cap-exploit",
+    "slug": "exploit",
+    "number": 6,
+    "verdict": "misleading",
+    "lastChecked": "2026-08-22",
+    "myth": "Kapitalisme vereist uitbuiting van werknemers. Sweatshops bewijzen dat het stelsel extractief is.",
+    "headline": "Mensen nemen de fabrieksbaan omdat het alternatief slechter is. Lonen stijgen daarna mee met de productiviteit.",
+    "kernel": "Vroege industriële omstandigheden zijn vaak grimmig. Dat is een reden voor groei en uitstapopties, geen reden om de ladder te verbieden.",
+    "body": [
+      "Paul Krugmans „In Praise of Cheap Labor” en de latere sweatshopliteratuur (Powell en anderen) maken een onsentimenteel punt: een fabrieksbaan van $2 wordt gekozen boven een boerderijdag van $1 of geen baan. De fabriek verbieden tovert geen salaris van een Deense verpleegkundige tevoorschijn. Het verwijst de werknemer naar de slechtere optie. Daarom hebben campagnes die fabrieken sluiten zonder een betere lokale werkgever een dodenlijst in verloren inkomen.",
+      "Uitbuiting, in de slogan, betekent „de eigenaar kreeg restwinst.” In een competitieve arbeidsmarkt wordt het loon naar het marginale product van de werknemer geboden. Het historische patroon in Korea, Taiwan, China en Bangladesh is hetzelfde: eerst de grimmige fabriek, dan de betere fabriek, dan de dienstbaan. Reële productielonen in Oost-Azië stagneerden geen eeuw.",
+      "Waar werknemers niet weg kunnen, zich niet kunnen organiseren en niet kunnen bezitten, heb je geen marktfalen — je hebt een politiek falen. Horige toestanden, de Hukou-val, en bedrijfsdorpen met gewapende poorten zijn beperkingen op markten, niet de definitie ervan."
+    ],
+    "keyFacts": [
+      {
+        "label": "Toets",
+        "value": "Vergeleken met het werkelijke alternatief, niet met Denemarken"
+      },
+      {
+        "label": "Patroon",
+        "value": "Fabriek → betere fabriek → diensten naarmate productiviteit stijgt"
+      },
+      {
+        "label": "Echte dwang",
+        "value": "Wanneer mensen niet kunnen opstappen of concurreren"
+      }
+    ],
+    "sources": [
+      {
+        "publisher": "Paul Krugman / Slate (1997)",
+        "title": "In Praise of Cheap Labor",
+        "url": "https://slate.com/business/1997/03/in-praise-of-cheap-labor.html"
+      },
+      {
+        "publisher": "Benjamin Powell / Cato",
+        "title": "Out of Poverty: Sweatshops in the Global Economy",
+        "url": "https://www.cato.org/books/out-poverty"
+      }
+    ]
+  },
+  {
+    "id": "cap-climate",
+    "slug": "climate",
+    "number": 7,
+    "verdict": "overstated",
+    "lastChecked": "2026-08-22",
+    "myth": "Het kapitalisme kookt de planeet. Een markteconomie kan uitstoot niet snijden.",
+    "headline": "Rijke markteconomieën zijn begonnen bbp van CO₂ te ontkoppelen. Het resterende probleem is mondiaal en politiek.",
+    "kernel": "Mondiale uitstoot is nog te hoog. Ontkoppeling in de EU en VS is geen afgerond klimaatbeleid. Het is bewijs dat groei en dalende uitstoot kunnen samengaan.",
+    "body": [
+      "De IEA: sinds 1990 is de Amerikaanse economie ruwweg verdubbeld terwijl CO₂ terugkeerde naar ongeveer het niveau van 1990. De EU-economie is in de orde van twee derde groter met uitstoot ongeveer 30% lager. Our World in Data documenteert consumptiegebaseerde ontkoppeling in een lange lijst rijke landen — niet alleen een truc van de schoorsteen offshoren.",
+      "Een ECIU-analyse uit 2025 van de Global Carbon Budget vond landen die het merendeel van het wereld-bbp vertegenwoordigen groeien terwijl consumptiegebaseerde koolstof daalde of afvlakte. Dat is wat een markteconomie doet als koolstof een prijs krijgt, kolen duur worden, en bedrijven warmtepompen en reactoren verkopen: er wordt vervangen.",
+      "De faalmodus is onbeprijsde koolstof, niet „markten hebben.” Planeconomieën (Sovjetmethaan, maoïstische ontbossing, Oost-Duitse bruinkool) waren niet groen. Als je snellere sneden wilt, belast de externaliteit en laat prijzen herverdelen. De markteconomie afschaffen verwijdert de machine die de substituten uitvindt."
+    ],
+    "keyFacts": [
+      {
+        "label": "VS sinds 1990",
+        "value": "Bbp ~verdubbeld; CO₂ terug bij 1990"
+      },
+      {
+        "label": "EU sinds 1990",
+        "value": "Bbp ~+66%; CO₂ ~−30%"
+      },
+      {
+        "label": "Instrument",
+        "value": "Beprijs de externaliteit; gooi prijzen niet weg"
+      }
+    ],
+    "sources": [
+      {
+        "publisher": "IEA",
+        "title": "The relationship between growth in GDP and CO2 has loosened",
+        "url": "https://www.iea.org/commentaries/the-relationship-between-growth-in-gdp-and-co2-has-loosened-it-needs-to-be-cut-completely"
+      },
+      {
+        "publisher": "Our World in Data",
+        "title": "CO₂ emissions and GDP decoupling",
+        "url": "https://ourworldindata.org/co2-gdp-decoupling"
+      },
+      {
+        "publisher": "Our World in Data",
+        "title": "Change in CO₂ emissions and GDP",
+        "url": "https://ourworldindata.org/grapher/co2-emissions-and-gdp"
+      }
+    ]
+  },
+  {
+    "id": "cap-billionaires",
+    "slug": "billionaires",
+    "number": 8,
+    "verdict": "misleading",
+    "lastChecked": "2026-08-22",
+    "myth": "Als er miljardairs bestaan, hebben ze het geld gestolen. Een rechtvaardige markteconomie zou ze niet voortbrengen.",
+    "headline": "De meeste grote Amerikaanse fortuinen zijn aandelen in bedrijven die een product opschaalden. Vriendjeskapitalisme is de uitzondering om aan te pakken, niet de regel om af te schaffen.",
+    "kernel": "Sommige miljardairs zijn subsidieboeren of monopolie-erfgenamen. Noem ze. Doe niet alsof elke oprichtersrest een diefstal van een klerk is.",
+    "body": [
+      "De aandelen van een oprichter zijn een claim op een rest nadat werknemers en toeleveranciers zijn betaald. Als het bedrijf meer waarde schept dan het kost, kan die rest enorm zijn omdat software en merken schalen. Het werk van Kaplan en Rauh over Amerikaans vermogen is de saaie versie: een groot deel van nieuw topvermogen zit in ondernemersaandelen, geen landgift uit de negentiende eeuw.",
+      "Consumentensurplus is meestal groter dan de stapel van de oprichter. Mensen gebruiken het product omdat het beter is dan het alternatief. Dat is een markttoets. Een rechtvaardig stelsel kan nog nalatenschappen belasten, een bodem financieren, en echte monopolies breken. Dat zijn reparaties die de markt in stand houden.",
+      "De slogan „miljardairs zouden niet moeten bestaan” is een claim over de vorm van de rest, niet over of een markteconomie een goed besturingssysteem is. Je kunt jachten verafschuwen en nog prijzen, vennootschappen en het recht een bedrijf te beginnen willen. Die verwarren is hoe je een productieministerie krijgt met een armere klerk."
+    ],
+    "keyFacts": [
+      {
+        "label": "Typisch pad",
+        "value": "Oprichtersaandelen in een opgeschaald bedrijf"
+      },
+      {
+        "label": "Beter doelwit",
+        "value": "Vriendjessubsidies en gesloten toetreding"
+      },
+      {
+        "label": "Niet geïmpliceerd",
+        "value": "Dat resten nul moeten zijn"
+      }
+    ],
+    "sources": [
+      {
+        "publisher": "Kaplan & Rauh",
+        "title": "It’s the Market: The Broad-Based Rise in the Return to Top Talent (NBER w19846)",
+        "url": "https://www.nber.org/papers/w19846"
+      },
+      {
+        "publisher": "Our World in Data",
+        "title": "Wealth",
+        "url": "https://ourworldindata.org/wealth"
+      }
+    ]
+  },
+  {
+    "id": "cap-war",
+    "slug": "war",
+    "number": 9,
+    "verdict": "false",
+    "lastChecked": "2026-08-22",
+    "myth": "Het kapitalisme veroorzaakt oorlog. Markten hebben bloed nodig om te groeien.",
+    "headline": "Marktdemocratieën bevechten elkaar zelden. De industriële slachtpartij van de twintigste eeuw was geen aandeelhoudersvergadering.",
+    "kernel": "Staten gaan onder elk eigendomsregime naar oorlog om grondgebied, angst en glorie. Koloniale bedrijven deden lelijke dingen. Dat is geen unieke wet van het kapitalisme.",
+    "body": [
+      "De reeks oorlog-en-vrede van Our World in Data, en de bredere literatuur over „kapitalistische vrede” / democratische vrede, vindt dat commercieel geïntegreerde democratieën de saaiste buren in de dataset zijn. Interstatelijke gevechtsdoden als aandeel van de mensheid stortten na 1945 in terwijl de handel explodeerde.",
+      "De dodenlijst van de twintigste eeuw wordt gedomineerd door totalitaire projecten die markten afschaften: Stalins hongersnood en kampen, Mao’s Sprong en Culturele Revolutie, de Rode Khmer. Rummels democidetellingen en het Zwarte Boek zijn het grootboek dat de slogan overslaat. Een planeconomie met een geheime politie is geen vredesbeweging.",
+      "Bedrijven verkopen aan beide kanten van een oorlog als staten hen laten. Dat is een aanklacht tegen de staten. Autarkische rijken vallen ook binnen. Als handel oorlog maakte, zou de globaliseringsgolf na 1980 een kerkhof zijn. Het is het omgekeerde patroon."
+    ],
+    "keyFacts": [
+      {
+        "label": "Patroon",
+        "value": "Marktdemocratieën bevechten elkaar bijna nooit"
+      },
+      {
+        "label": "Grootboek 20e eeuw",
+        "value": "Democide onder totalitaire planning overschaduwt handelsoorlogen"
+      },
+      {
+        "label": "Sinds 1945",
+        "value": "Handel omhoog; interstatelijke oorlogsdoden omlaag"
+      }
+    ],
+    "sources": [
+      {
+        "publisher": "Our World in Data",
+        "title": "War and Peace",
+        "url": "https://ourworldindata.org/war-and-peace"
+      },
+      {
+        "publisher": "Our World in Data / UCDP",
+        "title": "Deaths in state-based conflicts",
+        "url": "https://ourworldindata.org/grapher/deaths-in-armed-conflicts-by-type"
+      }
+    ]
+  },
+  {
+    "id": "cap-public-goods",
+    "slug": "public-goods",
+    "number": 10,
+    "verdict": "overstated",
+    "lastChecked": "2026-08-22",
+    "myth": "Markten kunnen geen zorg, scholen of een vangnet leveren, dus is het kapitalisme het verkeerde stelsel.",
+    "headline": "Een markteconomie is hoe je rijk genoeg wordt om publieke goederen te kopen. Het is geen verbod erop.",
+    "kernel": "Zuivere publieke goederen en verzekeringsmarkten falen op de manieren uit het leerboek. Dat rechtvaardigt enige overheid. Het rechtvaardigt niet om prijzen als uitgangspunt voor de rest van de economie te vervangen.",
+    "body": [
+      "Nationale defensie, basisonderzoek en een bodem tegen ellende worden niet goed geleverd door een buurtwinkel. Economen zeggen dat sinds Smith. Elk rijk marktland runt al scholen, pensioenen en ziekenhuizen met een mix van belasting en private voorziening. Levensverwachting, geletterdheid en calorieën explodeerden in die landen terwijl ze kapitalistisch bleven.",
+      "De categoriefout is „we moeten vaccins financieren” behandelen als „we moeten restclaims, prijzen en toetreding afschaffen.” De NHS koopt nog geneesmiddelen bij bedrijven. Zweedse scholen staan nog tegenover een arbeidsmarkt. De mix van medische spaarrekeningen en catastrofeverzekering in Singapore is een marktinstrument. De Noordse kaart dekte de rest al: belast een productieve private sector.",
+      "Als staten de hele economie proberen te runnen alsof het een publiek goed is, krijg je de planningskaart. Als ze koolstof beprijzen, een vloer financieren en bedrijven laten concurreren, krijg je het enige stelsel dat massale welvaart ooit normaal heeft gemaakt. Dat is een markteconomie met een overheid — wat succesvol kapitalisme is."
+    ],
+    "keyFacts": [
+      {
+        "label": "Publieke goederen",
+        "value": "Echt; ze rechtvaardigen enige belastinggefinancierde voorziening"
+      },
+      {
+        "label": "Wat ze betaalde",
+        "value": "Een productieve private sector"
+      },
+      {
+        "label": "Categoriefout",
+        "value": "Een vangnet verwarren met Gosplan"
+      }
+    ],
+    "sources": [
+      {
+        "publisher": "Our World in Data",
+        "title": "Life expectancy",
+        "url": "https://ourworldindata.org/life-expectancy"
+      },
+      {
+        "publisher": "Our World in Data",
+        "title": "Global education",
+        "url": "https://ourworldindata.org/global-education"
+      },
+      {
+        "publisher": "Wikipedia (sourced overview)",
+        "title": "Nordic model",
+        "url": "https://en.wikipedia.org/wiki/Nordic_model"
+      }
+    ]
+  }
+]

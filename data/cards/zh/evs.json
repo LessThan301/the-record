@@ -1,0 +1,377 @@
+[
+  {
+    "id": "ev-power-plants",
+    "slug": "power-plants",
+    "number": 1,
+    "verdict": "false",
+    "lastChecked": "2026-08-22",
+    "myth": "电动车对气候更糟，因为它们只是把烟囱挪到了电厂。",
+    "headline": "即便在肮脏电网上，一辆典型电动车的全生命周期也优于一辆典型汽油车。效率是作弊码：你烧掉的汽油大部分永远到不了车轮。",
+    "kernel": null,
+    "body": [
+      "EPA 的迷思页说得很直：电动车把大约 87–91% 的电池能量转成运动；汽油车大约只有燃油能量的 16–25% 到达车轮。你即使用煤来发这些电，在大多数地方仍然能在全生命周期上赢，因为你没有把四分之三的能量当成热从散热器扔掉。",
+      "Carbon Brief 和 ICCT 的数字：在欧洲，全生命周期二氧化碳大约比汽油车低三分之二，电网变干净时差距还会拉大。在煤电很重的波兰或中国，优势会缩小，但对一辆典型轿车通常不会翻转。地点重要——如果你住在褐煤岛上，用一份尾气加电网的计算器——但把烟囱说法当成普遍定律，是错的。"
+    ],
+    "keyFacts": [
+      {
+        "label": "油箱到车轮",
+        "value": "电动车约 87–91%，内燃机约 16–25%（EPA）"
+      },
+      {
+        "label": "欧洲全生命周期",
+        "value": "大约比汽油少 60–70% 的 CO₂"
+      },
+      {
+        "label": "煤电网",
+        "value": "优势更小，通常仍为正"
+      }
+    ],
+    "sources": [
+      {
+        "publisher": "U.S. EPA",
+        "title": "Electric Vehicle Myths",
+        "url": "https://www.epa.gov/greenvehicles/electric-vehicle-myths"
+      },
+      {
+        "publisher": "Carbon Brief",
+        "title": "Factcheck: 21 misleading myths about electric vehicles",
+        "url": "https://interactive.carbonbrief.org/factcheck/electric-vehicles/"
+      }
+    ]
+  },
+  {
+    "id": "ev-battery-manufacturing",
+    "slug": "battery-manufacturing",
+    "number": 2,
+    "verdict": "false",
+    "lastChecked": "2026-08-22",
+    "myth": "电池制造脏到电动车永远还不清碳债。",
+    "headline": "制造端前载更重。回本通常是开车两三年，不是一辈子。",
+    "kernel": "一块长续航电池包在工厂里的排放，确实高于一辆钢加汽油的两厢车。幻灯片的这一部分不是假的。把戏是在车被开起来之前把视频停掉。",
+    "body": [
+      "阿贡 GREET、ICCT，以及 Carbon Brief 对厂商宣称的复算，把碳回本放在欧洲大约 10–20 thousand miles 量级——对正常驾驶者往往不到两年。英国的 Tesla Model Y 级例子估计约 13,000 miles。即便是沃尔沃和大众的数字，一旦拿掉按在秤上的拇指，也不需要 70,000 miles 的赎罪。",
+      "回收和更干净的电芯厂会进一步缩小这笔债。诚实的剩余是：买一块刚好够用的电池包，车开得久一些，并关心电芯在哪里烧制。“永远还不完”是一份没能活过 GREET 的2019年 Facebook 转发。"
+    ],
+    "keyFacts": [
+      {
+        "label": "回本（欧洲，典型）",
+        "value": "约 11k–20k miles，往往 <2 年"
+      },
+      {
+        "label": "方法",
+        "value": "GREET / ICCT 式全生命周期，不是只看尾气管"
+      },
+      {
+        "label": "什么有帮助",
+        "value": "更干净的电网、回收、尺寸合适的电池包"
+      }
+    ],
+    "sources": [
+      {
+        "publisher": "U.S. EPA",
+        "title": "Electric Vehicle Myths (battery manufacturing)",
+        "url": "https://www.epa.gov/greenvehicles/electric-vehicle-myths"
+      },
+      {
+        "publisher": "Carbon Brief",
+        "title": "Factcheck: EV carbon payback",
+        "url": "https://interactive.carbonbrief.org/factcheck/electric-vehicles/"
+      }
+    ]
+  },
+  {
+    "id": "ev-batteries-fail",
+    "slug": "batteries-fail",
+    "number": 3,
+    "verdict": "false",
+    "lastChecked": "2026-08-22",
+    "myth": "电动车电池几年就坏，然后变成有毒填埋。",
+    "headline": "因故障更换很少见。大多数电池包比车活得长。报废包是值钱的废料，不是新的洛夫运河。",
+    "kernel": null,
+    "body": [
+      "EPA 援引 Recurrent（2025年）：在一个大规模二手电动车样本中，平均电池更换历史上约 2.5%，许多2016年及以后车型低于 0.5%（不含召回）。日产说过，几乎所有早期电池包在十年出头之后仍在车上。八年质保之所以存在，是因为化学撑得住。",
+      "生命终点是回收问题，不是市政垃圾场问题。电芯含镍、锂、铜——有人付钱来回收它们。二次生命的储能是一条真实的、仍在长大的路径。手机电池的民间传说套不过来。热管理和循环深度是不同的运动。"
+    ],
+    "keyFacts": [
+      {
+        "label": "更换（Recurrent）",
+        "value": "历史上约 2.5%；许多2016+ 车型 <0.5%"
+      },
+      {
+        "label": "质保下限",
+        "value": "通常8年 / 里程上限"
+      },
+      {
+        "label": "生命终点",
+        "value": "回收 + 二次生命，因为材料值钱"
+      }
+    ],
+    "sources": [
+      {
+        "publisher": "U.S. EPA",
+        "title": "Electric Vehicle Myths (battery life)",
+        "url": "https://www.epa.gov/greenvehicles/electric-vehicle-myths"
+      },
+      {
+        "publisher": "Carbon Brief / Recurrent",
+        "title": "EV battery life",
+        "url": "https://interactive.carbonbrief.org/factcheck/electric-vehicles/"
+      }
+    ]
+  },
+  {
+    "id": "ev-grid-collapse",
+    "slug": "grid-collapse",
+    "number": 4,
+    "verdict": "false",
+    "lastChecked": "2026-08-22",
+    "myth": "大家都开电动车，电网就会崩。",
+    "headline": "国家电网吃得下电动车，尤其是夜间充电。本地变压器才是成年人该盯的约束。",
+    "kernel": "一条1970年代馈线上排满 11 kW 墙盒，对电力公司是真切的头疼。那是街区升级，不是电气化的死亡。",
+    "body": [
+      "EPA：电动车可以在低谷充电；研究（USDRIVE、能源部西部电网工作）发现来波有容量。加州电动车的峰值负荷，比起空调只是四舍五入。EIA 指出，家庭供暖和制冷已经让一辆车相形见绌。在英国，Carbon Brief 指出，即便崩盘论调在涨，峰值需求自2000年代以来已经下降。",
+      "真正会断的是：薄弱农村支线上不协调的快充，或者热浪星期二 18:00 人人插上。工具——分时电价、智能充电、更晚的车网互动——存在。“电网永远不行”是口号。“这座变电站需要重建”是工单。"
+    ],
+    "keyFacts": [
+      {
+        "label": "全国图景",
+        "value": "配合低谷 / 智能充电，可管理"
+      },
+      {
+        "label": "本地图景",
+        "value": "变压器和馈线需要定点升级"
+      },
+      {
+        "label": "量级核对",
+        "value": "家庭暖通仍然是住户里的大户"
+      }
+    ],
+    "sources": [
+      {
+        "publisher": "U.S. EPA",
+        "title": "Electric Vehicle Myths (grid)",
+        "url": "https://www.epa.gov/greenvehicles/electric-vehicle-myths"
+      }
+    ]
+  },
+  {
+    "id": "ev-nowhere-charge",
+    "slug": "nowhere-charge",
+    "number": 5,
+    "verdict": "overstated",
+    "lastChecked": "2026-08-22",
+    "myth": "没地方充电。电动车只适合在帕洛阿尔托有房子的人。",
+    "headline": "家里（或单位）充电才是这个产品。公共网络长得很快，在错误的地方仍然斑驳——尤其是公寓街道。",
+    "kernel": "如果你在一座没有共享充电箱的稠密欧洲城市路边停车，这车是更差的家电。那是规划失败，不是证明电子不能顺着电缆走。",
+    "body": [
+      "挪威、加州和德国的大多数电动车公里，不是在高速公路服务区赢来的。它们赢在一只过夜的 7–11 kW 盒子上。EPA 指出美国大多数日常行程很短；98% 的行程 ≤75 miles。公共直流快充网络已经倍增（美国 NEVI 资金、欧盟 AFIR 规则）。某些网络的可靠性仍然够格成为一个梗。",
+      "剩下的硬案子：租客、塔楼住户、没有专属车位的人。政策正在缓慢迫使欧盟出现“插座权”规则。在那变成无聊的基础设施之前，这些驾驶者有理由犹豫。他们不等于“没有充电桩”。"
+    ],
+    "keyFacts": [
+      {
+        "label": "默认模式",
+        "value": "车睡觉的地方充电"
+      },
+      {
+        "label": "日常行程（美国）",
+        "value": "73% ≤10 miles；98% ≤75 miles（NHTS）"
+      },
+      {
+        "label": "困难模式",
+        "value": "没有私人车位——真实、正在缩小的障碍"
+      }
+    ],
+    "sources": [
+      {
+        "publisher": "U.S. EPA",
+        "title": "Electric Vehicle Myths (charging)",
+        "url": "https://www.epa.gov/greenvehicles/electric-vehicle-myths"
+      }
+    ]
+  },
+  {
+    "id": "ev-range",
+    "slug": "range",
+    "number": 6,
+    "verdict": "false",
+    "lastChecked": "2026-08-22",
+    "myth": "电动车续航不够真实生活用。",
+    "headline": "现代走量电动车清过 300–500+ km WLTP。真实生活是通勤，不是横穿得州的拍电影。",
+    "kernel": null,
+    "body": [
+      "EPA：大多数新车型额定超过 200 miles；美国日常出行分布让这成为盈余，不是稀缺。欧洲 WLTP 数字里，Model Y、ID. 家族、现代/起亚和中国进口车，落在人们已经用柴油车活在其中的同一条带子上——他们加油是出于习惯，不是出于需要。",
+      "续航焦虑是一年一次的假期问题，外加一个冬天问题（下一张卡）。对中位驾驶者，它不是星期二的问题。如果你的生活是暴风雪里 800 km 高速公路外加滑雪箱，你已经知道自己是特例——做计划，或者为那一周留一辆长续航燃油车。别拿特例写成自然定律。"
+    ],
+    "keyFacts": [
+      {
+        "label": "新车续航",
+        "value": "通常 200+ miles EPA / 300–500 km WLTP"
+      },
+      {
+        "label": "日常所需",
+        "value": "大多数行程远低于此"
+      },
+      {
+        "label": "例外",
+        "value": "又长又快又冷的公路旅行——做计划"
+      }
+    ],
+    "sources": [
+      {
+        "publisher": "U.S. EPA",
+        "title": "Electric Vehicle Myths (range)",
+        "url": "https://www.epa.gov/greenvehicles/electric-vehicle-myths"
+      }
+    ]
+  },
+  {
+    "id": "ev-cold",
+    "slug": "cold",
+    "number": 7,
+    "verdict": "misleading",
+    "lastChecked": "2026-08-22",
+    "myth": "电动车冬天不能用。冬天证明这套想法死了。",
+    "headline": "续航会掉——恶劣几周里常常 20–40%。车仍然能启动。挪威已经投过票了。",
+    "kernel": "座舱热量来自电池，不是发动机废热。化学会变钝。两者都是物理。“不能用”是范畴错误。",
+    "body": [
+      "AAA（2019年）在一次严寒、开着暖气的测试里，发现大约 40% 的续航损失。真实冬天各不相同：预热、热泵和座椅加热能夺回很大一块。电池包冻着的时候直流充电更慢——又一个真实的恼人事，靠去桩路上的预热解决。",
+      "挪威、冰岛、加拿大、瑞典、芬兰和阿尔卑斯已经有很大或正在变大的电动车份额。那里的人不是在表演神迹。他们在家插上，预热，然后开。汽油车冬天也更费油；它只是把这笔税藏在同一个油箱里。如果你住在比特堡、通勤 30 km，你会注意到一月。你不会走路。"
+    ],
+    "keyFacts": [
+      {
+        "label": "续航打击",
+        "value": "严寒开着座舱暖气时常常 20–40%"
+      },
+      {
+        "label": "缓解",
+        "value": "热泵、预热、家里充电"
+      },
+      {
+        "label": "存在证明",
+        "value": "北欧电动车市场"
+      }
+    ],
+    "sources": [
+      {
+        "publisher": "U.S. EPA",
+        "title": "Electric Vehicle Myths (range / weather)",
+        "url": "https://www.epa.gov/greenvehicles/electric-vehicle-myths"
+      },
+      {
+        "publisher": "Clean Energy Canada / industry explainers",
+        "title": "EV myths — cold weather",
+        "url": "https://cleanenergycanada.org/media-brief-countering-common-myths-about-electric-vehicles/"
+      }
+    ]
+  },
+  {
+    "id": "ev-lithium",
+    "slug": "lithium",
+    "number": 8,
+    "verdict": "false",
+    "lastChecked": "2026-08-22",
+    "myth": "锂（或者铜，或者稀土）不够让每个人都开电动车。",
+    "headline": "地质资源超过需求预测。价格信号会打开矿山和回收。瓶颈是许可和时间，不是缺了一种元素。",
+    "kernel": null,
+    "body": [
+      "Carbon Brief 的矿物一节：按当前地质，资源大于 2022–2050 年需求。锂并不稀有；它的加工分布不均。铜是更紧、也更无聊的约束，因为每一次能源转型都用它。电机里的稀土正在被设计下去（Tesla 和其他公司已经展示低/无重稀土路径）。",
+      "某一年的短缺是矿山和冶炼的故事——智利、澳大利亚、中国加工、刚果钴、印尼镍。那是地缘政治和前置时间。那不是“地壳用完了”。别忘了，石油是一股你必须永远抽下去的流。电池包是一份可以回收的存量。"
+    ],
+    "keyFacts": [
+      {
+        "label": "锂",
+        "value": "标准评估中资源 > 长期需求"
+      },
+      {
+        "label": "更紧的投入",
+        "value": "铜，外加精炼产能"
+      },
+      {
+        "label": "减压阀",
+        "value": "化学切换 + 回收 + 更多矿山"
+      }
+    ],
+    "sources": [
+      {
+        "publisher": "Carbon Brief",
+        "title": "Factcheck: raw materials",
+        "url": "https://interactive.carbonbrief.org/factcheck/electric-vehicles/"
+      }
+    ]
+  },
+  {
+    "id": "ev-heavy-dangerous",
+    "slug": "heavy-dangerous",
+    "number": 9,
+    "verdict": "overstated",
+    "lastChecked": "2026-08-22",
+    "myth": "电动车重到对其他所有人都是死亡陷阱，还会毁掉路面。",
+    "headline": "它们确实更重。碰撞测试分数通常优秀。路面磨损和行人物理，才是并非无事的部分。",
+    "kernel": "质量在与一辆小车或一个人相撞时就是能量。再生制动减少刹车粉尘；额外重量可能增加轮胎磨损。净空气质量通常仍然更好，因为没有尾气管。",
+    "body": [
+      "电池包是一块电芯板。那份质量坐得很低，所以电动车常常在麋鹿测试和 NCAP/NHTSA 星级上表现很好——它们不翻，结构是一块滑板。乘员安全不是这套论据的弱侧。",
+      "弱侧是另一个物体：一辆 2.3 吨跨界车撞上一辆 1.2 吨微型车，或撞上一个行人。轮胎磨损颗粒随重量上升。路面磨损随轴载超线性上升，所以吞掉高速公路的是卡车，不是 Model Y——但一队更重的轿车也不是免费的。药方是更小的电池包和更小的车，不是回到含铅汽油。“死亡陷阱”做标题，跳过了乘员安全记录。"
+    ],
+    "keyFacts": [
+      {
+        "label": "乘员安全",
+        "value": "碰撞测试表现总体强"
+      },
+      {
+        "label": "质量罚金",
+        "value": "对另一辆车 / 行人更糟；更多轮胎磨损"
+      },
+      {
+        "label": "路面",
+        "value": "轿车 << 卡车；更重的轿车仍不是免费"
+      }
+    ],
+    "sources": [
+      {
+        "publisher": "U.S. EPA",
+        "title": "Electric Vehicle Myths (safety)",
+        "url": "https://www.epa.gov/greenvehicles/electric-vehicle-myths"
+      },
+      {
+        "publisher": "Carbon Brief",
+        "title": "Weight, tires, and air quality",
+        "url": "https://interactive.carbonbrief.org/factcheck/electric-vehicles/"
+      }
+    ]
+  },
+  {
+    "id": "ev-hybrids-better",
+    "slug": "hybrids-better",
+    "number": 10,
+    "verdict": "misleading",
+    "lastChecked": "2026-08-22",
+    "myth": "混动严格更好。纯电是死胡同。",
+    "headline": "混动是一座好桥，尤其对没有插头的低里程驾驶者。电网哪怕只是中等干净，它们也赢不了全生命周期。",
+    "kernel": "如果你一年开 6,000 km、路边停车、电又很脏，一辆小型混动可以是理性的车。那是一个利基，不是对这个品类的反驳。",
+    "body": [
+      "混动的大多数公里仍然在烧汽油。它在冷启动城市循环上赢过一辆喝油的内燃机，而且不需要家用充电桩。对高年里程，纯电的能源成本和排放会拉开——ICCT 和 Carbon Brief 都显示，随着电网脱碳，差距在变宽。氢燃料车，另一个被爱用的“抓到了”，井到轮要用上好几倍的电。",
+      "死胡同的说法还得解释挪威、中国的量、Tesla 的保有量，以及每千瓦时下跌的电池美元。一项已经在多个富裕国家占新车销售很大份额的技术，不是一张科学展板。混动也可以停在车库里。它们不是一票否决。"
+    ],
+    "keyFacts": [
+      {
+        "label": "混动强项",
+        "value": "不需要插头；适合低里程 / 无车位"
+      },
+      {
+        "label": "纯电强项",
+        "value": "任何认真的年公里数下，能源成本 + 全生命周期 CO₂"
+      },
+      {
+        "label": "氢燃料车",
+        "value": "车辆少得多，效率差于纯电"
+      }
+    ],
+    "sources": [
+      {
+        "publisher": "Carbon Brief",
+        "title": "Factcheck: hybrids, hydrogen, e-fuels",
+        "url": "https://interactive.carbonbrief.org/factcheck/electric-vehicles/"
+      }
+    ]
+  }
+]

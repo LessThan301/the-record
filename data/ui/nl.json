@@ -1,0 +1,144 @@
+{
+  "language": "Taal",
+  "close": "Sluiten",
+  "notFoundTitle": "Pagina niet gevonden",
+  "notFoundBody": "Die pagina staat niet in het dossier.",
+  "notFoundBack": "Terug naar het begin",
+  "nav": {
+    "method": "Methode",
+    "all": "Alle",
+    "menu": "Menu"
+  },
+  "home": {
+    "kicker": "Snijd de ruis weg, omarm het signaal.",
+    "title": "Wat hiervan klinkt voor jou waar?",
+    "lede": "Vijftig beweringen over Elon Musk, SpaceX, Tesla, elektrische auto's en het kapitalisme.",
+    "gradeKey": "Hoe elke kaart wordt beoordeeld",
+    "iBelieve": "Dit geloof ik",
+    "mythStamp": "Mythe",
+    "record": "De feiten",
+    "claimPicked": "De bewering die je koos",
+    "tapAgain": "Tik op de kaart om de bewering opnieuw te zien",
+    "flipping": "Naar de feiten…",
+    "sources": "Bronnen",
+    "grade": "Oordeel",
+    "showMyth": "Toon de mythe",
+    "showRecord": "Toon de feiten"
+  },
+  "verdict": {
+    "false": "Onjuist",
+    "misleading": "Misleidend",
+    "overstated": "Overdreven"
+  },
+  "verdictHint": {
+    "false": "Deze bewering klopt niet.",
+    "misleading": "Een deel hiervan is waar, maar het leidt tot de verkeerde conclusie.",
+    "overstated": "Er zit iets waars in, maar de bewering gaat te ver."
+  },
+  "categories": {
+    "elon": {
+      "name": "Elon Musk",
+      "shortName": "Elon",
+      "kicker": "Persoon",
+      "blurb": "Oorsprongsverhalen, belastingen, politiek en de oprichtersmythe."
+    },
+    "spacex": {
+      "name": "SpaceX",
+      "shortName": "SpaceX",
+      "kicker": "Lancering",
+      "blurb": "Raketten, Starlink, NASA-geld, en wat hergebruik echt heeft veranderd."
+    },
+    "tesla": {
+      "name": "Tesla",
+      "shortName": "Tesla",
+      "kicker": "Voertuig",
+      "blurb": "Branden, Autopilot, batterijen, paneelkieren en de robotaxi-bewering."
+    },
+    "evs": {
+      "name": "Elektrische auto's",
+      "shortName": "EV's",
+      "kicker": "De categorie",
+      "blurb": "Klimaatrekening, het stroomnet, mijnbouw, winterbereik en de hybride-omweg."
+    },
+    "capitalism": {
+      "name": "Kapitalisme",
+      "shortName": "Kapitalisme",
+      "kicker": "Het systeem",
+      "blurb": "Armoede, planeconomie, de Noordse landen, ongelijkheid — en of markten het probleem zijn."
+    }
+  },
+  "footer": {
+    "independent": "Onafhankelijke redactionele site. Niet verbonden met Tesla, SpaceX, xAI of Elon Musk.",
+    "trademarks": "Tesla, SpaceX, Starlink, Autopilot en verwante merken behoren toe aan hun eigenaren. Hier alleen gebruikt voor commentaar."
+  },
+  "method": {
+    "kicker": "Methode",
+    "title": "Hoe deze kaarten worden beoordeeld",
+    "affiliation": "The Record is een onafhankelijke redactionele site. Het is niet verbonden met Tesla, Inc., SpaceX, xAI of Elon Musk.",
+    "p1": "Elke kaart vertrekt vanuit een bewering die daadwerkelijk circuleert — zoekresultaten, televisienieuws, forums, de keukentafel — geen stroman, bedacht om te worden omvergeworpen.",
+    "p2": "Waar een kritiek standhoudt — de naam Autopilot, FSD-data, habitat in Boca Chica, laden voor huurders, paneelkieren bij auto's uit de opstartjaren — blijft die op de kaart. Een bron van waarheid die niet „ja, dat deel” kan zeggen, is zelf weer een mythe.",
+    "p3": "Bronnen zijn primair of dichtbij: Teslas eigen brand- en veiligheidsrapporten, EPA-mythepagina's, de EV-factcheck van Carbon Brief, NASA-materiaal over commercial crew, armoedeseries van de World Bank en Our World in Data, toenmalige berichtgeving over de belastingwet van 2021 en het gebaar bij de inauguratie van 2025. Klik door. Als een cijfer verschuift, moet de kaart meebewegen.",
+    "p4": "Als er echte berichtgeving in die taal is die bij de kaart hoort — Spiegel, ADEME, El País — staat die bovenaan. Anders blijven de Engelse bronnen.",
+    "legalLead": "Verbondenheid, privacy, voorwaarden en colofon:"
+  },
+  "legal": {
+    "kicker": "Juridisch",
+    "title": "De kleine lettertjes",
+    "updated": "Laatst bijgewerkt op 22 augustus 2026.",
+    "navDisclaimer": "Disclaimer",
+    "navTerms": "Voorwaarden",
+    "navPrivacy": "Privacy",
+    "navCookies": "Cookies",
+    "navIp": "Merken",
+    "navImprint": "Colofon",
+    "disclaimerTitle": "Disclaimer",
+    "disclaimer": [
+      "The Record is een onafhankelijke redactionele website. Het is niet verbonden met, goedgekeurd door, gesponsord door of geassocieerd met Tesla, Inc., Space Exploration Technologies Corp. (SpaceX), xAI, Neuralink, The Boring Company, X Corp. of Elon Musk. Vermeldingen van die personen en bedrijven dienen ter identificatie, tot commentaar en tot kritiek.",
+      "De kaarten zijn briefingnotities met bronnen, geen beleggingsadvies, geen juridisch advies, geen ingenieursadvies en geen vervanging voor de onderliggende rapporten. Oordelen — Onjuist, Misleidend, Overdreven — zijn redactionele beoordelingen. Cijfers verschuiven. Als een bron verschuift, moet de kaart meebewegen.",
+      "Niets op deze site is een aanbod om effecten, voertuigen, lanceringen of iets anders te verkopen. Behandel een kaart niet als due diligence."
+    ],
+    "termsTitle": "Gebruiksvoorwaarden",
+    "terms": [
+      "Door The Record te gebruiken ga je akkoord met deze voorwaarden. Ben je het er niet mee eens, gebruik de site dan niet.",
+      "De site wordt aangeboden „zoals hij is” en „zoals beschikbaar”, zonder garanties van welke aard dan ook, uitdrukkelijk of stilzwijgend, waaronder juistheid, verkoopbaarheid, geschiktheid voor een bepaald doel en niet-inbreuk. Wij garanderen niet dat de site ononderbroken, foutloos of vrij van schadelijke onderdelen is.",
+      "Voor zover de wet dat toestaat, is de uitgever niet aansprakelijk voor enige indirecte, incidentele, bijzondere of gevolgschade, noch voor punitieve schadevergoeding, noch voor gederfde winst, gegevens of goodwill, voortvloeiend uit jouw gebruik van de site of het vertrouwen op een kaart. Dwingende rechten waarvan het recht van jouw land geen afstand toestaat, blijven gelden — inclusief, waar die bestaan, de EU-consumentenrechten.",
+      "Je mag naar elke openbare pagina linken. Je mag de kaarten niet scrapen, herpubliceren of als eigen werk presenteren. Kort citeren met een teruglink is in orde. Geautomatiseerd oogsten dat de dienst belast, niet.",
+      "Externe bronlinks verlaten deze site. Wij controleren die pagina's niet en zijn niet verantwoordelijk voor hun inhoud, beschikbaarheid of beleid."
+    ],
+    "privacyTitle": "Privacy",
+    "privacyIntro": [
+      "Deze site heeft geen gebruikersaccounts, mailinglijsten, advertentienetwerken of een database met persoonsgegevens. Hier is niets om op „in te loggen”.",
+      "Wat in de gewone loop van het leveren van een website kan worden verwerkt:"
+    ],
+    "privacyBullets": [
+      "Standaard technische logs bij de hoster (IP-adres, browser, tijd, opgevraagde URL), voor zover nodig om pagina's uit te leveren, de site in de lucht te houden en misbruik te weren.",
+      "De adresbalk, als je een kaart opent: een claim-id kan in de URL staan (bijvoorbeeld ?claim=elon-emerald). Die blijft in je browser, tenzij je de link deelt.",
+      "Geen verkoop van persoonsgegevens. Geen profilering voor advertenties. Geen marketingpixels van derden die deze site plaatst."
+    ],
+    "privacyOutro": [
+      "Als je een bronlink volgt, heeft die bestemming een eigen privacybeleid. Wij zijn niet de verwerkingsverantwoordelijke van World Bank, Our World in Data, Tesla, NASA of enige andere geciteerde uitgever.",
+      "Onder de AVG is een „verwerkingsverantwoordelijke” de persoon of organisatie die de doeleinden van de verwerking vaststelt. Voor deze site is dat de in het colofon genoemde uitgever — de persoon of organisatie die deze URL op het openbare web heeft gezet. Je kunt die uitgever vragen om inzage, rectificatie, wissing, beperking, bezwaar of overdraagbaarheid, voor zover die rechten gelden, en je kunt een klacht indienen bij je toezichthouder (in Duitsland een Landesdatenschutzbehörde; in de EU je lokale DPA)."
+    ],
+    "cookiesTitle": "Cookies",
+    "cookies": [
+      "The Record plaatst geen advertentie- of analysecookies. We gebruiken geen cookiebanner omdat we geen niet-essentiële cookies zetten.",
+      "Het hostingplatform kan strikt noodzakelijke cookies of vergelijkbare opslag gebruiken om de site te leveren, verkeer te verdelen of te beschermen tegen misbruik. Je browser kan daarvoor ook gewone sessiegegevens opslaan. Je kunt cookies in je browser blokkeren; de site moet dan nog steeds leesbaar zijn."
+    ],
+    "ipTitle": "Merken en auteursrecht",
+    "ip": [
+      "Tesla, Model Y, Model 3, Model S, Model X, Cybertruck, Autopilot, Full Self-Driving, Supercharger, SpaceX, Falcon, Dragon, Starship, Starlink, Neuralink, xAI en verwante merken zijn handelsmerken van hun respectieve eigenaren. De naam en het portret van Elon Musk worden hier gebruikt voor commentaar op publieke beweringen. Andere namen op de kaarten behoren toe aan hun eigenaren.",
+      "Kaarttekst op The Record wordt gepresenteerd als onafhankelijke redactionele inhoud. Geciteerde cijfers en documenttitels blijven het werk van de genoemde uitgevers. Klik door. Kopieer geen Tesla-veiligheidsrapport van deze pagina en geef het niet als het onze uit — en kopieer onze oordelen niet als die van Tesla."
+    ],
+    "imprintTitle": "Colofon",
+    "imprintIntro": "Gegevens overeenkomstig § 5 DDG (Duitsland) en gelijkwaardige EU-identificatieregels voor digitale diensten:",
+    "imprintService": "Dienst",
+    "imprintServiceValue": "The Record — onafhankelijke redactionele site",
+    "imprintNature": "Aard",
+    "imprintNatureValue": "Niet-officieel commentaar. Geen product van Tesla, SpaceX of xAI.",
+    "imprintOperator": "Aanbieder / verwerkingsverantwoordelijke",
+    "imprintOperatorValue": "De persoon of organisatie die deze URL heeft gepubliceerd, is de aanbieder van de dienst en de verwerkingsverantwoordelijke van eventuele technische gegevens die worden verwerkt om de site te hosten. Een openbare site gericht op lezers in Duitsland of de EU moet op deze pagina de volledige naam, het postadres en een contact-e-mail van de aanbieder vermelden (en, bij een vennootschap, de registerrechtbank en het nummer).",
+    "imprintEditor": "Inhoudelijk verantwoordelijk",
+    "imprintEditorValue": "De redactionele verantwoordelijkheid ligt bij dezelfde aanbieder. Die staat achter de oordelen.",
+    "imprintOutro": "Deze pagina beschrijft hoe The Record werkt. Het is geen juridisch advies. Wetten verschillen per land; als jij de uitgever bent, laat het colofon door een advocaat controleren voordat je de URL als commercieel aanbod behandelt."
+  }
+}

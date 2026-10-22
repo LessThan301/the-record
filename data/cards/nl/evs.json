@@ -1,0 +1,377 @@
+[
+  {
+    "id": "ev-power-plants",
+    "slug": "power-plants",
+    "number": 1,
+    "verdict": "false",
+    "lastChecked": "2026-08-22",
+    "myth": "EV’s zijn slechter voor het klimaat omdat ze de schoorsteen alleen naar de centrale verplaatsen.",
+    "headline": "Zelfs op een vuil net klopt een typische EV een typische benzineauto over zijn leven. Rendement is de truc: het merendeel van de benzine die je verbrandt, bereikt de wielen nooit.",
+    "kernel": null,
+    "body": [
+      "De mythuspagina van de EPA is bot: EV’s zetten ongeveer 87–91% van de batterij-energie om in beweging; benzineauto’s brengen zoiets als 16–25% van de energie van de brandstof naar de wielen. Je kunt die elektriciteit uit kolen opwekken en op levenscyclusbasis in de meeste plaatsen nog winnen, omdat je niet driekwart van de energie als warmte in een radiateur weggooit.",
+      "Cijfers van Carbon Brief en ICCT: in Europa ligt de levenscyclus-CO₂ in de orde van twee derde lager dan bij een benzineauto, en het gat groeit naarmate netten schoner worden. In kolenrijk Polen of China krimpt het voordeel maar kantelt het voor een typische auto niet. Locatie doet ertoe — gebruik een uitlaat-plus-net-rekenmachine als je op een eiland van bruinkool woont — maar het schoorsteenpraatje als algemene wet is onjuist."
+    ],
+    "keyFacts": [
+      {
+        "label": "Tank-to-wheel",
+        "value": "EV ~87–91% vs ICE ~16–25% (EPA)"
+      },
+      {
+        "label": "Europese levenscyclus",
+        "value": "In de orde van 60–70% minder CO₂ dan benzine"
+      },
+      {
+        "label": "Kolennetten",
+        "value": "Voordeel kleiner, meestal nog positief"
+      }
+    ],
+    "sources": [
+      {
+        "publisher": "U.S. EPA",
+        "title": "Electric Vehicle Myths",
+        "url": "https://www.epa.gov/greenvehicles/electric-vehicle-myths"
+      },
+      {
+        "publisher": "Carbon Brief",
+        "title": "Factcheck: 21 misleading myths about electric vehicles",
+        "url": "https://interactive.carbonbrief.org/factcheck/electric-vehicles/"
+      }
+    ]
+  },
+  {
+    "id": "ev-battery-manufacturing",
+    "slug": "battery-manufacturing",
+    "number": 2,
+    "verdict": "false",
+    "lastChecked": "2026-08-22",
+    "myth": "Batterijproductie is zo vuil dat de EV zijn koolstofschuld nooit terugbetaalt.",
+    "headline": "Productie is zwaarder aan de voorkant. Terugverdienen duurt doorgaans een paar jaar rijden, geen leven.",
+    "kernel": "Een pack met grote actieradius stoot in de fabriek inderdaad meer uit dan een hatchback van staal en benzine. Dat deel van de slide is niet nep. De truc is de video stoppen voordat de auto wordt gereden.",
+    "body": [
+      "Argonne GREET, ICCT en de herberekeningen van Carbon Brief van fabrikantenclaims zetten koolstofterugverdienen in de orde van 10–20 duizend mijl in Europa — vaak onder de twee jaar voor een normale rijder. Voorbeelden van Tesla Model Y-klasse in het VK zijn geschat rond de 13.000 mijl. Zelfs cijfers van Volvo en VW, als je de duim van de weegschaal haalt, vragen geen 70.000 mijl boete.",
+      "Recycling en schonere celfabrieken krimpen de schuld verder. De eerlijke rest: koop het kleinste pack dat bij je leven past, houd de auto lang, en let op waar de cellen zijn gebakken. „Betaalt nooit terug” is een Facebook-deelbericht uit 2019 dat GREET niet overleefde."
+    ],
+    "keyFacts": [
+      {
+        "label": "Terugverdienen (Europa, typisch)",
+        "value": "~11k–20k mijl, vaak <2 jaar"
+      },
+      {
+        "label": "Methode",
+        "value": "GREET- / ICCT-achtige levenscyclus, niet alleen uitlaat"
+      },
+      {
+        "label": "Wat helpt",
+        "value": "Schonere netten, recycling, packs op maat"
+      }
+    ],
+    "sources": [
+      {
+        "publisher": "U.S. EPA",
+        "title": "Electric Vehicle Myths (battery manufacturing)",
+        "url": "https://www.epa.gov/greenvehicles/electric-vehicle-myths"
+      },
+      {
+        "publisher": "Carbon Brief",
+        "title": "Factcheck: EV carbon payback",
+        "url": "https://interactive.carbonbrief.org/factcheck/electric-vehicles/"
+      }
+    ]
+  },
+  {
+    "id": "ev-batteries-fail",
+    "slug": "batteries-fail",
+    "number": 3,
+    "verdict": "false",
+    "lastChecked": "2026-08-22",
+    "myth": "EV-batterijen falen na een paar jaar en worden dan giftig stort.",
+    "headline": "Vervangingen wegens falen zijn zeldzaam. De meeste packs overleven de auto. Dode packs zijn waardevol schroot, geen nieuw Love Canal.",
+    "kernel": null,
+    "body": [
+      "EPA onder verwijzing naar Recurrent (2025): in een grote steekproef van gebruikte EV’s zat de gemiddelde batterijvervanging historisch rond de 2,5%, en onder de 0,5% voor veel modellen vanaf 2016 (exclusief recalls). Nissan heeft gezegd dat bijna al zijn vroege packs na ruim een decennium nog in auto’s zitten. Garanties van acht jaar bestaan omdat de chemie standhoudt.",
+      "Einde levensduur is een recyclingprobleem, geen gemeentelijk-stortprobleem. Cellen bevatten nikkel, lithium, koper — mensen betalen om ze terug te winnen. Tweede leven als stationaire opslag is een echt, zo nog groeiend, pad. Folklore over telefoonbatterijen gaat niet over. Thermisch beheer en cyclusdiepte zijn andere sporten."
+    ],
+    "keyFacts": [
+      {
+        "label": "Vervanging (Recurrent)",
+        "value": "~2,5% historisch; <0,5% veel modellen 2016+"
+      },
+      {
+        "label": "Garantievloer",
+        "value": "Doorgaans 8 jaar / kilometertellerplafond"
+      },
+      {
+        "label": "Einde levensduur",
+        "value": "Recycling + tweede leven, omdat de materialen geld waard zijn"
+      }
+    ],
+    "sources": [
+      {
+        "publisher": "U.S. EPA",
+        "title": "Electric Vehicle Myths (battery life)",
+        "url": "https://www.epa.gov/greenvehicles/electric-vehicle-myths"
+      },
+      {
+        "publisher": "Carbon Brief / Recurrent",
+        "title": "EV battery life",
+        "url": "https://interactive.carbonbrief.org/factcheck/electric-vehicles/"
+      }
+    ]
+  },
+  {
+    "id": "ev-grid-collapse",
+    "slug": "grid-collapse",
+    "number": 4,
+    "verdict": "false",
+    "lastChecked": "2026-08-22",
+    "myth": "Het net stort in als we allemaal elektrisch rijden.",
+    "headline": "Nationale netten kunnen EV’s absorberen, vooral met nachtladen. Lokale transformatoren zijn de volwassen bottleneck.",
+    "kernel": "Een straat vol 11 kW-wallboxen op een voeding uit de jaren zeventig is een echte hoofdpijn voor het nutsbedrijf. Dat is een wijkupgrade, niet de dood van elektrificatie.",
+    "body": [
+      "EPA: EV’s kunnen daluren laden; studies (USDRIVE, DOE-werk aan het westelijke net) vinden capaciteit voor de komende golf. De piek-EV-belasting in Californië is een afrondingsfout naast airconditioning geweest. EIA heeft opgemerkt dat huishoudelijke verwarming en koeling een auto al overschaduwen. In het VK merkt Carbon Brief op dat de piekvraag sinds de jaren 2000 is gedaald terwijl het praatje over instorting toenam.",
+      "Wat wél breekt: ongecoördineerd snelladen op zwakke landelijke takken, of iedereen die om 18:00 insteekt op een hittegolf-dinsdag. De instrumenten — tarieven naar tijdstip, slim laden, later V2G — bestaan. „Het net kan nooit” is een slogan. „Dit onderstation moet worden verbouwd” is een werkorder."
+    ],
+    "keyFacts": [
+      {
+        "label": "Nationaal beeld",
+        "value": "Beheersbaar met daluren / slim laden"
+      },
+      {
+        "label": "Lokaal beeld",
+        "value": "Transformatoren en voedingen vragen gerichte upgrades"
+      },
+      {
+        "label": "Schaalcheck",
+        "value": "Huis-HVAC is nog steeds de huishoudelijke slokop"
+      }
+    ],
+    "sources": [
+      {
+        "publisher": "U.S. EPA",
+        "title": "Electric Vehicle Myths (grid)",
+        "url": "https://www.epa.gov/greenvehicles/electric-vehicle-myths"
+      }
+    ]
+  },
+  {
+    "id": "ev-nowhere-charge",
+    "slug": "nowhere-charge",
+    "number": 5,
+    "verdict": "overstated",
+    "lastChecked": "2026-08-22",
+    "myth": "Er is nergens te laden. EV’s werken alleen als je een huis in Palo Alto hebt.",
+    "headline": "Thuis (of op het werk) laden is het product. Publieke netwerken groeiden snel en zijn op de verkeerde plekken nog gatenkaas — vooral in appartementstraten.",
+    "kernel": "Als je in een dichte Europese stad aan de straat parkeert zonder gedeelde box, is de auto een slechter apparaat. Dat is een planningsfalen, geen bewijs dat elektronen niet door een kabel kunnen.",
+    "body": [
+      "De meeste EV-kilometers in Noorwegen, Californië en Duitsland worden niet gewonnen bij een snelwegplein. Ze worden gewonnen op een box van 7–11 kW ’s nachts. EPA merkt op dat de meerderheid van de dagelijkse Amerikaanse ritten kort is; 98% van de ritten is ≤75 mijl. Publieke DC-snelnetwerken zijn vermenigvuldigd (Amerikaans NEVI-geld, EU-AFIR-regels). Betrouwbaarheid van sommige netwerken is nog een meme, en terecht.",
+      "De resterende harde gevallen: huurders, bewoners van woontorens, mensen zonder eigen parkeerplaats. Beleid dwingt in de EU langzaam „recht op een stopcontact”-regels af. Totdat dat saaie infrastructuur is, hebben die bestuurders gelijk om te aarzelen. Zij zijn niet hetzelfde als „er zijn geen laders.”"
+    ],
+    "keyFacts": [
+      {
+        "label": "Standaardpatroon",
+        "value": "Laad waar de auto slaapt"
+      },
+      {
+        "label": "Dagelijkse ritten (VS)",
+        "value": "73% ≤10 mijl; 98% ≤75 mijl (NHTS)"
+      },
+      {
+        "label": "Moeilijke modus",
+        "value": "Geen privéparkeren — een echte, krimpende barrière"
+      }
+    ],
+    "sources": [
+      {
+        "publisher": "U.S. EPA",
+        "title": "Electric Vehicle Myths (charging)",
+        "url": "https://www.epa.gov/greenvehicles/electric-vehicle-myths"
+      }
+    ]
+  },
+  {
+    "id": "ev-range",
+    "slug": "range",
+    "number": 6,
+    "verdict": "false",
+    "lastChecked": "2026-08-22",
+    "myth": "EV’s hebben niet genoeg actieradius voor het echte leven.",
+    "headline": "Moderne volume-EV’s halen 300–500+ km WLTP. Het echte leven is een woon-werkrit, geen filmopname dwars door Texas.",
+    "kernel": null,
+    "body": [
+      "EPA: de meeste nieuwe modellen zitten boven de 200 mijl gewaardeerd; de Amerikaanse verdeling van dagelijks verkeer maakt dat overschot, geen schaarste. Europese WLTP-cijfers voor Model Y, de ID.-familie, Hyundai/Kia en Chinese import zitten in dezelfde band waarin mensen al leven met een diesel die ze uit gewoonte tanken, niet uit nood.",
+      "Actieradiusangst is een probleem van de jaarlijkse vakantie plus een winterprobleem (volgende kaart). Het is geen dinsdagprobleem voor de mediane bestuurder. Als je leven 800 km Autobahn in een sneeuwstorm met een skibox is, weet je al dat je een speciaal geval bent — plan het, of houd die week een lange-afstands-ICE. Schrijf geen natuurwet van het speciale geval."
+    ],
+    "keyFacts": [
+      {
+        "label": "Actieradius nieuwe auto",
+        "value": "Doorgaans 200+ mijl EPA / 300–500 km WLTP"
+      },
+      {
+        "label": "Dagelijkse behoefte",
+        "value": "De meeste ritten ver daaronder"
+      },
+      {
+        "label": "De uitzondering",
+        "value": "Lange, snelle, koude ritten — plan ze"
+      }
+    ],
+    "sources": [
+      {
+        "publisher": "U.S. EPA",
+        "title": "Electric Vehicle Myths (range)",
+        "url": "https://www.epa.gov/greenvehicles/electric-vehicle-myths"
+      }
+    ]
+  },
+  {
+    "id": "ev-cold",
+    "slug": "cold",
+    "number": 7,
+    "verdict": "misleading",
+    "lastChecked": "2026-08-22",
+    "myth": "EV’s werken niet in de kou. De winter bewijst dat het idee dood is.",
+    "headline": "Actieradius daalt — vaak 20–40% in de nare weken. De auto’s starten nog. Noorwegen heeft al gestemd.",
+    "kernel": "Cabineverwarming komt uit de batterij, niet uit motorafval. Chemie wordt traag. Beide zijn natuurkunde. „Werkt niet” is een categoriefout.",
+    "body": [
+      "AAA (2019) vond in de orde van 40% actieradiusverlies in een harde koudtest met verwarming aan. Echte winters variëren: preconditioneren, warmtepompen en stoelverwarming halen daar veel van terug. DC-laden is trager als het pack bevroren is — weer een echte ergernis, opgelost door onderweg naar de stall te preconditioneren.",
+      "Noorwegen, IJsland, Canada, Zweden, Finland en de Alpen hebben grote of groeiende EV-aandelen. Mensen daar verrichten geen wonder. Ze steken thuis in, preconditioneren, en rijden. Een benzineauto gebruikt in de winter ook meer brandstof; hij verbergt de tol alleen in dezelfde tank. Als je in Bitburg woont en 30 km pendelt, merk je januari. Je gaat niet lopen."
+    ],
+    "keyFacts": [
+      {
+        "label": "Klappen actieradius",
+        "value": "Vaak 20–40% in strenge kou met cabineverwarming"
+      },
+      {
+        "label": "Mitigatie",
+        "value": "Warmtepomp, preconditioneren, thuisladen"
+      },
+      {
+        "label": "Bestaanbewijs",
+        "value": "Noordse EV-markten"
+      }
+    ],
+    "sources": [
+      {
+        "publisher": "U.S. EPA",
+        "title": "Electric Vehicle Myths (range / weather)",
+        "url": "https://www.epa.gov/greenvehicles/electric-vehicle-myths"
+      },
+      {
+        "publisher": "Clean Energy Canada / industry explainers",
+        "title": "EV myths — cold weather",
+        "url": "https://cleanenergycanada.org/media-brief-countering-common-myths-about-electric-vehicles/"
+      }
+    ]
+  },
+  {
+    "id": "ev-lithium",
+    "slug": "lithium",
+    "number": 8,
+    "verdict": "false",
+    "lastChecked": "2026-08-22",
+    "myth": "Er is niet genoeg lithium (of koper, of zeldzame aardmetalen) zodat iedereen elektrisch kan rijden.",
+    "headline": "Geologische voorraden overtreffen de vraagramingen. Prijsseinen ontgrendelen mijnen en recycling. Flessenhalzen zijn vergunningen en tijd, geen ontbrekend element.",
+    "kernel": null,
+    "body": [
+      "De mineralensectie van Carbon Brief: voorraden zijn groter dan de vraag 2022–2050 op huidige geologie. Lithium is niet zeldzaam; het wordt ongelijk verwerkt. Koper is het strakkere, saaiere knelpunt omdat elke energietransitie het gebruikt. Zeldzame aardmetalen in motoren worden wegontworpen (Tesla en anderen hebben paden met weinig/geen zware zeldzame aardmetalen laten zien).",
+      "Tekorten in een gegeven jaar zijn een mijn-en-raffinaderijverhaal — Chili, Australië, Chinese verwerking, Congolees kobalt, Indonesisch nikkel. Dat is geopolitiek en doorlooptijd. Het is niet „de aardkorst raakte op.” Olie, herinner je, is een stroom die je eeuwig moet blijven winnen. Een pack is een voorraad die je kunt recyclen."
+    ],
+    "keyFacts": [
+      {
+        "label": "Lithium",
+        "value": "Voorraden > langetermijnvraag in standaardbeoordelingen"
+      },
+      {
+        "label": "Strakkere input",
+        "value": "Koper, plus raffinagecapaciteit"
+      },
+      {
+        "label": "Overdrukventiel",
+        "value": "Chemieverschuiving + recycling + meer mijnen"
+      }
+    ],
+    "sources": [
+      {
+        "publisher": "Carbon Brief",
+        "title": "Factcheck: raw materials",
+        "url": "https://interactive.carbonbrief.org/factcheck/electric-vehicles/"
+      }
+    ]
+  },
+  {
+    "id": "ev-heavy-dangerous",
+    "slug": "heavy-dangerous",
+    "number": 9,
+    "verdict": "overstated",
+    "lastChecked": "2026-08-22",
+    "myth": "EV’s zijn zo zwaar dat ze dodelijke vallen zijn voor iedereen anders en de wegen kapotmaken.",
+    "headline": "Ze zijn zwaarder. Crashtestscores zijn doorgaans uitstekend. Slijtage van het wegdek en de fysica van de voetganger zijn de delen die niet niks zijn.",
+    "kernel": "Massa is energie in een crash met een kleine auto of een mens. Regeneratief remmen snijdt remsstof; extra gewicht kan bandenslijtage toevoegen. Netto luchtkwaliteit is nog meestal beter omdat er geen uitlaat is.",
+    "body": [
+      "Een batterijpack is een plaat cellen. Die massa zit laag, daarom slagen EV’s vaak voor elandtests en NCAP-/NHTSA-sterren — ze rollen niet, en de structuur is een skateboard. Inzittendenveiligheid is niet de zwakke kant van dit argument.",
+      "De zwakke kant is het andere object: een crossover van 2,3 ton tegen een supermini van 1,2 ton, of tegen een voetganger. Bandenslijtage-deeltjes schalen met gewicht. Wegdekslijtage schaalt sneller dan lineair met aslast, daarom eten vrachtwagens, niet Model Y’s, de snelwegen op — maar een vloot zwaardere auto’s is niet gratis. Het middel is kleinere packs en kleinere auto’s, geen terugkeer naar gelode benzine. „Dodelijke val” als kop slaat het dossier inzittendenveiligheid over."
+    ],
+    "keyFacts": [
+      {
+        "label": "Inzittendenveiligheid",
+        "value": "Over het algemeen sterke crashtestprestaties"
+      },
+      {
+        "label": "Massaboete",
+        "value": "Slechter voor het andere voertuig / de voetganger; meer bandenslijtage"
+      },
+      {
+        "label": "Wegen",
+        "value": "Auto’s << vrachtwagens; zwaardere auto’s nog steeds niet gratis"
+      }
+    ],
+    "sources": [
+      {
+        "publisher": "U.S. EPA",
+        "title": "Electric Vehicle Myths (safety)",
+        "url": "https://www.epa.gov/greenvehicles/electric-vehicle-myths"
+      },
+      {
+        "publisher": "Carbon Brief",
+        "title": "Weight, tires, and air quality",
+        "url": "https://interactive.carbonbrief.org/factcheck/electric-vehicles/"
+      }
+    ]
+  },
+  {
+    "id": "ev-hybrids-better",
+    "slug": "hybrids-better",
+    "number": 10,
+    "verdict": "misleading",
+    "lastChecked": "2026-08-22",
+    "myth": "Hybrides zijn strikt beter. Batterij-elektrisch is een doodlopende weg.",
+    "headline": "Hybrides zijn een goede brug, vooral voor weinigrijders zonder stekker. Op de levenscyclus winnen ze niet zodra het net ook maar matig schoon is.",
+    "kernel": "Als je 6.000 km per jaar rijdt, aan de straat parkeert, en je stroom is vuil, kan een kleine hybride de rationele auto zijn. Dat is een niche, geen weerlegging van de categorie.",
+    "body": [
+      "Een hybride verbrandt voor de meeste van zijn kilometers nog benzine. Hij wint op de koude-start stedelijke cyclus versus een dorstige ICE, en hij heeft geen thuislader nodig. Bij hoge jaarkilometers trekken energiekosten en uitstoot van de BEV weg — ICCT en Carbon Brief laten beide het gat wijder worden naarmate netten decarboniseren. Waterstofauto’s, de andere favoriete „gotcha,” gebruiken well-to-wheel meerdere malen de elektriciteit.",
+      "Claims van een doodlopende weg moeten ook Noorwegen, Chinees volume, Tesla’s geïnstalleerde basis en dalende batterijdollars per kWh verklaren. Een technologie die in meerdere rijke landen al een groot aandeel van de nieuwverkoop is, is geen poster van een schoolwetenschapsbeurs. Hybrides mogen ook in de garage staan. Ze zijn geen veto."
+    ],
+    "keyFacts": [
+      {
+        "label": "Kracht hybride",
+        "value": "Geen stekker nodig; goed bij weinig kilometers / geen parkeerplek"
+      },
+      {
+        "label": "Kracht BEV",
+        "value": "Energiekosten + levenscyclus-CO₂ bij enige serieuze jaarkilometers"
+      },
+      {
+        "label": "H₂-auto’s",
+        "value": "Veel minder voertuigen, slechter rendement dan BEV’s"
+      }
+    ],
+    "sources": [
+      {
+        "publisher": "Carbon Brief",
+        "title": "Factcheck: hybrids, hydrogen, e-fuels",
+        "url": "https://interactive.carbonbrief.org/factcheck/electric-vehicles/"
+      }
+    ]
+  }
+]

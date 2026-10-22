@@ -1,0 +1,437 @@
+[
+  {
+    "id": "cap-poverty",
+    "slug": "poverty",
+    "number": 1,
+    "verdict": "false",
+    "lastChecked": "2026-08-22",
+    "myth": "资本主义让穷人一直穷。市场经济让贫困变得更糟。",
+    "headline": "极端贫困在贸易、产权和增长的年代崩塌——不是尽管有它们。",
+    "kernel": "仍有数亿人极度贫困，新冠之后进展放缓，尤其在脆弱国家。那是想要更多增长的理由，不是把过去40年叫做失败的理由。",
+    "body": [
+      "Our World in Data 利用世界银行住户调查记录：1990年约有 2.31 billion 人每天不足 $3。到2025年这个数字约为 808 million——少了超过 1.5 billion，大约相当于一代人里每天 100,000 人。世界银行的 $2.15 线讲同一个故事：大约人类的 8.5%，而1950年是多数，1990年仍约 38%。",
+      "下降不是一场神秘的慈善活动。它集中在那些向贸易开放、让农民和企业保住产出、接入全球供应链的国家——1978年后的中国，1991年后的印度，越南、孟加拉，以及东亚的很大一块。把市场保持为非法的指令经济，没有交付一次可比的逃脱。",
+      "市场经济不是一份每个地区都以同样速度移动的承诺。撒哈拉以南非洲在极端贫困中的份额下降了，即便人数随人口上升。那是市场体系内部的政策和生产率问题，不是市场造成贫困的证据。"
+    ],
+    "keyFacts": [
+      {
+        "label": "1990年，$3/天",
+        "value": "2.31 billion 人"
+      },
+      {
+        "label": "2025年，$3/天",
+        "value": "~808 million"
+      },
+      {
+        "label": "自1950年以来",
+        "value": "人类的约 60% → 约 10%"
+      }
+    ],
+    "sources": [
+      {
+        "publisher": "Our World in Data",
+        "title": "Poverty",
+        "url": "https://ourworldindata.org/poverty"
+      },
+      {
+        "publisher": "Our World in Data / World Bank PIP",
+        "title": "Share of population in extreme poverty",
+        "url": "https://ourworldindata.org/grapher/share-of-population-in-extreme-poverty"
+      },
+      {
+        "publisher": "World Bank",
+        "title": "Poverty, Prosperity, and Planet Report 2024",
+        "url": "https://www.worldbank.org/en/publication/poverty-prosperity-and-planet"
+      }
+    ]
+  },
+  {
+    "id": "cap-zero-sum",
+    "slug": "zero-sum",
+    "number": 2,
+    "verdict": "false",
+    "lastChecked": "2026-08-22",
+    "myth": "经济是零和的。富人变富，只是因为让其他所有人更穷。",
+    "headline": "蛋糕做大了。这就是市场经济的全部要点。",
+    "kernel": "有些收益是位置性的，有些财富是裙带。这两件事实都不会把一个增长中的世界变成封闭的牌桌。",
+    "body": [
+      "零和是对一场劫掠、一张王座，或马尔萨斯世界里一块固定土地的好描述。它是对一个人们制造新商品的经济的坏描述。自19世纪以来，世界人均产出已经翻了许多倍；一个市场主导国家里的典型人，今天消费着前工业国王都买不到的东西——抗生素、制冷、一部智能手机、一次航班。",
+      "如果杰夫·贝索斯靠建起一张物流网变富，用过这张网的顾客并没有被剥走一堆等值的现金。他们付的价格低于他们对那次配送赋予的价值。这个缺口是消费者剩余。给亚马逊供货的企业里的工资是成本，不是从一口固定锅里偷走的东西。",
+      "零和故事能活下来，是因为相对地位是零和的。你可以嫉妒邻居的房子，却仍然活在一个比祖父母更富的国家。市场经济按第二件事实来评判。"
+    ],
+    "keyFacts": [
+      {
+        "label": "机制",
+        "value": "贸易和生产率，不是一口固定的锅"
+      },
+      {
+        "label": "什么增长了",
+        "value": "全球人均 GDP、寿命、卡路里、商品"
+      },
+      {
+        "label": "什么是零和",
+        "value": "地位、王座、劫掠——不是产出"
+      }
+    ],
+    "sources": [
+      {
+        "publisher": "Our World in Data",
+        "title": "Economic Growth",
+        "url": "https://ourworldindata.org/economic-growth"
+      },
+      {
+        "publisher": "Our World in Data",
+        "title": "GDP per capita",
+        "url": "https://ourworldindata.org/grapher/gdp-per-capita-world-bank-constant-usd"
+      }
+    ]
+  },
+  {
+    "id": "cap-nordic",
+    "slug": "nordic",
+    "number": 3,
+    "verdict": "false",
+    "lastChecked": "2026-08-22",
+    "myth": "北欧国家证明社会主义可行，资本主义是更差的制度。",
+    "headline": "丹麦和挪威是资本主义市场经济，上面叠着一个大型福利国家。",
+    "kernel": "他们税很高，在服务上花很多。那不是生产资料的公有，资金来自在开放市场里运转的私人企业。",
+    "body": [
+      "北欧模式，按这些国家自己的描述，是私人所有、市场价格和自由贸易，加上普遍服务和协调议价。IKEA、Novo Nordisk、Volvo、Maersk 和 Equinor 不是 Gosplan。北欧的产品市场在 OECD 里属于最开放之列。",
+      "传统基金会2026年经济自由度指数把挪威排在世界第8（得分 78.8）。丹麦、瑞典、芬兰和挪威多年来在产权、贸易自由和商业监管上坐在第一梯队。那是计划经济的反面。",
+      "有用的教训更窄：一个富裕的资本主义国家可以选择买一张慷慨的安全网。它不能跳过资本主义那一段还留住这张网。1970年代瑞典的越界，以及1990年代的修复，是这句口号略去的警世故事。"
+    ],
+    "keyFacts": [
+      {
+        "label": "北欧内核",
+        "value": "私人企业、市场价格、开放贸易"
+      },
+      {
+        "label": "挪威 2026",
+        "value": "传统基金会经济自由：全球第8"
+      },
+      {
+        "label": "它不是什么",
+        "value": "生产的国家所有"
+      }
+    ],
+    "sources": [
+      {
+        "publisher": "Wikipedia (sourced overview)",
+        "title": "Nordic model",
+        "url": "https://en.wikipedia.org/wiki/Nordic_model"
+      },
+      {
+        "publisher": "Heritage Foundation",
+        "title": "Index of Economic Freedom: Norway",
+        "url": "https://economicfreedom.heritage.org/pages/country-pages/norway"
+      },
+      {
+        "publisher": "Heritage Foundation",
+        "title": "Economic Freedom Underpins Nordic Prosperity",
+        "url": "https://www.heritage.org/international-economies/report/economic-freedom-underpins-nordic-prosperity"
+      }
+    ]
+  },
+  {
+    "id": "cap-planning",
+    "slug": "planning",
+    "number": 4,
+    "verdict": "false",
+    "lastChecked": "2026-08-22",
+    "myth": "计划经济比市场经济提供更好的生活水平。",
+    "headline": "分裂的国家就是实验。市场赢了，一次又一次。",
+    "kernel": "政府可以规划公路、疫苗和战时生产。它们不能替代价格，作为整个经济决定造什么的方式。",
+    "body": [
+      "西德对民主德国，韩国对朝鲜，台湾对毛泽东时代的中国，以及1978年前后的中国对它自己，是历史所能给出的最接近对照试验的东西。每一次都是市场一侧——私有产权、价格、贸易——产出了财富。计划一侧产出短缺、秘密警察，以及人均 GDP 落后一个很大的倍数。",
+      "韩国人均 GDP 大约是朝鲜的 20–50 倍，取决于如何重建数字。中国经世界银行记录的贫困下降，认真开始于邓小平改革之后，而不是大跃进期间。苏联能倾倒钢铁，却仍不能把肥皂放到货架上，这就是哈耶克描述的计算问题：没有价格，没人知道什么稀缺。",
+      "市场以已知的方式失败——外部性、垄断、公共物品。那是主张定向政府的论据。它不是主张 Gosplan 是市场经济更好的操作系统，因为市场经济就是使用价格的那套系统。"
+    ],
+    "keyFacts": [
+      {
+        "label": "朝鲜半岛",
+        "value": "韩国比北方富许多倍"
+      },
+      {
+        "label": "中国",
+        "value": "贫困在1978年市场改革后崩塌"
+      },
+      {
+        "label": "机制",
+        "value": "价格携带计划无法携带的稀缺信息"
+      }
+    ],
+    "sources": [
+      {
+        "publisher": "Our World in Data",
+        "title": "GDP per capita (Maddison)",
+        "url": "https://ourworldindata.org/grapher/gdp-per-capita-maddison-project-database"
+      },
+      {
+        "publisher": "World Bank",
+        "title": "Four Decades of Poverty Reduction in China",
+        "url": "https://www.worldbank.org/en/news/press-release/2022/04/01/lifting-800-million-people-out-of-poverty-new-report-looks-at-lessons-from-china-s-experience"
+      },
+      {
+        "publisher": "F. A. Hayek / AER 1945 (reprint)",
+        "title": "The Use of Knowledge in Society",
+        "url": "https://www.econlib.org/library/Essays/hykKnw.html"
+      }
+    ]
+  },
+  {
+    "id": "cap-inequality",
+    "slug": "inequality",
+    "number": 5,
+    "verdict": "misleading",
+    "lastChecked": "2026-08-22",
+    "myth": "不平等上升，证明资本主义是失败的制度。",
+    "headline": "国家之间的全球不平等随穷国增长而下降。贫困是更好的检验。",
+    "kernel": "在一些富裕国家内部，顶端拉开了。那是真切的政治事实。它不等于“这套制度让穷人更穷”。",
+    "body": [
+      "如果起诉书是市场增长把全球穷人甩在后面，过去40年就是反驳。中国和印度的增长是国家间不平等的压缩——曾经主导世界基尼系数的那条缝。Our World in Data 的全球不平等序列展示了这个故事。离开每天 $3 贫困的那些人，并不是靠剥夺瑞士牙医做到的。",
+      "在美国和欧洲部分地区，技能偏向型技术、住房稀缺和赢者通吃市场把顶端拉开了。你可以想要更多竞争、更密的城市和更好的税收组合，而不把基尼系数当成给市场开的死亡证明。平等的贫困不是成功；带着下降贫困率的不平等富裕，更接近成功。",
+      "市场经济不承诺相同的结果。它承诺人们可以交易和投资，而不由一个部委分配工作。用流动性、绝对生活水平，以及地板是否在上升来评判它。在这些上，资本主义的记录是其他制度一直在试图复制的那一份。"
+    ],
+    "keyFacts": [
+      {
+        "label": "全球图景",
+        "value": "国家间差距随亚洲增长而缩小"
+      },
+      {
+        "label": "更好的检验",
+        "value": "绝对贫困和消费，不是单看基尼"
+      },
+      {
+        "label": "内核",
+        "value": "一些富裕国家的顶端拉伸是真的"
+      }
+    ],
+    "sources": [
+      {
+        "publisher": "Our World in Data",
+        "title": "Global economic inequality",
+        "url": "https://ourworldindata.org/global-economic-inequality"
+      },
+      {
+        "publisher": "Our World in Data",
+        "title": "Poverty",
+        "url": "https://ourworldindata.org/poverty"
+      }
+    ]
+  },
+  {
+    "id": "cap-exploit",
+    "slug": "exploit",
+    "number": 6,
+    "verdict": "misleading",
+    "lastChecked": "2026-08-22",
+    "myth": "资本主义必须剥削工人。血汗工厂证明这套制度是榨取性的。",
+    "headline": "人们接受工厂工作，因为替代选项更差。工资随后随生产率上升。",
+    "kernel": "早期工业条件常常严酷。那是主张增长和退出选项的理由，不是拆掉梯子的理由。",
+    "body": [
+      "保罗·克鲁格曼的《为廉价劳动辩护》以及后来的血汗工厂文献（鲍威尔等人）给出一个不煽情的点：一份 $2 的工厂工作，是对着 $1 的农活或没有工作被选中的。禁止工厂变不出一份丹麦护士的薪水。它把工人送回更差的选项。所以那些关掉工厂、又没有更好本地雇主的运动，有一份以失去收入计的死亡人数。",
+      "口号里的剥削，意思是“老板拿到了剩余利润”。在竞争性劳动力市场上，工资被喊向工人的边际产出。韩国、台湾、中国和孟加拉的历史模式相同：先是严酷的工厂，然后是更好的工厂，然后是服务业工作。东亚的实际制造业工资并没有停滞一个世纪。",
+      "在工人不能离开、不能组织、不能拥有的地方，你面对的不是市场失灵——而是政治失灵。农奴制、户籍陷阱，以及带着武装大门的公司镇，是对市场的限制，不是市场的定义。"
+    ],
+    "keyFacts": [
+      {
+        "label": "检验",
+        "value": "对比真实的替代选项，不是对比丹麦"
+      },
+      {
+        "label": "模式",
+        "value": "工厂 → 更好的工厂 → 服务业，随生产率上升"
+      },
+      {
+        "label": "真正的强制",
+        "value": "当人们不能辞职或竞争"
+      }
+    ],
+    "sources": [
+      {
+        "publisher": "Paul Krugman / Slate (1997)",
+        "title": "In Praise of Cheap Labor",
+        "url": "https://slate.com/business/1997/03/in-praise-of-cheap-labor.html"
+      },
+      {
+        "publisher": "Benjamin Powell / Cato",
+        "title": "Out of Poverty: Sweatshops in the Global Economy",
+        "url": "https://www.cato.org/books/out-poverty"
+      }
+    ]
+  },
+  {
+    "id": "cap-climate",
+    "slug": "climate",
+    "number": 7,
+    "verdict": "overstated",
+    "lastChecked": "2026-08-22",
+    "myth": "资本主义会把地球煮熟。市场经济减不了排。",
+    "headline": "富裕市场经济已经开始让 GDP 与 CO₂ 脱钩。剩下的问题是全球的、政治的。",
+    "kernel": "全球排放仍然太高。欧盟和美国的脱钩不是一份完成的气候政策。它是增长与下降的排放可以共存的证据。",
+    "body": [
+      "IEA：自1990年以来美国经济大约翻倍，而 CO₂ 回到了大约1990年的水平。欧盟经济大约大了三分之二，排放约低 30%。Our World in Data 记录了一长串富裕国家基于消费的脱钩——不只是把烟囱外包出去的把戏。",
+      "ECIU 2025年对全球碳预算的解读发现，代表世界 GDP 大部分的国家在扩张，而基于消费的碳下降或走平。这就是市场经济在碳有了价格、煤变贵、企业出售热泵和反应堆时会做的事：它替换。",
+      "失败模式是未定价的碳，不是“拥有市场”。指令经济（苏联甲烷、毛泽东时代的毁林、东德褐煤）并不绿。如果你想要更快的削减，给外部性定价，让价格重新配置。废除市场经济，等于拆掉发明替代品的那台机器。"
+    ],
+    "keyFacts": [
+      {
+        "label": "美国自1990年",
+        "value": "GDP 约翻倍；CO₂ 回到接近1990年"
+      },
+      {
+        "label": "欧盟自1990年",
+        "value": "GDP 约 +66%；CO₂ 约 −30%"
+      },
+      {
+        "label": "工具",
+        "value": "给外部性定价；不要拆掉价格"
+      }
+    ],
+    "sources": [
+      {
+        "publisher": "IEA",
+        "title": "The relationship between growth in GDP and CO2 has loosened",
+        "url": "https://www.iea.org/commentaries/the-relationship-between-growth-in-gdp-and-co2-has-loosened-it-needs-to-be-cut-completely"
+      },
+      {
+        "publisher": "Our World in Data",
+        "title": "CO₂ emissions and GDP decoupling",
+        "url": "https://ourworldindata.org/co2-gdp-decoupling"
+      },
+      {
+        "publisher": "Our World in Data",
+        "title": "Change in CO₂ emissions and GDP",
+        "url": "https://ourworldindata.org/grapher/co2-emissions-and-gdp"
+      }
+    ]
+  },
+  {
+    "id": "cap-billionaires",
+    "slug": "billionaires",
+    "number": 8,
+    "verdict": "misleading",
+    "lastChecked": "2026-08-22",
+    "myth": "只要亿万富翁存在，他们就是偷来的钱。一个公正的市场经济不会产出他们。",
+    "headline": "大多数美国巨额财富是规模化产品的公司股权。裙带该被警察盯着，不是当成要废除的规则。",
+    "kernel": "有些亿万富翁是吃补贴为生，或是垄断继承人。点出他们的名字。别假装每一份创始人剩余都是从一名职员那里偷来的。",
+    "body": [
+      "创始人的股份是工人和供应商被付清之后对剩余的一份主张。如果企业创造的价值大于成本，这份剩余可以极其巨大，因为软件和品牌会放大。卡普兰和劳的美国财富研究是无聊的版本：很大一块新增顶端财富是创业股权，不是19世纪的土地赠与。",
+      "消费者剩余通常大于创始人那一堆。人们使用这个产品，因为它优于替代选项。那是一次市场检验。一个公正的制度仍然可以征遗产税、资助地板、拆掉真正的垄断。那些是保全市场的修理。",
+      "口号“不该有亿万富翁”是关于剩余形状的主张，不是关于市场经济是不是一套好的操作系统。你可以不喜欢游艇，仍然想要价格、公司设立和创办企业的权利。把这些搞混，得到的就是一个生产部，外加一名更穷的职员。"
+    ],
+    "keyFacts": [
+      {
+        "label": "典型路径",
+        "value": "规模化企业里的创始人股权"
+      },
+      {
+        "label": "更好的靶子",
+        "value": "裙带补贴和封闭进入"
+      },
+      {
+        "label": "并不意味着",
+        "value": "剩余必须为零"
+      }
+    ],
+    "sources": [
+      {
+        "publisher": "Kaplan & Rauh",
+        "title": "It’s the Market: The Broad-Based Rise in the Return to Top Talent (NBER w19846)",
+        "url": "https://www.nber.org/papers/w19846"
+      },
+      {
+        "publisher": "Our World in Data",
+        "title": "Wealth",
+        "url": "https://ourworldindata.org/wealth"
+      }
+    ]
+  },
+  {
+    "id": "cap-war",
+    "slug": "war",
+    "number": 9,
+    "verdict": "false",
+    "lastChecked": "2026-08-22",
+    "myth": "资本主义导致战争。市场需要血才能增长。",
+    "headline": "市场民主国家很少互相开战。20世纪的工业屠杀不是一次股东大会。",
+    "kernel": "国家出于领土、恐惧和荣耀开战，在每一种产权制度下都是如此。殖民公司做过难看的事。那不是资本主义独有的定律。",
+    "body": [
+      "Our World in Data 的战争与和平序列，以及更宽的“资本主义和平”/民主和平文献发现，商业上一体化的民主国家是数据集里最无聊的邻居。国家间战争死亡占人类的份额在1945年后崩塌，即便贸易在爆炸。",
+      "20世纪的死亡人数由废除市场的极权工程主导：斯大林的饥荒和营地，毛泽东的跃进和文化大革命，红色高棉。拉梅尔的 democide 统计和《共产主义黑皮书》是这句口号跳过的账本。带着秘密警察的计划经济不是一场和平运动。",
+      "企业在国家允许时向战争的两边都卖东西。那是对国家的起诉。自给自足的帝国也会入侵。如果贸易制造战争，1980年后的全球化繁荣会是一片坟场。它是相反的模式。"
+    ],
+    "keyFacts": [
+      {
+        "label": "模式",
+        "value": "市场民主国家几乎从不互相开战"
+      },
+      {
+        "label": "20世纪账本",
+        "value": "极权计划下的大屠杀使贸易战争相形见绌"
+      },
+      {
+        "label": "自1945年以来",
+        "value": "贸易上升；国家间战争死亡下降"
+      }
+    ],
+    "sources": [
+      {
+        "publisher": "Our World in Data",
+        "title": "War and Peace",
+        "url": "https://ourworldindata.org/war-and-peace"
+      },
+      {
+        "publisher": "Our World in Data / UCDP",
+        "title": "Deaths in state-based conflicts",
+        "url": "https://ourworldindata.org/grapher/deaths-in-armed-conflicts-by-type"
+      }
+    ]
+  },
+  {
+    "id": "cap-public-goods",
+    "slug": "public-goods",
+    "number": 10,
+    "verdict": "overstated",
+    "lastChecked": "2026-08-22",
+    "myth": "市场提供不了医疗、学校或安全网，所以资本主义是错误的制度。",
+    "headline": "市场经济是你富到买得起公共物品的方式。它不是对它们的禁令。",
+    "kernel": "纯公共物品和保险市场以教科书的方式失灵。那为一些政府提供了理由。它并不构成用别的东西替换价格、作为其余经济默认机制的理由。",
+    "body": [
+      "国防、基础研究和一道针对赤贫的地板，不是街角小店能很好供给的。经济学家自斯密以来就这么说。每一个富裕市场国家已经用税收和私人供给的混合来办学校、养老金和医院。预期寿命、识字率和卡路里在这些国家爆炸，而它们仍然是资本主义。",
+      "范畴错误是把“我们应该资助疫苗”当成“我们应该废除剩余主张、价格和进入”。NHS 仍然从企业买药。瑞典学校仍然面对一个劳动力市场。新加坡的医疗储蓄加巨灾保险是一种市场装置。北欧那张卡已经覆盖了其余：向一个有生产力的私人部门征税。",
+      "当国家试图把整个经济当成公共物品来经营，你得到的是计划那张卡。当它们给碳定价、资助一道地板、让企业竞争，你得到的是唯一曾经让大众富裕变成平常的制度。那是带政府的市场经济——成功的资本主义就是这个。"
+    ],
+    "keyFacts": [
+      {
+        "label": "公共物品",
+        "value": "真实；它们为一些税收资助的供给提供理由"
+      },
+      {
+        "label": "谁为它们付了账",
+        "value": "一个有生产力的私人部门"
+      },
+      {
+        "label": "范畴错误",
+        "value": "把安全网和 Gosplan 搞混"
+      }
+    ],
+    "sources": [
+      {
+        "publisher": "Our World in Data",
+        "title": "Life expectancy",
+        "url": "https://ourworldindata.org/life-expectancy"
+      },
+      {
+        "publisher": "Our World in Data",
+        "title": "Global education",
+        "url": "https://ourworldindata.org/global-education"
+      },
+      {
+        "publisher": "Wikipedia (sourced overview)",
+        "title": "Nordic model",
+        "url": "https://en.wikipedia.org/wiki/Nordic_model"
+      }
+    ]
+  }
+]

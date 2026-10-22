@@ -1,0 +1,377 @@
+[
+  {
+    "id": "ev-power-plants",
+    "slug": "power-plants",
+    "number": 1,
+    "verdict": "false",
+    "lastChecked": "2026-08-22",
+    "myth": "EVs are worse for the climate because they just move the smokestack to the power plant.",
+    "headline": "Even on a dirty grid, a typical EV beats a typical gasoline car over its life. Efficiency is the cheat code: most of the gasoline you burn never reaches the wheels.",
+    "kernel": null,
+    "body": [
+      "EPA’s myth page is blunt: EVs convert about 87–91% of battery energy to motion; gasoline cars put something like 16–25% of the fuel’s energy to the wheels. You can generate that electricity from coal and still win on a lifecycle basis in most places, because you are not throwing away three-quarters of the energy as heat in a radiator.",
+      "Carbon Brief and ICCT numbers: in Europe, lifecycle CO₂ is on the order of two-thirds lower than a petrol car, and the gap grows as grids clean up. In coal-heavy Poland or China the advantage shrinks but does not flip for a typical car. Location matters — use a tailpipe-plus-grid calculator if you live on an island of lignite — but the smokestack talking point as a general law is wrong."
+    ],
+    "keyFacts": [
+      {
+        "label": "Tank-to-wheel",
+        "value": "EV ~87–91% vs ICE ~16–25% (EPA)"
+      },
+      {
+        "label": "Europe lifecycle",
+        "value": "On the order of 60–70% less CO₂ than petrol"
+      },
+      {
+        "label": "Coal grids",
+        "value": "Advantage smaller, usually still positive"
+      }
+    ],
+    "sources": [
+      {
+        "publisher": "U.S. EPA",
+        "title": "Electric Vehicle Myths",
+        "url": "https://www.epa.gov/greenvehicles/electric-vehicle-myths"
+      },
+      {
+        "publisher": "Carbon Brief",
+        "title": "Factcheck: 21 misleading myths about electric vehicles",
+        "url": "https://interactive.carbonbrief.org/factcheck/electric-vehicles/"
+      }
+    ]
+  },
+  {
+    "id": "ev-battery-manufacturing",
+    "slug": "battery-manufacturing",
+    "number": 2,
+    "verdict": "false",
+    "lastChecked": "2026-08-22",
+    "myth": "Battery manufacturing is so dirty the EV never pays back its carbon debt.",
+    "headline": "Manufacturing is heavier up front. Payback is typically a couple of years of driving, not a lifetime.",
+    "kernel": "A long-range pack does emit more in the factory than a steel-and-petrol hatch. That part of the slide is not fake. The trick is stopping the video before the car is driven.",
+    "body": [
+      "Argonne GREET, ICCT, and Carbon Brief’s re-runs of manufacturer claims put carbon payback on the order of 10–20 thousand miles in Europe — often under two years for a normal driver. Tesla Model Y-class examples in the UK have been estimated around 13,000 miles. Even Volvo and VW figures, once you unwind the thumb on the scale, do not require 70,000 miles of penance.",
+      "Recycling and cleaner cell plants shrink the debt further. The honest remainder: buy the smallest pack that fits your life, keep the car a long time, and care where the cells were cooked. “Never pays back” is a 2019 Facebook share that did not survive GREET."
+    ],
+    "keyFacts": [
+      {
+        "label": "Payback (Europe, typical)",
+        "value": "~11k–20k miles, often <2 years"
+      },
+      {
+        "label": "Method",
+        "value": "GREET / ICCT-style lifecycle, not tailpipe-only"
+      },
+      {
+        "label": "What helps",
+        "value": "Cleaner grids, recycling, right-sized packs"
+      }
+    ],
+    "sources": [
+      {
+        "publisher": "U.S. EPA",
+        "title": "Electric Vehicle Myths (battery manufacturing)",
+        "url": "https://www.epa.gov/greenvehicles/electric-vehicle-myths"
+      },
+      {
+        "publisher": "Carbon Brief",
+        "title": "Factcheck: EV carbon payback",
+        "url": "https://interactive.carbonbrief.org/factcheck/electric-vehicles/"
+      }
+    ]
+  },
+  {
+    "id": "ev-batteries-fail",
+    "slug": "batteries-fail",
+    "number": 3,
+    "verdict": "false",
+    "lastChecked": "2026-08-22",
+    "myth": "EV batteries fail after a few years and then become toxic landfill.",
+    "headline": "Replacements for failure are rare. Most packs outlive the car. Dead packs are valuable scrap, not a new Love Canal.",
+    "kernel": null,
+    "body": [
+      "EPA citing Recurrent (2025): across a large used-EV sample, average battery replacement sat around 2.5% historically, and under 0.5% for many 2016-and-later models (excluding recalls). Nissan has said almost all of its early packs are still in cars after a decade-plus. Eight-year warranties exist because the chemistry holds.",
+      "End of life is a recycling problem, not a municipal-dump problem. Cells contain nickel, lithium, copper — people pay to recover them. Second-life stationary storage is a real, if still-growing, path. Phone-battery folklore does not transfer. Thermal management and cycle depth are different sports."
+    ],
+    "keyFacts": [
+      {
+        "label": "Replacement (Recurrent)",
+        "value": "~2.5% historical; <0.5% many 2016+ models"
+      },
+      {
+        "label": "Warranty floor",
+        "value": "Typically 8 years / mileage cap"
+      },
+      {
+        "label": "End of life",
+        "value": "Recycling + second life, because the materials are worth money"
+      }
+    ],
+    "sources": [
+      {
+        "publisher": "U.S. EPA",
+        "title": "Electric Vehicle Myths (battery life)",
+        "url": "https://www.epa.gov/greenvehicles/electric-vehicle-myths"
+      },
+      {
+        "publisher": "Carbon Brief / Recurrent",
+        "title": "EV battery life",
+        "url": "https://interactive.carbonbrief.org/factcheck/electric-vehicles/"
+      }
+    ]
+  },
+  {
+    "id": "ev-grid-collapse",
+    "slug": "grid-collapse",
+    "number": 4,
+    "verdict": "false",
+    "lastChecked": "2026-08-22",
+    "myth": "The grid will collapse if we all drive electric.",
+    "headline": "National grids can absorb EVs, especially with overnight charging. Local transformers are the grown-up constraint.",
+    "kernel": "A street of 11 kW wallboxes on a 1970s feeder is a real utility headache. That is a neighborhood upgrade, not the death of electrification.",
+    "body": [
+      "EPA: EVs can charge off-peak; studies (USDRIVE, DOE Western grid work) find capacity for the coming wave. California’s peak EV load has been a rounding error next to air conditioning. EIA has noted that household heating and cooling already dwarf a car. In the UK, Carbon Brief notes peak demand has fallen since the 2000s even as talk of collapse rose.",
+      "What does break: uncoordinated fast charging on weak rural spurs, or everyone plugging in at 18:00 on a heat-wave Tuesday. The tools — time-of-use rates, smart charging, later V2G — exist. “The grid cannot ever” is a slogan. “This substation needs a rebuild” is a work order."
+    ],
+    "keyFacts": [
+      {
+        "label": "National picture",
+        "value": "Manageable with off-peak / smart charging"
+      },
+      {
+        "label": "Local picture",
+        "value": "Transformers and feeders need targeted upgrades"
+      },
+      {
+        "label": "Scale check",
+        "value": "Home HVAC is still the household hog"
+      }
+    ],
+    "sources": [
+      {
+        "publisher": "U.S. EPA",
+        "title": "Electric Vehicle Myths (grid)",
+        "url": "https://www.epa.gov/greenvehicles/electric-vehicle-myths"
+      }
+    ]
+  },
+  {
+    "id": "ev-nowhere-charge",
+    "slug": "nowhere-charge",
+    "number": 5,
+    "verdict": "overstated",
+    "lastChecked": "2026-08-22",
+    "myth": "There is nowhere to charge. EVs only work if you have a house in Palo Alto.",
+    "headline": "Home (or workplace) charging is the product. Public networks grew fast and are still patchy in the wrong places — especially apartment streets.",
+    "kernel": "If you street-park in a dense European city with no shared box, the car is a worse appliance. That is a planning failure, not proof that electrons cannot travel through a cable.",
+    "body": [
+      "Most EV kilometers in Norway, California, and Germany are not won at a highway plaza. They are won on a 7–11 kW box overnight. EPA notes the majority of U.S. daily trips are short; 98% of trips are ≤75 miles. Public DC fast networks have multiplied (U.S. NEVI money, EU AFIR rules). Reliability of some networks is still a meme for a reason.",
+      "The remaining hard cases: renters, tower-block residents, people without a dedicated parking space. Policy is slowly forcing “right to socket” rules in the EU. Until that is boring infrastructure, those drivers are right to hesitate. They are not the same as “there are no chargers.”"
+    ],
+    "keyFacts": [
+      {
+        "label": "Default pattern",
+        "value": "Charge where the car sleeps"
+      },
+      {
+        "label": "Daily trips (U.S.)",
+        "value": "73% ≤10 miles; 98% ≤75 miles (NHTS)"
+      },
+      {
+        "label": "Hard mode",
+        "value": "No private parking — a real, shrinking barrier"
+      }
+    ],
+    "sources": [
+      {
+        "publisher": "U.S. EPA",
+        "title": "Electric Vehicle Myths (charging)",
+        "url": "https://www.epa.gov/greenvehicles/electric-vehicle-myths"
+      }
+    ]
+  },
+  {
+    "id": "ev-range",
+    "slug": "range",
+    "number": 6,
+    "verdict": "false",
+    "lastChecked": "2026-08-22",
+    "myth": "EVs do not have enough range for real life.",
+    "headline": "Modern volume EVs clear 300–500+ km WLTP. Real life is a commute, not a film shoot across Texas.",
+    "kernel": null,
+    "body": [
+      "EPA: most new models are over 200 miles rated; the U.S. daily-travel distribution makes that surplus, not scarcity. European WLTP numbers for Model Y, ID. family, Hyundai/Kia, and Chinese imports sit in the same band people already live inside with a diesel that they refuel out of habit, not need.",
+      "Range anxiety is a once-a-year holiday problem plus a winter problem (next card). It is not a Tuesday problem for the median driver. If your life is 800 km of Autobahn in a blizzard with a ski box, you already know you are a special case — plan it, or keep a long-range ICE for that week. Do not write a law of nature from the special case."
+    ],
+    "keyFacts": [
+      {
+        "label": "New-car range",
+        "value": "Typically 200+ miles EPA / 300–500 km WLTP"
+      },
+      {
+        "label": "Daily need",
+        "value": "Most trips far below that"
+      },
+      {
+        "label": "The exception",
+        "value": "Long, fast, cold road trips — plan them"
+      }
+    ],
+    "sources": [
+      {
+        "publisher": "U.S. EPA",
+        "title": "Electric Vehicle Myths (range)",
+        "url": "https://www.epa.gov/greenvehicles/electric-vehicle-myths"
+      }
+    ]
+  },
+  {
+    "id": "ev-cold",
+    "slug": "cold",
+    "number": 7,
+    "verdict": "misleading",
+    "lastChecked": "2026-08-22",
+    "myth": "EVs do not work in the cold. Winter proves the idea is dead.",
+    "headline": "Range drops — often 20–40% in the nasty weeks. The cars still start. Norway already voted.",
+    "kernel": "Cabin heat comes from the battery, not from engine waste. Chemistry gets sluggish. Both are physics. “Does not work” is a category error.",
+    "body": [
+      "AAA (2019) found on the order of 40% range loss in a hard cold test with heat on. Real winters vary: preconditioning, heat pumps, and seat heaters claw a lot of that back. DC charging is slower when the pack is frozen — another true annoyance, solved by preconditioning on the way to the stall.",
+      "Norway, Iceland, Canada, Sweden, Finland, and the Alps have large or growing EV shares. People there are not performing a miracle. They plug in at home, precondition, and drive. A gasoline car also uses more fuel in winter; it just hides the tax in the same tank. If you live in Bitburg and commute 30 km, you will notice January. You will not walk."
+    ],
+    "keyFacts": [
+      {
+        "label": "Range hit",
+        "value": "Often 20–40% in harsh cold with cabin heat"
+      },
+      {
+        "label": "Mitigation",
+        "value": "Heat pump, precondition, home charging"
+      },
+      {
+        "label": "Existence proof",
+        "value": "Nordic EV markets"
+      }
+    ],
+    "sources": [
+      {
+        "publisher": "U.S. EPA",
+        "title": "Electric Vehicle Myths (range / weather)",
+        "url": "https://www.epa.gov/greenvehicles/electric-vehicle-myths"
+      },
+      {
+        "publisher": "Clean Energy Canada / industry explainers",
+        "title": "EV myths — cold weather",
+        "url": "https://cleanenergycanada.org/media-brief-countering-common-myths-about-electric-vehicles/"
+      }
+    ]
+  },
+  {
+    "id": "ev-lithium",
+    "slug": "lithium",
+    "number": 8,
+    "verdict": "false",
+    "lastChecked": "2026-08-22",
+    "myth": "There is not enough lithium (or copper, or rare earths) for everyone to drive electric.",
+    "headline": "Geological resources exceed the demand forecasts. Price signals unlock mines and recycling. Bottlenecks are permits and time, not a missing element.",
+    "kernel": null,
+    "body": [
+      "Carbon Brief’s minerals section: resources are larger than 2022–2050 demand on current geology. Lithium is not rare; it is unevenly processed. Copper is the tighter, more boring constraint because every energy transition uses it. Rare earths in motors are being designed down (Tesla and others have shown low/no heavy-rare-earth paths).",
+      "Shortages in a given year are a mine-and-refinery story — Chile, Australia, China processing, Congo cobalt, Indonesian nickel. That is geopolitics and lead time. It is not “the crust of the Earth ran out.” Oil, remember, is a flow you must keep extracting forever. A pack is a stock you can recycle."
+    ],
+    "keyFacts": [
+      {
+        "label": "Lithium",
+        "value": "Resources > long-run demand in standard assessments"
+      },
+      {
+        "label": "Tighter input",
+        "value": "Copper, plus refining capacity"
+      },
+      {
+        "label": "Relief valve",
+        "value": "Chemistry shift + recycling + more mines"
+      }
+    ],
+    "sources": [
+      {
+        "publisher": "Carbon Brief",
+        "title": "Factcheck: raw materials",
+        "url": "https://interactive.carbonbrief.org/factcheck/electric-vehicles/"
+      }
+    ]
+  },
+  {
+    "id": "ev-heavy-dangerous",
+    "slug": "heavy-dangerous",
+    "number": 9,
+    "verdict": "overstated",
+    "lastChecked": "2026-08-22",
+    "myth": "EVs are so heavy they are death traps for everyone else and they destroy the roads.",
+    "headline": "They are heavier. Crash-test scores are typically excellent. Road wear and pedestrian physics are the parts that are not nothing.",
+    "kernel": "Mass is energy in a crash with a small car or a person. Regenerative braking cuts brake dust; extra weight can add tire wear. Net air-quality is still usually better because there is no tailpipe.",
+    "body": [
+      "A battery pack is a slab of cells. That mass sits low, which is why EVs often ace moose tests and NCAP/NHTSA stars — they do not roll, and the structure is a skateboard. Occupant safety is not the weak side of this argument.",
+      "The weak side is the other object: a 2.3-tonne crossover into a 1.2-tonne supermini, or into a pedestrian. Tire-wear particulates scale with weight. Pavement wear scales faster than linearly with axle load, which is why trucks, not Model Ys, eat motorways — but a fleet of heavier cars is not free. The remedy is smaller packs and smaller cars, not a return to leaded petrol. “Death trap” as a headline skips the occupant-safety record."
+    ],
+    "keyFacts": [
+      {
+        "label": "Occupant safety",
+        "value": "Generally strong crash-test performance"
+      },
+      {
+        "label": "Mass penalty",
+        "value": "Worse for the other vehicle / pedestrian; more tire wear"
+      },
+      {
+        "label": "Roads",
+        "value": "Cars << trucks; heavier cars still not free"
+      }
+    ],
+    "sources": [
+      {
+        "publisher": "U.S. EPA",
+        "title": "Electric Vehicle Myths (safety)",
+        "url": "https://www.epa.gov/greenvehicles/electric-vehicle-myths"
+      },
+      {
+        "publisher": "Carbon Brief",
+        "title": "Weight, tires, and air quality",
+        "url": "https://interactive.carbonbrief.org/factcheck/electric-vehicles/"
+      }
+    ]
+  },
+  {
+    "id": "ev-hybrids-better",
+    "slug": "hybrids-better",
+    "number": 10,
+    "verdict": "misleading",
+    "lastChecked": "2026-08-22",
+    "myth": "Hybrids are strictly better. Battery-electric is a dead end.",
+    "headline": "Hybrids are a good bridge, especially for low-mileage drivers without a plug. They do not win the lifecycle once the grid is even moderately clean.",
+    "kernel": "If you drive 6,000 km a year, street-park, and your electricity is filthy, a small hybrid can be the rational car. That is a niche, not a refutation of the category.",
+    "body": [
+      "A hybrid still burns petrol for most of its kilometers. It wins on the cold-start urban cycle versus a thirsty ICE, and it needs no home charger. For high annual mileage, the BEV’s energy cost and emissions pull away — ICCT and Carbon Brief both show the gap widening as grids decarbonize. Hydrogen cars, the other favorite “gotcha,” use several times the electricity well-to-wheel.",
+      "Dead-end claims also have to explain Norway, China volume, Tesla’s installed base, and falling battery dollars per kWh. A technology that already is a large share of new-car sales in multiple rich countries is not a science-fair poster. Hybrids can sit in the garage too. They are not a veto."
+    ],
+    "keyFacts": [
+      {
+        "label": "Hybrid strength",
+        "value": "No plug required; good for low-mileage / no parking"
+      },
+      {
+        "label": "BEV strength",
+        "value": "Energy cost + lifecycle CO₂ at any serious annual km"
+      },
+      {
+        "label": "H₂ cars",
+        "value": "Far fewer vehicles, worse efficiency than BEVs"
+      }
+    ],
+    "sources": [
+      {
+        "publisher": "Carbon Brief",
+        "title": "Factcheck: hybrids, hydrogen, e-fuels",
+        "url": "https://interactive.carbonbrief.org/factcheck/electric-vehicles/"
+      }
+    ]
+  }
+]

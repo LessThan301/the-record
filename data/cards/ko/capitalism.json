@@ -1,0 +1,437 @@
+[
+  {
+    "id": "cap-poverty",
+    "slug": "poverty",
+    "number": 1,
+    "verdict": "false",
+    "lastChecked": "2026-08-22",
+    "myth": "자본주의는 가난한 사람을 가난하게 붙들어 둔다. 시장경제가 빈곤을 악화시킨다.",
+    "headline": "극빈은 교역, 재산, 성장의 시대에 무너졌다. 그 시대에도 불구하고가 아니다.",
+    "kernel": "수억 명이 여전히 극빈이고, 코로나 이후 진전이 느려졌다. 특히 취약 국가에서. 그건 더 많은 성장을 원하는 이유이지, 지난 40년을 실패라 부를 이유가 아니다.",
+    "body": [
+      "Our World in Data는 세계은행 가계 조사를 써서, 1990년 하루 $3 미만이 약 23억 1,000만 명이었다고 기록한다. 2025년 그 수는 약 8억 800만 — 15억 이상 감소, 한 세대에 하루 대략 100,000명 규모. 세계은행의 $2.15 선도 같은 이야기다. 인류의 대략 8.5%, 1950년 다수, 1990년만 해도 약 38%에 대비.",
+      "하락은 수수께끼의 자선 행사가 아니다. 교역에 문을 열고, 농민과 기업이 생산물을 지키게 하고, 글로벌 공급망에 꽂힌 곳에 집중된다. 1978년 이후 중국, 1991년 이후 인도, 베트남, 방글라데시, 동아시아 상당. 시장을 불법으로 붙든 명령경제는 비슷한 탈출을 배달하지 못했다.",
+      "시장경제는 모든 지역이 같은 속도로 움직인다는 약속이 아니다. 사하라 이남 아프리카의 극빈 비중은 줄었고, 인구와 함께 머릿수는 늘었다. 시장 시스템 안의 정책과 생산성 문제이지, 시장이 빈곤을 일으킨다는 증거가 아니다."
+    ],
+    "keyFacts": [
+      {
+        "label": "1990, $3/일",
+        "value": "23억 1,000만 명"
+      },
+      {
+        "label": "2025, $3/일",
+        "value": "~8억 800만"
+      },
+      {
+        "label": "1950년 이후",
+        "value": "인류의 ~60% → ~10%"
+      }
+    ],
+    "sources": [
+      {
+        "publisher": "Our World in Data",
+        "title": "Poverty",
+        "url": "https://ourworldindata.org/poverty"
+      },
+      {
+        "publisher": "Our World in Data / World Bank PIP",
+        "title": "Share of population in extreme poverty",
+        "url": "https://ourworldindata.org/grapher/share-of-population-in-extreme-poverty"
+      },
+      {
+        "publisher": "World Bank",
+        "title": "Poverty, Prosperity, and Planet Report 2024",
+        "url": "https://www.worldbank.org/en/publication/poverty-prosperity-and-planet"
+      }
+    ]
+  },
+  {
+    "id": "cap-zero-sum",
+    "slug": "zero-sum",
+    "number": 2,
+    "verdict": "false",
+    "lastChecked": "2026-08-22",
+    "myth": "경제는 제로섬이다. 부자는 다른 모두를 더 가난하게 만들어야만 부자가 된다.",
+    "headline": "파이가 커졌다. 그게 시장경제의 요점 전부다.",
+    "kernel": "어떤 이득은 지위적이고, 어떤 재산은 정경유착이다. 어느 사실도 성장하는 세계를 닫힌 포커 테이블로 바꾸지 않는다.",
+    "body": [
+      "제로섬은 약탈, 왕좌, 맬서스 세계의 고정된 땅덩어리를 잘 묘사한다. 사람들이 새 재화를 만드는 경제에는 나쁜 묘사다. 1인당 세계 산출은 19세기 이후 여러 배로 올랐다. 시장 주도 국가의 평범한 사람은 산업 이전의 왕이 살 수 없던 것을 소비한다. 항생제, 냉장, 스마트폰, 비행.",
+      "제프 베이조스가 물류망을 만들어 부자가 되면, 그걸 쓴 고객에게서 동등한 현금 더미가 벗겨진 것이 아니다. 배송에 매긴 가치보다 낮은 값을 냈다. 그 간극이 소비자 잉여다. 아마존에 공급하는 기업의 임금은 비용이지, 고정된 항아리에서의 절도가 아니다.",
+      "제로섬 이야기가 살아남는 것은 상대적 지위가 제로섬이기 때문이다. 이웃의 집을 원망하면서도 조부모보다 더 부유한 나라에 살 수 있다. 시장경제는 두 번째 사실로 심판받는다."
+    ],
+    "keyFacts": [
+      {
+        "label": "메커니즘",
+        "value": "교역과 생산성이지, 고정된 항아리가 아님"
+      },
+      {
+        "label": "커진 것",
+        "value": "1인당 세계 GDP, 수명, 칼로리, 재화"
+      },
+      {
+        "label": "제로섬인 것",
+        "value": "지위, 왕좌, 약탈 — 산출이 아님"
+      }
+    ],
+    "sources": [
+      {
+        "publisher": "Our World in Data",
+        "title": "Economic Growth",
+        "url": "https://ourworldindata.org/economic-growth"
+      },
+      {
+        "publisher": "Our World in Data",
+        "title": "GDP per capita",
+        "url": "https://ourworldindata.org/grapher/gdp-per-capita-world-bank-constant-usd"
+      }
+    ]
+  },
+  {
+    "id": "cap-nordic",
+    "slug": "nordic",
+    "number": 3,
+    "verdict": "false",
+    "lastChecked": "2026-08-22",
+    "myth": "북유럽 국가가 사회주의가 통한다는 증거이고, 자본주의가 열등한 체제라는 증거다.",
+    "headline": "덴마크와 노르웨이는 위에 큰 복지국가를 얹은 자본주의 시장경제다.",
+    "kernel": "많이 걷고 서비스에 많이 쓴다. 생산수단의 공공 소유가 아니고, 열린 시장에서 움직이는 민간 기업이 그 재원을 댄다.",
+    "body": [
+      "북유럽 모델은, 그 나라들 스스로 묘사하듯, 사적 소유, 시장 가격, 자유 무역, 더하기 보편 서비스와 조율된 교섭이다. IKEA, Novo Nordisk, Volvo, Maersk, Equinor는 고스플란이 아니다. 북유럽의 제품 시장은 OECD에서 가장 열린 축에 든다.",
+      "헤리티지 재단 2026 경제자유지수는 노르웨이를 세계 8위(점수 78.8)에 둔다. 덴마크, 스웨덴, 핀란드, 노르웨이는 재산권, 무역 자유, 사업 규제에서 수년째 최상위 티어에 앉아 왔다. 계획경제의 반대다.",
+      "유용한 교훈은 더 좁다. 부유한 자본주의 국가는 관대한 안전망을 사기로 선택할 수 있다. 자본주의 부분을 건너뛰고 그물을 지킬 수는 없다. 1970년대 스웨덴의 과잉, 1990년대의 수리가 슬로건이 빼놓는 경고담이다."
+    ],
+    "keyFacts": [
+      {
+        "label": "북유럽 핵심",
+        "value": "민간 기업, 시장 가격, 열린 무역"
+      },
+      {
+        "label": "노르웨이 2026",
+        "value": "헤리티지 경제자유: 세계 8위"
+      },
+      {
+        "label": "아닌 것",
+        "value": "생산의 국가 소유"
+      }
+    ],
+    "sources": [
+      {
+        "publisher": "Wikipedia (sourced overview)",
+        "title": "Nordic model",
+        "url": "https://en.wikipedia.org/wiki/Nordic_model"
+      },
+      {
+        "publisher": "Heritage Foundation",
+        "title": "Index of Economic Freedom: Norway",
+        "url": "https://economicfreedom.heritage.org/pages/country-pages/norway"
+      },
+      {
+        "publisher": "Heritage Foundation",
+        "title": "Economic Freedom Underpins Nordic Prosperity",
+        "url": "https://www.heritage.org/international-economies/report/economic-freedom-underpins-nordic-prosperity"
+      }
+    ]
+  },
+  {
+    "id": "cap-planning",
+    "slug": "planning",
+    "number": 4,
+    "verdict": "false",
+    "lastChecked": "2026-08-22",
+    "myth": "계획경제가 시장경제보다 더 나은 생활수준을 배달한다.",
+    "headline": "갈라진 나라가 실험이다. 시장이 이겼다. 반복해서.",
+    "kernel": "정부는 도로, 백신, 전시 생산을 계획할 수 있다. 경제 전체가 무엇을 만들지 정하는 방식으로서 가격을 대체할 수는 없다.",
+    "body": [
+      "서독 대 동독, 한국 대 북한, 타이완 대 마오 중국, 1978년 전후 중국 자신은 역사가 굴리는 통제 시험에 가깝다. 매번 시장 쪽 — 사유재산, 가격, 교역 — 이 부를 만들었다. 계획 쪽은 부족, 비밀경찰, 여러 배 뒤처진 1인당 GDP를 만들었다.",
+      "한국의 1인당 GDP는 재구성에 따라 북한의 대략 20–50배다. 세계은행이 문서화한 중국의 빈곤 하락은 대약진이 아니라 덩샤오핑 개혁 뒤에 본격 시작된다. 소련은 강철을 쏟아부으면서도 진열에 비누를 놓지 못했다. 하이에크가 묘사한 계산 문제다. 가격 없이는 무엇이 부족한지 아무도 모른다.",
+      "시장은 알려진 방식으로 실패한다. 외부효과, 독점, 공공재. 그건 표적 정부의 논거다. 고스플란이 시장경제의 더 나은 운영체제라는 논거는 아니다. 시장경제는 가격을 쓰는 시스템이기 때문이다."
+    ],
+    "keyFacts": [
+      {
+        "label": "한국",
+        "value": "남한이 북한보다 여러 배 부유"
+      },
+      {
+        "label": "중국",
+        "value": "1978년 시장 개혁 이후 빈곤 붕괴"
+      },
+      {
+        "label": "메커니즘",
+        "value": "가격이 계획이 나를 수 없는 희소 정보를 나른다"
+      }
+    ],
+    "sources": [
+      {
+        "publisher": "Our World in Data",
+        "title": "GDP per capita (Maddison)",
+        "url": "https://ourworldindata.org/grapher/gdp-per-capita-maddison-project-database"
+      },
+      {
+        "publisher": "World Bank",
+        "title": "Four Decades of Poverty Reduction in China",
+        "url": "https://www.worldbank.org/en/news/press-release/2022/04/01/lifting-800-million-people-out-of-poverty-new-report-looks-at-lessons-from-china-s-experience"
+      },
+      {
+        "publisher": "F. A. Hayek / AER 1945 (reprint)",
+        "title": "The Use of Knowledge in Society",
+        "url": "https://www.econlib.org/library/Essays/hykKnw.html"
+      }
+    ]
+  },
+  {
+    "id": "cap-inequality",
+    "slug": "inequality",
+    "number": 5,
+    "verdict": "misleading",
+    "lastChecked": "2026-08-22",
+    "myth": "커지는 불평등이 자본주의가 실패한 체제임을 증명한다.",
+    "headline": "가난한 나라가 성장하며 국가 간 세계 불평등은 줄었다. 빈곤이 더 나은 시험이다.",
+    "kernel": "어떤 부국 안에서는 상위가 달아났다. 진짜 정치적 사실이다. “체제가 가난한 사람을 더 가난하게 만든다”와는 같지 않다.",
+    "body": [
+      "기소가 시장 성장이 세계 빈자를 뒤에 둔다는 것이라면, 지난 40년이 반박이다. 중국과 인도의 성장은 국가 간 불평등의 압축이다. 예전 세계 지니를 지배하던 그 격차. Our World in Data의 세계 불평등 시계열이 그 이야기다. 하루 $3 빈곤을 떠난 사람들은 스위스 치과의사를 수탈해서 그렇게 하지 않았다.",
+      "미국과 유럽 일부 안에서는 숙련 편향 기술, 주택 희소, 승자독식 시장이 상위를 늘렸다. 더 많은 경쟁, 더 밀도 높은 도시, 더 나은 세제 조합을 원할 수 있다. 지니계수를 시장의 사망진단서로 다루지 않고도. 평등한 빈곤은 성공이 아니다. 빈곤율이 떨어지는 불평등한 풍요가 더 가깝다.",
+      "시장경제는 동일한 결과를 약속하지 않는다. 부처가 일자리를 배정하지 않은 채 사람들이 거래하고 투자할 수 있다고 약속한다. 이동성, 절대 생활수준, 바닥이 오르는가로 심판하라. 그 점에서 자본주의 기록은 다른 체제가 계속 베끼려 하는 그것이다."
+    ],
+    "keyFacts": [
+      {
+        "label": "세계 그림",
+        "value": "아시아가 성장하며 국가 간 격차가 줄었다"
+      },
+      {
+        "label": "더 나은 시험",
+        "value": "지니만이 아니라 절대 빈곤과 소비"
+      },
+      {
+        "label": "핵심",
+        "value": "어떤 부국에서 상위가 벌어진 것은 진짜다"
+      }
+    ],
+    "sources": [
+      {
+        "publisher": "Our World in Data",
+        "title": "Global economic inequality",
+        "url": "https://ourworldindata.org/global-economic-inequality"
+      },
+      {
+        "publisher": "Our World in Data",
+        "title": "Poverty",
+        "url": "https://ourworldindata.org/poverty"
+      }
+    ]
+  },
+  {
+    "id": "cap-exploit",
+    "slug": "exploit",
+    "number": 6,
+    "verdict": "misleading",
+    "lastChecked": "2026-08-22",
+    "myth": "자본주의는 노동자를 착취해야 한다. 스웨트숍이 체제가 수탈적임을 증명한다.",
+    "headline": "사람들이 공장 일을 잡는 것은 대안이 더 나쁘기 때문이다. 임금은 그다음 생산성과 함께 오른다.",
+    "kernel": "초기 산업 조건은 종종 암울하다. 그건 성장과 탈출 옵션의 이유이지, 사다리를 금지할 이유가 아니다.",
+    "body": [
+      "폴 크루그먼의 「값싼 노동 예찬」과 이후 스웨트숍 문헌(파월 등)은 감상 없는 지적을 한다. $2 공장 일은 $1 농사일이나 무직 대신 선택된다. 공장을 금한다고 덴마크 간호사 월급이 솟아나지 않는다. 노동자를 더 나쁜 옵션에 맡긴다. 더 나은 지역 고용주 없이 공장을 닫는 캠페인에 잃은 소득의 시체가 있는 이유다.",
+      "슬로건에서의 착취는 “주인이 잔여 이윤을 가져갔다”는 뜻이다. 경쟁 노동시장에서 임금은 노동자의 한계생산물을 향해 입찰된다. 한국, 타이완, 중국, 방글라데시의 역사 패턴은 같다. 먼저 암울한 공장, 그다음 더 나은 공장, 그다음 서비스 일자리. 동아시아 실질 제조 임금은 한 세기 동안 정체하지 않았다.",
+      "노동자가 떠날 수 없고, 조직할 수 없고, 소유할 수 없는 곳은 시장 실패가 아니다. 정치 실패다. 농노제, 후커우 덫, 무장 게이트의 회사 마을은 시장에 대한 제한이지, 시장의 정의가 아니다."
+    ],
+    "keyFacts": [
+      {
+        "label": "시험",
+        "value": "덴마크가 아니라 실제 대안과 비교"
+      },
+      {
+        "label": "패턴",
+        "value": "생산성이 오르며 공장 → 더 나은 공장 → 서비스"
+      },
+      {
+        "label": "진짜 강제",
+        "value": "그만두거나 경쟁할 수 없을 때"
+      }
+    ],
+    "sources": [
+      {
+        "publisher": "Paul Krugman / Slate (1997)",
+        "title": "In Praise of Cheap Labor",
+        "url": "https://slate.com/business/1997/03/in-praise-of-cheap-labor.html"
+      },
+      {
+        "publisher": "Benjamin Powell / Cato",
+        "title": "Out of Poverty: Sweatshops in the Global Economy",
+        "url": "https://www.cato.org/books/out-poverty"
+      }
+    ]
+  },
+  {
+    "id": "cap-climate",
+    "slug": "climate",
+    "number": 7,
+    "verdict": "overstated",
+    "lastChecked": "2026-08-22",
+    "myth": "자본주의가 지구를 익힐 것이다. 시장경제는 배출을 줄일 수 없다.",
+    "headline": "부유한 시장경제는 GDP와 CO₂의 탈동조화를 시작했다. 남은 문제는 세계적이고 정치적이다.",
+    "kernel": "세계 배출은 여전히 너무 높다. EU와 미국의 탈동조화는 완성된 기후 정책이 아니다. 성장과 떨어지는 배출이 공존할 수 있다는 증거다.",
+    "body": [
+      "IEA: 1990년 이후 미국 경제는 대략 두 배가 됐고, CO₂는 약 1990년 수준으로 돌아왔다. EU 경제는 대략 3분의 2 더 크고 배출은 약 30% 낮다. Our World in Data는 부국 긴 목록에서 소비 기준 탈동조화를 문서화한다. 굴뚝을 해외로 보낸 트릭만이 아니다.",
+      "Global Carbon Budget에 대한 2025년 ECIU 읽기는 세계 GDP의 대부분을 대표하는 나라들이 확대되는 동안 소비 기준 탄소가 떨어지거나 평평해졌다고 찾았다. 탄소에 가격이 붙고, 석탄이 비싸지고, 기업이 히트펌프와 원자로를 팔 때 시장경제가 하는 일이다. 대체한다.",
+      "실패 모드는 가격이 안 매겨진 탄소이지, “시장이 있는 것”이 아니다. 명령경제(소련 메탄, 마오의 삼림 파괴, 동독 갈탄)는 녹색이 아니었다. 더 빠른 감축을 원하면 외부효과에 과세하고 가격이 재배분하게 하라. 시장경제를 폐지하면 대체재를 발명하는 기계를 제거한다."
+    ],
+    "keyFacts": [
+      {
+        "label": "1990년 이후 미국",
+        "value": "GDP ~두 배; CO₂ 1990년 근처로"
+      },
+      {
+        "label": "1990년 이후 EU",
+        "value": "GDP ~+66%; CO₂ ~−30%"
+      },
+      {
+        "label": "도구",
+        "value": "외부효과에 가격을 매겨라; 가격을 폐기하지 마라"
+      }
+    ],
+    "sources": [
+      {
+        "publisher": "IEA",
+        "title": "The relationship between growth in GDP and CO2 has loosened",
+        "url": "https://www.iea.org/commentaries/the-relationship-between-growth-in-gdp-and-co2-has-loosened-it-needs-to-be-cut-completely"
+      },
+      {
+        "publisher": "Our World in Data",
+        "title": "CO₂ emissions and GDP decoupling",
+        "url": "https://ourworldindata.org/co2-gdp-decoupling"
+      },
+      {
+        "publisher": "Our World in Data",
+        "title": "Change in CO₂ emissions and GDP",
+        "url": "https://ourworldindata.org/grapher/co2-emissions-and-gdp"
+      }
+    ]
+  },
+  {
+    "id": "cap-billionaires",
+    "slug": "billionaires",
+    "number": 8,
+    "verdict": "misleading",
+    "lastChecked": "2026-08-22",
+    "myth": "억만장자가 존재하면, 돈을 훔친 것이다. 정의로운 시장경제는 그들을 만들지 않을 것이다.",
+    "headline": "대부분의 대형 미국 재산은 제품을 키운 기업의 지분이다. 정경유착은 단속할 예외이지, 폐지할 규칙이 아니다.",
+    "kernel": "어떤 억만장자는 보조금 농부이거나 독점 상속자다. 이름을 대라. 모든 창업자 잔여가 점원에게서의 절도인 척하지 마라.",
+    "body": [
+      "창업자의 주식은 노동자와 공급자가 받은 뒤의 잔여에 대한 청구다. 기업이 비용보다 더 많은 가치를 만들면, 그 잔여는 거대할 수 있다. 소프트웨어와 브랜드가 확장되기 때문이다. 미국 부에 대한 카플란과 라우의 작업이 따분한 버전이다. 새로운 상위 부의 큰 몫은 19세기 토지 하사가 아니라 기업가 지분이다.",
+      "소비자 잉여는 보통 창업자의 더미보다 크다. 사람들이 제품을 쓰는 것은 대안을 이기기 때문이다. 시장 시험이다. 정의로운 체제는 그래도 유산에 과세하고, 바닥을 대고, 실제 독점을 깨뜨릴 수 있다. 시장을 보존하는 수리이다.",
+      "슬로건 “억만장자는 존재해서는 안 된다”는 잔여의 모양에 대한 주장이지, 시장경제가 좋은 운영체제인지에 대한 주장이 아니다. 요트를 싫어하면서도 가격, 법인, 회사를 시작할 권리를 원할 수 있다. 그걸 혼동하는 것이 더 가난한 점원과 함께하는 생산부를 얻는 길이다."
+    ],
+    "keyFacts": [
+      {
+        "label": "전형적 경로",
+        "value": "규모를 키운 기업의 창업자 지분"
+      },
+      {
+        "label": "더 나은 표적",
+        "value": "정경유착 보조금과 닫힌 진입"
+      },
+      {
+        "label": "함의되지 않는 것",
+        "value": "잔여가 0이어야 한다는 것"
+      }
+    ],
+    "sources": [
+      {
+        "publisher": "Kaplan & Rauh",
+        "title": "It’s the Market: The Broad-Based Rise in the Return to Top Talent (NBER w19846)",
+        "url": "https://www.nber.org/papers/w19846"
+      },
+      {
+        "publisher": "Our World in Data",
+        "title": "Wealth",
+        "url": "https://ourworldindata.org/wealth"
+      }
+    ]
+  },
+  {
+    "id": "cap-war",
+    "slug": "war",
+    "number": 9,
+    "verdict": "false",
+    "lastChecked": "2026-08-22",
+    "myth": "자본주의가 전쟁을 일으킨다. 시장은 자라려면 피가 필요하다.",
+    "headline": "시장 민주주의는 서로를 거의 싸우지 않는다. 20세기의 산업적 학살은 주주총회가 아니었다.",
+    "kernel": "국가는 모든 재산 체제 아래서 영토, 공포, 영광을 위해 전쟁에 간다. 식민 회사는 추한 일을 했다. 자본주의만의 법칙은 아니다.",
+    "body": [
+      "Our World in Data의 전쟁과 평화 시계열, 더 넓은 “자본주의 평화” / 민주 평화 문헌은, 상업적으로 통합된 민주주의가 데이터셋에서 가장 따분한 이웃이라고 찾는다. 인류 대비 국가 간 전투 사망은 1945년 이후 붕괴했고, 교역은 폭발했다.",
+      "20세기의 시체 수는 시장을 폐지한 전체주의 프로젝트가 지배한다. 스탈린의 기근과 수용소, 마오의 대약진과 문화대혁명, 크메르 루주. 럼멜의 데모사이드 집계와 흑서가 슬로건이 건너뛰는 장부다. 비밀경찰을 가진 계획경제는 평화 운동이 아니다.",
+      "기업은 국가가 허락하면 전쟁의 양쪽에 판다. 그건 국가에 대한 기소다. 자급 제국도 침공한다. 교역이 전쟁을 만들었다면, 1980년 이후 세계화 붐은 묘지였을 것이다. 반대 패턴이다."
+    ],
+    "keyFacts": [
+      {
+        "label": "패턴",
+        "value": "시장 민주주의는 서로를 거의 싸우지 않는다"
+      },
+      {
+        "label": "20세기 장부",
+        "value": "전체주의 계획 아래 데모사이드가 무역 전쟁을 압도"
+      },
+      {
+        "label": "1945년 이후",
+        "value": "교역 상승; 국가 간 전쟁 사망 하락"
+      }
+    ],
+    "sources": [
+      {
+        "publisher": "Our World in Data",
+        "title": "War and Peace",
+        "url": "https://ourworldindata.org/war-and-peace"
+      },
+      {
+        "publisher": "Our World in Data / UCDP",
+        "title": "Deaths in state-based conflicts",
+        "url": "https://ourworldindata.org/grapher/deaths-in-armed-conflicts-by-type"
+      }
+    ]
+  },
+  {
+    "id": "cap-public-goods",
+    "slug": "public-goods",
+    "number": 10,
+    "verdict": "overstated",
+    "lastChecked": "2026-08-22",
+    "myth": "시장은 의료, 학교, 안전망을 제공할 수 없으니, 자본주의는 틀린 체제다.",
+    "headline": "시장경제는 공공재를 살 만큼 부유해지는 방법이다. 공공재 금지가 아니다.",
+    "kernel": "순수 공공재와 보험 시장은 교과서 방식으로 실패한다. 그건 어느 정도 정부를 정당화한다. 경제의 나머지에 대한 기본값으로서 가격을 대체하는 것을 정당화하지는 않는다.",
+    "body": [
+      "국방, 기초연구, 궁핍에 대한 바닥은 모퉁이 가게가 잘 공급하지 않는다. 애덤 스미스 이래 경제학자들이 그렇게 말했다. 모든 부유한 시장 국가는 이미 세금과 민간 공급의 혼합으로 학교, 연금, 병원을 돌린다. 기대수명, 문해, 칼로리는 그 나라들이 자본주의로 남는 동안 폭발했다.",
+      "범주 오류는 “백신을 대야 한다”를 “잔여 청구권, 가격, 진입을 폐지해야 한다”로 다루는 것이다. NHS는 여전히 기업에서 약을 산다. 스웨덴 학교는 여전히 노동시장을 마주한다. 싱가포르의 의료 저축 더하기 재난 보험은 시장 장치다. 북유럽 카드가 나머지를 이미 덮었다. 생산적인 민간 부문에 과세하라.",
+      "국가가 경제 전체를 공공재인 양 돌리려 하면, 계획 카드를 얻는다. 탄소에 가격을 매기고, 바닥을 대고, 기업이 경쟁하게 하면, 대중 풍요를 정상으로 만든 유일한 시스템을 얻는다. 그게 정부를 가진 시장경제다. 성공한 자본주의가 바로 그것이다."
+    ],
+    "keyFacts": [
+      {
+        "label": "공공재",
+        "value": "진짜다; 일부 세금 재원 공급을 정당화한다"
+      },
+      {
+        "label": "그걸 산 것",
+        "value": "생산적인 민간 부문"
+      },
+      {
+        "label": "범주 오류",
+        "value": "안전망을 고스플란과 혼동"
+      }
+    ],
+    "sources": [
+      {
+        "publisher": "Our World in Data",
+        "title": "Life expectancy",
+        "url": "https://ourworldindata.org/life-expectancy"
+      },
+      {
+        "publisher": "Our World in Data",
+        "title": "Global education",
+        "url": "https://ourworldindata.org/global-education"
+      },
+      {
+        "publisher": "Wikipedia (sourced overview)",
+        "title": "Nordic model",
+        "url": "https://en.wikipedia.org/wiki/Nordic_model"
+      }
+    ]
+  }
+]

@@ -1,0 +1,144 @@
+{
+  "language": "语言",
+  "close": "关闭",
+  "notFoundTitle": "没有这一页",
+  "notFoundBody": "记录里没有这一页。",
+  "notFoundBack": "回到开头",
+  "nav": {
+    "method": "方法",
+    "all": "全部",
+    "menu": "菜单"
+  },
+  "home": {
+    "kicker": "切断噪声，拥抱信号。",
+    "title": "下面这些，哪些听起来像真的？",
+    "lede": "五十条关于埃隆·马斯克、SpaceX、Tesla、电动汽车和资本主义的说法。",
+    "gradeKey": "每张卡片如何评级",
+    "iBelieve": "我相信这一点",
+    "mythStamp": "传言",
+    "record": "事实记录",
+    "claimPicked": "你选中的说法",
+    "tapAgain": "再点卡片，回到那条说法",
+    "flipping": "翻到事实记录……",
+    "sources": "来源",
+    "grade": "评级",
+    "showMyth": "看传言",
+    "showRecord": "看事实记录"
+  },
+  "verdict": {
+    "false": "错误",
+    "misleading": "误导",
+    "overstated": "夸大"
+  },
+  "verdictHint": {
+    "false": "这条说法是错的。",
+    "misleading": "其中有一部分是真的，但会把人引向错误的结论。",
+    "overstated": "这里有几分事实，但这条说法走过头了。"
+  },
+  "categories": {
+    "elon": {
+      "name": "埃隆·马斯克",
+      "shortName": "马斯克",
+      "kicker": "人物",
+      "blurb": "出身故事、税务、政治，以及创始人神话。"
+    },
+    "spacex": {
+      "name": "SpaceX",
+      "shortName": "SpaceX",
+      "kicker": "发射",
+      "blurb": "火箭、Starlink、NASA 的钱，以及复用真正改变了什么。"
+    },
+    "tesla": {
+      "name": "Tesla",
+      "shortName": "Tesla",
+      "kicker": "车辆",
+      "blurb": "起火、Autopilot、电池、板件缝隙，以及 Robotaxi 这一说。"
+    },
+    "evs": {
+      "name": "电动汽车",
+      "shortName": "电动车",
+      "kicker": "这一类",
+      "blurb": "气候账、电网、采矿、冬季续航，以及混动这条弯路。"
+    },
+    "capitalism": {
+      "name": "资本主义",
+      "shortName": "资本主义",
+      "kicker": "这套制度",
+      "blurb": "贫困、计划、北欧、不平等——以及市场是不是问题所在。"
+    }
+  },
+  "footer": {
+    "independent": "独立编辑网站。与 Tesla、SpaceX、xAI 或埃隆·马斯克均无关联。",
+    "trademarks": "Tesla、SpaceX、Starlink、Autopilot 及相关标识归各自权利人所有。此处仅用于评论。"
+  },
+  "method": {
+    "kicker": "方法",
+    "title": "这些卡片如何评级",
+    "affiliation": "The Record 是一家独立编辑网站。与 Tesla, Inc.、SpaceX、xAI 或埃隆·马斯克均无关联。",
+    "p1": "每张卡片都从一条真正在流传的说法出发——搜索结果、电视新闻、论坛、饭桌——不是为了推倒而立起来的稻草人。",
+    "p2": "批评站得住的地方——Autopilot 这个名字、FSD 的日期、Boca Chica 的栖息地、租客充电、爬坡年车型的板件缝隙——都留在卡片上。一份不能说「对，那一块是」的真相来源，不过是另一则传言。",
+    "p3": "来源是一手的，或贴近一手：Tesla 自己的起火与安全报告、EPA 的传言页、Carbon Brief 的电动车事实核查、NASA 商业载人材料、世界银行与 Our World in Data 的贫困序列、关于 2021 年税单和 2025 年就职典礼手势的同期报道。点进去看。数字变了，卡片就该跟着变。",
+    "p4": "某种语言若有真正对着这张卡片说话的报道，会排在前面。没有的话，仍用原来的英文来源。",
+    "legalLead": "关联、隐私、条款与出版说明："
+  },
+  "legal": {
+    "kicker": "法律",
+    "title": "细则",
+    "updated": "最近更新于 2026 年 8 月 22 日。",
+    "navDisclaimer": "免责声明",
+    "navTerms": "条款",
+    "navPrivacy": "隐私",
+    "navCookies": "Cookies",
+    "navIp": "商标",
+    "navImprint": "出版说明",
+    "disclaimerTitle": "免责声明",
+    "disclaimer": [
+      "The Record 是一家独立编辑网站。与 Tesla, Inc.、Space Exploration Technologies Corp.（SpaceX）、xAI、Neuralink、The Boring Company、X Corp. 或埃隆·马斯克均无关联，不受其背书、赞助，也不与之有从属关系。提及上述人士与公司，仅为识别、评论与批评。",
+      "卡片是有出处的简报，不是投资建议、法律意见、工程意见，也不能替代所依据的报告。评级——错误、误导、夸大——是编辑判断。数字会变。来源变了，卡片就该跟着变。",
+      "本站内容不构成出售证券、车辆、发射或其他任何东西的要约。不要把一张卡片当成尽职调查。"
+    ],
+    "termsTitle": "使用条款",
+    "terms": [
+      "使用 The Record 即表示你同意这些条款。不同意，就不要用这个网站。",
+      "本站按「现状」和「现有状况」提供，不作任何种类的保证，明示或默示均无，包括准确性、适销性、特定用途适用性及不侵权。我们不保证网站不中断、无差错，或不含有害成分。",
+      "在法律允许的最大范围内，出版方不对因你使用本站或依赖任何卡片而产生的间接、附带、特殊、后果性或惩罚性损害负责，也不对利润、数据或商誉损失负责。你所在国家法律不允许放弃的强制性权利仍然适用——包括欧盟消费者权利（如有）。",
+      "你可以链接到任何公开页面。不得抓取、转载，或把卡片改头换面当成自己的作品。短引并回链可以。给服务造成负担的自动采集不行。",
+      "外部来源链接会离开本站。那些页面不在我们控制之内，其内容、可用性或政策我们概不负责。"
+    ],
+    "privacyTitle": "隐私",
+    "privacyIntro": [
+      "本站没有用户账户、邮件列表、广告网络，也没有个人数据库。这里没有可以「登录」的东西。",
+      "在正常提供网站的过程中，可能被处理的有："
+    ],
+    "privacyBullets": [
+      "托管方上的常规技术日志（IP 地址、浏览器、时间、请求的 URL），用于提供页面、维持站点运行、应对滥用。",
+      "地址栏：如果你打开一张卡片，URL 里可能出现一条说法的 id（例如 ?claim=elon-emerald）。它留在你的浏览器里，除非你把链接发出去。",
+      "不出售个人数据。不为广告做画像。本站不装第三方营销像素。"
+    ],
+    "privacyOutro": [
+      "如果你点进一条来源链接，目的地有自己的隐私政策。我们不是世界银行、Our World in Data、Tesla、NASA 或其他被引用出版方的控制者。",
+      "根据 GDPR，「控制者」是决定处理目的的个人或组织。对本站而言，就是出版说明里具名的出版方——把这个 URL 放到公网上的那个人或组织。在适用的范围内，你可以向该出版方要求查阅、更正、删除、限制、反对或可携带，也可以向监管机构投诉（在德国是州数据保护局 Landesdatenschutzbehörde；欧盟范围内是你当地的 DPA）。"
+    ],
+    "cookiesTitle": "Cookies",
+    "cookies": [
+      "The Record 不设置广告或分析类 Cookie。我们不用 Cookie 横幅，因为不设非必要 Cookie。",
+      "托管平台可能使用严格必要的 Cookie 或类似存储，用于提供站点、均衡流量或防范滥用。你的浏览器也可能为此保存常规会话数据。你可以在浏览器里拦截 Cookie；网站照样能读。"
+    ],
+    "ipTitle": "商标与版权",
+    "ip": [
+      "Tesla、Model Y、Model 3、Model S、Model X、Cybertruck、Autopilot、Full Self-Driving、Supercharger、SpaceX、Falcon、Dragon、Starship、Starlink、Neuralink、xAI 及相关标识是各自权利人的商标。埃隆·马斯克的姓名与肖像在此用于评论公开说法。卡片上的其他名称归各自权利人所有。",
+      "The Record 上的卡片文字以独立编辑内容呈现。所引数字与文件标题仍是被引用出版方的作品。点进去看。不要从本页复制 Tesla 安全报告再当成我们的，也不要把我们的评级当成 Tesla 的。"
+    ],
+    "imprintTitle": "出版说明",
+    "imprintIntro": "依据德国《数字服务法》第 5 条（§ 5 DDG）及欧盟对数字服务的同等识别规则提供的信息：",
+    "imprintService": "服务",
+    "imprintServiceValue": "The Record — 独立编辑网站",
+    "imprintNature": "性质",
+    "imprintNatureValue": "非官方评论。不是 Tesla、SpaceX 或 xAI 的产品。",
+    "imprintOperator": "运营方 / 控制者",
+    "imprintOperatorValue": "发布此 URL 的个人或组织是本服务的运营方，也是为托管而处理的任何技术数据的控制者。面向德国或欧盟读者的公开站点，应在本页列出运营方全名、邮寄地址和联系邮箱（若为公司，还应列出注册法院和编号）。",
+    "imprintEditor": "内容责任人",
+    "imprintEditorValue": "编辑责任归同一运营方。评级由他们担着。",
+    "imprintOutro": "本页说明 The Record 如何运作。这不是法律意见。各国法律不同；如果你是出版方，在把这个 URL 当作商业服务之前，先让律师核过出版说明。"
+  }
+}

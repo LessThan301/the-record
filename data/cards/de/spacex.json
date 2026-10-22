@@ -1,0 +1,402 @@
+[
+  {
+    "id": "spacex-subsidy",
+    "slug": "subsidy",
+    "number": 1,
+    "verdict": "misleading",
+    "lastChecked": "2026-08-22",
+    "myth": "SpaceX existiert nur wegen Steuersubventionen. Die Öffentlichkeit hat die F&E bezahlt; Musk besitzt das geistige Eigentum.",
+    "headline": "Die NASA hat Fracht und Crew gekauft, wie sie früher Shuttle-Flüge kaufte — nach Meilensteinen, billiger. Das ist Beschaffung, kein Taschengeld.",
+    "kernel": "Das frühe NASA-COTS-Geld war sehr wichtig. SpaceX war kein Garagenhobby, das nie Bundesgeld berührt hat. Die Verzerrung ist, einen Festpreisvertrag für ein Dragon-Andocken „Subvention“ zu nennen.",
+    "body": [
+      "Nach dem Shuttle fuhr die NASA Commercial Orbital Transportation Services und dann Commercial Crew: Firmen zahlen, wenn sie Flugmeilensteine erreichen, weniger vom System selbst halten, mehr fliegen für weniger Geld. SpaceX gewann, lieferte 2012 Fracht, 2020 Crew, und beendete die US-Abhängigkeit von Sojus-Sitzen. Die US-Regierung ist ein Kunde. Kunden zahlen.",
+      "Starlink ist inzwischen ein mehrheitlich kommerzieller Umsatzmotor — Verbraucher, Airlines, Schiffe und Staaten kaufen Bandbreite. Nationale Sicherheitsstarts sind Wettbewerbsvergaben gegen ULA und andere. Die These „F&E wurde sozialisiert und Schutzrechte privatisiert“ ignoriert, dass die NASA einen kommerziellen Markt wollte, das Modell veröffentlicht hat und Startpreise bekam, die von der Klippe fielen. Wenn die Klage lautet, der Staat hätte die Fabriken behalten sollen, ist das industriepolitische Nostalgie, kein Betrugsbrief."
+    ],
+    "keyFacts": [
+      {
+        "label": "COTS / Crew",
+        "value": "Meilensteinverträge, kein Cost-plus-Shuttle 2.0"
+      },
+      {
+        "label": "Erste Fracht / Crew",
+        "value": "2012 Dragon-Fracht; 2020 Crew Dragon"
+      },
+      {
+        "label": "Heute",
+        "value": "Starlink + kommerzielle Starts tragen den Großteil der GuV"
+      }
+    ],
+    "sources": [
+      {
+        "publisher": "NASA",
+        "title": "Commercial Crew Program",
+        "url": "https://www.nasa.gov/reference/commercial-crew-program/"
+      }
+    ]
+  },
+  {
+    "id": "spacex-reuse",
+    "slug": "reuse",
+    "number": 2,
+    "verdict": "false",
+    "lastChecked": "2026-08-22",
+    "myth": "Raketen zu landen ist ein Zirkustrick. Wiederverwendung spart in Wahrheit kein Geld.",
+    "headline": "Die Falcon-9-Rückflüge sind der Grund, warum Starts billig wurden. Der Markt hat mit den Startlisten abgestimmt.",
+    "kernel": null,
+    "body": [
+      "Falcon-9-Erststufen fliegen inzwischen oft — zweistellige Wiederverwendung ist Routine, manche Booster über 20. Katalogpreise um die mittleren zweistelligen Millionen Dollar unterbieten Ariane 5/6 und historische ULA-Preise deutlich. Die internen Grenzkosten werden weithin weit unter dem Listenpreis geschätzt, deshalb kann SpaceX die Startliste mit Starlink fluten und trotzdem an andere verkaufen.",
+      "Wäre Wiederverwendung ein Partykunststück, würden Wettbewerber sie ignorieren. Haben sie nicht: ULA, Blue Origin, Arianespace und China jagen alle irgendeine Form der Bergung. NASA und Space Force kaufen Falcon weiter, weil Preis und Kadenz da waren. Zirkusse bringen nicht 80 %+ der orbitalen Masse eines Planeten in den Orbit."
+    ],
+    "keyFacts": [
+      {
+        "label": "Wiederverwendung",
+        "value": "Zweistellige Booster-Flüge sind Routine"
+      },
+      {
+        "label": "Listenpreis",
+        "value": "Falcon 9 Klasse ~$67M gegen frühere $150M–$400M"
+      },
+      {
+        "label": "Marktanteil",
+        "value": "Dominanter Anteil der globalen Orbitalmasse in den 2020ern"
+      }
+    ],
+    "sources": [
+      {
+        "publisher": "Die Zeit",
+        "title": "SpaceX startet wiederverwendete Rakete",
+        "url": "https://www.zeit.de/wissen/2017-03/raumfahrt-spacex-rakete-recycling"
+      },
+      {
+        "publisher": "Der Spiegel",
+        "title": "SpaceX vor neuem Meilenstein beim Raketen-Recycling",
+        "url": "https://www.spiegel.de/wissenschaft/weltall/raumfahrt-spacex-vor-neuem-meilenstein-beim-raketen-recycling-a-1238590.html"
+      },
+      {
+        "publisher": "SpaceX",
+        "title": "Falcon 9",
+        "url": "https://www.spacex.com/vehicles/falcon-9/"
+      }
+    ]
+  },
+  {
+    "id": "spacex-astronomy",
+    "slug": "astronomy",
+    "number": 3,
+    "verdict": "overstated",
+    "lastChecked": "2026-08-22",
+    "myth": "Starlink hat die Astronomie ruiniert. Der Nachthimmel ist vorbei.",
+    "headline": "Satellitenspuren sind ein reales, gemessenes Problem. SpaceX hat spätere Generationen abgedunkelt. Der Himmel ist nicht geschlossen.",
+    "kernel": "Weitfeld-Durchmusterungen (Vera Rubin, Amateur-Astrofotografie) fangen tatsächlich Streifen ein. Das ist keine Forenerfindung. DarkSat, Blenden und Lage-Tricks haben die Helligkeit gesenkt; Astronomen sagen, es reicht nicht.",
+    "body": [
+      "Megakonstellationen in niedriger Erdumlaufbahn — zuerst Starlink, andere hinterher — fügen bewegte Quellen hinzu. Professionelle Auswerteketten können manche Spuren maskieren; sie können nicht so tun, als wären die Photonen nie da gewesen. Die IAU und mehrere Observatorien saßen mit SpaceX im Raum. Spätere Satelliten sind lichtschwächer als die erste Charge. Amazons Kuiper und andere werden mehr hinzufügen, also ist das ein Industrieproblem, das Starlink als Erstes aufgeworfen hat, kein einzigartiger moralischer Defekt.",
+      "„Ruiniert“ ist die Überdehnung. Die optische Astronomie geht weiter. Die Radioastronomie hat einen eigenen Interferenzkampf. Politische Werkzeuge gibt es: Helligkeitsgrenzen, Abdunklung, Koordinationsfenster. Die ehrliche Karte lautet: Die Wirkung ist real, die Abhilfe ist teilweise, der Verzicht einer Firma würde den Himmel nicht leeren."
+    ],
+    "keyFacts": [
+      {
+        "label": "Wirkung",
+        "value": "Echte Streifen auf Weitfeld-Aufnahmen"
+      },
+      {
+        "label": "Abhilfe",
+        "value": "Dunklere Konstruktionen nach der ersten Generation"
+      },
+      {
+        "label": "Umfang",
+        "value": "Jede Megakonstellation, nicht nur Starlink"
+      }
+    ],
+    "sources": [
+      {
+        "publisher": "Spektrum der Wissenschaft",
+        "title": "Sorge vor noch helleren Starlink-Satelliten wächst",
+        "url": "https://www.spektrum.de/news/sorge-vor-noch-helleren-starlink-satelliten-waechst/2230317"
+      },
+      {
+        "publisher": "Heise",
+        "title": "Starlink & Co.: Lichtverschmutzung auch in Mitteleuropa",
+        "url": "https://www.heise.de/news/Starlink-Co-Lichtverschmutzung-wird-auch-in-Mitteleuropa-am-staerksten-6198316.html"
+      },
+      {
+        "publisher": "IAU / CPS summaries",
+        "title": "Starlink and astronomy",
+        "url": "https://cps.iau.org/"
+      }
+    ]
+  },
+  {
+    "id": "spacex-kessler",
+    "slug": "kessler",
+    "number": 4,
+    "verdict": "overstated",
+    "lastChecked": "2026-08-22",
+    "myth": "Starlink wird das Kessler-Syndrom auslösen und die Menschheit aus dem All aussperren.",
+    "headline": "Kollisionsrisiko ist ein ernstes Betriebsproblem. Starlink ist gebaut, aus niedriger Höhe abzusteigen. Es ist keine Trümmerbombe mit Zeitzünder.",
+    "kernel": null,
+    "body": [
+      "Das Kessler-Syndrom ist eine Kollisionskaskade, die ein Orbitband unbrauchbar macht. Es ist eine reale Physikgeschichte, historisch auf höhere, langlebige Bahnen gemünzt. Starlink fliegt niedrig (etwa Klasse 550 km). Atmosphärischer Widerstand holt tote Flugkörper in Jahren herunter, nicht in Jahrhunderten, wenn sie ausfallen. Die Konstellation nutzt autonome Kollisionsvermeidung gegen den Katalog.",
+      "Die Restgefahren: ausgefallene Satelliten, die nicht mehr manövrieren können, Begegnungen bei Sonnenaktivität, und die schiere Zahl der Objekte. NASA, FCC und ESA beobachten das. Eine zum Abstieg gebaute LEO-Konstellation zu behandeln, als wäre sie ein Waffentest auf Friedhofsbahn, ist die Übertreibung. Wachsamkeit ist gerechtfertigt. Fatalismus ist keine Messung."
+    ],
+    "keyFacts": [
+      {
+        "label": "Höhe",
+        "value": "Klasse ~550 km, widerstandsunterstützter Abstieg"
+      },
+      {
+        "label": "Konstruktionsabsicht",
+        "value": "Kurze Lebensdauer bei Ausfall vs. GEO-Friedhof"
+      },
+      {
+        "label": "Risiko",
+        "value": "Nicht null; aktiv gesteuert, nicht ignoriert"
+      }
+    ],
+    "sources": [
+      {
+        "publisher": "Der Spiegel",
+        "title": "Starlink erhöht das Kollisionsrisiko mit Weltraumschrott",
+        "url": "https://www.spiegel.de/wissenschaft/technik/starlink-satelliten-elon-musks-raumschiff-parade-erhoeht-das-kollisionsrisiko-mit-weltraumschrott-a-3d984f76-8db9-4504-9226-c1e86f292c9d"
+      },
+      {
+        "publisher": "NASA ODPO",
+        "title": "Space debris",
+        "url": "https://orbitaldebris.jsc.nasa.gov/"
+      }
+    ]
+  },
+  {
+    "id": "spacex-starship",
+    "slug": "starship",
+    "number": 5,
+    "verdict": "false",
+    "lastChecked": "2026-08-22",
+    "myth": "Starship ist Vaporware. Es wird nie etwas fliegen, das zählt.",
+    "headline": "Es ist ein unfertiges Schwerfahrzeug, das bereits geflogen ist. Vaporware zündet keine Raptor-Triebwerke über dem Golf.",
+    "kernel": "Operative Crew-, Tanker- und HLS-Missionen stehen noch aus. Zeitpläne sind gerutscht. Das ist nicht dasselbe wie ein Folienvortrag, der nie die Halle verlassen hat.",
+    "body": [
+      "Starship/Super Heavy wurde gestapelt, gestartet, hat den Weltraum erreicht, Hot Staging gemacht und Fangversuche unternommen. Fahrzeuge sind verloren gegangen. Das ist ein Testprogramm, absichtlich hässlich. Das Artemis Human Landing System der NASA hängt an dieser Hardware; das ist kein Pressetext, den SpaceX sich selbst geschrieben hat.",
+      "Skepsis gegenüber Zeitplänen ist verdient — Musk-Termine sind selbst in der Branche ein Dauerwitz. Skepsis, das Fahrzeug sei fiktiv, ist es nicht. Man vergleiche mit Programmen, die ein Jahrzehnt in PowerPoint verbracht haben. Das restliche Argument ist, ob Hitzeschild, Fang und schnelle Wiederverwendung schließen. Das ist Ingenieurarbeit, der es erlaubt ist, unterwegs wie Explosionen auszusehen."
+    ],
+    "keyFacts": [
+      {
+        "label": "Status",
+        "value": "Fluggetesteter Prototyp, kein Fahrzeug im Regelbetrieb"
+      },
+      {
+        "label": "NASA HLS",
+        "value": "Als Artemis-Lander-Pfad ausgewählt"
+      },
+      {
+        "label": "Ehrlicher Zweifel",
+        "value": "Kadenz und Wiederverwendung nicht geschlossen; Termine rutschen"
+      }
+    ],
+    "sources": [
+      {
+        "publisher": "Der Spiegel",
+        "title": "FAA erklärt Starship-Programm in Texas für unbedenklich",
+        "url": "https://www.spiegel.de/wissenschaft/weltall/elon-musk-faa-erklaert-starship-raketenprogramm-von-spacex-in-texas-fuer-unbedenklich-a-08fd471f-1718-4814-b6e3-2531074004a2"
+      },
+      {
+        "publisher": "SpaceX",
+        "title": "Starship",
+        "url": "https://www.spacex.com/vehicles/starship/"
+      }
+    ]
+  },
+  {
+    "id": "spacex-stole-nasa",
+    "slug": "stole-nasa",
+    "number": 6,
+    "verdict": "false",
+    "lastChecked": "2026-08-22",
+    "myth": "SpaceX hat einfach NASA-Technik gestohlen und ein Logo draufgeklebt.",
+    "headline": "Sie haben Leute eingestellt, die in der Luft- und Raumfahrt gearbeitet haben, und öffentliche Forschung genutzt, wie alle anderen. Merlin, Raptor und Dragon sind keine übrig gebliebenen Saturn-Stufen.",
+    "kernel": null,
+    "body": [
+      "Die gesamte kommerzielle NASA-Strategie nach Apollo war, Know-how in die Industrie zu drücken. COTS war das Gegenteil eines Diebstahls aus der Blackbox: Die NASA wollte Anbieter. SpaceX stellte Ingenieure von Boeing, NASA-Zentren und Universitäten ein. ULA auch. Die Triebwerke sind ein anderer Kreisprozess (Raptor ist full-flow staged combustion, kein RS-25 mit neuem Anstrich).",
+      "Dragons Rettungssystem, Hitzeschild und Trunk sind eine andere Architektur als Apollo oder Orion. Falcons Bergungshardware stand nicht im NASA-Katalog. „Auf öffentlicher Forschung gestanden“ ist ein Kompliment an das amerikanische Forschungssystem. „Das Shuttle gestohlen“ ist ein Kategorienfehler."
+    ],
+    "keyFacts": [
+      {
+        "label": "Raptor",
+        "value": "Eigene Full-Flow-Staged-Combustion-Entwicklung"
+      },
+      {
+        "label": "Absicht der NASA",
+        "value": "Fracht/Crew kommerzialisieren, kein Fahrzeug verschenken"
+      },
+      {
+        "label": "Herkunft",
+        "value": "Talente und Publikationen, kein übergebenes Gesamtsystem"
+      }
+    ],
+    "sources": [
+      {
+        "publisher": "NASA",
+        "title": "Commercial Orbital Transportation Services",
+        "url": "https://www.nasa.gov/commercial-orbital-transportation-services/"
+      }
+    ]
+  },
+  {
+    "id": "spacex-ukraine",
+    "slug": "ukraine",
+    "number": 7,
+    "verdict": "misleading",
+    "lastChecked": "2026-08-22",
+    "myth": "Elon hat Starlink abgeschaltet und den Krieg der Ukraine sabotiert.",
+    "headline": "Starlink wurde für die Ukraine eingeschaltet und blieb an. Ein Geofence weigerte sich, einen bestimmten Drohnenangriff auf die Krim freizugeben. Das ist nicht „er hat das Land abgestöpselt“.",
+    "kernel": "Musk war ein erratischer politischer Akteur zur Ukraine. Er hat einen „Friedensplan“ lanciert, den Kiew hasste. Das ist nicht dasselbe wie eine totale Netzabschaltung.",
+    "body": [
+      "2022 aktivierte SpaceX Starlink in der Ukraine; SpaceX trug anfangs einen großen Teil der Kosten, dann zahlten die USA und Partner. Es wurde kritisch für zivile und militärische Vernetzung. Berichte 2023 (unter anderem Washington Post / Isaacson-Auszüge) beschrieben die Bitte, Abdeckung für einen ukrainischen Drohnenangriff auf Sewastopol freizugeben. Musk lehnte es ab, das Netz für diese Offensive zu erweitern, mit Verweis auf Eskalation. Die Abdeckung innerhalb der Ukraine lief weiter.",
+      "Ob ein privater CEO ein Veto über einen Geofence halten sollte, ist eine ernste zivil-militärische Frage. Sie ist auch das Gegenteil des viralen Satzes „er hat das Internet der Ukraine abgeschaltet“. Wenn die eigentliche Klage lautet, öffentliche Infrastruktur solle nicht am Schalter eines Einzelnen hängen, sage man das — und spreche dann über Verträge, nicht über die Karikatur eines Notausschalters."
+    ],
+    "keyFacts": [
+      {
+        "label": "Ukraine-Dienst",
+        "value": "Aktiviert 2022, blieb an"
+      },
+      {
+        "label": "Die umstrittene Tat",
+        "value": "Weigerung, einen offensiven Geofence im Krim-Raum freizugeben"
+      },
+      {
+        "label": "Wer zahlt",
+        "value": "Mix aus SpaceX, USA und alliierter Finanzierung im Zeitverlauf"
+      }
+    ],
+    "sources": [
+      {
+        "publisher": "tagesschau",
+        "title": "Ukraine — aufgeschmissen ohne Starlink?",
+        "url": "https://www.tagesschau.de/ausland/europa/ukraine-starlink-102.html"
+      },
+      {
+        "publisher": "Der Spiegel",
+        "title": "Isaacson nimmt Aussage zu Starlink im eigenen Buch zurück",
+        "url": "https://www.spiegel.de/netzwelt/netzpolitik/ukraine-musk-biograf-walter-isaacson-nimmt-aussage-zu-starlink-im-eigenen-buch-zurueck-a-0016c393-7ba9-40c0-a5d2-5f6b3d603b37"
+      },
+      {
+        "publisher": "Contemporary reporting / Isaacson",
+        "title": "Elon Musk’s Ukraine Starlink coverage decisions",
+        "url": "https://en.wikipedia.org/wiki/Starlink#Ukraine"
+      }
+    ]
+  },
+  {
+    "id": "spacex-dragon-unsafe",
+    "slug": "dragon-unsafe",
+    "number": 8,
+    "verdict": "false",
+    "lastChecked": "2026-08-22",
+    "myth": "Crew Dragon ist unsicher. Die NASA hätte bei Sojus bleiben sollen.",
+    "headline": "Dragon fliegt NASA-Crews seit 2020. Sojus ist ein gutes Fahrzeug mit eigenen Ausfällen. Nostalgie ist keine Sicherheitsanalyse.",
+    "kernel": null,
+    "body": [
+      "Crew Dragon wurde das erste kommerzielle Raumschiff, das NASA-Astronauten zur ISS brachte, Demo-2 2020, dann ein regelmäßiger Wechsel. Es gab Probleme — wie bei jedem bemannten System, einschließlich Heliumlecks, Wetterverschiebungen und der üblichen Ingenieursnörgeleien. Das NASA-Sicherheitsverfahren ist konservativ bis zur Komik. Sie fliegen es trotzdem.",
+      "Sojus ist eine legendäre Maschine. Sie hat auch Crews getötet (1971, Pad-Abort 1983 überlebt, Abort 2018 überlebt). Nach 2011 war die USA ein Anhalter, der Russland zahlte. Dragon hat das beendet. „Unsicherer als Sojus“ braucht eine Opferzahl und eine Zuverlässigkeitsreihe, kein Gefühl, alte sowjetische Hardware sei magisch priesterlich."
+    ],
+    "keyFacts": [
+      {
+        "label": "Erste NASA-Crew",
+        "value": "Crew Dragon Demo-2, 2020"
+      },
+      {
+        "label": "Rolle",
+        "value": "Primärer US-ISS-Crewtransport neben späteren Wettbewerbern"
+      },
+      {
+        "label": "Sojus",
+        "value": "Auch unvollkommen; war ein Monopol nach dem Shuttle"
+      }
+    ],
+    "sources": [
+      {
+        "publisher": "NASA",
+        "title": "Crew Dragon",
+        "url": "https://www.nasa.gov/commercial-crew-program/"
+      }
+    ]
+  },
+  {
+    "id": "spacex-kill-nasa",
+    "slug": "kill-nasa",
+    "number": 9,
+    "verdict": "misleading",
+    "lastChecked": "2026-08-22",
+    "myth": "SpaceX tötet die NASA und hat ein illegales Monopol aufs All.",
+    "headline": "Die NASA existiert weiter, fliegt weiter SLS, schreibt weiter Wissenschaftsmissionen. Falcons Startanteil ist ein Marktergebnis der Wiederverwendung, keine vereinnahmte Aufsicht.",
+    "kernel": "Die Startdominanz ist real. Diese Konzentration verdient Aufmerksamkeit aus Gründen der nationalen Sicherheit. Sie ist kein Sherman-Act-Cartoon, und sie ist nicht die Beerdigung der NASA.",
+    "body": [
+      "Der NASA-Haushalt finanziert weiter den Betrieb von James Webb, Planetenwissenschaft, SLS/Orion (über Budget und spät) und Luftfahrt. SpaceX ist Auftragnehmer und Partner, keine Nachfolgebehörde. HLS ist eine NASA-Anforderung auf SpaceX-Hardware — dasselbe Muster wie der Kauf eines Sondenbuses bei Lockheed.",
+      "Falcon 9s Anteil an der Masse in den Orbit ist schief, weil andere Booster nicht gelandet haben. Rocket Lab, ULA Vulcan, Blue Origin, Europa, Indien und China sind zu verschiedenen Stadien im Markt. Regierungen, die eine zweite Quelle wollen, bezahlen eine. Monopolrhetorik ist ein nützlicher Stachel dafür. Sie ist eine schlechte Beschreibung eines Kunden mit Alternativen, der die billige zuverlässige Rakete gewählt hat."
+    ],
+    "keyFacts": [
+      {
+        "label": "NASA",
+        "value": "Immer noch der Kunde und die Wissenschaftsbehörde"
+      },
+      {
+        "label": "Startanteil",
+        "value": "Falcon-lastig, wegen Preis und Kadenz"
+      },
+      {
+        "label": "Wettbewerber",
+        "value": "Existieren; mehrere kommen bei der Wiederverwendung zu spät"
+      }
+    ],
+    "sources": [
+      {
+        "publisher": "NASA",
+        "title": "NASA missions and partners",
+        "url": "https://www.nasa.gov/"
+      }
+    ]
+  },
+  {
+    "id": "spacex-boca",
+    "slug": "boca",
+    "number": 10,
+    "verdict": "overstated",
+    "lastChecked": "2026-08-22",
+    "myth": "Starbase ist ein Umweltverbrechen ohne Aufsicht.",
+    "headline": "Boca Chica ist ein echter Feuchtgebietskonflikt mit FAA-Papierkram, Klagen und Explosionen. Es ist keine geheime Deponie in der Wüste.",
+    "kernel": "Starship-Tests haben Trümmer verteilt, Lebensraum gestört und Anwohner und NGOs in Rage versetzt. Feuchtgebiete, brütende Vögel und ein Dorf neben einer Startrampe sind eine echte Nutzungskollision.",
+    "body": [
+      "FAA, Fish and Wildlife, texanische Behörden und Gerichte waren alle in dieser Geschichte. Umweltprüfungen, Konsultationen und Verzögerungen sind öffentlich. Explosionen in Testkampagnen haben Trümmer geschleudert und Schwaden aufgewirbelt. Das ist nicht „nichts zu sehen“.",
+      "„Keine Aufsicht“ ist der Fehlgriff. Die Klage, die Aufsicht sei zu langsam, zu vereinnahmt oder zu schwach, ist ein normales amerikanisches Infrastrukturargument — siehe jede andere Startrampe, Pipeline und Autobahn. Man kann eine kleinere Rampe, einen anderen Standort oder strengere Auflagen wollen, ohne eine gesetzlose Zone zu erfinden. Die Aktenlage: genehmigt, bestritten, unordentlich, dokumentiert."
+    ],
+    "keyFacts": [
+      {
+        "label": "Ort",
+        "value": "Starbase / Boca Chica, Texas, neben Dorf und Schutzgebiet"
+      },
+      {
+        "label": "Aufsicht",
+        "value": "FAA-NEPA-Verfahren, FWS, Staat, Klagen"
+      },
+      {
+        "label": "Echter Schadensvektor",
+        "value": "Testfehlschläge, Lebensraum, Sperrungen — nicht „null Wirkung“"
+      }
+    ],
+    "sources": [
+      {
+        "publisher": "Der Spiegel",
+        "title": "Umweltverbände verklagen US-Luftfahrtbehörde wegen Starship",
+        "url": "https://www.spiegel.de/wissenschaft/weltall/starship-start-umweltverbaende-verklagen-us-luftfahrtbehoerde-a-8d432937-8df6-464d-8f91-77a9fff7ef61"
+      },
+      {
+        "publisher": "Der Spiegel",
+        "title": "Wie Elon Musk ein texanisches Dorf kaufte",
+        "url": "https://www.spiegel.de/wirtschaft/spacex-wie-elon-musk-ein-texanisches-dorf-kaufte-a-9a6e7e0c-e1b9-423a-90cd-ea8a24cacb46"
+      },
+      {
+        "publisher": "FAA / public NEPA documents",
+        "title": "SpaceX Starbase",
+        "url": "https://www.faa.gov/space/stakeholder_engagement/spacex_starship"
+      }
+    ]
+  }
+]

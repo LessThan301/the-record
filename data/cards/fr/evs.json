@@ -1,0 +1,392 @@
+[
+  {
+    "id": "ev-power-plants",
+    "slug": "power-plants",
+    "number": 1,
+    "verdict": "false",
+    "lastChecked": "2026-08-22",
+    "myth": "Les VE sont pires pour le climat parce qu'ils ne font que déplacer la cheminée vers la centrale.",
+    "headline": "Même sur un réseau sale, un VE typique bat une voiture à essence typique sur sa vie. L'efficacité est le code de triche : l'essentiel de l'essence brûlée n'atteint jamais les roues.",
+    "kernel": null,
+    "body": [
+      "La page mythes de l'EPA est brutale : les VE convertissent environ 87–91 % de l'énergie de la batterie en mouvement ; les voitures à essence mettent quelque chose comme 16–25 % de l'énergie du carburant aux roues. On peut produire cette électricité au charbon et gagner encore sur le cycle de vie dans la plupart des endroits, parce qu'on ne jette pas les trois quarts de l'énergie en chaleur dans un radiateur.",
+      "Chiffres Carbon Brief et ICCT : en Europe, le CO₂ de cycle de vie est de l'ordre des deux tiers plus bas qu'une voiture essence, et l'écart grandit à mesure que les réseaux se nettoient. En Pologne ou en Chine lourdes en charbon, l'avantage se réduit mais ne s'inverse pas pour une voiture typique. Le lieu compte — utilisez un calculateur échappement-plus-réseau si vous vivez sur une île de lignite — mais l'argument de la cheminée comme loi générale est faux."
+    ],
+    "keyFacts": [
+      {
+        "label": "Réservoir-roues",
+        "value": "VE ~87–91 % vs thermique ~16–25 % (EPA)"
+      },
+      {
+        "label": "Cycle de vie Europe",
+        "value": "De l'ordre de 60–70 % de CO₂ en moins que l'essence"
+      },
+      {
+        "label": "Réseaux charbon",
+        "value": "Avantage plus petit, en général encore positif"
+      }
+    ],
+    "sources": [
+      {
+        "publisher": "ADEME",
+        "title": "Avis : le véhicule électrique, une pertinence climatique si la batterie reste raisonnable",
+        "url": "https://www.ademe.fr/presse/communique-national/mondial-de-lautomobile-lademe-publie-son-avis-sur-le-vehicule-electrique-une-batterie-de-taille-raisonnable-assure-une-pertinence-climatique-et-economique/"
+      },
+      {
+        "publisher": "U.S. EPA",
+        "title": "Electric Vehicle Myths",
+        "url": "https://www.epa.gov/greenvehicles/electric-vehicle-myths"
+      },
+      {
+        "publisher": "Carbon Brief",
+        "title": "Factcheck: 21 misleading myths about electric vehicles",
+        "url": "https://interactive.carbonbrief.org/factcheck/electric-vehicles/"
+      }
+    ]
+  },
+  {
+    "id": "ev-battery-manufacturing",
+    "slug": "battery-manufacturing",
+    "number": 2,
+    "verdict": "false",
+    "lastChecked": "2026-08-22",
+    "myth": "La fabrication des batteries est si sale que le VE ne rembourse jamais sa dette carbone.",
+    "headline": "La fabrication est plus lourde au départ. Le retour est typiquement de quelques années de conduite, pas d'une vie.",
+    "kernel": "Un pack longue autonomie émet bien plus à l'usine qu'une citadine acier-et-essence. Cette part de la slide n'est pas fausse. Le tour consiste à arrêter la vidéo avant que la voiture ne roule.",
+    "body": [
+      "GREET d'Argonne, l'ICCT et les recalculs de Carbon Brief des claims constructeurs situent le retour carbone de l'ordre de 10 à 20 milliers de miles en Europe — souvent sous deux ans pour un conducteur normal. Des exemples de classe Tesla Model Y au Royaume-Uni ont été estimés autour de 13 000 miles. Même les chiffres Volvo et VW, une fois le pouce retiré de la balance, n'exigent pas 70 000 miles de pénitence.",
+      "Le recyclage et des usines de cellules plus propres réduisent encore la dette. Le reste honnête : achetez le plus petit pack qui convient à votre vie, gardez la voiture longtemps, et intéressez-vous à l'endroit où les cellules ont été cuites. « Ne rembourse jamais » est un partage Facebook de 2019 qui n'a pas survécu à GREET."
+    ],
+    "keyFacts": [
+      {
+        "label": "Retour (Europe, typique)",
+        "value": "~11k–20k miles, souvent <2 ans"
+      },
+      {
+        "label": "Méthode",
+        "value": "Cycle de vie style GREET / ICCT, pas échappement seul"
+      },
+      {
+        "label": "Ce qui aide",
+        "value": "Réseaux plus propres, recyclage, packs dimensionnés juste"
+      }
+    ],
+    "sources": [
+      {
+        "publisher": "ADEME",
+        "title": "Avis : le véhicule électrique, une pertinence climatique si la batterie reste raisonnable",
+        "url": "https://www.ademe.fr/presse/communique-national/mondial-de-lautomobile-lademe-publie-son-avis-sur-le-vehicule-electrique-une-batterie-de-taille-raisonnable-assure-une-pertinence-climatique-et-economique/"
+      },
+      {
+        "publisher": "U.S. EPA",
+        "title": "Electric Vehicle Myths (battery manufacturing)",
+        "url": "https://www.epa.gov/greenvehicles/electric-vehicle-myths"
+      },
+      {
+        "publisher": "Carbon Brief",
+        "title": "Factcheck: EV carbon payback",
+        "url": "https://interactive.carbonbrief.org/factcheck/electric-vehicles/"
+      }
+    ]
+  },
+  {
+    "id": "ev-batteries-fail",
+    "slug": "batteries-fail",
+    "number": 3,
+    "verdict": "false",
+    "lastChecked": "2026-08-22",
+    "myth": "Les batteries de VE lâchent après quelques années et finissent en décharge toxique.",
+    "headline": "Les remplacements pour panne sont rares. La plupart des packs survivent à la voiture. Les packs morts sont de la ferraille de valeur, pas un nouveau Love Canal.",
+    "kernel": null,
+    "body": [
+      "L'EPA citant Recurrent (2025) : sur un large échantillon de VE d'occasion, le remplacement moyen de batterie se situait autour de 2,5 % historiquement, et sous 0,5 % pour beaucoup de modèles 2016 et plus tard (hors rappels). Nissan a dit que la quasi-totalité de ses premiers packs sont encore dans des voitures après plus d'une décennie. Les garanties de huit ans existent parce que la chimie tient.",
+      "La fin de vie est un problème de recyclage, pas un problème de décharge municipale. Les cellules contiennent nickel, lithium, cuivre — on paie pour les récupérer. Le stockage stationnaire de seconde vie est une voie réelle, encore en croissance. Le folklore de la batterie de téléphone ne se transfère pas. La gestion thermique et la profondeur de cycle sont d'autres sports."
+    ],
+    "keyFacts": [
+      {
+        "label": "Remplacement (Recurrent)",
+        "value": "~2,5 % historique ; <0,5 % beaucoup de modèles 2016+"
+      },
+      {
+        "label": "Plancher de garantie",
+        "value": "Typiquement 8 ans / plafond kilométrique"
+      },
+      {
+        "label": "Fin de vie",
+        "value": "Recyclage + seconde vie, parce que les matériaux valent de l'argent"
+      }
+    ],
+    "sources": [
+      {
+        "publisher": "U.S. EPA",
+        "title": "Electric Vehicle Myths (battery life)",
+        "url": "https://www.epa.gov/greenvehicles/electric-vehicle-myths"
+      },
+      {
+        "publisher": "Carbon Brief / Recurrent",
+        "title": "EV battery life",
+        "url": "https://interactive.carbonbrief.org/factcheck/electric-vehicles/"
+      }
+    ]
+  },
+  {
+    "id": "ev-grid-collapse",
+    "slug": "grid-collapse",
+    "number": 4,
+    "verdict": "false",
+    "lastChecked": "2026-08-22",
+    "myth": "Le réseau s'effondrera si nous roulons tous à l'électrique.",
+    "headline": "Les réseaux nationaux peuvent absorber les VE, surtout avec la recharge de nuit. Les transformateurs locaux sont la contrainte d'adulte.",
+    "kernel": "Une rue de wallbox 11 kW sur un départ des années 1970 est un vrai casse-tête de concessionnaire. C'est une mise à niveau de quartier, pas la mort de l'électrification.",
+    "body": [
+      "EPA : les VE peuvent recharger en heures creuses ; des études (USDRIVE, travaux DOE sur le réseau de l'Ouest) trouvent de la capacité pour la vague à venir. La pointe de charge VE en Californie a été une erreur d'arrondi à côté de la climatisation. L'EIA a noté que le chauffage et le refroidissement des ménages éclipsent déjà une voiture. Au Royaume-Uni, Carbon Brief note que la demande de pointe a reculé depuis les années 2000 alors même que le discours d'effondrement montait.",
+      "Ce qui casse : la recharge rapide non coordonnée sur des antennes rurales faibles, ou tout le monde qui se branche à 18 h un mardi de canicule. Les outils — tarifs heures creuses, recharge intelligente, plus tard V2G — existent. « Le réseau ne pourra jamais » est un slogan. « Ce poste a besoin d'être reconstruit » est un bon de travaux."
+    ],
+    "keyFacts": [
+      {
+        "label": "Tableau national",
+        "value": "Gérable avec heures creuses / recharge intelligente"
+      },
+      {
+        "label": "Tableau local",
+        "value": "Transformateurs et départs ont besoin d'upgrades ciblés"
+      },
+      {
+        "label": "Contrôle d'échelle",
+        "value": "Le CVC domestique reste le goulu du foyer"
+      }
+    ],
+    "sources": [
+      {
+        "publisher": "U.S. EPA",
+        "title": "Electric Vehicle Myths (grid)",
+        "url": "https://www.epa.gov/greenvehicles/electric-vehicle-myths"
+      }
+    ]
+  },
+  {
+    "id": "ev-nowhere-charge",
+    "slug": "nowhere-charge",
+    "number": 5,
+    "verdict": "overstated",
+    "lastChecked": "2026-08-22",
+    "myth": "Il n'y a nulle part où recharger. Les VE ne marchent que si vous avez une maison à Palo Alto.",
+    "headline": "La recharge à la maison (ou au travail) est le produit. Les réseaux publics ont grandi vite et restent inégaux aux mauvais endroits — surtout les rues d'immeubles.",
+    "kernel": "Si vous stationnez dans la rue d'une ville européenne dense sans coffret partagé, la voiture est un pire appareil. C'est un échec d'aménagement, pas la preuve que les électrons ne peuvent pas voyager dans un câble.",
+    "body": [
+      "La plupart des kilomètres VE en Norvège, en Californie et en Allemagne ne se gagnent pas sur une aire d'autoroute. Ils se gagnent sur un coffret 7–11 kW la nuit. L'EPA note que la majorité des trajets quotidiens américains sont courts ; 98 % des trajets font ≤75 miles. Les réseaux publics de recharge rapide DC se sont multipliés (argent NEVI aux États-Unis, règles AFIR de l'UE). La fiabilité de certains réseaux reste un mème pour une raison.",
+      "Les cas durs qui restent : locataires, habitants de tours, gens sans place dédiée. La politique force lentement des règles de « droit à la prise » dans l'UE. Tant que ce n'est pas une infrastructure ennuyeuse, ces conducteurs ont raison d'hésiter. Ils ne sont pas la même chose que « il n'y a pas de bornes »."
+    ],
+    "keyFacts": [
+      {
+        "label": "Schéma par défaut",
+        "value": "Recharger là où la voiture dort"
+      },
+      {
+        "label": "Trajets quotidiens (U.S.)",
+        "value": "73 % ≤10 miles ; 98 % ≤75 miles (NHTS)"
+      },
+      {
+        "label": "Mode difficile",
+        "value": "Pas de stationnement privé — une barrière réelle, qui se réduit"
+      }
+    ],
+    "sources": [
+      {
+        "publisher": "U.S. EPA",
+        "title": "Electric Vehicle Myths (charging)",
+        "url": "https://www.epa.gov/greenvehicles/electric-vehicle-myths"
+      }
+    ]
+  },
+  {
+    "id": "ev-range",
+    "slug": "range",
+    "number": 6,
+    "verdict": "false",
+    "lastChecked": "2026-08-22",
+    "myth": "Les VE n'ont pas assez d'autonomie pour la vraie vie.",
+    "headline": "Les VE de volume modernes dépassent 300–500+ km WLTP. La vraie vie est un trajet domicile-travail, pas un tournage à travers le Texas.",
+    "kernel": null,
+    "body": [
+      "EPA : la plupart des modèles neufs dépassent 200 miles d'autonomie homologuée ; la distribution des déplacements quotidiens américains en fait un surplus, pas une pénurie. Les chiffres WLTP européens pour Model Y, famille ID., Hyundai/Kia et importations chinoises se tiennent dans la même bande que celle dans laquelle les gens vivent déjà avec un diesel qu'ils font le plein par habitude, pas par besoin.",
+      "L'angoisse de l'autonomie est un problème de vacances une fois l'an plus un problème d'hiver (carte suivante). Ce n'est pas un problème de mardi pour le conducteur médian. Si votre vie, c'est 800 km d'autoroute sous le blizzard avec un coffre à skis, vous savez déjà que vous êtes un cas particulier — planifiez-le, ou gardez un thermique longue autonomie pour cette semaine. N'écrivez pas une loi de la nature à partir du cas particulier."
+    ],
+    "keyFacts": [
+      {
+        "label": "Autonomie des voitures neuves",
+        "value": "Typiquement 200+ miles EPA / 300–500 km WLTP"
+      },
+      {
+        "label": "Besoin quotidien",
+        "value": "La plupart des trajets bien en dessous"
+      },
+      {
+        "label": "L'exception",
+        "value": "Longs trajets rapides et froids — planifiez-les"
+      }
+    ],
+    "sources": [
+      {
+        "publisher": "U.S. EPA",
+        "title": "Electric Vehicle Myths (range)",
+        "url": "https://www.epa.gov/greenvehicles/electric-vehicle-myths"
+      }
+    ]
+  },
+  {
+    "id": "ev-cold",
+    "slug": "cold",
+    "number": 7,
+    "verdict": "misleading",
+    "lastChecked": "2026-08-22",
+    "myth": "Les VE ne marchent pas dans le froid. L'hiver prouve que l'idée est morte.",
+    "headline": "L'autonomie chute — souvent de 20–40 % les mauvaises semaines. Les voitures démarrent quand même. La Norvège a déjà voté.",
+    "kernel": "La chaleur d'habitacle vient de la batterie, pas des pertes du moteur. La chimie devient pâteuse. Les deux sont de la physique. « Ne marche pas » est une erreur de catégorie.",
+    "body": [
+      "AAA (2019) a trouvé de l'ordre de 40 % de perte d'autonomie dans un essai de grand froid avec le chauffage allumé. Les vrais hivers varient : préconditionnement, pompes à chaleur et sièges chauffants en récupèrent une bonne part. La recharge DC est plus lente quand le pack est gelé — autre vrai agacement, résolu par le préconditionnement en route vers la borne.",
+      "La Norvège, l'Islande, le Canada, la Suède, la Finlande et les Alpes ont des parts VE grandes ou croissantes. Les gens là-bas n'accomplissent pas un miracle. Ils branchent à la maison, préconditionnent et roulent. Une voiture à essence consomme aussi plus en hiver ; elle cache simplement la taxe dans le même réservoir. Si vous vivez à Bitburg et faites 30 km de trajet, vous remarquerez janvier. Vous ne marcherez pas."
+    ],
+    "keyFacts": [
+      {
+        "label": "Coup d'autonomie",
+        "value": "Souvent 20–40 % par grand froid avec chauffage d'habitacle"
+      },
+      {
+        "label": "Atténuation",
+        "value": "Pompe à chaleur, préconditionnement, recharge à domicile"
+      },
+      {
+        "label": "Preuve d'existence",
+        "value": "Marchés VE nordiques"
+      }
+    ],
+    "sources": [
+      {
+        "publisher": "U.S. EPA",
+        "title": "Electric Vehicle Myths (range / weather)",
+        "url": "https://www.epa.gov/greenvehicles/electric-vehicle-myths"
+      },
+      {
+        "publisher": "Clean Energy Canada / industry explainers",
+        "title": "EV myths — cold weather",
+        "url": "https://cleanenergycanada.org/media-brief-countering-common-myths-about-electric-vehicles/"
+      }
+    ]
+  },
+  {
+    "id": "ev-lithium",
+    "slug": "lithium",
+    "number": 8,
+    "verdict": "false",
+    "lastChecked": "2026-08-22",
+    "myth": "Il n'y a pas assez de lithium (ni de cuivre, ni de terres rares) pour que tout le monde roule à l'électrique.",
+    "headline": "Les ressources géologiques dépassent les prévisions de demande. Les signaux de prix débloquent mines et recyclage. Les goulets sont les permis et le temps, pas un élément manquant.",
+    "kernel": null,
+    "body": [
+      "La section minéraux de Carbon Brief : les ressources sont plus grandes que la demande 2022–2050 sur la géologie actuelle. Le lithium n'est pas rare ; il est inégalement transformé. Le cuivre est la contrainte plus serrée, plus ennuyeuse, parce que chaque transition énergétique l'utilise. Les terres rares dans les moteurs sont en train d'être réduites par conception (Tesla et d'autres ont montré des voies bas/sans terres rares lourdes).",
+      "Les pénuries d'une année donnée sont une histoire de mine et de raffinerie — Chili, Australie, transformation chinoise, cobalt congolais, nickel indonésien. C'est de la géopolitique et du délai. Ce n'est pas « la croûte terrestre est à sec ». Le pétrole, souvenez-vous, est un flux qu'il faut extraire pour toujours. Un pack est un stock que l'on peut recycler."
+    ],
+    "keyFacts": [
+      {
+        "label": "Lithium",
+        "value": "Ressources > demande de long terme dans les évaluations standard"
+      },
+      {
+        "label": "Intrant plus serré",
+        "value": "Cuivre, plus la capacité de raffinage"
+      },
+      {
+        "label": "Soupape",
+        "value": "Changement de chimie + recyclage + davantage de mines"
+      }
+    ],
+    "sources": [
+      {
+        "publisher": "Carbon Brief",
+        "title": "Factcheck: raw materials",
+        "url": "https://interactive.carbonbrief.org/factcheck/electric-vehicles/"
+      }
+    ]
+  },
+  {
+    "id": "ev-heavy-dangerous",
+    "slug": "heavy-dangerous",
+    "number": 9,
+    "verdict": "overstated",
+    "lastChecked": "2026-08-22",
+    "myth": "Les VE sont si lourds qu'ils sont des pièges mortels pour tous les autres et qu'ils détruisent les routes.",
+    "headline": "Ils sont plus lourds. Les notes de crash-test sont en général excellentes. L'usure des chaussées et la physique piétonne sont les parts qui ne sont pas rien.",
+    "kernel": "La masse, c'est de l'énergie dans un choc avec une petite voiture ou une personne. Le freinage régénératif coupe la poussière de frein ; le poids en plus peut augmenter l'usure des pneus. La qualité de l'air nette reste en général meilleure parce qu'il n'y a pas d'échappement.",
+    "body": [
+      "Un pack batterie est une dalle de cellules. Cette masse est basse, c'est pourquoi les VE réussissent souvent les tests de l'élan et les étoiles NCAP/NHTSA — ils ne se retournent pas, et la structure est un skateboard. La sécurité des occupants n'est pas le flanc faible de cet argument.",
+      "Le flanc faible, c'est l'autre objet : un crossover de 2,3 tonnes dans une supermini de 1,2 tonne, ou dans un piéton. Les particules d'usure de pneus croissent avec le poids. L'usure de chaussée croît plus vite que linéairement avec la charge à l'essieu, c'est pourquoi ce sont les camions, pas les Model Y, qui mangent les autoroutes — mais une flotte de voitures plus lourdes n'est pas gratuite. Le remède, ce sont des packs plus petits et des voitures plus petites, pas un retour à l'essence plombée. « Piège mortel » en titre saute le dossier de sécurité des occupants."
+    ],
+    "keyFacts": [
+      {
+        "label": "Sécurité des occupants",
+        "value": "Performances de crash-test en général solides"
+      },
+      {
+        "label": "Pénalité de masse",
+        "value": "Pire pour l'autre véhicule / le piéton ; plus d'usure de pneus"
+      },
+      {
+        "label": "Routes",
+        "value": "Voitures << camions ; des voitures plus lourdes ne sont toujours pas gratuites"
+      }
+    ],
+    "sources": [
+      {
+        "publisher": "U.S. EPA",
+        "title": "Electric Vehicle Myths (safety)",
+        "url": "https://www.epa.gov/greenvehicles/electric-vehicle-myths"
+      },
+      {
+        "publisher": "Carbon Brief",
+        "title": "Weight, tires, and air quality",
+        "url": "https://interactive.carbonbrief.org/factcheck/electric-vehicles/"
+      }
+    ]
+  },
+  {
+    "id": "ev-hybrids-better",
+    "slug": "hybrids-better",
+    "number": 10,
+    "verdict": "misleading",
+    "lastChecked": "2026-08-22",
+    "myth": "Les hybrides sont strictement meilleurs. L'électrique à batterie est une impasse.",
+    "headline": "Les hybrides sont un bon pont, surtout pour les petits rouleurs sans prise. Ils ne gagnent pas le cycle de vie dès que le réseau est même modérément propre.",
+    "kernel": "Si vous faites 6 000 km par an, stationnez dans la rue, et que votre électricité est sale, un petit hybride peut être la voiture rationnelle. C'est une niche, pas une réfutation de la catégorie.",
+    "body": [
+      "Un hybride brûle encore de l'essence pour l'essentiel de ses kilomètres. Il gagne sur le cycle urbain à froid face à un thermique gourmand, et il n'a pas besoin de chargeur à domicile. Sur fort kilométrage annuel, le coût d'énergie et les émissions du BEV s'éloignent — l'ICCT et Carbon Brief montrent tous deux l'écart qui s'élargit à mesure que les réseaux se décarbonent. Les voitures hydrogène, l'autre « piège » favori, utilisent plusieurs fois plus d'électricité du puits à la roue.",
+      "Les thèses d'impasse doivent aussi expliquer la Norvège, le volume chinois, la base installée de Tesla et la chute des dollars par kWh de batterie. Une technologie qui est déjà une large part des ventes de voitures neuves dans plusieurs pays riches n'est pas un panneau de fête de la science. Les hybrides peuvent aussi rester au garage. Ce n'est pas un veto."
+    ],
+    "keyFacts": [
+      {
+        "label": "Force de l'hybride",
+        "value": "Pas de prise requise ; bon pour petit kilométrage / sans parking"
+      },
+      {
+        "label": "Force du BEV",
+        "value": "Coût d'énergie + CO₂ de cycle de vie à tout kilométrage annuel sérieux"
+      },
+      {
+        "label": "Voitures H₂",
+        "value": "Bien moins de véhicules, moins bonnes en efficacité que les BEV"
+      }
+    ],
+    "sources": [
+      {
+        "publisher": "ADEME",
+        "title": "Avis : le véhicule électrique, une pertinence climatique si la batterie reste raisonnable",
+        "url": "https://www.ademe.fr/presse/communique-national/mondial-de-lautomobile-lademe-publie-son-avis-sur-le-vehicule-electrique-une-batterie-de-taille-raisonnable-assure-une-pertinence-climatique-et-economique/"
+      },
+      {
+        "publisher": "Carbon Brief",
+        "title": "Factcheck: hybrids, hydrogen, e-fuels",
+        "url": "https://interactive.carbonbrief.org/factcheck/electric-vehicles/"
+      }
+    ]
+  }
+]

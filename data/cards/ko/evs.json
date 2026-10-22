@@ -1,0 +1,377 @@
+[
+  {
+    "id": "ev-power-plants",
+    "slug": "power-plants",
+    "number": 1,
+    "verdict": "false",
+    "lastChecked": "2026-08-22",
+    "myth": "EV는 기후에 더 나쁘다. 굴뚝을 발전소로 옮길 뿐이다.",
+    "headline": "더러운 전력망에서도, 전형적인 EV는 수명 동안 전형적인 가솔린 차를 이긴다. 효율이 치트 코드다. 태우는 가솔린의 대부분은 바퀴에 닿지 않는다.",
+    "kernel": null,
+    "body": [
+      "EPA 신화 페이지는 직설적이다. EV는 배터리 에너지의 약 87–91%를 운동으로 바꾼다. 가솔린 차는 연료 에너지의 대략 16–25%를 바퀴에 넣는다. 그 전기를 석탄으로 만들어도 대부분의 장소에서 수명주기 기준으로 이긴다. 방열기에서 에너지의 4분의 3을 열로 버리지 않기 때문이다.",
+      "Carbon Brief와 ICCT 숫자: 유럽에서 수명주기 CO₂는 가솔린 차보다 대략 3분의 2 낮고, 전력망이 깨끗해질수록 격차는 커진다. 석탄이 많은 폴란드나 중국에서는 이점이 줄어들지만, 전형적인 차에서는 뒤집히지 않는다. 장소는 중요하다. 갈탄 섬에 산다면 배기구 더하기 전력망 계산기를 써라. 일반 법칙으로서의 굴뚝 논점은 틀렸다."
+    ],
+    "keyFacts": [
+      {
+        "label": "탱크투휠",
+        "value": "EV ~87–91% vs ICE ~16–25% (EPA)"
+      },
+      {
+        "label": "유럽 수명주기",
+        "value": "가솔린 대비 CO₂ 대략 60–70% 적음"
+      },
+      {
+        "label": "석탄 전력망",
+        "value": "이점은 작아짐, 보통 여전히 플러스"
+      }
+    ],
+    "sources": [
+      {
+        "publisher": "U.S. EPA",
+        "title": "Electric Vehicle Myths",
+        "url": "https://www.epa.gov/greenvehicles/electric-vehicle-myths"
+      },
+      {
+        "publisher": "Carbon Brief",
+        "title": "Factcheck: 21 misleading myths about electric vehicles",
+        "url": "https://interactive.carbonbrief.org/factcheck/electric-vehicles/"
+      }
+    ]
+  },
+  {
+    "id": "ev-battery-manufacturing",
+    "slug": "battery-manufacturing",
+    "number": 2,
+    "verdict": "false",
+    "lastChecked": "2026-08-22",
+    "myth": "배터리 제조가 너무 더러워서 EV는 탄소 빚을 평생 갚지 못한다.",
+    "headline": "제조는 앞에서 더 무겁다. 회수는 보통 운전 몇 년이지, 평생이 아니다.",
+    "kernel": "장거리 팩은 공장에서 강철-가솔린 해치보다 더 많이 배출한다. 슬라이드의 그 부분은 가짜가 아니다. 트릭은 차가 운전되기 전에 영상을 멈추는 것이다.",
+    "body": [
+      "Argonne GREET, ICCT, 제조사 주장을 다시 돌린 Carbon Brief는 유럽에서 탄소 회수를 대략 1만–2만 마일 규모로 둔다. 보통 운전자에게 종종 2년 아래. 영국의 Tesla Model Y급 사례는 약 13,000마일로 추정돼 왔다. 볼보와 VW 수치도, 저울 엄지를 풀면, 70,000마일의 고행을 요구하지 않는다.",
+      "재활용과 더 깨끗한 셀 공장이 빚을 더 줄인다. 정직한 나머지: 삶에 맞는 가장 작은 팩을 사고, 차를 오래 굴리고, 셀이 어디서 구워졌는지 신경 써라. “절대 갚지 못한다”는 GREET를 살아남지 못한 2019년 페이스북 공유다."
+    ],
+    "keyFacts": [
+      {
+        "label": "회수 (유럽, 전형)",
+        "value": "~11k–20k 마일, 종종 <2년"
+      },
+      {
+        "label": "방법",
+        "value": "GREET / ICCT식 수명주기이지, 배기구만이 아님"
+      },
+      {
+        "label": "도움이 되는 것",
+        "value": "더 깨끗한 전력망, 재활용, 알맞은 크기 팩"
+      }
+    ],
+    "sources": [
+      {
+        "publisher": "U.S. EPA",
+        "title": "Electric Vehicle Myths (battery manufacturing)",
+        "url": "https://www.epa.gov/greenvehicles/electric-vehicle-myths"
+      },
+      {
+        "publisher": "Carbon Brief",
+        "title": "Factcheck: EV carbon payback",
+        "url": "https://interactive.carbonbrief.org/factcheck/electric-vehicles/"
+      }
+    ]
+  },
+  {
+    "id": "ev-batteries-fail",
+    "slug": "batteries-fail",
+    "number": 3,
+    "verdict": "false",
+    "lastChecked": "2026-08-22",
+    "myth": "EV 배터리는 몇 년 뒤 고장 나고 독성 매립지가 된다.",
+    "headline": "고장 교체는 드물다. 대부분 팩은 차보다 오래 산다. 죽은 팩은 값어치 있는 스크랩이지, 새로운 러브 커낼이 아니다.",
+    "kernel": null,
+    "body": [
+      "EPA가 Recurrent(2025)를 인용: 대규모 중고 EV 표본에서 평균 배터리 교체는 역사적으로 약 2.5%, 많은 2016년 이후 모델은 리콜 제외 0.5% 아래였다. 닛산은 초기 팩 거의 전부가 10년 넘어도 차에 있다고 했다. 8년 보증이 있는 것은 화학이 버티기 때문이다.",
+      "수명 종료는 재활용 문제이지, 시립 쓰레기장 문제가 아니다. 셀에는 니켈, 리튬, 구리가 있다. 사람들이 회수하려고 돈을 낸다. 이차 수명 고정형 저장은 진짜고, 아직 자라는 경로다. 스마트폰 배터리 민속은 이전되지 않는다. 열 관리와 사이클 깊이는 다른 종목이다."
+    ],
+    "keyFacts": [
+      {
+        "label": "교체 (Recurrent)",
+        "value": "역사적 ~2.5%; 많은 2016+ 모델 <0.5%"
+      },
+      {
+        "label": "보증 하한",
+        "value": "보통 8년 / 마일리지 상한"
+      },
+      {
+        "label": "수명 종료",
+        "value": "재활용 + 이차 수명, 재료가 돈이기 때문에"
+      }
+    ],
+    "sources": [
+      {
+        "publisher": "U.S. EPA",
+        "title": "Electric Vehicle Myths (battery life)",
+        "url": "https://www.epa.gov/greenvehicles/electric-vehicle-myths"
+      },
+      {
+        "publisher": "Carbon Brief / Recurrent",
+        "title": "EV battery life",
+        "url": "https://interactive.carbonbrief.org/factcheck/electric-vehicles/"
+      }
+    ]
+  },
+  {
+    "id": "ev-grid-collapse",
+    "slug": "grid-collapse",
+    "number": 4,
+    "verdict": "false",
+    "lastChecked": "2026-08-22",
+    "myth": "모두 전기차를 타면 전력망이 붕괴한다.",
+    "headline": "국가 전력망은 EV를 흡수할 수 있다. 특히 심야 충전과 함께. 지역 변압기가 어른의 제약이다.",
+    "kernel": "1970년대 배전선 위의 11 kW 월박스 한 거리는 진짜 유틸리티 골칫거리다. 그건 동네 업그레이드이지, 전기화의 죽음이 아니다.",
+    "body": [
+      "EPA: EV는 비피크에 충전할 수 있다. 연구(USDRIVE, DOE 서부 전력망 작업)는 다가올 물결을 위한 용량을 찾는다. 캘리포니아의 피크 EV 부하는 에어컨 옆에서 반올림 오차였다. EIA는 가정의 난방·냉방이 이미 차보다 훨씬 크다고 적었다. 영국에서 Carbon Brief는 붕괴 이야기가 커지는 동안에도 2000년대 이후 피크 수요가 줄었다고 적는다.",
+      "깨지는 것: 약한 농촌 지선 위의 비협조 급속충전, 또는 폭염 화요일 18:00에 모두 꽂기. 도구 — 시간대별 요금, 스마트 충전, 나중의 V2G — 는 있다. “전력망은 영원히 못 한다”는 슬로건이다. “이 변전소는 재건이 필요하다”는 작업 지시다."
+    ],
+    "keyFacts": [
+      {
+        "label": "국가 그림",
+        "value": "비피크 / 스마트 충전으로 관리 가능"
+      },
+      {
+        "label": "지역 그림",
+        "value": "변압기와 배전선에 표적 업그레이드 필요"
+      },
+      {
+        "label": "규모 점검",
+        "value": "가정 HVAC가 여전히 가구의 대식가"
+      }
+    ],
+    "sources": [
+      {
+        "publisher": "U.S. EPA",
+        "title": "Electric Vehicle Myths (grid)",
+        "url": "https://www.epa.gov/greenvehicles/electric-vehicle-myths"
+      }
+    ]
+  },
+  {
+    "id": "ev-nowhere-charge",
+    "slug": "nowhere-charge",
+    "number": 5,
+    "verdict": "overstated",
+    "lastChecked": "2026-08-22",
+    "myth": "충전할 곳이 없다. EV는 팔로알토에 집이 있을 때만 된다.",
+    "headline": "집(또는 직장) 충전이 제품이다. 공용 망은 빨리 컸고, 틀린 곳에서는 여전히 울퉁불퉁하다. 특히 아파트 거리.",
+    "kernel": "공유 박스가 없는 유럽 밀집 도시에서 길가 주차를 하면, 차는 더 나쁜 가전이다. 그건 계획 실패이지, 전자가 케이블을 못 간다는 증거가 아니다.",
+    "body": [
+      "노르웨이, 캘리포니아, 독일의 대부분 EV 킬로미터는 고속도로 플라자에서 이기지 않는다. 밤새 7–11 kW 박스에서 이긴다. EPA는 미국 일일 통행 대다수가 짧다고 적는다. 통행의 98%가 ≤75마일. 공용 DC 급속망은 늘었다(미국 NEVI 자금, EU AFIR 규칙). 일부 망의 신뢰성은 이유가 있어 밈이다.",
+      "남은 어려운 사례: 임차인, 타워 거주자, 전용 주차 공간이 없는 사람. 정책은 EU에서 “콘센트 권리” 규칙을 천천히 강제하고 있다. 그게 따분한 인프라가 되기 전까지, 그 운전자가 망설이는 것은 맞다. “충전기가 없다”와는 같지 않다."
+    ],
+    "keyFacts": [
+      {
+        "label": "기본 패턴",
+        "value": "차가 자는 곳에서 충전"
+      },
+      {
+        "label": "일일 통행 (미국)",
+        "value": "73% ≤10마일; 98% ≤75마일 (NHTS)"
+      },
+      {
+        "label": "하드 모드",
+        "value": "사설 주차 없음 — 진짜고, 줄어드는 장벽"
+      }
+    ],
+    "sources": [
+      {
+        "publisher": "U.S. EPA",
+        "title": "Electric Vehicle Myths (charging)",
+        "url": "https://www.epa.gov/greenvehicles/electric-vehicle-myths"
+      }
+    ]
+  },
+  {
+    "id": "ev-range",
+    "slug": "range",
+    "number": 6,
+    "verdict": "false",
+    "lastChecked": "2026-08-22",
+    "myth": "EV는 실제 삶에 주행거리가 부족하다.",
+    "headline": "현대 볼륨 EV는 WLTP 300–500+ km를 넘긴다. 실제 삶은 출퇴근이지, 텍사스를 가로지르는 촬영이 아니다.",
+    "kernel": null,
+    "body": [
+      "EPA: 대부분 신차는 200마일 이상 인증이다. 미국 일일 통행 분포는 그걸 희소가 아니라 잉여로 만든다. Model Y, ID. 패밀리, 현대/기아, 중국 수입의 유럽 WLTP 숫자는, 필요해서가 아니라 습관으로 주유하는 디젤과 같은 밴드 안에 사람들이 이미 살고 있는 그 밴드다.",
+      "주행거리 불안은 1년에 한 번 휴가 문제 더하기 겨울 문제다(다음 카드). 중간 운전자의 화요일 문제가 아니다. 삶이 스키 박스 달고 눈보라 속 아우토반 800 km라면, 이미 특수 사례라는 걸 안다. 계획하거나, 그 주에는 장거리 ICE를 남겨 둬라. 특수 사례로 자연법칙을 쓰지 마라."
+    ],
+    "keyFacts": [
+      {
+        "label": "신차 주행거리",
+        "value": "보통 EPA 200+마일 / WLTP 300–500 km"
+      },
+      {
+        "label": "일일 필요",
+        "value": "대부분 통행은 그보다 훨씬 아래"
+      },
+      {
+        "label": "예외",
+        "value": "길고, 빠르고, 추운 장거리 — 계획하라"
+      }
+    ],
+    "sources": [
+      {
+        "publisher": "U.S. EPA",
+        "title": "Electric Vehicle Myths (range)",
+        "url": "https://www.epa.gov/greenvehicles/electric-vehicle-myths"
+      }
+    ]
+  },
+  {
+    "id": "ev-cold",
+    "slug": "cold",
+    "number": 7,
+    "verdict": "misleading",
+    "lastChecked": "2026-08-22",
+    "myth": "EV는 추위에 안 된다. 겨울이 아이디어가 죽었음을 증명한다.",
+    "headline": "주행거리는 떨어진다. 험한 주에는 종종 20–40%. 차는 그래도 시동이 걸린다. 노르웨이는 이미 표를 던졌다.",
+    "kernel": "실내 난방은 엔진 폐열이 아니라 배터리에서 온다. 화학은 둔해진다. 둘 다 물리학이다. “안 된다”는 범주 오류다.",
+    "body": [
+      "AAA(2019)는 히터를 켠 강한 한파 시험에서 대략 40% 주행거리 손실을 찾았다. 실제 겨울은 갈린다. 프리컨디셔닝, 히트펌프, 시트 히터가 그 상당을 되찾는다. 팩이 얼면 DC 충전이 느려진다. 또 하나의 진짜 짜증이고, 충전기로 가는 길의 프리컨디셔닝으로 풀린다.",
+      "노르웨이, 아이슬란드, 캐나다, 스웨덴, 핀란드, 알프스는 크거나 커지는 EV 점유를 가졌다. 거기 사람들은 기적을 수행하지 않는다. 집에서 꽂고, 예열하고, 달린다. 가솔린 차도 겨울에 연료를 더 쓴다. 세금이 같은 탱크에 숨겨질 뿐이다. 비트부르크에 살며 30 km를 출퇴근하면, 1월을 느낄 것이다. 걷지는 않을 것이다."
+    ],
+    "keyFacts": [
+      {
+        "label": "주행거리 타격",
+        "value": "혹한에 실내 난방 시 종종 20–40%"
+      },
+      {
+        "label": "완화",
+        "value": "히트펌프, 프리컨디셔닝, 가정 충전"
+      },
+      {
+        "label": "존재 증명",
+        "value": "북유럽 EV 시장"
+      }
+    ],
+    "sources": [
+      {
+        "publisher": "U.S. EPA",
+        "title": "Electric Vehicle Myths (range / weather)",
+        "url": "https://www.epa.gov/greenvehicles/electric-vehicle-myths"
+      },
+      {
+        "publisher": "Clean Energy Canada / industry explainers",
+        "title": "EV myths — cold weather",
+        "url": "https://cleanenergycanada.org/media-brief-countering-common-myths-about-electric-vehicles/"
+      }
+    ]
+  },
+  {
+    "id": "ev-lithium",
+    "slug": "lithium",
+    "number": 8,
+    "verdict": "false",
+    "lastChecked": "2026-08-22",
+    "myth": "모두가 전기차를 타기엔 리튬(또는 구리, 또는 희토류)이 부족하다.",
+    "headline": "지질 자원은 수요 전망을 넘는다. 가격 신호가 광산과 재활용을 연다. 병목은 허가와 시간이지, 빠진 원소가 아니다.",
+    "kernel": null,
+    "body": [
+      "Carbon Brief의 광물 섹션: 현 지질학에서 자원은 2022–2050 수요보다 크다. 리튬은 희귀하지 않다. 가공이 고르지 않다. 구리가 더 빡빡하고 더 따분한 제약이다. 모든 에너지 전환이 쓰기 때문이다. 모터의 희토류는 설계로 줄이는 중이다(Tesla와 다른 곳이 저/무 중희토류 경로를 보여 줬다).",
+      "특정 해의 부족은 광산과 정제 이야기다. 칠레, 호주, 중국 가공, 콩고 코발트, 인도네시아 니켈. 지정학과 리드 타임이다. “지각이 바닥났다”가 아니다. 석유를 기억하라. 영원히 계속 뽑아야 하는 흐름이다. 팩은 재활용할 수 있는 재고다."
+    ],
+    "keyFacts": [
+      {
+        "label": "리튬",
+        "value": "표준 평가에서 자원 > 장기 수요"
+      },
+      {
+        "label": "더 빡빡한 투입",
+        "value": "구리, 더하기 정제 용량"
+      },
+      {
+        "label": "압력 밸브",
+        "value": "화학 전환 + 재활용 + 더 많은 광산"
+      }
+    ],
+    "sources": [
+      {
+        "publisher": "Carbon Brief",
+        "title": "Factcheck: raw materials",
+        "url": "https://interactive.carbonbrief.org/factcheck/electric-vehicles/"
+      }
+    ]
+  },
+  {
+    "id": "ev-heavy-dangerous",
+    "slug": "heavy-dangerous",
+    "number": 9,
+    "verdict": "overstated",
+    "lastChecked": "2026-08-22",
+    "myth": "EV는 너무 무거워 남에게 죽음의 덫이고 도로를 부순다.",
+    "headline": "더 무겁다. 충돌 시험 점수는 보통 우수하다. 도로 마모와 보행자 물리학이 아무것도 아닌 부분이 아니다.",
+    "kernel": "질량은 작은 차나 사람과의 충돌에서 에너지다. 회생제동이 브레이크 분진을 줄인다. 추가 무게가 타이어 마모를 더할 수 있다. 순 대기질은 보통 여전히 낫다. 배기구가 없기 때문이다.",
+    "body": [
+      "배터리 팩은 셀 슬래브다. 그 질량이 낮게 앉는다. EV가 무스 테스트와 NCAP/NHTSA 별을 종종 석권하는 이유다. 구르지 않고, 구조가 스케이트보드다. 탑승자 안전은 이 논점의 약한 쪽이 아니다.",
+      "약한 쪽은 다른 물체다. 2.3톤 크로스오버가 1.2톤 슈퍼미니로, 또는 보행자로. 타이어 마모 입자는 무게와 함께 커진다. 노면 마모는 축중보다 빠르게 선형 이상으로 커진다. 고속도로를 먹는 것이 Model Y가 아니라 트럭인 이유다. 그래도 더 무거운 차 함대는 공짜가 아니다. 처방은 더 작은 팩과 더 작은 차지, 유연 휘발유로 돌아가는 것이 아니다. 헤드라인으로서의 “죽음의 덫”은 탑승자 안전 기록을 건너뛴다."
+    ],
+    "keyFacts": [
+      {
+        "label": "탑승자 안전",
+        "value": "대체로 강한 충돌 시험 성적"
+      },
+      {
+        "label": "질량 페널티",
+        "value": "상대 차 / 보행자에게 더 나쁨; 타이어 마모 증가"
+      },
+      {
+        "label": "도로",
+        "value": "승용차 << 트럭; 더 무거운 승용차도 공짜는 아님"
+      }
+    ],
+    "sources": [
+      {
+        "publisher": "U.S. EPA",
+        "title": "Electric Vehicle Myths (safety)",
+        "url": "https://www.epa.gov/greenvehicles/electric-vehicle-myths"
+      },
+      {
+        "publisher": "Carbon Brief",
+        "title": "Weight, tires, and air quality",
+        "url": "https://interactive.carbonbrief.org/factcheck/electric-vehicles/"
+      }
+    ]
+  },
+  {
+    "id": "ev-hybrids-better",
+    "slug": "hybrids-better",
+    "number": 10,
+    "verdict": "misleading",
+    "lastChecked": "2026-08-22",
+    "myth": "하이브리드가 절대적으로 낫다. 배터리 전기는 막다른 길이다.",
+    "headline": "하이브리드는 좋은 다리다. 특히 플러그가 없는 저주행 운전자에게. 전력망이 중간만 깨끗해도 수명주기에서 이기지 못한다.",
+    "kernel": "1년에 6,000 km를 달리고, 길가 주차하고, 전기가 더럽다면, 작은 하이브리드가 합리적인 차일 수 있다. 그건 틈새이지, 범주의 반박이 아니다.",
+    "body": [
+      "하이브리드는 킬로미터의 대부분을 여전히 휘발유를 태운다. 기름 많이 먹는 ICE 대비 냉간 시동 도심 사이클에서는 이기고, 가정 충전기가 필요 없다. 연간 주행이 많으면 BEV의 에너지 비용과 배출이 달아난다. ICCT와 Carbon Brief 모두 전력망 탈탄소와 함께 격차가 벌어진다고 보여 준다. 다른 단골 반례인 수소차는 웰투휠로 전기의 몇 배를 쓴다.",
+      "막다른 길 주장은 또한 노르웨이, 중국 물량, Tesla의 설치된 기반, 떨어지는 kWh당 배터리 달러를 설명해야 한다. 이미 여러 부국에서 신차 판매의 큰 몫인 기술은 과학 박람회 포스터가 아니다. 하이브리드도 차고에 앉아 있을 수 있다. 거부권이 아니다."
+    ],
+    "keyFacts": [
+      {
+        "label": "하이브리드 강점",
+        "value": "플러그 불필요; 저주행 / 주차 없음에 좋음"
+      },
+      {
+        "label": "BEV 강점",
+        "value": "본격적인 연간 km에서 에너지 비용 + 수명주기 CO₂"
+      },
+      {
+        "label": "H₂ 차",
+        "value": "대수 훨씬 적음, BEV보다 효율 나쁨"
+      }
+    ],
+    "sources": [
+      {
+        "publisher": "Carbon Brief",
+        "title": "Factcheck: hybrids, hydrogen, e-fuels",
+        "url": "https://interactive.carbonbrief.org/factcheck/electric-vehicles/"
+      }
+    ]
+  }
+]

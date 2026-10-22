@@ -1,0 +1,437 @@
+[
+  {
+    "id": "cap-poverty",
+    "slug": "poverty",
+    "number": 1,
+    "verdict": "false",
+    "lastChecked": "2026-08-22",
+    "myth": "資本主義は貧者を貧者のままにする。市場経済は貧困を悪化させる。",
+    "headline": "極度の貧困は、貿易・所有・成長の時代に崩壊した——それに抗してではない。",
+    "kernel": "なお数億人が極度に貧しく、コロナ以降とくに脆弱国家で進捗は鈍った。それはより多くの成長を欲する理由であり、過去40年を失敗と呼ぶ理由ではない。",
+    "body": [
+      "Our World in Dataは世界銀行の家計調査を用い、1990年に一日3ドル未満が約23.1億人だったと記録する。2025年には約8.08億人——15億人超の減少、一世代で一日およそ10万人の規模だ。世界銀行の2.15ドル線も同じ話を語る。人類のおよそ8.5％。1950年は過半、1990年ですら約38％だった。",
+      "下落は謎の慈善イベントではない。貿易に開き、農民と企業が作ったものを手元に残し、世界の供給網に接続した国に集中する——1978年以降の中国、1991年以降のインド、ベトナム、バングラデシュ、東アジアの多く。市場を違法にした指令経済は、比肩する脱出を届けなかった。",
+      "市場経済は、すべての地域が同じ速度で動く約束ではない。サハラ以南アフリカの極度貧困シェアは落ちても、人口増で人数は増えた。市場システムの内側の政策と生産性の問題であり、市場が貧困を生む証拠ではない。"
+    ],
+    "keyFacts": [
+      {
+        "label": "1990年、一日3ドル",
+        "value": "23.1億人"
+      },
+      {
+        "label": "2025年、一日3ドル",
+        "value": "約8.08億人"
+      },
+      {
+        "label": "1950年以降",
+        "value": "人類の約60％ → 約10％"
+      }
+    ],
+    "sources": [
+      {
+        "publisher": "Our World in Data",
+        "title": "Poverty",
+        "url": "https://ourworldindata.org/poverty"
+      },
+      {
+        "publisher": "Our World in Data / World Bank PIP",
+        "title": "Share of population in extreme poverty",
+        "url": "https://ourworldindata.org/grapher/share-of-population-in-extreme-poverty"
+      },
+      {
+        "publisher": "World Bank",
+        "title": "Poverty, Prosperity, and Planet Report 2024",
+        "url": "https://www.worldbank.org/en/publication/poverty-prosperity-and-planet"
+      }
+    ]
+  },
+  {
+    "id": "cap-zero-sum",
+    "slug": "zero-sum",
+    "number": 2,
+    "verdict": "false",
+    "lastChecked": "2026-08-22",
+    "myth": "経済はゼロサムだ。富める者は他者を貧しくしてのみ富む。",
+    "headline": "パイは大きくなった。それが市場経済の要点だ。",
+    "kernel": "一部の利得は地位の問題であり、一部の財産は縁故だ。どちらも、成長する世界を閉じたポーカー卓には変えない。",
+    "body": [
+      "ゼロサムは襲撃、玉座、マルサス的世界の固定地所の良い記述だ。人が新しい財を作る経済の記述としては悪い。一人あたり世界産出は19世紀以降何倍にもなり、市場主導国の典型的な人は、産業革命前の王が買えなかったものを消費する——抗生物質、冷蔵、スマホ、飛行だ。",
+      "ジェフ・ベゾスが物流網を造って富んでも、使った顧客から同等の現金の山が剥ぎ取られたわけではない。配達に置く価値より安い価格を払った。その差が消費者余剰だ。Amazonに供給する企業の賃金は費用であり、固定鍋からの窃盗ではない。",
+      "ゼロサム話が生き残るのは、相対的地位がゼロサムだからだ。隣人の家を怨みつつ、祖父母より豊かな国に住める。市場経済が裁かれるのは第二の事実だ。"
+    ],
+    "keyFacts": [
+      {
+        "label": "仕組み",
+        "value": "貿易と生産性であり、固定鍋ではない"
+      },
+      {
+        "label": "増えたもの",
+        "value": "一人あたり世界GDP、寿命、カロリー、財"
+      },
+      {
+        "label": "ゼロサムなもの",
+        "value": "地位、玉座、襲撃——産出ではない"
+      }
+    ],
+    "sources": [
+      {
+        "publisher": "Our World in Data",
+        "title": "Economic Growth",
+        "url": "https://ourworldindata.org/economic-growth"
+      },
+      {
+        "publisher": "Our World in Data",
+        "title": "GDP per capita",
+        "url": "https://ourworldindata.org/grapher/gdp-per-capita-world-bank-constant-usd"
+      }
+    ]
+  },
+  {
+    "id": "cap-nordic",
+    "slug": "nordic",
+    "number": 3,
+    "verdict": "false",
+    "lastChecked": "2026-08-22",
+    "myth": "北欧諸国は社会主義が機能すること、資本主義が劣った体制であることを証明する。",
+    "headline": "デンマークもノルウェーも、大きな福祉国家を上に載せた資本主義市場経済だ。",
+    "kernel": "多く課税し、サービスに多く使う。生産手段の公有ではなく、開放市場で動く民間企業に支えられている。",
+    "body": [
+      "北欧モデルを当の国々が描くとおりに言えば、私有、市場価格、自由貿易に、普遍サービスと協調的交渉を足したものだ。IKEA、Novo Nordisk、Volvo、Maersk、Equinorはゴスプランではない。北欧の製品市場はOECDでもっとも開かれた部類だ。",
+      "ヘリテージ財団の2026年経済自由度指数で、ノルウェーは世界8位（得点78.8）。デンマーク、スウェーデン、フィンランド、ノルウェーは財産権、貿易の自由、事業規制で長年上位にある。計画経済の反対だ。",
+      "役に立つ教訓はより狭い。豊かな資本主義国は手厚い安全網を買う選択ができる。資本主義の部分を飛ばして網だけは保てない。1970年代スウェーデンの行き過ぎと、1990年代の修復が、スローガンが落とす教訓譚だ。"
+    ],
+    "keyFacts": [
+      {
+        "label": "北欧の核",
+        "value": "民間企業、市場価格、開放貿易"
+      },
+      {
+        "label": "ノルウェー 2026年",
+        "value": "ヘリテージ経済自由度：世界8位"
+      },
+      {
+        "label": "そうではないもの",
+        "value": "生産の国家所有"
+      }
+    ],
+    "sources": [
+      {
+        "publisher": "Wikipedia (sourced overview)",
+        "title": "Nordic model",
+        "url": "https://en.wikipedia.org/wiki/Nordic_model"
+      },
+      {
+        "publisher": "Heritage Foundation",
+        "title": "Index of Economic Freedom: Norway",
+        "url": "https://economicfreedom.heritage.org/pages/country-pages/norway"
+      },
+      {
+        "publisher": "Heritage Foundation",
+        "title": "Economic Freedom Underpins Nordic Prosperity",
+        "url": "https://www.heritage.org/international-economies/report/economic-freedom-underpins-nordic-prosperity"
+      }
+    ]
+  },
+  {
+    "id": "cap-planning",
+    "slug": "planning",
+    "number": 4,
+    "verdict": "false",
+    "lastChecked": "2026-08-22",
+    "myth": "計画経済は市場経済より高い生活水準を届ける。",
+    "headline": "分裂した国が実験だ。市場が、繰り返し勝った。",
+    "kernel": "政府は道路、ワクチン、戦時生産を計画できる。経済全体が何を作るかを決める価格の代わりにはなれない。",
+    "body": [
+      "西独対東独、韓国対北朝鮮、台湾対毛沢東中国、1978年前後の中国自身が、歴史が走らせるものとしては対照試験に近い。いずれでも市場側——私有、価格、貿易——が富を生んだ。計画側が生んだのは不足、秘密警察、何倍も遅れ取る一人あたりGDPだ。",
+      "韓国の一人あたりGDPは再構築次第で北朝鮮の20〜50倍規模だ。世界銀行が記録する中国の貧困低下は鄧小平改革のあとに本格化し、大躍進のあいだではない。ソ連は鋼を注げても棚に石鹸を置けなかった。ハイエクが述べた計算問題だ。価格がなければ、何が稀か誰も知らない。",
+      "市場は既知の仕方で失敗する——外部性、独占、公共財。それは狙い撃ちの政府の議論だ。ゴスプランが市場経済のより良いOSだという議論ではない。市場経済とは価格を使う体制だからだ。"
+    ],
+    "keyFacts": [
+      {
+        "label": "朝鮮",
+        "value": "韓国は北より何倍も豊か"
+      },
+      {
+        "label": "中国",
+        "value": "1978年市場改革後の貧困崩壊"
+      },
+      {
+        "label": "仕組み",
+        "value": "価格が希少性情報を運ぶ。計画にはできない"
+      }
+    ],
+    "sources": [
+      {
+        "publisher": "Our World in Data",
+        "title": "GDP per capita (Maddison)",
+        "url": "https://ourworldindata.org/grapher/gdp-per-capita-maddison-project-database"
+      },
+      {
+        "publisher": "World Bank",
+        "title": "Four Decades of Poverty Reduction in China",
+        "url": "https://www.worldbank.org/en/news/press-release/2022/04/01/lifting-800-million-people-out-of-poverty-new-report-looks-at-lessons-from-china-s-experience"
+      },
+      {
+        "publisher": "F. A. Hayek / AER 1945 (reprint)",
+        "title": "The Use of Knowledge in Society",
+        "url": "https://www.econlib.org/library/Essays/hykKnw.html"
+      }
+    ]
+  },
+  {
+    "id": "cap-inequality",
+    "slug": "inequality",
+    "number": 5,
+    "verdict": "misleading",
+    "lastChecked": "2026-08-22",
+    "myth": "拡大する不平等は資本主義が失敗した体制であることの証明だ。",
+    "headline": "貧しい国が成長するにつれ、国と国のあいだの世界不平等は縮んだ。より良い検定は貧困だ。",
+    "kernel": "一部の豊かな国の内部では、頂点が引き離した。本物の政治的事実だ。「体制が貧者をより貧しくする」とは別だ。",
+    "body": [
+      "告発が、市場成長が世界の貧者を置き去りにする、なら、過去40年が反論だ。中国とインドの成長は国家間不平等の圧縮だ——かつて世界ジニを支配した差。Our World in Dataの世界不平等系列がその話を示す。一日3ドルの貧困を出た人々は、スイスの歯科医を収用してそれをしたのではない。",
+      "米国内と欧州の一部では、技能偏向技術、住宅不足、勝者総取り市場が頂点を引き伸ばした。より多くの競争、より密度の高い都市、より良い税の組み合わせを望んでよい。ジニ係数を市場の死亡診断書にする必要はない。平等な貧困は成功ではない。貧困率が落ちる不平等な豊かさのほうが近い。",
+      "市場経済は同一の成果を約束しない。省が職を割り当てずに人々が取引し投資できることを約束する。流動性、絶対的生活水準、床が上がるかで裁け。それらでは、資本主義の記録が他の体制がコピーしようとするものだ。"
+    ],
+    "keyFacts": [
+      {
+        "label": "世界像",
+        "value": "アジアの成長とともに国家間格差は縮んだ"
+      },
+      {
+        "label": "より良い検定",
+        "value": "絶対的貧困と消費。ジニだけではない"
+      },
+      {
+        "label": "核",
+        "value": "一部の豊かな国の頂点伸長は本物だ"
+      }
+    ],
+    "sources": [
+      {
+        "publisher": "Our World in Data",
+        "title": "Global economic inequality",
+        "url": "https://ourworldindata.org/global-economic-inequality"
+      },
+      {
+        "publisher": "Our World in Data",
+        "title": "Poverty",
+        "url": "https://ourworldindata.org/poverty"
+      }
+    ]
+  },
+  {
+    "id": "cap-exploit",
+    "slug": "exploit",
+    "number": 6,
+    "verdict": "misleading",
+    "lastChecked": "2026-08-22",
+    "myth": "資本主義は労働者の搾取を必要とする。搾取工場が、体制が収奪的であることの証明だ。",
+    "headline": "工場の仕事を取るのは、代替がより悪いからだ。賃金はその後、生産性ととも上がる。",
+    "kernel": "初期産業の条件はしばしば陰惨だ。それは成長と出口の理由であり、梯子を禁じる理由ではない。",
+    "body": [
+      "ポール・クルーグマンの「安い労働を讃えて」と、その後の搾取工場文献（パウエルほか）は感傷のない点を突く。2ドルの工場仕事は、1ドルの農作業の一日か無職より選ばれる。工場を禁じてもデンマークの看護師給は召喚されない。労働者をより悪い選択肢へ追いやる。より良い地元雇用主なしに工場を閉じる運動が失われた所得の死者を出すのはそのためだ。",
+      "スローガンの搾取は「所有者が残余利益を得た」を意味する。競争的労働市場では賃金は労働者の限界生産物へ入札される。韓国、台湾、中国、バングラデシュの歴史パターンは同じだ。まず陰惨な工場、次いでより良い工場、次いでサービス職。東アジアの実質製造業賃金は一世紀停滞しなかった。",
+      "労働者が去れず、組織できず、所有できないところでは、市場の失敗ではない——政治の失敗だ。農奴制、戸口の罠、武装門のある企業町は市場への制限であり、市場の定義ではない。"
+    ],
+    "keyFacts": [
+      {
+        "label": "検定",
+        "value": "実際の代替と比べよ。デンマークと比べるな"
+      },
+      {
+        "label": "パターン",
+        "value": "工場 → より良い工場 → 生産性が上がればサービス"
+      },
+      {
+        "label": "本物の強制",
+        "value": "辞められず、競争できないとき"
+      }
+    ],
+    "sources": [
+      {
+        "publisher": "Paul Krugman / Slate (1997)",
+        "title": "In Praise of Cheap Labor",
+        "url": "https://slate.com/business/1997/03/in-praise-of-cheap-labor.html"
+      },
+      {
+        "publisher": "Benjamin Powell / Cato",
+        "title": "Out of Poverty: Sweatshops in the Global Economy",
+        "url": "https://www.cato.org/books/out-poverty"
+      }
+    ]
+  },
+  {
+    "id": "cap-climate",
+    "slug": "climate",
+    "number": 7,
+    "verdict": "overstated",
+    "lastChecked": "2026-08-22",
+    "myth": "資本主義は惑星を焼く。市場経済は排出を切れない。",
+    "headline": "豊かな市場経済はGDPとCO₂の切り離しを始めた。残る問題は全球的で政治的だ。",
+    "kernel": "世界の排出はなお高すぎる。EUと米国のデカップリングは完了した気候政策ではない。成長と排出減が共存しうる証拠だ。",
+    "body": [
+      "IEA。1990年以降、米経済はおおよそ倍増し、CO₂は1990年水準付近へ戻った。EU経済はおおよそ三分の二大きく、排出は約30％低い。Our World in Dataは消費ベースのデカップリングを長い豊かな国のリストで記録する——煙突のオフショアという手品だけではない。",
+      "2025年のECIUによるGlobal Carbon Budgetの読みは、世界GDPの大半を代表する国が拡大しつつ、消費ベース炭素が落ちたか横ばいだったとする。炭素に価格がつき、石炭が高くなり、企業がヒートポンプと原子炉を売るとき、市場経済がすることだ。代替する。",
+      "失敗モードは価格のつかない炭素であり、「市場があること」ではない。指令経済（ソ連のメタン、毛沢東の森林破壊、東独の褐炭）は緑ではなかった。より速い削減が欲しいなら、外部性に課税し、価格に再配分させよ。市場経済を廃することは、代替を発明する機械を外すことだ。"
+    ],
+    "keyFacts": [
+      {
+        "label": "米国 1990年以降",
+        "value": "GDPは約倍増。CO₂は1990年付近へ"
+      },
+      {
+        "label": "EU 1990年以降",
+        "value": "GDP 約＋66％。CO₂ 約−30％"
+      },
+      {
+        "label": "道具",
+        "value": "外部性に価格をつけよ。価格を捨てるな"
+      }
+    ],
+    "sources": [
+      {
+        "publisher": "IEA",
+        "title": "The relationship between growth in GDP and CO2 has loosened",
+        "url": "https://www.iea.org/commentaries/the-relationship-between-growth-in-gdp-and-co2-has-loosened-it-needs-to-be-cut-completely"
+      },
+      {
+        "publisher": "Our World in Data",
+        "title": "CO₂ emissions and GDP decoupling",
+        "url": "https://ourworldindata.org/co2-gdp-decoupling"
+      },
+      {
+        "publisher": "Our World in Data",
+        "title": "Change in CO₂ emissions and GDP",
+        "url": "https://ourworldindata.org/grapher/co2-emissions-and-gdp"
+      }
+    ]
+  },
+  {
+    "id": "cap-billionaires",
+    "slug": "billionaires",
+    "number": 8,
+    "verdict": "misleading",
+    "lastChecked": "2026-08-22",
+    "myth": "億万長者がいるなら金は盗んだのだ。正義の市場経済は彼らを生まない。",
+    "headline": "米国の大きな財産の大半は、製品を拡大した企業の持分だ。縁故は取り締まる例外であり、廃止する規則ではない。",
+    "kernel": "一部の億万長者は補助金農家か独占の相続人だ。名指せ。創業者の残余がすべて事務員からの窃盗だと装うな。",
+    "body": [
+      "創業者の株式は、労働者と供給者への支払い後の残余への請求だ。企業が費用以上の価値を生めば、ソフトウエアとブランドが拡がるため残余は巨大になりうる。KaplanとRauhの米国富の研究が退屈な版だ。新しい頂点富の大きな割合は企業家持分であり、19世紀の土地払い下げではない。",
+      "消費者余剰は通例、創業者の山より大きい。代替に勝つから人々は製品を使う。市場の検定だ。正義の体制はなお遺産に課税し、床を賄い、本物の独占を壊してよい。それらは市場を守る修復だ。",
+      "スローガン「億万長者は存在するべきでない」は残余の形についての主張であり、市場経済が良いOSかどうかについての主張ではない。ヨットを嫌いながら、価格と法人化と起業の権利を欲してよい。混同すると、より貧しい事務員つきの生産省が手に入る。"
+    ],
+    "keyFacts": [
+      {
+        "label": "典型経路",
+        "value": "拡大した企業の創業者持分"
+      },
+      {
+        "label": "より良い標的",
+        "value": "縁故補助金と閉じた参入"
+      },
+      {
+        "label": "含意しないもの",
+        "value": "残余がゼロでなければならないこと"
+      }
+    ],
+    "sources": [
+      {
+        "publisher": "Kaplan & Rauh",
+        "title": "It’s the Market: The Broad-Based Rise in the Return to Top Talent (NBER w19846)",
+        "url": "https://www.nber.org/papers/w19846"
+      },
+      {
+        "publisher": "Our World in Data",
+        "title": "Wealth",
+        "url": "https://ourworldindata.org/wealth"
+      }
+    ]
+  },
+  {
+    "id": "cap-war",
+    "slug": "war",
+    "number": 9,
+    "verdict": "false",
+    "lastChecked": "2026-08-22",
+    "myth": "資本主義は戦争を起こす。市場は成長のために血を必要とする。",
+    "headline": "市場民主主義どうしはほとんど戦わない。20世紀の産業的殺戮は株主総会ではなかった。",
+    "kernel": "国家はあらゆる所有体制のもとで、領土、恐怖、栄光のために戦争へ行く。植民地会社は醜いことをした。資本主義特有の法則ではない。",
+    "body": [
+      "Our World in Dataの戦争と平和系列と、より広い「資本主義の平和」／民主的平和の文献は、商業的に統合された民主主義がデータセットでもっとも退屈な隣人だと見出す。人類比の国家間戦闘死者は1945年以降崩壊し、そのあいだ貿易は爆発した。",
+      "20世紀の死者数を支配するのは市場を廃した全体主義計画だ。スターリンの飢饉と収容所、毛沢東の大躍進と文革、クメール・ルージュ。ランメルのデモサイド集計と『黒書』が、スローガンが飛ばす台帳だ。秘密警察つき計画経済は平和運動ではない。",
+      "企業が戦争の双方に売るのは、国家が許すときだ。それは国家の告発だ。自給帝国も侵攻する。貿易が戦争を生むなら、1980年以降のグローバル化ブームは墓場になる。反対のパターンだ。"
+    ],
+    "keyFacts": [
+      {
+        "label": "パターン",
+        "value": "市場民主主義どうしはほとんど戦わない"
+      },
+      {
+        "label": "20世紀の台帳",
+        "value": "全体主義計画下のデモサイドが貿易戦争を矮小化する"
+      },
+      {
+        "label": "1945年以降",
+        "value": "貿易は上。国家間戦争死者は下"
+      }
+    ],
+    "sources": [
+      {
+        "publisher": "Our World in Data",
+        "title": "War and Peace",
+        "url": "https://ourworldindata.org/war-and-peace"
+      },
+      {
+        "publisher": "Our World in Data / UCDP",
+        "title": "Deaths in state-based conflicts",
+        "url": "https://ourworldindata.org/grapher/deaths-in-armed-conflicts-by-type"
+      }
+    ]
+  },
+  {
+    "id": "cap-public-goods",
+    "slug": "public-goods",
+    "number": 10,
+    "verdict": "overstated",
+    "lastChecked": "2026-08-22",
+    "myth": "市場は医療、学校、安全網を供給できない。だから資本主義は誤った体制だ。",
+    "headline": "市場経済は、公共財を買えるほど豊かになる方法だ。禁止ではない。",
+    "kernel": "純粋公共財と保険市場は教科書どおり失敗する。それは一定の政府を正当化する。経済の残りについて、既定として価格を廃する理由にはならない。",
+    "body": [
+      "国防、基礎研究、窮乏への床は、角の店ではうまく供給されない。スミス以来、経済学者はそう言ってきた。豊かな市場国はどれもすでに、税と民間供給の混合で学校、年金、病院を走らせる。平均寿命、識字、カロリーは、資本主義のままでそれらの国で爆発した。",
+      "範疇の誤りは、「ワクチンを賄うべきだ」を「残余請求、価格、参入を廃すべきだ」として扱うことだ。NHSはなお企業から薬を買う。スウェーデンの学校はなお労働市場に直面する。シンガポールの医療貯蓄＋巨大リスク保険は市場の装置だ。北欧のカードが残りをすでに覆った。生産的な民間部門に課税せよ。",
+      "国家が経済全体を公共財であるかのように走らせようとすると、計画のカードになる。炭素に価格をつけ、床を賄い、企業に競争させると、大衆的豊かさを普通にした唯一の体制になる。政府つき市場経済だ——成功する資本主義とはそういうものだ。"
+    ],
+    "keyFacts": [
+      {
+        "label": "公共財",
+        "value": "本物。税による一定の供給を正当化する"
+      },
+      {
+        "label": "何がそれを払ったか",
+        "value": "生産的な民間部門"
+      },
+      {
+        "label": "範疇の誤り",
+        "value": "安全網とゴスプランを混同すること"
+      }
+    ],
+    "sources": [
+      {
+        "publisher": "Our World in Data",
+        "title": "Life expectancy",
+        "url": "https://ourworldindata.org/life-expectancy"
+      },
+      {
+        "publisher": "Our World in Data",
+        "title": "Global education",
+        "url": "https://ourworldindata.org/global-education"
+      },
+      {
+        "publisher": "Wikipedia (sourced overview)",
+        "title": "Nordic model",
+        "url": "https://en.wikipedia.org/wiki/Nordic_model"
+      }
+    ]
+  }
+]

@@ -1,0 +1,377 @@
+[
+  {
+    "id": "ev-power-plants",
+    "slug": "power-plants",
+    "number": 1,
+    "verdict": "false",
+    "lastChecked": "2026-08-22",
+    "myth": "Gli EV sono peggiori per il clima perché spostano solo il camino sulla centrale.",
+    "headline": "Anche su una rete sporca, un EV tipico batte un'auto a benzina tipica sulla vita intera. L'efficienza è il trucco: gran parte della benzina che bruciate non arriva mai alle ruote.",
+    "kernel": null,
+    "body": [
+      "La pagina dei miti EPA è secca: gli EV convertono circa l'87–91% dell'energia della batteria in moto; le auto a benzina mettono qualcosa come il 16–25% dell'energia del carburante alle ruote. Si può generare quella elettricità dal carbone e vincere comunque sul ciclo di vita nella maggior parte dei luoghi, perché non state buttando via tre quarti dell'energia come calore in un radiatore.",
+      "I numeri Carbon Brief e ICCT: in Europa, la CO₂ di ciclo di vita è dell'ordine di due terzi più bassa di un'auto a benzina, e il divario cresce man mano che le reti si puliscono. Nella Polonia o nella Cina pesanti di carbone il vantaggio si restringe ma non si ribalta per un'auto tipica. Il luogo conta — usate un calcolatore tubo di scappamento più rete se vivete su un'isola di lignite — ma il refrain del camino come legge generale è sbagliato."
+    ],
+    "keyFacts": [
+      {
+        "label": "Dal serbatoio alle ruote",
+        "value": "EV ~87–91% vs ICE ~16–25% (EPA)"
+      },
+      {
+        "label": "Ciclo di vita Europa",
+        "value": "Dell'ordine del 60–70% in meno di CO₂ della benzina"
+      },
+      {
+        "label": "Reti a carbone",
+        "value": "Vantaggio più piccolo, di solito ancora positivo"
+      }
+    ],
+    "sources": [
+      {
+        "publisher": "U.S. EPA",
+        "title": "Electric Vehicle Myths",
+        "url": "https://www.epa.gov/greenvehicles/electric-vehicle-myths"
+      },
+      {
+        "publisher": "Carbon Brief",
+        "title": "Factcheck: 21 misleading myths about electric vehicles",
+        "url": "https://interactive.carbonbrief.org/factcheck/electric-vehicles/"
+      }
+    ]
+  },
+  {
+    "id": "ev-battery-manufacturing",
+    "slug": "battery-manufacturing",
+    "number": 2,
+    "verdict": "false",
+    "lastChecked": "2026-08-22",
+    "myth": "La produzione delle batterie è così sporca che l'EV non ripaga mai il debito di carbonio.",
+    "headline": "La produzione pesa di più in partenza. Il payback è in genere un paio d'anni di guida, non una vita.",
+    "kernel": "Un pacco di lunga autonomia emette davvero di più in fabbrica di una hatch di acciaio e benzina. Quella parte della slide non è finta. Il trucco è fermare il video prima che l'auto venga guidata.",
+    "body": [
+      "Argonne GREET, ICCT e i ricalcoli Carbon Brief delle pretese dei costruttori mettono il payback di carbonio dell'ordine di 10–20 mila miglia in Europa — spesso sotto i due anni per un guidatore normale. Esempi di classe Tesla Model Y nel Regno Unito sono stati stimati intorno alle 13.000 miglia. Anche le cifre Volvo e VW, una volta tolta la spinta sul piatto, non richiedono 70.000 miglia di penitenza.",
+      "Riciclo e impianti di celle più puliti restringono ulteriormente il debito. Il residuo onesto: comprate il pacco più piccolo che vi basta, tenete l'auto a lungo, e badate a dove le celle sono state cotte. «Non ripaga mai» è una condivisione Facebook del 2019 che non è sopravvissuta a GREET."
+    ],
+    "keyFacts": [
+      {
+        "label": "Payback (Europa, tipico)",
+        "value": "~11k–20k miglia, spesso <2 anni"
+      },
+      {
+        "label": "Metodo",
+        "value": "Ciclo di vita stile GREET / ICCT, non solo tubo di scappamento"
+      },
+      {
+        "label": "Cosa aiuta",
+        "value": "Reti più pulite, riciclo, pacchi della giusta misura"
+      }
+    ],
+    "sources": [
+      {
+        "publisher": "U.S. EPA",
+        "title": "Electric Vehicle Myths (battery manufacturing)",
+        "url": "https://www.epa.gov/greenvehicles/electric-vehicle-myths"
+      },
+      {
+        "publisher": "Carbon Brief",
+        "title": "Factcheck: EV carbon payback",
+        "url": "https://interactive.carbonbrief.org/factcheck/electric-vehicles/"
+      }
+    ]
+  },
+  {
+    "id": "ev-batteries-fail",
+    "slug": "batteries-fail",
+    "number": 3,
+    "verdict": "false",
+    "lastChecked": "2026-08-22",
+    "myth": "Le batterie EV si rompono dopo pochi anni e poi diventano discarica tossica.",
+    "headline": "Le sostituzioni per guasto sono rare. La maggior parte dei pacchi sopravvive all'auto. I pacchi morti sono rottame di valore, non un nuovo Love Canal.",
+    "kernel": null,
+    "body": [
+      "L'EPA citando Recurrent (2025): su un grande campione di EV usate, la sostituzione media della batteria stava intorno al 2,5% storicamente, e sotto lo 0,5% per molti modelli dal 2016 in poi (esclusi i richiami). Nissan ha detto che quasi tutti i suoi primi pacchi sono ancora nelle auto dopo più di un decennio. Le garanzie di otto anni esistono perché la chimica tiene.",
+      "La fine vita è un problema di riciclo, non di discarica comunale. Le celle contengono nichel, litio, rame — la gente paga per recuperarli. Lo storage stazionario di seconda vita è un percorso reale, se ancora in crescita. Il folklore della batteria del telefono non si trasferisce. Gestione termica e profondità di ciclo sono sport diversi."
+    ],
+    "keyFacts": [
+      {
+        "label": "Sostituzione (Recurrent)",
+        "value": "~2,5% storico; <0,5% molti modelli 2016+"
+      },
+      {
+        "label": "Soglia di garanzia",
+        "value": "Di solito 8 anni / tetto di percorrenza"
+      },
+      {
+        "label": "Fine vita",
+        "value": "Riciclo + seconda vita, perché i materiali valgono soldi"
+      }
+    ],
+    "sources": [
+      {
+        "publisher": "U.S. EPA",
+        "title": "Electric Vehicle Myths (battery life)",
+        "url": "https://www.epa.gov/greenvehicles/electric-vehicle-myths"
+      },
+      {
+        "publisher": "Carbon Brief / Recurrent",
+        "title": "EV battery life",
+        "url": "https://interactive.carbonbrief.org/factcheck/electric-vehicles/"
+      }
+    ]
+  },
+  {
+    "id": "ev-grid-collapse",
+    "slug": "grid-collapse",
+    "number": 4,
+    "verdict": "false",
+    "lastChecked": "2026-08-22",
+    "myth": "La rete crollerà se guidiamo tutti elettrico.",
+    "headline": "Le reti nazionali possono assorbire gli EV, soprattutto con la ricarica notturna. I trasformatori locali sono il vincolo da adulti.",
+    "kernel": "Una via di wallbox da 11 kW su un feeder anni Settanta è un vero mal di testa per il gestore. È un upgrade di quartiere, non la morte dell'elettrificazione.",
+    "body": [
+      "EPA: gli EV possono ricaricare fuori picco; gli studi (USDRIVE, lavoro DOE sulla rete occidentale) trovano capacità per l'onda in arrivo. Il carico EV di picco in California è stato un arrotondamento accanto all'aria condizionata. L'EIA ha notato che riscaldamento e raffrescamento domestici già mettono in ombra un'auto. Nel Regno Unito, Carbon Brief nota che la domanda di picco è scesa dal 2000 in poi proprio mentre saliva il discorso del crollo.",
+      "Cosa si rompe: ricarica rapida non coordinata su diramazioni rurali deboli, o tutti che si attaccano alle 18:00 in un martedì di ondata di caldo. Gli strumenti — tariffe time-of-use, ricarica smart, più avanti V2G — esistono. «La rete non potrà mai» è uno slogan. «Questa cabina va ricostruita» è un ordine di lavoro."
+    ],
+    "keyFacts": [
+      {
+        "label": "Quadro nazionale",
+        "value": "Gestibile con ricarica fuori picco / smart"
+      },
+      {
+        "label": "Quadro locale",
+        "value": "Trasformatori e feeder vanno potenziati in modo mirato"
+      },
+      {
+        "label": "Controllo di scala",
+        "value": "Riscaldamento e condizionamento restano il vero divoratore domestico"
+      }
+    ],
+    "sources": [
+      {
+        "publisher": "U.S. EPA",
+        "title": "Electric Vehicle Myths (grid)",
+        "url": "https://www.epa.gov/greenvehicles/electric-vehicle-myths"
+      }
+    ]
+  },
+  {
+    "id": "ev-nowhere-charge",
+    "slug": "nowhere-charge",
+    "number": 5,
+    "verdict": "overstated",
+    "lastChecked": "2026-08-22",
+    "myth": "Non c'è dove ricaricare. Gli EV funzionano solo se avete una casa a Palo Alto.",
+    "headline": "La ricarica a casa (o al lavoro) è il prodotto. Le reti pubbliche sono cresciute in fretta e restano a macchia di leopardo nei posti sbagliati — soprattutto le strade dei condomini.",
+    "kernel": "Se lasciate l'auto in strada in una città europea densa senza una box condivisa, l'auto è un elettrodomestico peggiore. È un fallimento di pianificazione, non la prova che gli elettroni non possano viaggiare in un cavo.",
+    "body": [
+      "Gran parte dei chilometri EV in Norvegia, California e Germania non si vincono a un'area di servizio autostradale. Si vincono su una box da 7–11 kW di notte. L'EPA nota che la maggioranza dei tragitti quotidiani USA è breve; il 98% dei viaggi è ≤75 miglia. Le reti pubbliche DC fast si sono moltiplicate (soldi NEVI USA, regole AFIR UE). L'affidabilità di alcune reti è ancora un meme per una ragione.",
+      "I casi duri che restano: gli inquilini, i residenti di torri, chi non ha un posto auto dedicato. La policy sta spingendo piano regole da «diritto alla presa» in UE. Finché non è infrastruttura noiosa, quei guidatori hanno ragione a esitare. Non è la stessa cosa di «non ci sono colonnine»."
+    ],
+    "keyFacts": [
+      {
+        "label": "Schema di default",
+        "value": "Ricaricare dove l'auto dorme"
+      },
+      {
+        "label": "Tragitti quotidiani (USA)",
+        "value": "73% ≤10 miglia; 98% ≤75 miglia (NHTS)"
+      },
+      {
+        "label": "Modalità difficile",
+        "value": "Niente parcheggio privato — una barriera reale, in calo"
+      }
+    ],
+    "sources": [
+      {
+        "publisher": "U.S. EPA",
+        "title": "Electric Vehicle Myths (charging)",
+        "url": "https://www.epa.gov/greenvehicles/electric-vehicle-myths"
+      }
+    ]
+  },
+  {
+    "id": "ev-range",
+    "slug": "range",
+    "number": 6,
+    "verdict": "false",
+    "lastChecked": "2026-08-22",
+    "myth": "Gli EV non hanno abbastanza autonomia per la vita reale.",
+    "headline": "Gli EV di volume moderni superano i 300–500+ km WLTP. La vita reale è un tragitto, non un set cinematografico attraverso il Texas.",
+    "kernel": null,
+    "body": [
+      "EPA: la maggior parte dei modelli nuovi supera le 200 miglia omologate; la distribuzione dei viaggi quotidiani USA rende quello un surplus, non una scarsità. I numeri WLTP europei per Model Y, famiglia ID., Hyundai/Kia e import cinesi stanno nella stessa fascia in cui la gente già vive con un diesel che rifornisce per abitudine, non per bisogno.",
+      "L'ansia da autonomia è un problema da vacanza una volta l'anno più un problema d'inverno (scheda successiva). Non è un problema di martedì per il guidatore mediano. Se la vostra vita è 800 km di Autobahn in una bufera con un box da sci, sapete già di essere un caso speciale — pianificatelo, o tenete un ICE di lunga autonomia per quella settimana. Non scrivete una legge di natura dal caso speciale."
+    ],
+    "keyFacts": [
+      {
+        "label": "Autonomia auto nuove",
+        "value": "Di solito 200+ miglia EPA / 300–500 km WLTP"
+      },
+      {
+        "label": "Fabbisogno quotidiano",
+        "value": "La maggior parte dei viaggi ben sotto"
+      },
+      {
+        "label": "L'eccezione",
+        "value": "Viaggi lunghi, veloci, freddi — pianificateli"
+      }
+    ],
+    "sources": [
+      {
+        "publisher": "U.S. EPA",
+        "title": "Electric Vehicle Myths (range)",
+        "url": "https://www.epa.gov/greenvehicles/electric-vehicle-myths"
+      }
+    ]
+  },
+  {
+    "id": "ev-cold",
+    "slug": "cold",
+    "number": 7,
+    "verdict": "misleading",
+    "lastChecked": "2026-08-22",
+    "myth": "Gli EV non funzionano col freddo. L'inverno dimostra che l'idea è morta.",
+    "headline": "L'autonomia cala — spesso del 20–40% nelle settimane cattive. Le auto partono lo stesso. La Norvegia ha già votato.",
+    "kernel": "Il calore dell'abitacolo arriva dalla batteria, non dallo scarto del motore. La chimica diventa pigra. Entrambe sono fisica. «Non funziona» è un errore di categoria.",
+    "body": [
+      "AAA (2019) ha trovato dell'ordine del 40% di perdita di autonomia in un test di freddo duro con il riscaldamento acceso. Gli inverni reali variano: precondizionamento, pompe di calore e riscaldatori dei sedili ne riprendono una fetta larga. La ricarica DC è più lenta quando il pacco è gelato — un altro fastidio vero, risolto dal precondizionamento verso la colonnina.",
+      "Norvegia, Islanda, Canada, Svezia, Finlandia e le Alpi hanno quote EV grandi o in crescita. La gente lì non sta facendo un miracolo. Si attaccano a casa, precondizionano e guidano. Anche un'auto a benzina usa più carburante d'inverno; nasconde solo la tassa nello stesso serbatoio. Se vivete a Bitburg e fate 30 km di pendolarismo, gennaio lo noterete. Non camminerete."
+    ],
+    "keyFacts": [
+      {
+        "label": "Colpo all'autonomia",
+        "value": "Spesso 20–40% nel freddo aspro con riscaldamento"
+      },
+      {
+        "label": "Mitigazione",
+        "value": "Pompa di calore, precondizionamento, ricarica a casa"
+      },
+      {
+        "label": "Prova di esistenza",
+        "value": "Mercati EV nordici"
+      }
+    ],
+    "sources": [
+      {
+        "publisher": "U.S. EPA",
+        "title": "Electric Vehicle Myths (range / weather)",
+        "url": "https://www.epa.gov/greenvehicles/electric-vehicle-myths"
+      },
+      {
+        "publisher": "Clean Energy Canada / industry explainers",
+        "title": "EV myths — cold weather",
+        "url": "https://cleanenergycanada.org/media-brief-countering-common-myths-about-electric-vehicles/"
+      }
+    ]
+  },
+  {
+    "id": "ev-lithium",
+    "slug": "lithium",
+    "number": 8,
+    "verdict": "false",
+    "lastChecked": "2026-08-22",
+    "myth": "Non c'è abbastanza litio (o rame, o terre rare) perché tutti guidino elettrico.",
+    "headline": "Le risorse geologiche superano le previsioni di domanda. I segnali di prezzo sbloccano miniere e riciclo. I colli di bottiglia sono permessi e tempi, non un elemento mancante.",
+    "kernel": null,
+    "body": [
+      "La sezione minerali di Carbon Brief: le risorse sono più grandi della domanda 2022–2050 sulla geologia attuale. Il litio non è raro; è processato in modo diseguale. Il rame è il vincolo più stretto e più noioso perché ogni transizione energetica lo usa. Le terre rare nei motori si stanno progettando al ribasso (Tesla e altri hanno mostrato percorsi a basso/zero terre rare pesanti).",
+      "Le scarsità di un dato anno sono una storia di miniere e raffinerie — Cile, Australia, raffinazione cinese, cobalto del Congo, nichel indonesiano. È geopolitica e tempi di realizzazione. Non è «la crosta terrestre è finita». Il petrolio, ricordate, è un flusso che dovete continuare a estrarre per sempre. Un pacco è uno stock che si può riciclare."
+    ],
+    "keyFacts": [
+      {
+        "label": "Litio",
+        "value": "Risorse > domanda di lungo periodo nelle valutazioni standard"
+      },
+      {
+        "label": "Input più stretto",
+        "value": "Rame, più capacità di raffinazione"
+      },
+      {
+        "label": "Valvola di sfogo",
+        "value": "Cambio di chimica + riciclo + più miniere"
+      }
+    ],
+    "sources": [
+      {
+        "publisher": "Carbon Brief",
+        "title": "Factcheck: raw materials",
+        "url": "https://interactive.carbonbrief.org/factcheck/electric-vehicles/"
+      }
+    ]
+  },
+  {
+    "id": "ev-heavy-dangerous",
+    "slug": "heavy-dangerous",
+    "number": 9,
+    "verdict": "overstated",
+    "lastChecked": "2026-08-22",
+    "myth": "Gli EV sono così pesanti da essere trappole mortali per tutti gli altri e distruggono le strade.",
+    "headline": "Sono più pesanti. I punteggi crash-test sono in genere eccellenti. L'usura delle strade e la fisica del pedone sono le parti che non sono niente.",
+    "kernel": "La massa è energia in uno scontro con un'utilitaria o una persona. La frenata rigenerativa taglia la polvere dei freni; il peso extra può aggiungere usura delle gomme. La qualità dell'aria netta resta di solito migliore perché non c'è tubo di scappamento.",
+    "body": [
+      "Un pacco batteria è una lastra di celle. Quella massa sta in basso, ed è per questo che gli EV spesso stravincono i test dell'alce e le stelle NCAP/NHTSA — non si capovolgono, e la struttura è a skateboard. La sicurezza degli occupanti non è il lato debole di questo argomento.",
+      "Il lato debole è l'altro oggetto: un crossover da 2,3 tonnellate contro una supermini da 1,2, o contro un pedone. Il particolato da usura delle gomme scala col peso. L'usura del manto scala più che linearmente col carico sull'asse, ed è per questo che i camion, non le Model Y, mangiano le autostrade — ma una flotta di auto più pesanti non è gratis. Il rimedio sono pacchi più piccoli e auto più piccole, non un ritorno alla benzina al piombo. «Trappola mortale» come titolo salta il dossier di sicurezza degli occupanti."
+    ],
+    "keyFacts": [
+      {
+        "label": "Sicurezza occupanti",
+        "value": "Prestazione crash-test in genere forte"
+      },
+      {
+        "label": "Penalità di massa",
+        "value": "Peggio per l'altro veicolo / pedone; più usura gomme"
+      },
+      {
+        "label": "Strade",
+        "value": "Auto << camion; auto più pesanti comunque non gratis"
+      }
+    ],
+    "sources": [
+      {
+        "publisher": "U.S. EPA",
+        "title": "Electric Vehicle Myths (safety)",
+        "url": "https://www.epa.gov/greenvehicles/electric-vehicle-myths"
+      },
+      {
+        "publisher": "Carbon Brief",
+        "title": "Weight, tires, and air quality",
+        "url": "https://interactive.carbonbrief.org/factcheck/electric-vehicles/"
+      }
+    ]
+  },
+  {
+    "id": "ev-hybrids-better",
+    "slug": "hybrids-better",
+    "number": 10,
+    "verdict": "misleading",
+    "lastChecked": "2026-08-22",
+    "myth": "Le ibride sono strettamente migliori. L'elettrico a batteria è un vicolo cieco.",
+    "headline": "Le ibride sono un buon ponte, soprattutto per chi fa pochi chilometri e non ha una presa. Non vincono il ciclo di vita una volta che la rete è anche solo moderatamente pulita.",
+    "kernel": "Se fate 6.000 km l'anno, parcheggiate in strada, e la vostra elettricità è sporca, una piccola ibrida può essere l'auto razionale. È una nicchia, non una confutazione della categoria.",
+    "body": [
+      "Un'ibrida brucia comunque benzina per gran parte dei suoi chilometri. Vince sul ciclo urbano a freddo rispetto a un ICE assetato, e non ha bisogno di caricabatterie a casa. Sui chilometraggi annui alti, costo energetico ed emissioni del BEV si staccano — ICCT e Carbon Brief mostrano entrambi il divario che si allarga man mano che le reti decarbonizzano. Le auto a idrogeno, l'altro trabocchetto preferito, usano parecchie volte l'elettricità dal pozzo alla ruota.",
+      "Le tesi da vicolo cieco devono anche spiegare la Norvegia, i volumi cinesi, la base installata Tesla e i dollari per kWh di batteria in calo. Una tecnologia che è già una fetta larga delle vendite di auto nuove in più Paesi ricchi non è un poster da fiera della scienza. Anche le ibride possono stare in garage. Non sono un veto."
+    ],
+    "keyFacts": [
+      {
+        "label": "Forza dell'ibrida",
+        "value": "Niente presa richiesta; buona per pochi km / niente parcheggio"
+      },
+      {
+        "label": "Forza del BEV",
+        "value": "Costo energetico + CO₂ di ciclo di vita a qualsiasi km annuo serio"
+      },
+      {
+        "label": "Auto H₂",
+        "value": "Molti meno veicoli, efficienza peggiore dei BEV"
+      }
+    ],
+    "sources": [
+      {
+        "publisher": "Carbon Brief",
+        "title": "Factcheck: hybrids, hydrogen, e-fuels",
+        "url": "https://interactive.carbonbrief.org/factcheck/electric-vehicles/"
+      }
+    ]
+  }
+]

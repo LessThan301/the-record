@@ -1,0 +1,352 @@
+[
+  {
+    "id": "spacex-subsidy",
+    "slug": "subsidy",
+    "number": 1,
+    "verdict": "misleading",
+    "lastChecked": "2026-08-22",
+    "myth": "SpaceXは納税者の補助金がなければ存在しない。研究開発は公費、知財はマスクのものだ。",
+    "headline": "NASAはかつてのシャトル便と同じように貨物と乗員を買った——マイルストーン払い、より安く。調達であって手当ではない。",
+    "kernel": "初期のNASA COTS資金は大いに効いた。SpaceXは連邦の現金に一度も触れないガレージ趣味ではない。歪みは、Dragonのドッキングという定額契約を「補助金」と呼ぶことだ。",
+    "body": [
+      "シャトル後、NASAは商業軌道輸送（COTS）、次いで商業クルーを走らせた。飛行マイルストーン達成時に支払い、スタックの所有は減らし、より安くより多く飛ばす。SpaceXは勝ち、2012年に貨物、2020年に乗員を届け、米国のソユーズ席依存を終わらせた。米政府は顧客だ。顧客は払う。",
+      "Starlinkはいま、大半が商業収益のエンジンだ——消費者、航空、船舶、政府が帯域を買う。国家安全保障打ち上げはULAほかとの競争入札だ。「研究開発は社会化され、知財は民営化された」という論点は、NASAが商業市場を望み、モデルを公表し、打ち上げ価格が崖から落ちたことを無視する。不満が「国家が工場を持ち続けるべきだった」なら、産業政策ノスタルジアであって、詐欺の調書ではない。"
+    ],
+    "keyFacts": [
+      {
+        "label": "COTS／クルー",
+        "value": "マイルストーン契約。コストプラスのシャトル2.0ではない"
+      },
+      {
+        "label": "初の貨物／乗員",
+        "value": "2012年 Dragon貨物。2020年 Crew Dragon"
+      },
+      {
+        "label": "いま",
+        "value": "Starlinkと商業打ち上げが損益の大半を担う"
+      }
+    ],
+    "sources": [
+      {
+        "publisher": "NASA",
+        "title": "Commercial Crew Program",
+        "url": "https://www.nasa.gov/reference/commercial-crew-program/"
+      }
+    ]
+  },
+  {
+    "id": "spacex-reuse",
+    "slug": "reuse",
+    "number": 2,
+    "verdict": "false",
+    "lastChecked": "2026-08-22",
+    "myth": "ロケット着陸はサーカスの芸だ。再使用は実際には金を節約しない。",
+    "headline": "Falcon 9の帰還が打ち上げを安くした理由だ。市場は打ち上げ計画で投票した。",
+    "kernel": null,
+    "body": [
+      "Falcon 9の第一段はいま何度も飛ぶ。二桁再使用は日常で、20回を超えたブースターもある。カタログ価格は数千万ドル台半ばで、Ariane 5/6や旧来のULA価格を大きく下回る。社内の限界費用はリスト価格をかなり下回ると広く推計され、だからSpaceXはStarlinkで計画を埋めつつ他者にも売れる。",
+      "再使用が余興なら、競合は無視する。しなかった。ULA、Blue Origin、Arianespace、中国はいずれも何らかの回収を追っている。NASAと宇宙軍がFalconを買い続けるのは、価格と頻度が出たからだ。サーカスが地球の軌道投入質量の8割超を運ぶことはない。"
+    ],
+    "keyFacts": [
+      {
+        "label": "再使用",
+        "value": "ブースターの二桁飛行は日常"
+      },
+      {
+        "label": "リスト価格",
+        "value": "Falcon 9は約6700万ドル級。旧来は1.5億〜4億ドル"
+      },
+      {
+        "label": "市場シェア",
+        "value": "2020年代、世界の軌道投入質量で支配的"
+      }
+    ],
+    "sources": [
+      {
+        "publisher": "SpaceX",
+        "title": "Falcon 9",
+        "url": "https://www.spacex.com/vehicles/falcon-9/"
+      }
+    ]
+  },
+  {
+    "id": "spacex-astronomy",
+    "slug": "astronomy",
+    "number": 3,
+    "verdict": "overstated",
+    "lastChecked": "2026-08-22",
+    "myth": "Starlinkは天文学を滅ぼした。夜空は終わった。",
+    "headline": "衛星の光跡は実測された問題だ。SpaceXは後期世代を暗くした。空は閉じていない。",
+    "kernel": "広視野サーベイ（ベラ・ルービン、アマチュア天体写真）は筋を拾う。フォーラムの創作ではない。DarkSat、バイザー、姿勢の工夫で明るさは下がった。天文学者はまだ足りないと言う。",
+    "body": [
+      "低軌道メガコンステレーション——先陣のStarlink、後続の他社——は動く光源を増やす。プロのパイプラインは一部の光跡をマスクできる。光子がなかったことにはできない。IAUといくつかの天文台はSpaceXと同じ部屋にいた。後期衛星は第一陣より暗い。AmazonのKuiperほかも増える。これはStarlinkが先鞭をつけた産業の問題であり、独特の道徳的欠陥ではない。",
+      "「滅ぼした」が行き過ぎだ。光学天文学は続いている。電波天文には別の干渉戦争がある。政策手段はある。輝度上限、暗色化、調整窓。正直なカードはこうだ。影響は本物、緩和は部分的、一社の禁欲では空は空にならない。"
+    ],
+    "keyFacts": [
+      {
+        "label": "影響",
+        "value": "広視野画像の本物の光跡"
+      },
+      {
+        "label": "緩和",
+        "value": "第一世代以降のより暗い設計"
+      },
+      {
+        "label": "範囲",
+        "value": "あらゆるメガコンステレーション。Starlinkだけではない"
+      }
+    ],
+    "sources": [
+      {
+        "publisher": "IAU / CPS summaries",
+        "title": "Starlink and astronomy",
+        "url": "https://cps.iau.org/"
+      }
+    ]
+  },
+  {
+    "id": "spacex-kessler",
+    "slug": "kessler",
+    "number": 4,
+    "verdict": "overstated",
+    "lastChecked": "2026-08-22",
+    "myth": "Starlinkはケスラーシンドロームを起こし、人類を宇宙から締め出す。",
+    "headline": "衝突リスクは深刻な運用問題だ。Starlinkは低高度から軌道離脱する設計だ。時限のデブリ爆弾ではない。",
+    "kernel": null,
+    "body": [
+      "ケスラーシンドロームは衝突の連鎖で軌道帯を使えなくする話だ。本物の物理で、歴史的にはより高く、長く残る軌道が対象だった。Starlinkは低い（およそ550km級）。大気抵抗が、故障しても死んだ機体を何年かで落とす。何世紀も残さない。コンステレーションはカタログに対する自律衝突回避を使う。",
+      "残るリスクは、機動できない故障衛星、太陽活動時の接近、物体の絶対数だ。NASA、FCC、ESAが見ている。軌道離脱前提の低軌道コンステレーションを、墓場軌道の兵器試験のように扱うのが過大だ。警戒は正当だ。運命論は測定ではない。"
+    ],
+    "keyFacts": [
+      {
+        "label": "高度",
+        "value": "約550km級、大気抵抗で軌道離脱"
+      },
+      {
+        "label": "設計意図",
+        "value": "故障時は短寿命。静止軌道の墓場とは逆"
+      },
+      {
+        "label": "リスク",
+        "value": "ゼロではない。無視ではなく能動管理"
+      }
+    ],
+    "sources": [
+      {
+        "publisher": "NASA ODPO",
+        "title": "Space debris",
+        "url": "https://orbitaldebris.jsc.nasa.gov/"
+      }
+    ]
+  },
+  {
+    "id": "spacex-starship",
+    "slug": "starship",
+    "number": 5,
+    "verdict": "false",
+    "lastChecked": "2026-08-22",
+    "myth": "Starshipはベーパーウェアだ。意味のあるものは飛ばない。",
+    "headline": "未完成の大型機であり、すでに飛んでいる。ベーパーウェアはメキシコ湾上でRaptorを焚かない。",
+    "kernel": "運用乗員、タンカー、HLSミッションはまだ先だ。日程は遅れた。格納庫を出なかったスライドデッキとは別だ。",
+    "body": [
+      "Starship／Super Heavyは積み上げ、打ち上げ、宇宙に達し、ホットステージングを行い、キャッチを試みた。機体は失われた。試験計画であり、意図して醜い。NASAのアルテミス有人着陸システム（HLS）はこのハードに載る。SpaceXが自分に書いたプレスリリースではない契約だ。",
+      "日程への懐疑は稼いだものだ——マスクの日付は業界内でも定番の冗談である。機体が架空だという懐疑は違う。PowerPointで十年過ごした計画と比べよ。残る議論は、熱シールド、キャッチ、急速再使用が閉じるかだ。それは工学であり、途中で爆発に見えてよい。"
+    ],
+    "keyFacts": [
+      {
+        "label": "現状",
+        "value": "飛行試験中の試作。運用旅客機ではない"
+      },
+      {
+        "label": "NASA HLS",
+        "value": "アルテミス着陸機の経路に選定"
+      },
+      {
+        "label": "正直な疑念",
+        "value": "頻度と再使用は未完。日付は滑る"
+      }
+    ],
+    "sources": [
+      {
+        "publisher": "SpaceX",
+        "title": "Starship",
+        "url": "https://www.spacex.com/vehicles/starship/"
+      }
+    ]
+  },
+  {
+    "id": "spacex-stole-nasa",
+    "slug": "stole-nasa",
+    "number": 6,
+    "verdict": "false",
+    "lastChecked": "2026-08-22",
+    "myth": "SpaceXはNASAの技術を盗んでロゴを貼っただけだ。",
+    "headline": "航空宇宙で働いた人を雇い、公開研究を使った。他社と同じだ。Merlin、Raptor、Dragonは余ったサターン段ではない。",
+    "kernel": null,
+    "body": [
+      "アポロ後のNASAの商業戦略そのものが、ノウハウを産業へ押し出すことだった。COTSはブラックボックス盗難の反対だ。NASAはベンダーを欲した。SpaceXはBoeing、NASAセンター、大学の技術者を雇った。ULAもそうだ。エンジンのサイクルが違う（Raptorはフルフロー二段燃焼であり、塗装を変えたRS-25ではない）。",
+      "Dragonのアボート、熱シールド、トランクはアポロやOrionとは別の建築だ。Falconの回収ハードはNASAのカタログになかった。「公的研究の上に立った」は米国の研究システムへの賛辞だ。「シャトルを盗んだ」は範疇の誤りだ。"
+    ],
+    "keyFacts": [
+      {
+        "label": "Raptor",
+        "value": "自社のフルフロー二段燃焼"
+      },
+      {
+        "label": "NASAの意図",
+        "value": "貨物・乗員の商業化。機体の寄贈ではない"
+      },
+      {
+        "label": "系譜",
+        "value": "人材と論文であり、移管されたスタックではない"
+      }
+    ],
+    "sources": [
+      {
+        "publisher": "NASA",
+        "title": "Commercial Orbital Transportation Services",
+        "url": "https://www.nasa.gov/commercial-orbital-transportation-services/"
+      }
+    ]
+  },
+  {
+    "id": "spacex-ukraine",
+    "slug": "ukraine",
+    "number": 7,
+    "verdict": "misleading",
+    "lastChecked": "2026-08-22",
+    "myth": "イーロン・マスクがStarlinkを止め、ウクライナの戦争を妨害した。",
+    "headline": "Starlinkはウクライナ向けに入り、入り続けた。ジオフェンスがクリミアの特定ドローン攻撃を有効化しなかった。それは「国のプラグを抜いた」ではない。",
+    "kernel": "マスクはウクライナで不規則な政治アクターだった。キーウが嫌った「和平案」を浮かべた。全ネットワーク切断とは別だ。",
+    "body": [
+      "2022年、SpaceXはウクライナでStarlinkを起動した。当初はSpaceXが大きく負担し、のちに米国とパートナーが支払った。民生・軍事の接続に不可欠になった。2023年の報道（ワシントン・ポスト／アイザックソン抜粋を含む）は、セヴァストポリへのウクライナ・ドローン攻撃向けにカバレッジを求めた要請を描く。マスクはエスカレーションを理由に、その攻勢のためのネットワーク拡張を拒んだ。ウクライナ国内のカバレッジは続いた。",
+      "民間CEOがジオフェンスの拒否権を持つべきかは、深刻な政軍問題だ。同時に、拡散文「ウクライナのネットを止めた」の正反対でもある。本当の不満が、公共インフラを一人のトグルに載せるな、ならそう言え——そして漫画のキルスイッチではなく契約を語れ。"
+    ],
+    "keyFacts": [
+      {
+        "label": "ウクライナのサービス",
+        "value": "2022年起動、稼働継続"
+      },
+      {
+        "label": "争点の行為",
+        "value": "クリミア周辺の攻勢ジオフェンス有効化の拒否"
+      },
+      {
+        "label": "誰が払うか",
+        "value": "時期によりSpaceX、米国、同盟の混合"
+      }
+    ],
+    "sources": [
+      {
+        "publisher": "Contemporary reporting / Isaacson",
+        "title": "Elon Musk’s Ukraine Starlink coverage decisions",
+        "url": "https://en.wikipedia.org/wiki/Starlink#Ukraine"
+      }
+    ]
+  },
+  {
+    "id": "spacex-dragon-unsafe",
+    "slug": "dragon-unsafe",
+    "number": 8,
+    "verdict": "false",
+    "lastChecked": "2026-08-22",
+    "myth": "Crew Dragonは危険だ。NASAはソユーズに留まるべきだった。",
+    "headline": "Dragonは2020年からNASA乗員を飛ばしている。ソユーズは失敗もある立派な機体だ。懐古は安全解析ではない。",
+    "kernel": null,
+    "body": [
+      "Crew DragonはNASA宇宙飛行士をISSへ運ぶ初の商業宇宙船となった。2020年のDemo-2、その後の定期交代。問題は起きた——ヘリウム漏れ、天候遅延、いつもの工学上の欠点。有人スタックならどれでもそうだ。NASAの安全手続きは喜劇になるほど保守的だ。それでも飛ばす。",
+      "ソユーズは伝説の機械だ。乗員も死なせている（1971年、1983年のパッドアボート生還、2018年アボート生還）。2011年以降、米国はロシアに金を払う便乗者だった。Dragonがそれを終わらせた。「ソユーズより危険」には死者数と信頼性系列が要る。古いソ連ハードが魔法のように聖職者である、という空気ではない。"
+    ],
+    "keyFacts": [
+      {
+        "label": "NASA初の乗員",
+        "value": "Crew Dragon Demo-2、2020年"
+      },
+      {
+        "label": "役割",
+        "value": "のちの競合と並ぶ、米国の主たるISS乗員輸送"
+      },
+      {
+        "label": "ソユーズ",
+        "value": "完全でもない。シャトル後は独占だった"
+      }
+    ],
+    "sources": [
+      {
+        "publisher": "NASA",
+        "title": "Crew Dragon",
+        "url": "https://www.nasa.gov/commercial-crew-program/"
+      }
+    ]
+  },
+  {
+    "id": "spacex-kill-nasa",
+    "slug": "kill-nasa",
+    "number": 9,
+    "verdict": "misleading",
+    "lastChecked": "2026-08-22",
+    "myth": "SpaceXはNASAを殺し、宇宙の違法独占を持っている。",
+    "headline": "NASAは存在し、SLSを飛ばし、科学ミッションを書く。Falconの打ち上げシェアは再使用の市場結果であり、規制当局の捕獲ではない。",
+    "kernel": "打ち上げ支配は本物だ。その集中は国家安全保障上、注視に値する。シャーマン法の漫画ではなく、NASAの葬式でもない。",
+    "body": [
+      "NASA予算はいまもジェームズ・ウェッブ運用、惑星科学、SLS／Orion（予算超過と遅延）、航空を賄う。SpaceXは契約者でありパートナーであり、後継機関ではない。HLSはSpaceXハード上のNASA所有要件だ——Lockheedから探査機バスを買うのと同じ型だ。",
+      "Falcon 9の軌道投入質量シェアがいびつなのは、他社がブースターを着陸させなかったからだ。Rocket Lab、ULA Vulcan、Blue Origin、欧州、インド、中国はそれぞれ市場にいる。第二ソースを欲する政府は金を出している。独占レトリックはそのための有用な突きだ。安くて信頼できるロケットを選んだ、代替のある顧客の記述としては悪い。"
+    ],
+    "keyFacts": [
+      {
+        "label": "NASA",
+        "value": "いまも顧客であり科学機関"
+      },
+      {
+        "label": "打ち上げシェア",
+        "value": "Falcon偏重。価格と頻度のため"
+      },
+      {
+        "label": "競合",
+        "value": "存在する。再使用に遅い社が多い"
+      }
+    ],
+    "sources": [
+      {
+        "publisher": "NASA",
+        "title": "NASA missions and partners",
+        "url": "https://www.nasa.gov/"
+      }
+    ]
+  },
+  {
+    "id": "spacex-boca",
+    "slug": "boca",
+    "number": 10,
+    "verdict": "overstated",
+    "lastChecked": "2026-08-22",
+    "myth": "Starbaseは監督のない環境犯罪現場だ。",
+    "headline": "ボカチカはFAAの書類、訴訟、爆発を伴う本物の湿地紛争だ。砂漠の秘密投棄場ではない。",
+    "kernel": "Starship試験は破片を散らし、生息地を乱し、住民とNGOを怒らせた。湿地、営巣する鳥、発射台の隣の村は、本物の土地利用の衝突だ。",
+    "body": [
+      "FAA、魚類野生生物局、テキサス州当局、裁判所がいずれもこの話に出てくる。環境評価、協議、遅延は公開されている。試験キャンペーン中の爆発は破片を飛ばし、プルームを上げた。「見るものなし」ではない。",
+      "「監督なし」が外れだ。監督が遅すぎる、取り込まれすぎ、弱すぎる、という不満は普通の米国インフラ論争だ——他の射場、パイプライン、高速道路と同じ。より小さなパッド、別の用地、より厳しい緩和を望んでよい。無法地帯を発明する必要はない。記録はこうだ。許可され、争われ、雑然とし、文書化されている。"
+    ],
+    "keyFacts": [
+      {
+        "label": "用地",
+        "value": "Starbase／ボカチカ、テキサス。村と保護区の隣"
+      },
+      {
+        "label": "監督",
+        "value": "FAAのNEPA手続き、魚類野生生物局、州、訴訟"
+      },
+      {
+        "label": "本物の害の経路",
+        "value": "試験失敗、生息地、閉鎖——「影響ゼロ」ではない"
+      }
+    ],
+    "sources": [
+      {
+        "publisher": "FAA / public NEPA documents",
+        "title": "SpaceX Starbase",
+        "url": "https://www.faa.gov/space/stakeholder_engagement/spacex_starship"
+      }
+    ]
+  }
+]

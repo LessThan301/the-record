@@ -1,0 +1,15 @@
+name = "the-record-counter"
+main = "src/index.js"
+compatibility_date = "2026-10-01"
+
+# Comma-separated list of sites allowed to vote.
+[vars]
+ALLOWED_ORIGINS = "https://lessthan301.github.io"
+
+[[d1_databases]]
+binding = "DB"
+database_name = "the-record-counter"
+database_id = "REPLACE_WITH_ID_FROM_wrangler_d1_create"
+
+[observability]
+enabled = false

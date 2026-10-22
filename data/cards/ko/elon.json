@@ -1,0 +1,368 @@
+[
+  {
+    "id": "elon-emerald",
+    "slug": "emerald",
+    "number": 1,
+    "verdict": "false",
+    "lastChecked": "2026-08-22",
+    "myth": "일론 머스크는 아파르트헤이트 에메랄드 광산 재산을 상속받아 Tesla와 SpaceX를 사들였다.",
+    "headline": "회사를 세운 것은 PayPal 매각 대금이다. 자본구조에 에메랄드 상속은 없다.",
+    "kernel": "아버지 에롤이 잠비아 에메랄드에 대해 말을 바꿔 가며 이야기한 것은 맞다. 그렇다고 일론 머스크가 광산을 상속했거나, 그 돈으로 SpaceX를 시작한 것은 아니다.",
+    "body": [
+      "일론 머스크는 17살에 남아프리카를 떠나 캐나다에서 일했고, 미국에서 공부했다. Zip2는 1990년대 소프트웨어 스타트업이었고, 1999년 컴팩이 인수했다. 진짜 지분은 X.com, 즉 PayPal에서 나왔다. eBay 인수 뒤 몫이 대략 $180 million. 그게 기록된 SpaceX(2002)의 씨앗이고, 2004년 Tesla 투자의 씨앗이다.",
+      "에롤 머스크는 여러 시점에 잠비아 에메랄드 생산 지분을 주장했다가, 나중에는 “에메랄드의 일부”로 이야기를 줄였다. 메이 머스크는 왕조형 광산 가문이 아니라, 여유 있는 집안이라고 묘사했다. 월터 아이작슨의 전기와 당시 보도는 Zip2, PayPal, Tesla, SpaceX로 광산 재산이 이전된 증거를 찾지 못한다.",
+      "한때 원석을 다룬 아버지는 화려한 기원담이다. 자본구조와 PayPal 대금, 그 뒤에 이어진 SpaceX와 Tesla의 파산 직전 10년을 대신하지는 못한다."
+    ],
+    "keyFacts": [
+      {
+        "label": "PayPal 대금",
+        "value": "~$180M (일론의 몫, 2002)"
+      },
+      {
+        "label": "Tesla 2004년 수표",
+        "value": "그 돈 중 ~$6.5M, 리드 투자자"
+      },
+      {
+        "label": "에메랄드 광산",
+        "value": "문서화된 상속이나 자본구조 역할 없음"
+      }
+    ],
+    "sources": [
+      {
+        "publisher": "Walter Isaacson / Simon & Schuster",
+        "title": "Elon Musk",
+        "url": "https://www.simonandschuster.com/books/Elon-Musk/Walter-Isaacson/9781982181284"
+      },
+      {
+        "publisher": "Wikipedia (sourced timeline)",
+        "title": "Wealth of Elon Musk",
+        "url": "https://en.wikipedia.org/wiki/Wealth_of_Elon_Musk"
+      }
+    ]
+  },
+  {
+    "id": "elon-never-built",
+    "slug": "never-built",
+    "number": 2,
+    "verdict": "false",
+    "lastChecked": "2026-08-22",
+    "myth": "그는 아무것도 만들지 않았다. 남의 회사를 사들이고 트윗이나 하는 CEO다.",
+    "headline": "그는 회사를 창업했다. 그렇다고 모든 부품의 엔지니어는 아니다. 둘 다 맞다.",
+    "kernel": null,
+    "body": [
+      "Zip2와 X.com은 그가 공동 창업한 스타트업이다. SpaceX는 2002년 백지에서 시작했다. Merlin, Falcon, Dragon, Raptor는 인수품이 아니라 자체 기체다. Neuralink, The Boring Company, xAI는 산 것이 아니라 세운 것이다. 예외는 Tesla다. 2004년 리드 투자자 겸 이사회 의장으로 합류했고, 2008년 CEO가 됐다.",
+      "유용한 정정은 더 좁다. 그가 차를 직접 용접하거나 비행 소프트웨어의 모든 줄을 쓰는 것은 아니다. 설계 검토에서 까다로운 수석 엔지니어라는 점은, 진부할 정도로 문서화돼 있다. 그건 “아무것도 만들지 않았다”와 다르고, “리튬이온 전지를 혼자 발명한 천재”와도 다르다."
+    ],
+    "keyFacts": [
+      {
+        "label": "창업",
+        "value": "Zip2, X.com/PayPal 경로, SpaceX, Neuralink, Boring, xAI"
+      },
+      {
+        "label": "합류 / 확장",
+        "value": "Tesla (2004 리드 투자자, 2008 CEO)"
+      },
+      {
+        "label": "나중에 인수",
+        "value": "Twitter / X (2022) — 밈과 맞는 하나"
+      }
+    ],
+    "sources": [
+      {
+        "publisher": "Encyclopaedia Britannica",
+        "title": "Elon Musk",
+        "url": "https://www.britannica.com/biography/Elon-Musk"
+      }
+    ]
+  },
+  {
+    "id": "elon-taxes",
+    "slug": "taxes",
+    "number": 3,
+    "verdict": "false",
+    "lastChecked": "2026-08-22",
+    "myth": "일론 머스크는 세금을 내지 않는다.",
+    "headline": "기록된 개인 소득세 중 미국 최대 고지서를 냈다. 미실현 이익은 과세되지 않는다. 그게 제도이지, 그만의 비밀 구멍은 아니다.",
+    "kernel": "주식을 팔거나 옵션을 행사하지 않는 해에는, 현금 소득이 순자산 옆에 작아 보일 수 있다. 모든 창업자에게 미실현 이익이 작동하는 방식이지, 머스크만의 면제가 아니다.",
+    "body": [
+      "2021년 그는 대규모 Tesla 옵션을 행사하고 주식을 팔았다. 그 결과 세액이 $11 billion을 넘었다고 했다. 당시 추산은 연방분 약 $10–12 billion으로, 개인 소득세 납부액으로는 사상 최대로 널리 보도됐다.",
+      "비판자들은 맞다. 부(대부분 Tesla와 SpaceX 지분)는 과세 사건 없이 몇 년이고 불어날 수 있다. 그건 미국이 미실현 이익에 과세해야 하느냐의 논쟁이지, “세금을 안 낸다”는 증거가 아니다. 옵션이 터지자 고지서도 터졌다."
+    ],
+    "keyFacts": [
+      {
+        "label": "2021 세액",
+        "value": "~$11–12 billion (본인 수치 / 보도 추산)"
+      },
+      {
+        "label": "계기",
+        "value": "Tesla 옵션 행사 + 주식 매도"
+      },
+      {
+        "label": "과세되지 않는 것",
+        "value": "미실현 장부상 이익, 미국 법에 따라"
+      }
+    ],
+    "sources": [
+      {
+        "publisher": "CNBC",
+        "title": "Elon Musk says he will pay over $11 billion in taxes this year",
+        "url": "https://www.cnbc.com/2021/12/20/elon-musk-says-he-will-pay-over-11-billion-in-taxes-this-year.html"
+      },
+      {
+        "publisher": "Wikipedia",
+        "title": "Wealth of Elon Musk",
+        "url": "https://en.wikipedia.org/wiki/Wealth_of_Elon_Musk"
+      }
+    ]
+  },
+  {
+    "id": "elon-cofounder",
+    "slug": "cofounder",
+    "number": 4,
+    "verdict": "misleading",
+    "lastChecked": "2026-08-22",
+    "myth": "일론 머스크를 Tesla 공동창립자라 부르는 것은 거짓말이다. 회사를 사들인 뒤 소송으로 명패에 올라탔다.",
+    "headline": "마틴 에버하르트와 마크 타페닝이 2003년 Tesla를 창업했다. 머스크는 2004년 리드 투자자였다. 2009년 합의로 공동창립자 호칭을 쓸 수 있게 됐다.",
+    "kernel": "최초 법인 설립에는 그가 없었다. 2008년을 살아남은 회사에는 있었다. 그의 돈, 제품 방향, CEO 자리 아래서. 그 문장의 양쪽이 기록이다.",
+    "body": [
+      "Tesla Motors는 2003년 7월 에버하르트와 타페닝이 법인 설립했다. 머스크는 2004년 2월 시리즈 A를 리드했고, 이사회 의장이 됐으며, 2008년 존폐 위기 때 CEO가 됐다. 로드스터를 생산까지 밀었고, 이어서 Model S를 밀었다.",
+      "에버하르트가 축출된 뒤 소송이 따랐다. 2009년 합의는 머스크, JB 스트라우벨, 에버하르트, 타페닝, 이언 라이트를 공동창립자로 부를 수 있게 한다. 그건 법적 휴전이지 타임머신이 아니다. 그가 Tesla를 법인 설립하지 않았다고 말하는 것은 공정하다. “완성된 자동차 회사를 샀다”고 말하는 것은 공정하지 않다. Model S도, 공장 규모도, 겨우 굴러가는 로드스터조차 없었다."
+    ],
+    "keyFacts": [
+      {
+        "label": "법인 설립",
+        "value": "2003년 7월, 에버하르트 & 타페닝"
+      },
+      {
+        "label": "머스크 합류",
+        "value": "시리즈 A, 2004년 2월; CEO 2008"
+      },
+      {
+        "label": "호칭",
+        "value": "2009년 합의: 공동창립자 표현 허용"
+      }
+    ],
+    "sources": [
+      {
+        "publisher": "Wikipedia (founding section)",
+        "title": "Tesla, Inc.",
+        "url": "https://en.wikipedia.org/wiki/Tesla,_Inc."
+      }
+    ]
+  },
+  {
+    "id": "elon-salute",
+    "slug": "salute",
+    "number": 5,
+    "verdict": "misleading",
+    "lastChecked": "2026-08-22",
+    "myth": "2025년 1월 취임식 몸짓이 일론 머스크가 나치임을 증명했다.",
+    "headline": "영상은 흉하다. 의도는 입증되지 않았다. “경례처럼 보인다”는 당원증이 아니다.",
+    "kernel": "가슴을 치고 팔을 두 번 뻗었다. 특히 독일의 시청자는 아주 구체적인 경보를 들었다. 그 시각적 운율은 진짜다. 강령도, 선언문도, 그 영상을 나치의 증거로 만든 기소도 없다는 것 역시 진짜다.",
+    "body": [
+      "2025년 1월 20일, 트럼프 취임 행사에서 연설한 뒤 머스크는 가슴을 치고 손바닥을 아래로 한 오른팔을 두 번 뻗었다. 유럽의 많은 사람을 포함해 비판자들은 히틀러 경례라고 불렀다. 그는 “내 마음이 여러분에게 간다”고 했다. 반명예훼손연맹(ADL)은 “열광의 순간 어색한 몸짓이지, 나치 경례가 아니다”라고 했다.",
+      "더 공정한 별개 논점은 그가 증폭하는 것이다. 일부 극우 계정, 일부 음모 리프, 금기를 넘는 취향. 그건 미디어와 판단의 논쟁이다. 흉한 몸짓 하나로 “그는 나치다”로 접는 부분이 버티지 못한다. 독일은 경례에 선명한 법적 선이 있다. 검찰은 이 장면을 그를 나치로 유죄 선고한 시험 사건으로 만들지 않았다."
+    ],
+    "keyFacts": [
+      {
+        "label": "언제",
+        "value": "2025년 1월 20일, 취임 무대"
+      },
+      {
+        "label": "본인 설명",
+        "value": "“내 마음이 여러분에게 간다”"
+      },
+      {
+        "label": "ADL",
+        "value": "어색한 열광이지, 나치 경례가 아님"
+      }
+    ],
+    "sources": [
+      {
+        "publisher": "The New York Times",
+        "title": "What Elon Musk’s Salute Was All About",
+        "url": "https://www.nytimes.com/2025/01/24/world/europe/elon-musk-roman-salute-nazi.html"
+      },
+      {
+        "publisher": "Wikipedia (inauguration gesture)",
+        "title": "Elon Musk",
+        "url": "https://en.wikipedia.org/wiki/Elon_Musk"
+      }
+    ]
+  },
+  {
+    "id": "elon-subsidies",
+    "slug": "subsidies",
+    "number": 6,
+    "verdict": "misleading",
+    "lastChecked": "2026-08-22",
+    "myth": "정부 낭비를 비난하면서, 자기 회사는 보조금으로 살아간다.",
+    "headline": "Tesla는 산업정책을 썼다. SpaceX는 발사를 판다. 둘을 “보조금 아기”로 섞는 것이 손재주 트릭이다.",
+    "kernel": "$465 million DOE 대출은 진짜였다. 그리고 2013년 이자를 붙여 조기 상환했다. 구매자 EV 세액공제와 ZEV 크레딧도 진짜다. NASA가 화물과 승무원에 돈을 내는 것은 서비스 구매이지, 셔틀에 내던 방식과 같다.",
+    "body": [
+      "Tesla 초기는 2009년 DOE ATVM 대출($465 million)을 통과했다. Tesla는 2013년, 9년 앞당겨 상환했다. 미국과 유럽의 EV 세액공제는 구매자에게 간다. 그래도 수요를 도왔다. 다른 완성차에 판 무공해차 크레딧은 몇 년 동안 Tesla의 의미 있는 매출 항목이었다. 그게 산업정책이다. 아니라고 우기는 것은 팬픽이다.",
+      "SpaceX의 NASA COTS와 Commercial Crew 자금은 셔틀보다 싸게 화물과 우주인 비행을 사기 위한 마일스톤 계약이었다. 미 우주군은 경쟁 카탈로그에서 발사를 산다. Starlink의 농촌 광대역 지원은 나중에 소송으로 끌려갔다. 정부의 모든 수표를 “보조금”이라 부르면, 지원금과 발사 대금의 차이가 지워진다."
+    ],
+    "keyFacts": [
+      {
+        "label": "DOE 대출",
+        "value": "$465M, 2013년 이자 포함 상환"
+      },
+      {
+        "label": "NASA / DoD",
+        "value": "화물, 승무원, 국가안보 발사 계약"
+      },
+      {
+        "label": "ZEV 크레딧",
+        "value": "진짜 Tesla 매출, 이제 다른 곳이 따라잡으며 줄어듦"
+      }
+    ],
+    "sources": [
+      {
+        "publisher": "U.S. Department of Energy",
+        "title": "Tesla pays off DOE loan",
+        "url": "https://www.energy.gov/articles/tesla-repay-department-energy-loan-nine-years-early"
+      }
+    ]
+  },
+  {
+    "id": "elon-fsd-fraud",
+    "slug": "fsd-fraud",
+    "number": 7,
+    "verdict": "overstated",
+    "lastChecked": "2026-08-22",
+    "myth": "수년 전 완전자율주행을 약속했다. 그러니 전부 사기다.",
+    "headline": "일정은 고질적으로 낙관적이었다. 스택은 계속 나아졌다. 놓친 달력과 가짜 제품은 다르다.",
+    "kernel": "2016년부터 그는 슬라이드에 도착하지 않은 미래를 팔았다. 그건 진짜 패턴이고, 규제당국도 이름으로서의 “Full Self-Driving”과 법적 능력 사이의 간극을 알아챘다.",
+    "body": [
+      "Autopilot은 감독형 고속도로 시스템으로 출시됐다. 소프트웨어 패키지로서의 “Full Self-Driving”은 베타를 거쳐 더 넓은 배포로 갔고, 운전자는 여전히 책임자다. 로보택시 서비스는 제한된 형태(오스틴, 2025)로 시작했을 뿐, 완전 무감독 전국 제품은 아니다. 미뤄진 해마다 기록에 남아 있다.",
+      "사기라는 프레임에는, 한 번도 존재하지 않은 물건이 필요하다. Tesla는 수십억 마일의 실주행을 모았고, 엔드투엔드 네트워크를 반복 개선했고, 레이더를 버리고 비전을 택했다. 기술 베팅이지, 허공의 슬라이드가 아니다. 두 사실을 동시에 쥘 수 있다. 그는 과대 약속했고, 시스템은 만화 제품이 아니다. 가족에게 맡겨도 될지는 별개의, 정당한 질문이다(Tesla Autopilot 카드 참고)."
+    ],
+    "keyFacts": [
+      {
+        "label": "패턴",
+        "value": "공개 일정이 ~2016년부터 반복적으로 빗나감"
+      },
+      {
+        "label": "출시된 것",
+        "value": "감독형 FSD + 제한적 로보택시 운영, 전국 무감독은 아님"
+      },
+      {
+        "label": "같지 않은 것",
+        "value": "Theranos — 공공 도로 위에 작동하는 스택이 있다"
+      }
+    ],
+    "sources": [
+      {
+        "publisher": "Tesla",
+        "title": "Autopilot and Full Self-Driving (Supervised)",
+        "url": "https://www.tesla.com/autopilot"
+      }
+    ]
+  },
+  {
+    "id": "elon-twitter",
+    "slug": "twitter",
+    "number": 8,
+    "verdict": "overstated",
+    "lastChecked": "2026-08-22",
+    "myth": "그는 Twitter를 파괴하고 X를 나치 바로 만들었다.",
+    "headline": "광고주가 떠났다. 모더레이션은 더 이상해졌다. 커뮤니티 노트는 진짜다. 새 로고를 붙인 8chan은 아니다.",
+    "kernel": "$44 billion 비상장화는 혼돈이었다. 인원 붕괴, 이전에 차단된 계정의 홍수, 브랜드 세이프티 공포는 기자들의 환각이 아니었다.",
+    "body": [
+      "2022년 10월 이후 X는 광고의 큰 몫을 잃었다. 신뢰·안전 인력이 잘렸다. 일부 극단주의 계정이 돌아왔다. 혐오 표현 연구자들은 초기 몇 달 욕설 비율이 높아졌다고 보고했다. 그건 문서화돼 있다.",
+      "“나치 바”라는 말은 분위기이지 인구조사가 아니다. 커뮤니티 노트는 인터넷에서 더 흥미로운 공개 팩트체크 시스템 중 하나가 됐고, 머스크 본인의 게시물에도 달린다. 정치적 도달은 더 잡다해졌다. 더 우파적이고, 더 안티워크하고, 여전히 좌파 이용자로 가득하다. 더 지저분한 광장은 전용 극단주의 포럼과 다르다. 그 거래가 $44 billion의 가치가 있는지는 사업 질문이다. 분위기가 좋은지는 취향 질문이다."
+    ],
+    "keyFacts": [
+      {
+        "label": "인수",
+        "value": "$44B, 2022년 10월 종결"
+      },
+      {
+        "label": "분명한 효과",
+        "value": "광고주 이탈, 인력 붕괴, 더 시끄러운 피드"
+      },
+      {
+        "label": "또한 진짜인 것",
+        "value": "커뮤니티 노트; 머스크의 글에도 노트가 달린다"
+      }
+    ],
+    "sources": [
+      {
+        "publisher": "Wikipedia",
+        "title": "Acquisition of Twitter by Elon Musk",
+        "url": "https://en.wikipedia.org/wiki/Acquisition_of_Twitter_by_Elon_Musk"
+      }
+    ]
+  },
+  {
+    "id": "elon-apartheid",
+    "slug": "apartheid",
+    "number": 9,
+    "verdict": "misleading",
+    "lastChecked": "2026-08-22",
+    "myth": "그는 아파르트헤이트의 아이이며 그 체제를 되돌리고 싶어 한다. 프리토리아 출생, 그러므로 그 정치.",
+    "headline": "출생지는 선언문이 아니다. 그는 17살에 떠났다. 아파르트헤이트 이후의 범죄를 비판하는 것이 국민당에 투표하는 것은 아니다.",
+    "kernel": "1971년 프리토리아, 아파르트헤이트 아래 여유 있는 백인 가정에서 태어났다. 그건 사실이고, 작은 사실이 아니다. “체제를 지지했다 / 복원을 원한다”로의 도약은 당시 정치 행위의 증거가 필요하다. 얇다.",
+    "body": [
+      "아파르트헤이트는 그의 어린 시절의 공기였다. 외가 조부모에게는 특이한, 때로 추한 정치사가 있다(할드먼 가의 아파르트헤이트 인접·음모론 정치는 전기에 나온다). 머스크는 그 체제가 잘못됐다고 느꼈고 떠났다고 말해 왔다.",
+      "남아프리카 농장 살인, “백인 학살” 표현, ANC에 대한 나중의 발언은 선동적이고 통계도 종종 헐겁다. 그건 진짜 미디어 문제다. 그래도 “아파르트헤이트 복원주의자”라는 주장과는 다른 주장이다. 그 세대 남아프리카인 다수가 떠났다. 그들 중 자동차 회사를 운영하는 사람은 적다. 국적을 도덕적 유죄 예고로 쓰지 말고, 지금 그가 쓰는 말을 써라."
+    ],
+    "keyFacts": [
+      {
+        "label": "출생",
+        "value": "프리토리아, 1971"
+      },
+      {
+        "label": "출국",
+        "value": "1988, 17세, 캐나다로"
+      },
+      {
+        "label": "강한 주장에 필요한 것",
+        "value": "행위와 텍스트이지, 출생증명서가 아님"
+      }
+    ],
+    "sources": [
+      {
+        "publisher": "Wikipedia (early life)",
+        "title": "Elon Musk",
+        "url": "https://en.wikipedia.org/wiki/Elon_Musk"
+      }
+    ]
+  },
+  {
+    "id": "elon-unfit",
+    "slug": "unfit",
+    "number": 10,
+    "verdict": "overstated",
+    "lastChecked": "2026-08-22",
+    "myth": "그는 케타민에 절어 회사를 운영할 정신적 적격이 없다.",
+    "headline": "우울증에 처방 케타민을 쓴다고 본인이 말했다. 그건 공개된 무능력 판정이 아니다. 온라인 진단 공장은 진료 차트가 아니다.",
+    "kernel": "업무 스타일은 극단적이고, 게시물은 종종 무모하며, 여러 이사회가 개인 브랜드의 비용을 흡수해야 했다. 그건 공정한 운영 불만이다.",
+    "body": [
+      "머스크는 우울증 치료로 처방받은 케타민을 공개적으로 설명했다. 업무에서 손상됐다는 공개 의학 평가는 없다. SpaceX는 계속 날고, Tesla는 계속 만들고, xAI는 계속 내놓는다. “산만함”에 대한 주식시장 논쟁은 DSM 기준이 아니다.",
+      "게시물이 거버넌스 문제라고 생각할 수 있다. Tesla 이사들은 때로 분명히 그렇게 생각했다. 수면 부족과 새벽 3시 포럼 글이 현명하지 않다고 생각할 수 있다. 그걸 “CEO가 폭주 중이고 로켓은 무인 상태다”로 옮기는 것은 이야기이다. 동승 기자, 직원, 비행 기록은 밈이 필요로 하는 결정적 손상 파일을 만들어 내지 못했다."
+    ],
+    "keyFacts": [
+      {
+        "label": "본인 설명",
+        "value": "우울증에 처방 케타민"
+      },
+      {
+        "label": "공개된 부적격 의학 판정",
+        "value": "없음"
+      },
+      {
+        "label": "공정한 불만",
+        "value": "변덕스러운 게시물이 거버넌스·브랜드 리스크"
+      }
+    ],
+    "sources": [
+      {
+        "publisher": "Wikipedia (personal life)",
+        "title": "Elon Musk",
+        "url": "https://en.wikipedia.org/wiki/Elon_Musk"
+      }
+    ]
+  }
+]

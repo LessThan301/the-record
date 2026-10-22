@@ -1,0 +1,437 @@
+[
+  {
+    "id": "cap-poverty",
+    "slug": "poverty",
+    "number": 1,
+    "verdict": "false",
+    "lastChecked": "2026-08-22",
+    "myth": "Der Kapitalismus hält die Armen arm. Marktwirtschaften machen Armut schlimmer.",
+    "headline": "Extreme Armut ist in der Ära von Handel, Eigentum und Wachstum zusammengebrochen — nicht trotz ihr.",
+    "kernel": "Hunderte Millionen sind immer noch extrem arm, und der Fortschritt hat sich seit COVID verlangsamt, zumal in fragilen Staaten. Das ist ein Grund, mehr Wachstum zu wollen, kein Grund, die letzten 40 Jahre einen Misserfolg zu nennen.",
+    "body": [
+      "Our World in Data, auf Haushaltsumfragen der World Bank, verzeichnet etwa 2,31 Milliarden Menschen mit weniger als $3 am Tag im Jahr 1990. Bis 2025 liegt diese Zahl bei etwa 808 Millionen — mehr als 1,5 Milliarden weniger, in der Größenordnung von 100.000 Menschen am Tag über eine Generation. Die $2,15-Linie der World Bank erzählt dieselbe Geschichte: rund 8,5% der Menschheit, gegenüber einer Mehrheit 1950 und etwa 38% noch 1990.",
+      "Der Rückgang ist kein rätselhaftes Wohltätigkeitsereignis. Er konzentriert sich dort, wo Länder sich dem Handel öffneten, Bauern und Firmen behalten ließen, was sie erzeugten, und sich in globale Lieferketten einklinkten — China nach 1978, Indien nach 1991, Vietnam, Bangladesch, weite Teile Ostasiens. Kommandowirtschaften, die Märkte illegal hielten, haben kein vergleichbares Entkommen geliefert.",
+      "Eine Marktwirtschaft ist kein Versprechen, dass jede Region gleich schnell vorankommt. Der Anteil Subsahara-Afrikas an extremer Armut fiel, während die Kopfzahl mit der Bevölkerung stieg. Das ist ein Politik- und Produktivitätsproblem innerhalb von Marktsystemen, kein Beleg, dass Märkte Armut verursachen."
+    ],
+    "keyFacts": [
+      {
+        "label": "1990, $3/Tag",
+        "value": "2,31 Milliarden Menschen"
+      },
+      {
+        "label": "2025, $3/Tag",
+        "value": "~808 Millionen"
+      },
+      {
+        "label": "Seit 1950",
+        "value": "~60% der Menschheit → ~10%"
+      }
+    ],
+    "sources": [
+      {
+        "publisher": "Our World in Data",
+        "title": "Poverty",
+        "url": "https://ourworldindata.org/poverty"
+      },
+      {
+        "publisher": "Our World in Data / World Bank PIP",
+        "title": "Share of population in extreme poverty",
+        "url": "https://ourworldindata.org/grapher/share-of-population-in-extreme-poverty"
+      },
+      {
+        "publisher": "World Bank",
+        "title": "Poverty, Prosperity, and Planet Report 2024",
+        "url": "https://www.worldbank.org/en/publication/poverty-prosperity-and-planet"
+      }
+    ]
+  },
+  {
+    "id": "cap-zero-sum",
+    "slug": "zero-sum",
+    "number": 2,
+    "verdict": "false",
+    "lastChecked": "2026-08-22",
+    "myth": "Die Wirtschaft ist ein Nullsummenspiel. Die Reichen werden nur reich, indem sie alle anderen ärmer machen.",
+    "headline": "Der Kuchen ist gewachsen. Das ist der ganze Punkt einer Marktwirtschaft.",
+    "kernel": "Manche Gewinne sind Positionsgewinne, und manche Vermögen sind Vetternwirtschaft. Keine der beiden Tatsachen macht eine wachsende Welt zu einem geschlossenen Pokertisch.",
+    "body": [
+      "Nullsumme ist eine gute Beschreibung eines Raubzugs, eines Throns oder eines festen Landstücks in einer malthusianischen Welt. Sie ist eine schlechte Beschreibung einer Wirtschaft, in der Menschen neue Güter herstellen. Die Weltproduktion pro Kopf ist seit dem 19. Jahrhundert um ein Vielfaches gestiegen; der typische Mensch in einem marktgeführten Land konsumiert heute, was kein vorindustrieller König kaufen konnte — Antibiotika, Kühlung, ein Smartphone, einen Flug.",
+      "Wenn Jeff Bezos reich wird, indem er ein Logistiknetz baut, wurden die Kunden, die es genutzt haben, nicht um einen gleichwertigen Bargeldbetrag gebracht. Sie zahlten einen Preis unter dem Wert, den sie der Lieferung beimaßen. Diese Lücke ist Konsumentenrente. Löhne in den Firmen, die Amazon beliefern, sind Kosten, kein Diebstahl aus einem festen Topf.",
+      "Die Nullsummen-Geschichte überlebt, weil relativer Status nullsummig ist. Man kann das Haus des Nachbarn übelnehmen und trotzdem in einem reicheren Land leben als die Großeltern. Eine Marktwirtschaft wird an der zweiten Tatsache gemessen."
+    ],
+    "keyFacts": [
+      {
+        "label": "Mechanismus",
+        "value": "Handel und Produktivität, kein fester Topf"
+      },
+      {
+        "label": "Was wuchs",
+        "value": "Globales GDP pro Kopf, Lebensspanne, Kalorien, Güter"
+      },
+      {
+        "label": "Was nullsummig ist",
+        "value": "Status, Throne, Raubzüge — nicht die Produktion"
+      }
+    ],
+    "sources": [
+      {
+        "publisher": "Our World in Data",
+        "title": "Economic Growth",
+        "url": "https://ourworldindata.org/economic-growth"
+      },
+      {
+        "publisher": "Our World in Data",
+        "title": "GDP per capita",
+        "url": "https://ourworldindata.org/grapher/gdp-per-capita-world-bank-constant-usd"
+      }
+    ]
+  },
+  {
+    "id": "cap-nordic",
+    "slug": "nordic",
+    "number": 3,
+    "verdict": "false",
+    "lastChecked": "2026-08-22",
+    "myth": "Die nordischen Länder beweisen, dass Sozialismus funktioniert und der Kapitalismus das unterlegene System ist.",
+    "headline": "Dänemark und Norwegen sind kapitalistische Marktwirtschaften mit einem großen Sozialstaat obendrauf.",
+    "kernel": "Sie besteuern viel und geben viel für Dienstleistungen aus. Das ist kein öffentliches Eigentum an den Produktionsmitteln, und es wird von privaten Firmen finanziert, die auf offenen Märkten arbeiten.",
+    "body": [
+      "Das nordische Modell, wie die Länder selbst es beschreiben, ist Privateigentum, Marktpreise und Freihandel, plus universelle Leistungen und koordinierte Tarifverhandlungen. IKEA, Novo Nordisk, Volvo, Maersk und Equinor sind nicht Gosplan. Die Gütermärkte im Norden gehören zu den offensten in der OECD.",
+      "Heritages Index of Economic Freedom 2026 setzt Norwegen weltweit auf Platz 8 (Wert 78,8). Dänemark, Schweden, Finnland und Norwegen sitzen seit Jahren in der Spitzengruppe bei Eigentumsrechten, Handelsfreiheit und Unternehmensregulierung. Das ist das Gegenteil einer Planwirtschaft.",
+      "Die nützliche Lehre ist enger: Ein reiches kapitalistisches Land kann sich ein großzügiges Netz kaufen. Es kann den kapitalistischen Teil nicht überspringen und das Netz behalten. Die schwedische Überdehnung der 1970er und die Reparatur der 1990er sind die Warnung, die die Losung auslässt."
+    ],
+    "keyFacts": [
+      {
+        "label": "Nordischer Kern",
+        "value": "Private Firmen, Marktpreise, offener Handel"
+      },
+      {
+        "label": "Norwegen 2026",
+        "value": "Heritage-Index der Wirtschaftsfreiheit: weltweit Platz 8"
+      },
+      {
+        "label": "Was es nicht ist",
+        "value": "Staatseigentum an der Produktion"
+      }
+    ],
+    "sources": [
+      {
+        "publisher": "Wikipedia (sourced overview)",
+        "title": "Nordic model",
+        "url": "https://en.wikipedia.org/wiki/Nordic_model"
+      },
+      {
+        "publisher": "Heritage Foundation",
+        "title": "Index of Economic Freedom: Norway",
+        "url": "https://economicfreedom.heritage.org/pages/country-pages/norway"
+      },
+      {
+        "publisher": "Heritage Foundation",
+        "title": "Economic Freedom Underpins Nordic Prosperity",
+        "url": "https://www.heritage.org/international-economies/report/economic-freedom-underpins-nordic-prosperity"
+      }
+    ]
+  },
+  {
+    "id": "cap-planning",
+    "slug": "planning",
+    "number": 4,
+    "verdict": "false",
+    "lastChecked": "2026-08-22",
+    "myth": "Eine Planwirtschaft liefert bessere Lebensstandards als eine Marktwirtschaft.",
+    "headline": "Geteilte Länder sind das Experiment. Märkte haben gewonnen, wiederholt.",
+    "kernel": "Regierungen können Straßen, Impfstoffe und Kriegswirtschaft planen. Sie können Preise nicht als Weg ersetzen, auf dem eine ganze Wirtschaft entscheidet, was hergestellt wird.",
+    "body": [
+      "Westdeutschland gegen die DDR, Südkorea gegen den Norden, Taiwan gegen maoistisches China, und China gegen sich selbst vor und nach 1978 sind so nah an einem kontrollierten Versuch, wie Geschichte läuft. In jedem Fall hat die Marktseite — Privateigentum, Preise, Handel — den Wohlstand erzeugt. Die Planseite erzeugte Knappheit, eine Geheimpolizei und ein GDP pro Kopf, das um einen Faktor von vielen zurückfiel.",
+      "Südkoreas GDP pro Kopf liegt in der Größenordnung des 20- bis 50-Fachen Nordkoreas, je nach Rekonstruktion. Chinas von der World Bank dokumentierter Armutsrückgang beginnt ernsthaft nach Dengs Reformen, nicht während des Großen Sprungs. Die Sowjetunion konnte Stahl gießen und trotzdem keine Seife ins Regal bringen, das ist das Kalkulationsproblem, das Hayek beschrieb: Ohne Preise weiß niemand, was knapp ist.",
+      "Märkte versagen auf bekannte Weise — Externalitäten, Monopole, öffentliche Güter. Das ist ein Argument für gezielten Staat. Es ist kein Argument, Gosplan sei ein besseres Betriebssystem für eine Marktwirtschaft, denn eine Marktwirtschaft ist das System, das Preise nutzt."
+    ],
+    "keyFacts": [
+      {
+        "label": "Korea",
+        "value": "Der Süden um ein Vielfaches reicher als der Norden"
+      },
+      {
+        "label": "China",
+        "value": "Armutszusammenbruch nach der Marktreform 1978"
+      },
+      {
+        "label": "Mechanismus",
+        "value": "Preise tragen Knappheitsinformation, die Planung nicht kann"
+      }
+    ],
+    "sources": [
+      {
+        "publisher": "Our World in Data",
+        "title": "GDP per capita (Maddison)",
+        "url": "https://ourworldindata.org/grapher/gdp-per-capita-maddison-project-database"
+      },
+      {
+        "publisher": "World Bank",
+        "title": "Four Decades of Poverty Reduction in China",
+        "url": "https://www.worldbank.org/en/news/press-release/2022/04/01/lifting-800-million-people-out-of-poverty-new-report-looks-at-lessons-from-china-s-experience"
+      },
+      {
+        "publisher": "F. A. Hayek / AER 1945 (reprint)",
+        "title": "The Use of Knowledge in Society",
+        "url": "https://www.econlib.org/library/Essays/hykKnw.html"
+      }
+    ]
+  },
+  {
+    "id": "cap-inequality",
+    "slug": "inequality",
+    "number": 5,
+    "verdict": "misleading",
+    "lastChecked": "2026-08-22",
+    "myth": "Steigende Ungleichheit beweist, dass der Kapitalismus ein gescheitertes System ist.",
+    "headline": "Die globale Ungleichheit zwischen Ländern ist gefallen, als arme Länder wuchsen. Armut ist der bessere Test.",
+    "kernel": "Innerhalb mancher reicher Länder hat sich die Spitze abgesetzt. Das ist eine reale politische Tatsache. Es ist nicht dasselbe wie „das System macht die Armen ärmer“.",
+    "body": [
+      "Wenn die Anklage lautet, Marktwachstum lasse die global Armen zurück, sind die letzten 40 Jahre die Erwiderung. Das Wachstum Chinas und Indiens ist eine Kompression der Ungleichheit zwischen Ländern — der Lücke, die früher den Welt-Gini dominierte. Die globale Ungleichheitsserie von Our World in Data zeigt diese Geschichte. Die Menschen, die die Armut von $3 am Tag verlassen haben, haben das nicht getan, indem sie Schweizer Zahnärzte enteigneten.",
+      "Innerhalb der Vereinigten Staaten und Teilen Europas haben technikgetriebene Qualifikationsprämien, Wohnungsknappheit und Märkte, in denen der Sieger das meiste nimmt, die Spitze gestreckt. Man kann mehr Wettbewerb, dichtere Städte und eine bessere Steuermischung wollen, ohne einen Gini-Koeffizienten als Totenschein für Märkte zu behandeln. Gleiche Armut ist kein Erfolg; ungleiche Wohlhabenheit mit fallender Armutsrate kommt einem näher.",
+      "Eine Marktwirtschaft verspricht keine identischen Ergebnisse. Sie verspricht, dass Menschen handeln und investieren können, ohne dass ein Ministerium ihnen den Job zuweist. Man beurteile sie an Mobilität, absoluten Lebensstandards und ob der Boden steigt. Daran ist die kapitalistische Bilanz die, die andere Systeme immer wieder zu kopieren versuchen."
+    ],
+    "keyFacts": [
+      {
+        "label": "Globales Bild",
+        "value": "Lücken zwischen Ländern schrumpften, als Asien wuchs"
+      },
+      {
+        "label": "Besserer Test",
+        "value": "Absolute Armut und Konsum, nicht Gini allein"
+      },
+      {
+        "label": "Kern",
+        "value": "Das Absetzen der Spitze in manchen reichen Ländern ist real"
+      }
+    ],
+    "sources": [
+      {
+        "publisher": "Our World in Data",
+        "title": "Global economic inequality",
+        "url": "https://ourworldindata.org/global-economic-inequality"
+      },
+      {
+        "publisher": "Our World in Data",
+        "title": "Poverty",
+        "url": "https://ourworldindata.org/poverty"
+      }
+    ]
+  },
+  {
+    "id": "cap-exploit",
+    "slug": "exploit",
+    "number": 6,
+    "verdict": "misleading",
+    "lastChecked": "2026-08-22",
+    "myth": "Kapitalismus setzt die Ausbeutung von Arbeitern voraus. Sweatshops beweisen, dass das System extraktiv ist.",
+    "headline": "Die Leute nehmen den Fabrikjob, weil die Alternative schlechter ist. Löhne steigen dann mit der Produktivität.",
+    "kernel": "Frühe Industriebedingungen sind oft trostlos. Das ist ein Grund für Wachstum und Ausstiegsoptionen, kein Grund, die Leiter zu verbieten.",
+    "body": [
+      "Paul Krugmans „In Praise of Cheap Labor“ und die spätere Sweatshop-Literatur (Powell und andere) machen einen unsentimentalen Punkt: Ein $2-Fabrikjob wird gegenüber einem $1-Bauerntag oder keinem Job gewählt. Die Fabrik zu verbieten, zaubert kein Gehalt einer dänischen Krankenschwester herbei. Es verweist den Arbeiter auf die schlechtere Option. Deshalb haben Kampagnen, die Werke schließen ohne einen besseren lokalen Arbeitgeber, eine Opferzahl in entgangenem Einkommen.",
+      "Ausbeutung heißt in der Losung „der Eigentümer hat den Residualgewinn bekommen“. Auf einem wettbewerblichen Arbeitsmarkt wird der Lohn in Richtung des Grenzprodukts des Arbeiters geboten. Das historische Muster in Korea, Taiwan, China und Bangladesch ist dasselbe: zuerst die trostlose Fabrik, dann die bessere Fabrik, dann der Dienstjob. Reale Industrielöhne in Ostasien sind kein Jahrhundert lang stagniert.",
+      "Wo Arbeiter nicht gehen, sich nicht organisieren und nicht besitzen können, hat man kein Marktversagen — man hat ein politisches. Leibeigenschaft, die Hukou-Falle und Firmenstädte mit bewaffneten Toren sind Beschränkungen von Märkten, nicht deren Definition."
+    ],
+    "keyFacts": [
+      {
+        "label": "Test",
+        "value": "Verglichen mit der tatsächlichen Alternative, nicht mit Dänemark"
+      },
+      {
+        "label": "Muster",
+        "value": "Fabrik → bessere Fabrik → Dienstleistungen, wenn die Produktivität steigt"
+      },
+      {
+        "label": "Echter Zwang",
+        "value": "Wenn Leute nicht kündigen oder konkurrieren können"
+      }
+    ],
+    "sources": [
+      {
+        "publisher": "Paul Krugman / Slate (1997)",
+        "title": "In Praise of Cheap Labor",
+        "url": "https://slate.com/business/1997/03/in-praise-of-cheap-labor.html"
+      },
+      {
+        "publisher": "Benjamin Powell / Cato",
+        "title": "Out of Poverty: Sweatshops in the Global Economy",
+        "url": "https://www.cato.org/books/out-poverty"
+      }
+    ]
+  },
+  {
+    "id": "cap-climate",
+    "slug": "climate",
+    "number": 7,
+    "verdict": "overstated",
+    "lastChecked": "2026-08-22",
+    "myth": "Der Kapitalismus kocht den Planeten. Eine Marktwirtschaft kann Emissionen nicht senken.",
+    "headline": "Reiche Marktwirtschaften haben begonnen, GDP von CO₂ zu entkoppeln. Das restliche Problem ist global und politisch.",
+    "kernel": "Die globalen Emissionen sind immer noch zu hoch. Entkopplung in EU und USA ist keine abgeschlossene Klimapolitik. Es ist der Beleg, dass Wachstum und fallende Emissionen koexistieren können.",
+    "body": [
+      "Die IEA: Seit 1990 hat sich die US-Wirtschaft etwa verdoppelt, während CO₂ etwa auf das Niveau von 1990 zurückgekehrt ist. Die EU-Wirtschaft ist in der Größenordnung um zwei Drittel größer bei Emissionen etwa 30% niedriger. Our World in Data dokumentiert konsumseitige Entkopplung in einer langen Liste reicher Länder — nicht nur ein Trick, den Schornstein auszulagern.",
+      "Eine ECIU-Lesart des Global Carbon Budget 2025 fand Länder, die den Großteil des Welt-GDP stellen, im Wachstum, während der konsumseitige Kohlenstoff fiel oder flach blieb. Das ist, was eine Marktwirtschaft tut, wenn Kohlenstoff einen Preis bekommt, Kohle teuer wird und Firmen Wärmepumpen und Reaktoren verkaufen: Sie substituiert.",
+      "Der Fehlermodus ist unbepreister Kohlenstoff, nicht „Märkte haben“. Kommandowirtschaften (sowjetisches Methan, maoistische Abholzung, ostdeutsche Braunkohle) waren nicht grün. Wer schnellere Schnitte will, besteuere die Externalität und lasse Preise umschichten. Die Marktwirtschaft abzuschaffen, entfernt die Maschine, die die Substitute erfindet."
+    ],
+    "keyFacts": [
+      {
+        "label": "USA seit 1990",
+        "value": "GDP etwa verdoppelt; CO₂ wieder nahe 1990"
+      },
+      {
+        "label": "EU seit 1990",
+        "value": "GDP ~+66%; CO₂ ~−30%"
+      },
+      {
+        "label": "Werkzeug",
+        "value": "Die Externalität bepreisen; Preise nicht abschaffen"
+      }
+    ],
+    "sources": [
+      {
+        "publisher": "IEA",
+        "title": "The relationship between growth in GDP and CO2 has loosened",
+        "url": "https://www.iea.org/commentaries/the-relationship-between-growth-in-gdp-and-co2-has-loosened-it-needs-to-be-cut-completely"
+      },
+      {
+        "publisher": "Our World in Data",
+        "title": "CO₂ emissions and GDP decoupling",
+        "url": "https://ourworldindata.org/co2-gdp-decoupling"
+      },
+      {
+        "publisher": "Our World in Data",
+        "title": "Change in CO₂ emissions and GDP",
+        "url": "https://ourworldindata.org/grapher/co2-emissions-and-gdp"
+      }
+    ]
+  },
+  {
+    "id": "cap-billionaires",
+    "slug": "billionaires",
+    "number": 8,
+    "verdict": "misleading",
+    "lastChecked": "2026-08-22",
+    "myth": "Wenn es Milliardäre gibt, haben sie das Geld gestohlen. Eine gerechte Marktwirtschaft würde sie nicht hervorbringen.",
+    "headline": "Die meisten großen amerikanischen Vermögen sind Anteile an Firmen, die ein Produkt skaliert haben. Vetternwirtschaft ist die Ausnahme, die man ahnden muss, nicht die Regel, die man abschafft.",
+    "kernel": "Manche Milliardäre sind Subventionsbauern oder Monopolerben. Man nenne sie. Man tue nicht so, als sei jeder Gründerrest ein Diebstahl an einem Angestellten.",
+    "body": [
+      "Die Anteile eines Gründers sind ein Anspruch auf den Restgewinn nach Bezahlung von Arbeitern und Zulieferern. Wenn die Firma mehr Wert schafft als sie kostet, kann dieser Rest enorm sein, weil Software und Marken skalieren. Kaplan und Rauhs Arbeit zum amerikanischen Reichtum ist die langweilige Fassung: Ein großer Teil des neuen Spitzenvermögens liegt in unternehmerischem Eigenkapital, nicht in einer Landschenkung des 19. Jahrhunderts.",
+      "Die Konsumentenrente ist meist größer als der Haufen des Gründers. Die Leute nutzen das Produkt, weil es die Alternative schlägt. Das ist ein Markttest. Ein gerechtes System kann trotzdem Erbschaften besteuern, einen Boden finanzieren und echte Monopole zerlegen. Das sind markterhaltende Reparaturen.",
+      "Die Losung „Milliardäre sollte es nicht geben“ ist eine Behauptung über die Form des Restgewinns, nicht darüber, ob eine Marktwirtschaft ein gutes Betriebssystem ist. Man kann Yachten ablehnen und trotzdem Preise, Gesellschaftsgründung und das Recht, eine Firma zu starten, wollen. Das zu verwechseln ist, wie man ein Produktionsministerium mit einem ärmeren Angestellten bekommt."
+    ],
+    "keyFacts": [
+      {
+        "label": "Typischer Pfad",
+        "value": "Gründeranteile an einer skalierten Firma"
+      },
+      {
+        "label": "Besseres Ziel",
+        "value": "Vettern-Subventionen und geschlossener Markteintritt"
+      },
+      {
+        "label": "Nicht impliziert",
+        "value": "Dass Restgewinne null sein müssen"
+      }
+    ],
+    "sources": [
+      {
+        "publisher": "Kaplan & Rauh",
+        "title": "It’s the Market: The Broad-Based Rise in the Return to Top Talent (NBER w19846)",
+        "url": "https://www.nber.org/papers/w19846"
+      },
+      {
+        "publisher": "Our World in Data",
+        "title": "Wealth",
+        "url": "https://ourworldindata.org/wealth"
+      }
+    ]
+  },
+  {
+    "id": "cap-war",
+    "slug": "war",
+    "number": 9,
+    "verdict": "false",
+    "lastChecked": "2026-08-22",
+    "myth": "Der Kapitalismus verursacht Krieg. Märkte brauchen Blut, um zu wachsen.",
+    "headline": "Marktdemokratien bekämpfen einander selten. Das industrielle Schlachten des 20. Jahrhunderts war keine Hauptversammlung.",
+    "kernel": "Staaten führen Krieg um Territorium, Angst und Ruhm unter jedem Eigentumsregime. Kolonialgesellschaften haben Hässliches getan. Das ist kein einzigartiges Gesetz des Kapitalismus.",
+    "body": [
+      "Die Kriegs-und-Friedens-Serie von Our World in Data und die breitere Literatur zum „kapitalistischen Frieden“ / demokratischen Frieden finden, dass kommerziell verflochtene Demokratien die langweiligsten Nachbarn im Datensatz sind. Zwischenstaatliche Kriegstote als Anteil der Menschheit brachen nach 1945 ein, während der Handel explodierte.",
+      "Die Opferzahl des 20. Jahrhunderts wird von totalitären Projekten dominiert, die Märkte abgeschafft haben: Stalins Hunger und Lager, Maos Sprung und Kulturrevolution, die Roten Khmer. Rummels Demozid-Bilanzen und das Schwarzbuch des Kommunismus sind das Konto, das die Losung überspringt. Eine Planwirtschaft mit Geheimpolizei ist keine Friedensbewegung.",
+      "Firmen verkaufen an beide Kriegsseiten, wenn Staaten es zulassen. Das ist eine Anklage der Staaten. Autarke Reiche fallen auch ein. Hätte Handel Krieg gemacht, wäre der Globalisierungsboom nach 1980 ein Friedhof. Es ist das gegenteilige Muster."
+    ],
+    "keyFacts": [
+      {
+        "label": "Muster",
+        "value": "Marktdemokratien bekämpfen einander fast nie"
+      },
+      {
+        "label": "Konto des 20. Jahrhunderts",
+        "value": "Demozid unter totalitärer Planung überragt Handelskriege"
+      },
+      {
+        "label": "Seit 1945",
+        "value": "Handel rauf; zwischenstaatliche Kriegstote runter"
+      }
+    ],
+    "sources": [
+      {
+        "publisher": "Our World in Data",
+        "title": "War and Peace",
+        "url": "https://ourworldindata.org/war-and-peace"
+      },
+      {
+        "publisher": "Our World in Data / UCDP",
+        "title": "Deaths in state-based conflicts",
+        "url": "https://ourworldindata.org/grapher/deaths-in-armed-conflicts-by-type"
+      }
+    ]
+  },
+  {
+    "id": "cap-public-goods",
+    "slug": "public-goods",
+    "number": 10,
+    "verdict": "overstated",
+    "lastChecked": "2026-08-22",
+    "myth": "Märkte können keine Gesundheitsversorgung, Schulen oder ein soziales Netz bereitstellen, also ist der Kapitalismus das falsche System.",
+    "headline": "Eine Marktwirtschaft ist, wie man reich genug wird, um öffentliche Güter zu kaufen. Sie ist kein Verbot derselben.",
+    "kernel": "Reine öffentliche Güter und Versicherungsmärkte versagen auf lehrbuchhafte Weise. Das rechtfertigt etwas Staat. Es rechtfertigt nicht, Preise als Regelfall für den Rest der Wirtschaft zu ersetzen.",
+    "body": [
+      "Landesverteidigung, Grundlagenforschung und ein Boden gegen Not sind von einem Eckladen nicht gut zu liefern. Ökonomen sagen das seit Smith. Jedes reiche Marktland betreibt schon Schulen, Renten und Krankenhäuser mit einer Mischung aus Steuer und privater Bereitstellung. Lebenserwartung, Alphabetisierung und Kalorien explodierten in diesen Ländern, während sie kapitalistisch blieben.",
+      "Der Kategorienfehler ist, „wir sollten Impfstoffe finanzieren“ als „wir sollten Ansprüche auf den Restgewinn, Preise und Markteintritt abschaffen“ zu behandeln. Der NHS kauft trotzdem Medikamente von Firmen. Schwedische Schulen stehen trotzdem einem Arbeitsmarkt gegenüber. Singapurs medizinisches Sparen plus Katastrophenversicherung ist ein marktwirtschaftliches Instrument. Die Norden-Karte hat den Rest schon abgedeckt: einen produktiven Privatsektor besteuern.",
+      "Wenn Staaten versuchen, die ganze Wirtschaft zu führen, als wäre sie ein öffentliches Gut, bekommt man die Planungskarte. Wenn sie Kohlenstoff bepreisen, einen Boden finanzieren und Firmen konkurrieren lassen, bekommt man das einzige System, das Massenwohlstand je normal gemacht hat. Das ist eine Marktwirtschaft mit einem Staat — und das ist erfolgreicher Kapitalismus."
+    ],
+    "keyFacts": [
+      {
+        "label": "Öffentliche Güter",
+        "value": "Real; sie rechtfertigen etwas steuerfinanzierte Bereitstellung"
+      },
+      {
+        "label": "Was sie bezahlt hat",
+        "value": "Ein produktiver Privatsektor"
+      },
+      {
+        "label": "Kategorienfehler",
+        "value": "Ein soziales Netz mit Gosplan verwechseln"
+      }
+    ],
+    "sources": [
+      {
+        "publisher": "Our World in Data",
+        "title": "Life expectancy",
+        "url": "https://ourworldindata.org/life-expectancy"
+      },
+      {
+        "publisher": "Our World in Data",
+        "title": "Global education",
+        "url": "https://ourworldindata.org/global-education"
+      },
+      {
+        "publisher": "Wikipedia (sourced overview)",
+        "title": "Nordic model",
+        "url": "https://en.wikipedia.org/wiki/Nordic_model"
+      }
+    ]
+  }
+]

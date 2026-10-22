@@ -1,0 +1,378 @@
+[
+  {
+    "id": "elon-emerald",
+    "slug": "emerald",
+    "number": 1,
+    "verdict": "false",
+    "lastChecked": "2026-08-22",
+    "myth": "Elon Musk ha ereditato una fortuna dalle miniere di smeraldi dell'apartheid e si è comprato l'ingresso in Tesla e SpaceX.",
+    "headline": "A fondare le società sono stati i proventi di PayPal. Nella cap table non c'è nessuna eredità di smeraldi.",
+    "kernel": "Il padre Errol ha raccontato una storia instabile sugli smeraldi in Zambia. Non equivale a dire che Elon abbia ereditato una miniera, o che abbia usato quei soldi per avviare SpaceX.",
+    "body": [
+      "Elon ha lasciato il Sudafrica a 17 anni, ha lavorato in Canada, poi ha studiato negli Stati Uniti. Zip2 era una startup software anni Novanta; la Compaq la comprò nel 1999. Da X.com, poi PayPal, arriva la vera quota: circa 180 milioni di dollari dopo l'acquisizione da parte di eBay. Quello è il seme documentato di SpaceX (2002) e dell'investimento Tesla del 2004.",
+      "Errol Musk ha, in momenti diversi, rivendicato una partecipazione nella produzione di smeraldi zambiani e poi ha ridimensionato il racconto a «una parte degli smeraldi». Maye Musk ha descritto una famiglia agiata, non una dinastia mineraria. La biografia di Walter Isaacson e i resoconti dell'epoca non trovano nessun trasferimento di ricchezza mineraria in Zip2, PayPal, Tesla o SpaceX.",
+      "Un padre che un tempo commerciava in pietre è un'origine pittoresca. Non sostituisce le cap table, l'incasso PayPal, né il decennio di quasi-fallimento che SpaceX e Tesla hanno attraversato dopo."
+    ],
+    "keyFacts": [
+      {
+        "label": "Proventi PayPal",
+        "value": "~$180M (quota di Elon, 2002)"
+      },
+      {
+        "label": "Assegno Tesla 2004",
+        "value": "~$6.5M di quei soldi, investitore principale"
+      },
+      {
+        "label": "Miniera di smeraldi",
+        "value": "Nessuna eredità documentata né ruolo in cap table"
+      }
+    ],
+    "sources": [
+      {
+        "publisher": "Walter Isaacson / Simon & Schuster",
+        "title": "Elon Musk",
+        "url": "https://www.simonandschuster.com/books/Elon-Musk/Walter-Isaacson/9781982181284"
+      },
+      {
+        "publisher": "Wikipedia (sourced timeline)",
+        "title": "Wealth of Elon Musk",
+        "url": "https://en.wikipedia.org/wiki/Wealth_of_Elon_Musk"
+      }
+    ]
+  },
+  {
+    "id": "elon-never-built",
+    "slug": "never-built",
+    "number": 2,
+    "verdict": "false",
+    "lastChecked": "2026-08-22",
+    "myth": "Non ha mai costruito niente. È un CEO che compra le aziende degli altri e twitta.",
+    "headline": "Ha fondato aziende, e non è l'ingegnere di ogni pezzo. Le due cose possono essere vere insieme.",
+    "kernel": null,
+    "body": [
+      "Zip2 e X.com erano startup che ha cofondato. SpaceX è nata da un foglio bianco nel 2002 — Merlin, Falcon, Dragon e Raptor sono veicoli interni, non acquisizioni. Neuralink, The Boring Company e xAI sono state fondate, non comprate. Tesla è l'eccezione: è entrato come investitore principale e presidente nel 2004 e ne è diventato CEO nel 2008.",
+      "La correzione utile è più stretta: non salda personalmente le auto e non scrive ogni riga del software di volo. È un capo ingegnere esigente nelle revisioni di progetto, cosa documentata fino al cliché. Non è la stessa cosa di «non ha mai costruito niente», e non è la stessa cosa di «genio solitario inventore della cella al litio»."
+    ],
+    "keyFacts": [
+      {
+        "label": "Fondate",
+        "value": "Zip2, percorso X.com/PayPal, SpaceX, Neuralink, Boring, xAI"
+      },
+      {
+        "label": "Entrato / scalato",
+        "value": "Tesla (investitore principale 2004, CEO 2008)"
+      },
+      {
+        "label": "Comprata dopo",
+        "value": "Twitter / X (2022) — l'unica che coincide col meme"
+      }
+    ],
+    "sources": [
+      {
+        "publisher": "Encyclopaedia Britannica",
+        "title": "Elon Musk",
+        "url": "https://www.britannica.com/biography/Elon-Musk"
+      }
+    ]
+  },
+  {
+    "id": "elon-taxes",
+    "slug": "taxes",
+    "number": 3,
+    "verdict": "false",
+    "lastChecked": "2026-08-22",
+    "myth": "Elon Musk non paga le tasse.",
+    "headline": "Ha versato la più grande imposta sul reddito individuale nota negli Stati Uniti. Le plusvalenze non realizzate non si tassano. È il sistema, non un buco segreto fatto su misura per lui.",
+    "kernel": "Negli anni in cui non vende azioni e non esercita opzioni, il reddito in contanti può sembrare piccolo rispetto al patrimonio. È così che funzionano le plusvalenze non realizzate per ogni fondatore, non un'esenzione speciale di Elon.",
+    "body": [
+      "Nel 2021 ha esercitato un grosso pacchetto di opzioni Tesla e ha venduto azioni. Ha detto che il conto fiscale superava gli 11 miliardi di dollari — le stime dell'epoca mettevano la quota federale intorno ai 10–12 miliardi, ampiamente riportata come il più grande versamento individuale di imposta sul reddito mai registrato.",
+      "I critici notano, correttamente, che la ricchezza (soprattutto equity Tesla e SpaceX) può accumularsi per anni senza un evento tassabile. È un argomento sul fatto se gli Stati Uniti debbano tassare le plusvalenze non realizzate, non la prova che «non paga le tasse». Quando sono scattate le opzioni, è scattato il conto."
+    ],
+    "keyFacts": [
+      {
+        "label": "Conto fiscale 2021",
+        "value": "~$11–12 miliardi (sua cifra / stime stampa)"
+      },
+      {
+        "label": "Innesco",
+        "value": "Esercizio opzioni Tesla + vendita di azioni"
+      },
+      {
+        "label": "Cosa non si tassa",
+        "value": "Plusvalenze cartacee non realizzate, per legge USA"
+      }
+    ],
+    "sources": [
+      {
+        "publisher": "CNBC",
+        "title": "Elon Musk says he will pay over $11 billion in taxes this year",
+        "url": "https://www.cnbc.com/2021/12/20/elon-musk-says-he-will-pay-over-11-billion-in-taxes-this-year.html"
+      },
+      {
+        "publisher": "Wikipedia",
+        "title": "Wealth of Elon Musk",
+        "url": "https://en.wikipedia.org/wiki/Wealth_of_Elon_Musk"
+      }
+    ]
+  },
+  {
+    "id": "elon-cofounder",
+    "slug": "cofounder",
+    "number": 4,
+    "verdict": "misleading",
+    "lastChecked": "2026-08-22",
+    "myth": "Chiamare Elon cofondatore di Tesla è una bugia. Ha comprato l'azienda e si è fatto strada sulla targa a suon di cause.",
+    "headline": "Martin Eberhard e Marc Tarpenning hanno fondato Tesla nel 2003. Musk è stato l'investitore principale nel 2004. Un accordo del 2009 gli consente di usare il titolo di cofondatore.",
+    "kernel": "L'atto costitutivo originale non lo comprendeva. L'azienda che è sopravvissuta al 2008 sì, con i suoi soldi, la direzione di prodotto e il posto da CEO. Le due metà di quella frase sono il dossier.",
+    "body": [
+      "Tesla Motors è stata costituita nel luglio 2003 da Eberhard e Tarpenning. Musk ha guidato la Series A del febbraio 2004, è diventato presidente e poi CEO durante il quasi-fallimento del 2008. Ha spinto la Roadster in produzione, poi la Model S.",
+      "Dopo l'estromissione di Eberhard è arrivato il contenzioso. L'accordo del 2009 consente di descrivere Musk, JB Straubel, Eberhard, Tarpenning e Ian Wright come cofondatori. È un trattato di pace legale, non una macchina del tempo. È lecito dire che non ha costituito Tesla. Non è lecito dire che «ha comprato un'azienda automobilistica finita» — non c'era una Model S, non c'era scala di fabbrica, e a malapena una Roadster."
+    ],
+    "keyFacts": [
+      {
+        "label": "Costituzione",
+        "value": "Luglio 2003, Eberhard & Tarpenning"
+      },
+      {
+        "label": "Arrivo di Musk",
+        "value": "Series A, febbraio 2004; CEO 2008"
+      },
+      {
+        "label": "Titolo",
+        "value": "Accordo 2009: linguaggio da cofondatore ammesso"
+      }
+    ],
+    "sources": [
+      {
+        "publisher": "Wikipedia (founding section)",
+        "title": "Tesla, Inc.",
+        "url": "https://en.wikipedia.org/wiki/Tesla,_Inc."
+      }
+    ]
+  },
+  {
+    "id": "elon-salute",
+    "slug": "salute",
+    "number": 5,
+    "verdict": "misleading",
+    "lastChecked": "2026-08-22",
+    "myth": "Il gesto all'insediamento del gennaio 2025 ha dimostrato che Elon Musk è un nazista.",
+    "headline": "Il video è brutto. L'intento non è stato dimostrato. «Sembra un saluto» non è una tessera di partito.",
+    "kernel": "Si è battuto il petto e ha gettato un braccio in fuori due volte. Chi guardava, soprattutto in Germania, ha sentito un allarme molto preciso. Quella rima visiva è reale. Lo è anche l'assenza di un programma, di un manifesto o di un procedimento che abbia trasformato il clip in prova di nazismo.",
+    "body": [
+      "Il 20 gennaio 2025, dopo aver parlato a un evento inaugurale di Trump, Musk si è battuto il petto e ha teso il braccio destro, palmo in giù, due volte. I critici, compresi molti in Europa, l'hanno chiamato Hitlergruß. Lui ha detto che era «il mio cuore va verso di voi». L'Anti-Defamation League l'ha descritto come «un gesto goffo in un momento di entusiasmo, non un saluto nazista».",
+      "Un argomento distinto, e più onesto, riguarda ciò che amplifica: certi account di estrema destra, certi riff cospirazionisti, un gusto per lo scavalcamento dei tabù. È un dibattito su media e giudizio. Ridurlo a «è un nazista» per un gesto (brutto) è la parte che non regge. I tedeschi hanno una linea legale netta sul saluto; i pm non ne hanno fatto il caso-test che lo abbia condannato per esserlo."
+    ],
+    "keyFacts": [
+      {
+        "label": "Quando",
+        "value": "20 gennaio 2025, palco inaugurale"
+      },
+      {
+        "label": "La sua versione",
+        "value": "«My heart goes out to you»"
+      },
+      {
+        "label": "ADL",
+        "value": "Entusiasmo goffo, non un saluto nazista"
+      }
+    ],
+    "sources": [
+      {
+        "publisher": "Corriere della Sera",
+        "title": "Il saluto romano di Elon Musk all'insediamento di Trump",
+        "url": "https://www.corriere.it/esteri/25_gennaio_21/trump-show-arena-saluto-romano-musk-4d0b191d-d759-4945-9c16-7ef617e4fxlk.shtml"
+      },
+      {
+        "publisher": "Corriere della Sera",
+        "title": "La vera storia del saluto romano, da Mussolini a Musk",
+        "url": "https://www.corriere.it/cronache/25_febbraio_28/saluto-romano-storia-mussolini-musk-1e946220-0684-4292-ad78-45edfa9abxlk.shtml"
+      },
+      {
+        "publisher": "The New York Times",
+        "title": "What Elon Musk’s Salute Was All About",
+        "url": "https://www.nytimes.com/2025/01/24/world/europe/elon-musk-roman-salute-nazi.html"
+      },
+      {
+        "publisher": "Wikipedia (inauguration gesture)",
+        "title": "Elon Musk",
+        "url": "https://en.wikipedia.org/wiki/Elon_Musk"
+      }
+    ]
+  },
+  {
+    "id": "elon-subsidies",
+    "slug": "subsidies",
+    "number": 6,
+    "verdict": "misleading",
+    "lastChecked": "2026-08-22",
+    "myth": "Inveisce contro gli sprechi pubblici mentre le sue aziende vivono di sussidi.",
+    "headline": "Tesla ha usato la politica industriale. SpaceX vende lanci. Fondere le due cose in «figlio dei sussidi» è il gioco di prestigio.",
+    "kernel": "Il prestito DOE da 465 milioni di dollari era reale — e rimborsato in anticipo, con interessi, nel 2013. I crediti d'imposta EV per gli acquirenti e i crediti ZEV sono reali. La NASA che paga per cargo e equipaggio è l'acquisto di un servizio, come pagava lo Shuttle.",
+    "body": [
+      "I primi anni di Tesla passarono dal prestito DOE ATVM del 2009 (465 milioni di dollari). Tesla lo rimborsò nel 2013, nove anni in anticipo. I crediti d'imposta EV americani ed europei vanno agli acquirenti; hanno comunque aiutato la domanda. I crediti per veicoli a emissioni zero venduti ad altri costruttori sono stati per anni una voce di ricavo Tesla non banale. È politica industriale, e fingere il contrario è un romanzo.",
+      "I soldi NASA COTS e Commercial Crew di SpaceX erano contratti a milestone pensati per comprare voli cargo e astronauti a meno dello Shuttle. La U.S. Space Force compra lanci su un catalogo competitivo. Il bando Starlink per la banda larga rurale è poi finito in contenzioso. Chiamare ogni assegno pubblico un «sussidio» cancella la differenza tra un contributo a fondo perduto e una fattura per un lancio."
+    ],
+    "keyFacts": [
+      {
+        "label": "Prestito DOE",
+        "value": "$465M, rimborsato nel 2013 con interessi"
+      },
+      {
+        "label": "NASA / DoD",
+        "value": "Contratti per cargo, equipaggio, lanci di sicurezza nazionale"
+      },
+      {
+        "label": "Crediti ZEV",
+        "value": "Ricavi Tesla reali, ora in calo mentre gli altri recuperano"
+      }
+    ],
+    "sources": [
+      {
+        "publisher": "U.S. Department of Energy",
+        "title": "Tesla pays off DOE loan",
+        "url": "https://www.energy.gov/articles/tesla-repay-department-energy-loan-nine-years-early"
+      }
+    ]
+  },
+  {
+    "id": "elon-fsd-fraud",
+    "slug": "fsd-fraud",
+    "number": 7,
+    "verdict": "overstated",
+    "lastChecked": "2026-08-22",
+    "myth": "Ha promesso la guida autonoma completa anni fa. Quindi tutta la faccenda è una truffa.",
+    "headline": "Le date erano cronicamente ottimistiche. Lo stack ha continuato a migliorare. Calendari mancati non sono un prodotto finto.",
+    "kernel": "Dal 2016 in poi ha venduto un futuro che non è arrivato come da slide. È un copione reale, e i regolatori hanno notato lo scarto tra «Full Self-Driving» come nome e come capacità legale.",
+    "body": [
+      "Autopilot è arrivato come sistema autostradale supervisionato. «Full Self-Driving» come pacchetto software è stato in beta, poi in una release più ampia, con il conducente ancora responsabile. Il servizio robotaxi è iniziato in forma limitata (Austin, 2025) senza un prodotto nazionale non supervisionato. Ogni anno saltato è registrato.",
+      "L'inquadramento da truffa ha bisogno di una cosa che non è mai esistita. Tesla ha raccolto miliardi di miglia reali, ha iterato reti end-to-end e ha rimosso il radar a favore della visione — una scommessa tecnica, non una slide di vapore. Si possono tenere due fatti: ha sopravvalutato i tempi, e il sistema non è un cartone. Se affidereste la famiglia a quel sistema è una domanda distinta e legittima (si veda la scheda Tesla Autopilot)."
+    ],
+    "keyFacts": [
+      {
+        "label": "Copione",
+        "value": "Tempistiche pubbliche mancate, ripetutamente, dal ~2016"
+      },
+      {
+        "label": "Cosa è uscito",
+        "value": "FSD supervisionato + robotaxi limitato, non senza supervisione su scala nazionale"
+      },
+      {
+        "label": "Non è la stessa cosa di",
+        "value": "Theranos — c'è uno stack che gira su strade pubbliche"
+      }
+    ],
+    "sources": [
+      {
+        "publisher": "Tesla",
+        "title": "Autopilot and Full Self-Driving (Supervised)",
+        "url": "https://www.tesla.com/autopilot"
+      }
+    ]
+  },
+  {
+    "id": "elon-twitter",
+    "slug": "twitter",
+    "number": 8,
+    "verdict": "overstated",
+    "lastChecked": "2026-08-22",
+    "myth": "Ha distrutto Twitter e ha trasformato X in un bar nazista.",
+    "headline": "Gli inserzionisti se ne sono andati. La moderazione è diventata più strana. Community Notes è reale. Non è 8chan con il logo dell'uccellino.",
+    "kernel": "Il passaggio in privato da 44 miliardi di dollari è stato caotico. Il crollo degli organici, un'ondata di account prima bannati e gli spaventi sulla brand safety non erano un'allucinazione dei giornalisti.",
+    "body": [
+      "Dopo l'ottobre 2022, X ha perso una fetta larga della pubblicità. Lo staff di trust and safety è stato tagliato. Alcuni account estremisti sono tornati. I ricercatori sull'hate speech hanno riportato tassi più alti di insulti nei primi mesi. Sono fatti documentati.",
+      "La formula «bar nazista» è un umore, non un censimento. Community Notes è diventato uno dei sistemi pubblici di fact-checking più interessanti di internet, anche contro i post di Musk. La portata politica è diventata più eterodossa: più destra, anche più anti-woke, e ancora piena di utenti di sinistra. Una piazza più disordinata non è un forum estremista dedicato. Se quello scambio valesse 44 miliardi è una domanda di business. Se piace l'atmosfera è una questione di gusto."
+    ],
+    "keyFacts": [
+      {
+        "label": "Acquisto",
+        "value": "$44B, chiuso ottobre 2022"
+      },
+      {
+        "label": "Effetto chiaro",
+        "value": "Esodo degli inserzionisti, crollo dello staff, feed più rumoroso"
+      },
+      {
+        "label": "Anche reale",
+        "value": "Community Notes; anche i post di Musk vengono notati"
+      }
+    ],
+    "sources": [
+      {
+        "publisher": "Wikipedia",
+        "title": "Acquisition of Twitter by Elon Musk",
+        "url": "https://en.wikipedia.org/wiki/Acquisition_of_Twitter_by_Elon_Musk"
+      }
+    ]
+  },
+  {
+    "id": "elon-apartheid",
+    "slug": "apartheid",
+    "number": 9,
+    "verdict": "misleading",
+    "lastChecked": "2026-08-22",
+    "myth": "È un figlio dell'apartheid che vuole quel sistema indietro. Nato a Pretoria, quindi la politica.",
+    "headline": "Il luogo di nascita non è un manifesto. Se n'è andato a 17 anni. Criticare la criminalità post-apartheid non è un voto per il National Party.",
+    "kernel": "È nato a Pretoria nel 1971 in una famiglia bianca agiata sotto l'apartheid. È vero, e non è un fatto piccolo. Il salto a «sosteneva il regime / vuole restaurarlo» ha bisogno di prove dei suoi atti politici di allora. Sono deboli.",
+    "body": [
+      "L'apartheid era l'aria della sua infanzia. I nonni materni avevano una storia politica insolita, a tratti brutta (la migrazione degli Haldeman attraverso politicismi contigui all'apartheid e cospirazionisti è nelle biografie). Elon ha detto di aver trovato il sistema sbagliato e di essere partito.",
+      "I suoi commenti successivi sugli omicidi nelle fattorie sudafricane, la formula «white genocide» e l'ANC sono infiammatori e spesso sciatti con le statistiche. È un vero problema mediatico. Resta una tesi diversa da «è un restauratore dell'apartheid». Tanti sudafricani della sua generazione se ne sono andati; pochi di loro guidano case automobilistiche. Usate le parole che usa ora, non una nazionalità come pre-crimine morale."
+    ],
+    "keyFacts": [
+      {
+        "label": "Nato",
+        "value": "Pretoria, 1971"
+      },
+      {
+        "label": "Partito",
+        "value": "1988, a 17 anni, verso il Canada"
+      },
+      {
+        "label": "Serve, per la tesi forte",
+        "value": "Atti e testi, non un certificato di nascita"
+      }
+    ],
+    "sources": [
+      {
+        "publisher": "Wikipedia (early life)",
+        "title": "Elon Musk",
+        "url": "https://en.wikipedia.org/wiki/Elon_Musk"
+      }
+    ]
+  },
+  {
+    "id": "elon-unfit",
+    "slug": "unfit",
+    "number": 10,
+    "verdict": "overstated",
+    "lastChecked": "2026-08-22",
+    "myth": "È intontito di ketamina e mentalmente inidoneo a guidare aziende.",
+    "headline": "Ha detto di usare ketamina prescritta per la depressione. Non è un accertamento pubblico di incapacità. Il mulino diagnostico online non è una cartella clinica.",
+    "kernel": "Lo stile di lavoro è estremo, i post sono spesso temerari, e diversi CdA hanno dovuto assorbire il costo della marca personale. Sono lamentele operative lecite.",
+    "body": [
+      "Musk ha descritto pubblicamente la ketamina, prescritta, come trattamento per la depressione. Non c'è una valutazione medica rilasciata che lo dica compromesso sul lavoro. SpaceX continua a volare, Tesla continua a produrre, xAI continua a spedire. Gli argomenti di Borsa sulla «distrazione» non sono criteri DSM.",
+      "Si può pensare che i post siano un problema di governance — i consiglieri Tesla, a tratti, l'hanno pensato chiaramente. Si può pensare che la privazione di sonno e i post alle 3 di notte siano sconsiderati. Tradurre tutto in «il CEO è in sbronza e i razzi non sono sorvegliati» è un racconto. Giornalisti al seguito, dipendenti e registri di volo non hanno prodotto il fascicolo-prova di inidoneità di cui il meme ha bisogno."
+    ],
+    "keyFacts": [
+      {
+        "label": "La sua versione",
+        "value": "Ketamina prescritta per la depressione"
+      },
+      {
+        "label": "Accertamento medico pubblico di inidoneità",
+        "value": "Nessuno"
+      },
+      {
+        "label": "Lamentela lecita",
+        "value": "Post erratici come rischio di governance e di marchio"
+      }
+    ],
+    "sources": [
+      {
+        "publisher": "Wikipedia (personal life)",
+        "title": "Elon Musk",
+        "url": "https://en.wikipedia.org/wiki/Elon_Musk"
+      }
+    ]
+  }
+]

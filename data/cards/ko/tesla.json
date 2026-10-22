@@ -1,0 +1,372 @@
+[
+  {
+    "id": "tesla-fire",
+    "slug": "fire",
+    "number": 1,
+    "verdict": "false",
+    "lastChecked": "2026-08-22",
+    "myth": "Tesla는 가솔린 차보다 더 자주 불이 난다.",
+    "headline": "마일당 Tesla가 공개하는 화재율은 미국 차량 평균보다 훨씬 낮다. 배터리 화재는 더 드물다. 다만 일단 나면 더 격렬하다.",
+    "kernel": "리튬 팩은 재발화할 수 있고 끄기 더 어렵다. 헤드라인은 이상한 불을 따라가지, 전형적인 미국 한 해의 따분한 가솔린 화재 189,000건을 따라가지 않는다.",
+    "body": [
+      "Tesla의 차량 화재 안전 수치(2012–2023)는 약 1억 3,500만 마일당 화재 1건이다. NFPA / 미 교통부 미국 차량 전체 수치는 약 1,700만 마일당 1건이다. Tesla는 그 집계에 건물 화재, 방화, NFPA 시계열이 종종 빼는 기타 비차량 원인을 포함한다고 적는다. 비교가 Tesla에 불리하게 보수적이라는 뜻이다.",
+      "다른 EV 데이터셋(스웨덴, 노르웨이)도 같은 방향을 보여 준다. 내연 차가 대수당 더 자주 불이 난다. 남은 정직한 문장: EV 팩 화재는 소방관에게 특수 사고이고, 더 오래 걸리고, 폰 카메라에는 종말처럼 보인다. 빈도는 바이럴 글이 주장하는 것이 아니다."
+    ],
+    "keyFacts": [
+      {
+        "label": "Tesla (2012–2023)",
+        "value": "~1억 3,500만 마일당 화재 1건"
+      },
+      {
+        "label": "미국 차량 (NFPA/DOT)",
+        "value": "~1,700만 마일당 화재 1건"
+      },
+      {
+        "label": "단서",
+        "value": "팩 화재는 고집세다; 빈도는 여전히 EV에 유리"
+      }
+    ],
+    "sources": [
+      {
+        "publisher": "전기신문",
+        "title": "전기차는 안전하다: 오해로 시작된 화재 포비아",
+        "url": "https://www.electimes.com/news/articleView.html?idxno=342856"
+      },
+      {
+        "publisher": "KFPA",
+        "title": "전기차 화재위험에 대한 오해와 진실",
+        "url": "https://www.kfpa.or.kr/webzine/202302/disaster1.html"
+      },
+      {
+        "publisher": "Tesla",
+        "title": "Vehicle Fire Safety Report",
+        "url": "https://www.tesla.com/VehicleFireSafetyReport"
+      },
+      {
+        "publisher": "NFPA",
+        "title": "Vehicle fires",
+        "url": "https://www.nfpa.org/education-and-research/research/nfpa-research/fire-statistical-reports/vehicle-fires"
+      }
+    ]
+  },
+  {
+    "id": "tesla-build",
+    "slug": "build",
+    "number": 2,
+    "verdict": "overstated",
+    "lastChecked": "2026-08-22",
+    "myth": "Tesla 조립 품질은 농담이다. 집에 오는 길에 패널이 떨어진다.",
+    "headline": "초기 물량 해는 헐거웠다. 패널 갭은 진짜 Consumer Reports 단골이었다. 2020년대 차는 다른 공장이다.",
+    "kernel": "표본이 생산 램프의 2018 Model 3라면, 환각이 아니다. 표본이 2024–2026 차라면, 유령과 싸우는 것이다.",
+    "body": [
+      "프리몬트의 Model 3 램프(2017–2019)는 들쭉날쭉한 패널 갭, 도장 문제, 단톡방을 떠나지 못한 평론을 낳았다. 독일과 미국 리뷰어가 문서화했다. 그 해 Tesla 자체의 서비스 부담은 흉했다.",
+      "기가 베를린, 오스틴, 성숙한 프리몬트 라인이 공정을 조였다. 남은 불만은 있다. 모든 양산 브랜드가 가진다. Tesla 실내의 싸구려 감은 취향 논쟁이지 안전 리콜이 아니다. 현재형 자연법칙으로서의 “분해된다”는 2026년 차도에 세워 둔 2018년 레토릭이다."
+    ],
+    "keyFacts": [
+      {
+        "label": "맞는 시대",
+        "value": "Model 3 램프, ~2017–2019, 들쭉날쭉한 차체"
+      },
+      {
+        "label": "지금",
+        "value": "여전히 Lexus는 아님; 빠진 도장 펀치라인은 아님"
+      },
+      {
+        "label": "공정한 나머지",
+        "value": "핏앤피니시 편차, 지역별 서비스 대기"
+      }
+    ],
+    "sources": [
+      {
+        "publisher": "Consumer Reports / contemporary reviews",
+        "title": "Tesla quality over time",
+        "url": "https://www.consumerreports.org/cars/tesla/"
+      }
+    ]
+  },
+  {
+    "id": "tesla-bankrupt",
+    "slug": "bankrupt",
+    "number": 3,
+    "verdict": "false",
+    "lastChecked": "2026-08-22",
+    "myth": "Tesla는 곧 파산한다. 늘 그래 왔고, 늘 그럴 것이다.",
+    "headline": "2018년 “생산 지옥” 공포는 진짜였다. 이 밈의 2026년 버전은 좀비다. 수요 사이클은 Chapter 11이 아니다.",
+    "kernel": null,
+    "body": [
+      "공매도 세력은 2017–2019년에 할 말이 있었다. Model 3 램프가 회사를 거의 죽였다. Tesla는 그다음 규모를 키웠고, 여러 해 GAAP 흑자를 찍었고, 큰 현금 더미를 쌓았고, 세계 시총 최상위 완성차 중 하나가 됐다. 액면 분할 조정 $20에서 그 베팅을 하고 스프레드시트를 한 번도 갱신하지 않은 사람들은 민속학을 하고 있다.",
+      "그게 Tesla를 불사로 만들지는 않는다. 가격 인하, 지저분한 2024–2025 수요 구간, BYD와의 경쟁, 브랜드 정치의 채찍질은 진짜 사업 위험이다. “다음 분기에 파산”은 10년째 고장난 시계다. 예언이 아니라 위험 요인으로 다루라."
+    ],
+    "keyFacts": [
+      {
+        "label": "존폐 위기",
+        "value": "실제 절벽은 2008과 ~2018"
+      },
+      {
+        "label": "이후",
+        "value": "규모, 현금, 여전히 출렁이는 수요 곡선"
+      },
+      {
+        "label": "밈",
+        "value": "파산 예고는 놓친 약속마다 살아남았다"
+      }
+    ],
+    "sources": [
+      {
+        "publisher": "Tesla IR",
+        "title": "Tesla financials",
+        "url": "https://ir.tesla.com/"
+      }
+    ]
+  },
+  {
+    "id": "tesla-battery-die",
+    "slug": "battery-die",
+    "number": 4,
+    "verdict": "misleading",
+    "lastChecked": "2026-08-22",
+    "myth": "배터리는 8년 만에 죽고 교체에 $20,000이 든다.",
+    "headline": "팩은 8년 보증이고, 보통 차의 실용 수명을 넘긴다. 교체가 필요하면 비싸다. 대부분 차주는 필요 없다.",
+    "kernel": "스마트폰 배터리 직관이 함정이다. 구동 팩은 열 관리되고, 주머니 기기보다 훨씬 부드럽게 사이클된다.",
+    "body": [
+      "Tesla는 모델에 따라 8년 / 100,000–150,000마일, 용량 하한까지 고전압 팩을 보증한다. Recurrent의 대규모 중고 EV 연구는 고장 교체가 드물다고 본다(역사적으로 한 자릿수 퍼센트 초반, 많은 2016년 이후 차는 리콜 제외 1% 훨씬 아래). 긴 사용 수명에 10% 열화는 흔한 실주행 그림이지, 벽돌이 아니다.",
+      "보증 밖에서 팩이 죽으면 청구서는 잔인할 수 있다. 모델과 모듈 교체인지 팩 전체인지에 따라 수천에서 수만. 그게 핵이다. 신화가 묘사하는 정기 정비 항목이 아니라, 보험 같은 꼬리 위험이다. 팩이 8년짜리 소모품이었다면 중고 시장 데이터는 아주 달랐을 것이다."
+    ],
+    "keyFacts": [
+      {
+        "label": "보증",
+        "value": "8년, 모델별 마일리지 상한, 용량 하한"
+      },
+      {
+        "label": "고장률",
+        "value": "Recurrent 규모 표본에서 드묾, 특히 2016년 이후"
+      },
+      {
+        "label": "교체",
+        "value": "꼬리에서 비쌈; 계획된 8년 정비가 아님"
+      }
+    ],
+    "sources": [
+      {
+        "publisher": "Recurrent",
+        "title": "EV battery replacement study",
+        "url": "https://www.recurrentauto.com/research/costs-ev-battery-replacement"
+      },
+      {
+        "publisher": "U.S. EPA",
+        "title": "Electric Vehicle Myths",
+        "url": "https://www.epa.gov/greenvehicles/electric-vehicle-myths"
+      }
+    ]
+  },
+  {
+    "id": "tesla-range-fake",
+    "slug": "range-fake",
+    "number": 5,
+    "verdict": "overstated",
+    "lastChecked": "2026-08-22",
+    "myth": "Tesla 주행거리 숫자는 가짜다. 스티커의 60%에서 차가 죽는다.",
+    "headline": "EPA(그리고 WLTP)는 실험실 절차다. 속도, 추위, 더위가 숫자를 움직인다. 모든 차의 연비가 그렇듯.",
+    "kernel": null,
+    "body": [
+      "Tesla의 EPA 수치는 독립 고속도로 시험, 특히 독일 아우토반 속도나 한겨울에서 때로 낙관 쪽에 앉아 왔다. 그 간극은 공정한 리뷰어의 불만이다. Tesla만의 거짓말은 아니다. 모든 제조사의 스티커는 표준화된 사이클이지, 시속 140 km 1월 출퇴근이 아니다.",
+      "실주행 집계(Recurrent, 플릿 텔레매틱스, ADAC)는 대체로 Tesla 주행거리가 급에서 경쟁력이 있다고 본다. 20–40%의 한파 타격은 EV 물리학 이야기다(실내 난방 더하기 화학). EV 덱에서 다룬다. 믿을 숫자가 필요하면, 포럼 붕괴 스크린샷이 아니라 실제로 달리는 속도의 고속도로 시험을 써라."
+    ],
+    "keyFacts": [
+      {
+        "label": "스티커",
+        "value": "EPA / WLTP 표준화 사이클"
+      },
+      {
+        "label": "줄어들 때",
+        "value": "고속, 추위, 더위, 루프박스, 급가속"
+      },
+      {
+        "label": "Tesla만의 것이 아님",
+        "value": "모든 EV(그리고 모든 ICE 연비 주장)가 오프사이클에서 움직임"
+      }
+    ],
+    "sources": [
+      {
+        "publisher": "U.S. EPA / fueleconomy.gov",
+        "title": "Find a car (EPA range)",
+        "url": "https://www.fueleconomy.gov/"
+      }
+    ]
+  },
+  {
+    "id": "tesla-autopilot-death",
+    "slug": "autopilot-death",
+    "number": 6,
+    "verdict": "misleading",
+    "lastChecked": "2026-08-22",
+    "myth": "Autopilot은 죽음의 덫이다. Tesla가 시체를 숨겼다.",
+    "headline": "Autopilot이 연루된 치명 사고가 있었다. 마일당 Tesla가 공개한 안전 수치는 미국 평균을 이긴다. 두 문장 모두 카드에 있어야 한다.",
+    "kernel": "이름이 과대 판매한다. 감독형 시스템 더하기 마케팅 부서는 나쁜 조합이다. NHTSA가 조사를 열었다. “차가 보행자를 사냥한다”는 아니다.",
+    "body": [
+      "Tesla의 차량 안전 보고는 Autopilot 작동 시 마일당 사고가 꺼진 때보다, 그리고 미국 평균보다 적다고 주장한다. 그 수치는 회사 공개이고, 선택 효과(누가, 어떤 도로에서 켜는가)가 있다. 독립 연구자들이 비교의 구멍을 찔렀다. 정확한 배수는 조심해서 다루라. “마일당 사람 운전자보다 훨씬 나쁘다”는 미입증으로 다루라.",
+      "문서화된 실패: 감독하지 않는 운전자, 횡단 교통에서의 시스템 혼란, 정차한 응급차량. 어떤 사고는 끔찍하다. 윤리적 쟁점은 단어 “Autopilot”과 주의를 기울여야 하는 법적 요구 사이의 간극이다. 더 엄격한 이름과 운전자 모니터링을 원할 수 있다. 고유의 학살을 주장하지 않고도. 연간 미국 도로 사망 40,000명과 비교하라. 거의 전부 Tesla가 아니다."
+    ],
+    "keyFacts": [
+      {
+        "label": "회사 통계",
+        "value": "Autopilot 시 미국 평균보다 마일당 사고 적음"
+      },
+      {
+        "label": "단서",
+        "value": "자가 보고, 도로 구성 편향, 이름 과대 판매"
+      },
+      {
+        "label": "진짜 쟁점",
+        "value": "감독형 시스템, 치명적 오용, 규제 관심"
+      }
+    ],
+    "sources": [
+      {
+        "publisher": "Tesla",
+        "title": "Tesla Vehicle Safety Report",
+        "url": "https://www.tesla.com/VehicleSafetyReport"
+      }
+    ]
+  },
+  {
+    "id": "tesla-cobalt",
+    "slug": "cobalt",
+    "number": 7,
+    "verdict": "misleading",
+    "lastChecked": "2026-08-22",
+    "myth": "Tesla는 콩고 아동 노동 코발트로 만들어진다.",
+    "headline": "수공업 DRC 코발트는 진짜 산업의 오점이다. Tesla는 팩을 코발트에서 옮기고 있다. 문제는 광물 경제이지, Tesla만의 플랜테이션이 아니다.",
+    "kernel": null,
+    "body": [
+      "콩고민주공화국이 세계 코발트의 대부분을 댄다. 수공업 광산에 문서화된 아동 노동이 있다. 2010년대 NMC 화학을 쓴 모든 회사가 그 공급망에 손을 댔다. Tesla도. 감사, 블록체인 파일럿, 공급사 강령은 업계의 대응이다. 불완전하고, 침묵보다는 낫다.",
+      "Tesla의 새 화학이 중요하다. 많은 스탠더드 레인지 차의 LFP(코발트 없음), 코발트를 0에 가깝게 깎는 4680 / 하이니켈 경로. 2026년 Tesla는 2014 Model S 만평의 “피의 배터리”가 아니다. 이게 중요하다면 — 그래야 한다 — 한 로고의 영원한 낙인이 아니라 화학과 감사를 따라가라. 참고로 석유 채굴도 동화는 아니다."
+    ],
+    "keyFacts": [
+      {
+        "label": "DRC 코발트",
+        "value": "수공업 채굴의 진짜 아동 노동 위험"
+      },
+      {
+        "label": "Tesla의 방향",
+        "value": "규모의 LFP와 저/무코발트 화학"
+      },
+      {
+        "label": "범위",
+        "value": "업계 전반, 화학 전환과 함께 축소 중"
+      }
+    ],
+    "sources": [
+      {
+        "publisher": "Tesla",
+        "title": "Tesla Impact Report (supply chain)",
+        "url": "https://www.tesla.com/impact-report"
+      }
+    ]
+  },
+  {
+    "id": "tesla-only-rich",
+    "slug": "only-rich",
+    "number": 8,
+    "verdict": "overstated",
+    "lastChecked": "2026-08-22",
+    "myth": "Tesla는 부자의 장난감이다. 머스크가 서민 차를 죽였다.",
+    "headline": "$25,000 Tesla는 늦다. Model 3/Y는 롤스로이스가 아니다. 중고는 이제 많은 시장에서 평범한 차 값이다.",
+    "kernel": "그는 수년 동안 싼 대중 Tesla를 말했다. 차세대 저가 플랫폼은 계속 미끄러졌다. 그 깨진 약속은 그의 몫이다.",
+    "body": [
+      "신차 Model 3와 Y 가격은, 특히 2020년대 중반 인하 이후, 풀옵션 내연 크로스오버와 같은 동네에 앉는다. 슈퍼카가 아니다. 유럽에서는 VW, 현대, BMW EV와 붙는다. “부자용”이 가장 세게 죽는 곳은 중고 시장이다. 4년 된 차가 다른 프리미엄 볼륨 브랜드처럼 거래된다.",
+      "맞는 것: Tesla는 원래 슬라이드의 전설적 $25k 해치를 한 번도 내놓지 않았고, Cybertruck / S / X가 브랜드 이미지를 기울인다. 틀린 것: 중간 Tesla 차주가 억만장자라거나, 독일 럭셔리 돈 아래 Tesla가 없다는 것. 접근성은 스펙트럼이다. Tesla는 밈이 허용하는 것보다 더 많이, 키노트가 약속한 것보다 덜 차지한다."
+    ],
+    "keyFacts": [
+      {
+        "label": "볼륨 차",
+        "value": "3과 Y — 프리미엄 볼륨이지, 슈퍼카가 아님"
+      },
+      {
+        "label": "깨진 슬라이드",
+        "value": "차세대 $25k가 반복 지연"
+      },
+      {
+        "label": "중고 시장",
+        "value": "많은 지역에서 평범한 돈"
+      }
+    ],
+    "sources": [
+      {
+        "publisher": "Tesla",
+        "title": "Tesla model lineup and pricing",
+        "url": "https://www.tesla.com/"
+      }
+    ]
+  },
+  {
+    "id": "tesla-repair",
+    "slug": "repair",
+    "number": 9,
+    "verdict": "overstated",
+    "lastChecked": "2026-08-22",
+    "myth": "Tesla는 수리할 수 없다. 펜더 한 번에 보험사가 전손 처리한다.",
+    "headline": "부품, 매뉴얼, 독립 접근은 정말로 적대적이었다. 그건 풀리고 있다. 초기 차의 높은 전손율은 비싼 센서와 차를 모르는 값싼 판금 공장을 섞었다.",
+    "kernel": null,
+    "body": [
+      "수리할 권리 옹호자들은 수년 동안 Tesla를 정확히 잡았다. 부품 통제, 닫힌 진단, 어떤 정비소도 안 만지려 한 유리와 알루미늄. 어떤 연식의 보험 전손율이 흉해 보인 것은, 범퍼 카메라 더하기 알루미늄 쿼터 더하기 소심한 정비소가 “폐기”가 되기 때문이다. 진짜 소유 세금이다.",
+      "“수리 불가”는 아니다. 독립 전문점이 있고, Tesla 서비스도 고치고, 규제 압력(미국과 EU)이 더 많은 부품과 데이터를 열어 밀었다. 다른 알루미늄 집약 EV, ADAS 과잉 독일 차와 비교하라. 아무도 이걸 1996 Civic처럼 용접하지 않는다. 밈은 2018년 서비스망 불만을 얼려 물리학이라 불렀다."
+    ],
+    "keyFacts": [
+      {
+        "label": "공정한 타격",
+        "value": "닫힌 부품/진단, ADAS 캘리브레이션 비용"
+      },
+      {
+        "label": "전손",
+        "value": "어떤 해는 나빠 보임; 마법 유리가 아니라 정비소와 센서"
+      },
+      {
+        "label": "추세",
+        "value": "시간에 따라 더 많은 독립 수리, 여전히 Honda처럼 쉽지는 않음"
+      }
+    ],
+    "sources": [
+      {
+        "publisher": "Industry / regulator reporting",
+        "title": "Right to repair and EV ADAS costs",
+        "url": "https://www.repairerdrivennews.com/"
+      }
+    ]
+  },
+  {
+    "id": "tesla-robotaxi-vapor",
+    "slug": "robotaxi-vapor",
+    "number": 10,
+    "verdict": "overstated",
+    "lastChecked": "2026-08-22",
+    "myth": "로보택시와 Optimus는 베이퍼웨어다. $25k 차와 Semi처럼.",
+    "headline": "일정은 연극이었다. 하드웨어는 있다. 제한된 로보택시 서비스가 시작됐다. Optimus는 프로토타입이지, 노동시장 사건이 아니다.",
+    "kernel": "머스크는 우주가 서명하지 않은 달력으로 미래를 팔았다. 날짜는 모두 할인하라. 물체까지 할인하지는 마라.",
+    "body": [
+      "Semi는 존재하고 소수 고객을 위해 화물을 날랐다. Freightliner 물량 제품은 아니다. 전국 무감독 네트워크로서의 로보택시는 여기 없다. 제한된 무인 / 감독 서비스(오스틴 2025와 그 이후)는 여기 있다. 늦고 작다. “파워포인트”와는 다르다.",
+      "Optimus가 더 물렁하다. 걷는 휴머노이드 데모, 공장 실험, 주문할 수 있는 범용 가정 로봇은 없다. 스택 전체를 베이퍼웨어라 부르려면 이미 움직이는 차를 무시해야 한다. “해결된 AGI 노동”이라 부르려면 데모라는 점을 무시해야 한다. 카드를 쪼개라. 날짜는 나쁘고, 원자는 종종 진짜고, 규모는 보통 트윗보다 늦다."
+    ],
+    "keyFacts": [
+      {
+        "label": "Semi",
+        "value": "진짜, 저물량"
+      },
+      {
+        "label": "로보택시",
+        "value": "제한된 운영이지, 전국 네트워크가 아님"
+      },
+      {
+        "label": "Optimus",
+        "value": "프로토타입 / 공장 시험이지, 제품 카탈로그가 아님"
+      }
+    ],
+    "sources": [
+      {
+        "publisher": "Tesla",
+        "title": "Tesla AI / robotaxi",
+        "url": "https://www.tesla.com/ai"
+      }
+    ]
+  }
+]

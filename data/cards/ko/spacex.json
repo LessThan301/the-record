@@ -1,0 +1,352 @@
+[
+  {
+    "id": "spacex-subsidy",
+    "slug": "subsidy",
+    "number": 1,
+    "verdict": "misleading",
+    "lastChecked": "2026-08-22",
+    "myth": "SpaceX는 납세자 보조금 때문에만 존재한다. 연구는 대중이 냈고, IP는 머스크가 가진다.",
+    "headline": "NASA는 예전에 셔틀 비행을 사던 방식으로 화물과 승무원을 샀다. 마일스톤으로, 더 싸게. 그건 조달이지 용돈이 아니다.",
+    "kernel": "초기의 NASA COTS 자금은 대단히 중요했다. SpaceX는 연방 현금에 한 번도 손대지 않은 차고 취미가 아니었다. 왜곡은 Dragon 접안을 위한 고정가 계약을 “보조금”이라 부르는 것이다.",
+    "body": [
+      "셔틀 이후 NASA는 Commercial Orbital Transportation Services, 이어서 Commercial Crew를 돌렸다. 비행 마일스톤을 치면 회사에 돈을 주고, 스택은 덜 소유하고, 더 싸게 더 많이 난다. SpaceX가 이겼고, 2012년 화물을, 2020년 승무원을 납품했으며, 미국의 소유즈 좌석 의존을 끝냈다. 미국 정부는 고객이다. 고객은 돈을 낸다.",
+      "Starlink는 이제 다수 상업 매출 엔진이다. 소비자, 항공사, 선박, 정부가 대역을 산다. 국가안보 발사는 ULA 등을 상대로 한 경쟁 수주다. “R&D는 사회화되고 IP는 민영화됐다”는 말은, NASA가 상업 시장을 원했고 그 모델을 공개했고 절벽처럼 떨어진 발사 가격을 얻었다는 점을 무시한다. 불만이 “국가가 공장을 붙들고 있었어야 한다”라면, 그건 산업정책 향수이지 사기 고발이 아니다."
+    ],
+    "keyFacts": [
+      {
+        "label": "COTS / Crew",
+        "value": "마일스톤 계약이지, 실비 정산 셔틀 2.0이 아님"
+      },
+      {
+        "label": "첫 화물 / 승무원",
+        "value": "2012 Dragon 화물; 2020 Crew Dragon"
+      },
+      {
+        "label": "현재",
+        "value": "Starlink + 상업 발사가 P&L의 대부분을 짊어진다"
+      }
+    ],
+    "sources": [
+      {
+        "publisher": "NASA",
+        "title": "Commercial Crew Program",
+        "url": "https://www.nasa.gov/reference/commercial-crew-program/"
+      }
+    ]
+  },
+  {
+    "id": "spacex-reuse",
+    "slug": "reuse",
+    "number": 2,
+    "verdict": "false",
+    "lastChecked": "2026-08-22",
+    "myth": "로켓 착륙은 서커스 묘기다. 재사용은 실제로 돈을 아끼지 않는다.",
+    "headline": "Falcon 9 회수가 발사를 싸게 만든 이유다. 시장은 발사 목록으로 투표했다.",
+    "kernel": null,
+    "body": [
+      "Falcon 9 1단은 이제 여러 번 난다. 두 자릿수 재사용은 일상이고, 일부 부스터는 20회를 넘었다. 수천만 달러 중반대 카탈로그 가격은 Ariane 5/6와 과거의 ULA 가격을 크게 밑돈다. 내부 한계비용은 정가보다 훨씬 낮다고 널리 추정된다. 그래서 SpaceX가 목록을 Starlink로 채우면서도 남에게 팔 수 있다.",
+      "재사용이 파티 트릭이었다면 경쟁자는 무시했을 것이다. 그러지 않았다. ULA, Blue Origin, Arianespace, 중국이 모두 어떤 형태의 회수를 쫓는다. NASA와 우주군이 Falcon을 계속 사는 것은 가격과 발사 빈도가 나타났기 때문이다. 서커스는 행성 궤도 질량의 80%+를 궤도에 올리지 않는다."
+    ],
+    "keyFacts": [
+      {
+        "label": "재사용",
+        "value": "두 자릿수 부스터 비행이 일상"
+      },
+      {
+        "label": "정가",
+        "value": "Falcon 9 ~$67M급 vs. 레거시 $150M–$400M"
+      },
+      {
+        "label": "시장 점유",
+        "value": "2020년대 전 세계 궤도 질량의 지배적 몫"
+      }
+    ],
+    "sources": [
+      {
+        "publisher": "SpaceX",
+        "title": "Falcon 9",
+        "url": "https://www.spacex.com/vehicles/falcon-9/"
+      }
+    ]
+  },
+  {
+    "id": "spacex-astronomy",
+    "slug": "astronomy",
+    "number": 3,
+    "verdict": "overstated",
+    "lastChecked": "2026-08-22",
+    "myth": "Starlink가 천문학을 망쳤다. 밤하늘은 끝났다.",
+    "headline": "위성 궤적은 측정된 진짜 문제다. SpaceX는 이후 세대를 어둡게 했다. 하늘이 닫힌 것은 아니다.",
+    "kernel": "광시야 관측(베라 루빈, 아마추어 천체사진)은 줄무늬를 잡는다. 포럼의 발명이 아니다. DarkSat, 바이저, 자세 트릭이 밝기를 줄였다. 천문학자들은 그것만으로는 부족하다고 한다.",
+    "body": [
+      "저궤도 메가콘스텔레이션 — 먼저 Starlink, 뒤에 다른 것들 — 은 움직이는 광원을 더한다. 전문가 파이프라인은 일부 궤적을 가릴 수 있다. 광자가 한 번도 없었다는 척은 할 수 없다. IAU와 여러 관측소는 SpaceX와 같은 방에 앉아 왔다. 이후 위성은 첫 배치보다 어둡다. Amazon의 Kuiper와 다른 곳도 더 올릴 것이다. 이건 Starlink가 개척한 산업 문제이지, 고유의 도덕적 결함이 아니다.",
+      "“망쳤다”가 과잉이다. 광학 천문학은 계속된다. 전파 천문학에는 별개의 간섭 싸움이 있다. 정책 도구는 있다. 밝기 한도, 어둡게 하기, 조정 창. 정직한 카드는 이것이다. 영향은 진짜고, 완화는 부분적이고, 한 회사의 금욕으로 하늘이 비지 않는다."
+    ],
+    "keyFacts": [
+      {
+        "label": "영향",
+        "value": "광시야 이미지의 진짜 줄무늬"
+      },
+      {
+        "label": "완화",
+        "value": "1세대 이후 더 어두운 설계"
+      },
+      {
+        "label": "범위",
+        "value": "모든 메가콘스텔레이션이지, Starlink만은 아님"
+      }
+    ],
+    "sources": [
+      {
+        "publisher": "IAU / CPS summaries",
+        "title": "Starlink and astronomy",
+        "url": "https://cps.iau.org/"
+      }
+    ]
+  },
+  {
+    "id": "spacex-kessler",
+    "slug": "kessler",
+    "number": 4,
+    "verdict": "overstated",
+    "lastChecked": "2026-08-22",
+    "myth": "Starlink가 케슬러 신드롬을 촉발해 인류를 우주에서 잠글 것이다.",
+    "headline": "충돌 위험은 심각한 운용 문제다. Starlink는 낮은 고도에서 재진입하도록 설계됐다. 타이머 달린 잔해 폭탄이 아니다.",
+    "kernel": null,
+    "body": [
+      "케슬러 신드롬은 충돌 연쇄가 궤도 밴드를 못 쓰게 만드는 것이다. 진짜 물리학 이야기고, 역사적으로는 더 높고 오래 사는 궤도를 겨냥했다. Starlink는 낮다(대략 550 km급). 대기 항력이 죽은 기체를 수세기가 아니라 수년 안에 끌어내린다. 고장이 난다면. 콘스텔레이션은 카탈로그를 상대로 자율 충돌 회피를 쓴다.",
+      "남은 위험: 기동할 수 없는 고장 위성, 태양 활동 중의 근접, 물체 수 그 자체. NASA, FCC, ESA가 본다. 재진입 설계된 LEO 콘스텔레이션을 묘지 궤도 무기 시험처럼 다루는 것이 과장이다. 경계는 타당하다. 체념은 측정이 아니다."
+    ],
+    "keyFacts": [
+      {
+        "label": "고도",
+        "value": "~550 km급, 항력 보조 재진입"
+      },
+      {
+        "label": "설계 의도",
+        "value": "고장 나면 짧은 수명 vs. GEO 묘지"
+      },
+      {
+        "label": "위험",
+        "value": "0은 아님; 무시되지 않고 능동 관리"
+      }
+    ],
+    "sources": [
+      {
+        "publisher": "NASA ODPO",
+        "title": "Space debris",
+        "url": "https://orbitaldebris.jsc.nasa.gov/"
+      }
+    ]
+  },
+  {
+    "id": "spacex-starship",
+    "slug": "starship",
+    "number": 5,
+    "verdict": "false",
+    "lastChecked": "2026-08-22",
+    "myth": "Starship은 베이퍼웨어다. 중요한 것은 절대 날리지 못할 것이다.",
+    "headline": "아직 미완의 대형 기체이고, 이미 날았다. 베이퍼웨어는 걸프 위에서 Raptor를 켜지 않는다.",
+    "kernel": "운용 승무원, 탱커, HLS 임무는 아직 앞이다. 일정은 미뤄졌다. 격납고를 한 번도 떠나지 않은 슬라이드 덱과는 다르다.",
+    "body": [
+      "Starship/Super Heavy는 기체를 쌓고, 발사하고, 우주에 닿고, 핫 스테이징을 하고, 캐치를 시도했다. 기체는 잃었다. 그게 시험 프로그램이고, 일부러 흉하다. NASA의 아르테미스 Human Landing System이 이 하드웨어 위에 있다. 그 계약은 SpaceX가 스스로에게 쓴 보도자료가 아니다.",
+      "일정을 의심할 이유는 충분하다. 머스크의 날짜는 업계 안에서도 단골 농담이다. 기체가 허구라는 회의는 그렇지 않다. 10년을 파워포인트에서 보낸 프로그램과 비교하라. 남은 논점은 열 보호막, 캐치, 빠른 재사용이 완성되느냐다. 그건 공학이고, 가는 길에 폭발처럼 보여도 된다."
+    ],
+    "keyFacts": [
+      {
+        "label": "상태",
+        "value": "비행 시험 프로토타입이지, 운용 여객기가 아님"
+      },
+      {
+        "label": "NASA HLS",
+        "value": "아르테미스 착륙선 경로로 선정"
+      },
+      {
+        "label": "정직한 의심",
+        "value": "발사 빈도와 재사용은 아직 미완; 날짜는 미뤄짐"
+      }
+    ],
+    "sources": [
+      {
+        "publisher": "SpaceX",
+        "title": "Starship",
+        "url": "https://www.spacex.com/vehicles/starship/"
+      }
+    ]
+  },
+  {
+    "id": "spacex-stole-nasa",
+    "slug": "stole-nasa",
+    "number": 6,
+    "verdict": "false",
+    "lastChecked": "2026-08-22",
+    "myth": "SpaceX는 NASA 기술을 훔쳐 로고만 붙였다.",
+    "headline": "항공우주에서 일한 사람을 고용하고 공개 연구를 썼다. 다른 모두와 같이. Merlin, Raptor, Dragon은 남은 새턴 단이 아니다.",
+    "kernel": null,
+    "body": [
+      "아폴로 이후 NASA의 상업 전략 전체가 노하우를 산업으로 밀어내는 것이었다. COTS는 블랙박스 절도의 반대였다. NASA는 벤더를 원했다. SpaceX는 보잉, NASA 센터, 대학 출신 엔지니어를 고용했다. ULA도 그랬다. 엔진은 다른 사이클이다(Raptor는 완전 유량 다단 연소이지, 새 페인트의 RS-25가 아니다).",
+      "Dragon의 비상탈출, 열 보호막, 트렁크는 아폴로나 오리온과 다른 구조다. Falcon의 회수 하드웨어는 NASA 카탈로그에 없었다. “공개 연구 위에 섰다”는 미국 연구 시스템에 대한 찬사다. “셔틀을 훔쳤다”는 범주 오류다."
+    ],
+    "keyFacts": [
+      {
+        "label": "Raptor",
+        "value": "자체 개발 완전 유량 다단 연소"
+      },
+      {
+        "label": "NASA의 의도",
+        "value": "화물/승무원 상업화이지, 기체 기부가 아님"
+      },
+      {
+        "label": "유산",
+        "value": "인재와 논문이지, 이전된 스택이 아님"
+      }
+    ],
+    "sources": [
+      {
+        "publisher": "NASA",
+        "title": "Commercial Orbital Transportation Services",
+        "url": "https://www.nasa.gov/commercial-orbital-transportation-services/"
+      }
+    ]
+  },
+  {
+    "id": "spacex-ukraine",
+    "slug": "ukraine",
+    "number": 7,
+    "verdict": "misleading",
+    "lastChecked": "2026-08-22",
+    "myth": "일론 머스크가 Starlink를 끄고 우크라이나 전쟁을 방해했다.",
+    "headline": "Starlink는 우크라이나를 위해 켜졌고 켜진 채로 유지됐다. 지오펜스가 특정 크림 드론 타격을 켜 주기를 거부했다. “나라의 플러그를 뽑았다”가 아니다.",
+    "kernel": "머스크는 우크라이나에서 변덕스러운 정치 행위자였다. 키이우가 혐오한 “평화안”을 띄웠다. 네트워크 전체 차단과는 다르다.",
+    "body": [
+      "2022년 SpaceX는 우크라이나에서 Starlink를 켰다. 처음에는 SpaceX가 비용의 큰 부분을 떠안았고, 이후 미국과 파트너가 냈다. 민간·군사 연결에 핵심이 됐다. 2023년 보도(워싱턴포스트 / 아이작슨 발췌 포함)는 세바스토폴 우크라이나 드론 공격을 위한 커버리지 활성화 요청을 묘사했다. 머스크는 확전을 이유로 그 공세에 네트워크를 확장하기를 거부했다. 우크라이나 안 커버리지는 계속됐다.",
+      "민간 CEO가 지오펜스에 거부권을 쥐어야 하는지는 진지한 민군 질문이다. 바이럴 문장 “그는 우크라이나 인터넷을 껐다”의 반대이기도 하다. 진짜 불만이 공공 인프라가 한 사람의 토글 위에 있으면 안 된다는 것이라면, 그렇게 말하라. 그리고 만화 킬 스위치가 아니라 계약을 이야기하라."
+    ],
+    "keyFacts": [
+      {
+        "label": "우크라이나 서비스",
+        "value": "2022년 활성화, 유지됨"
+      },
+      {
+        "label": "논란의 행위",
+        "value": "크림 일대 공세 지오펜스 활성 거부"
+      },
+      {
+        "label": "누가 내는가",
+        "value": "시간에 따라 SpaceX, 미국, 동맹 재원의 혼합"
+      }
+    ],
+    "sources": [
+      {
+        "publisher": "Contemporary reporting / Isaacson",
+        "title": "Elon Musk’s Ukraine Starlink coverage decisions",
+        "url": "https://en.wikipedia.org/wiki/Starlink#Ukraine"
+      }
+    ]
+  },
+  {
+    "id": "spacex-dragon-unsafe",
+    "slug": "dragon-unsafe",
+    "number": 8,
+    "verdict": "false",
+    "lastChecked": "2026-08-22",
+    "myth": "Crew Dragon은 안전하지 않다. NASA는 소유즈에 남아 있었어야 한다.",
+    "headline": "Dragon은 2020년부터 NASA 승무원을 날렸다. 소유즈는 자체 실패가 있는 괜찮은 기체다. 노스탤지어는 안전 분석이 아니다.",
+    "kernel": null,
+    "body": [
+      "Crew Dragon은 NASA 우주인을 ISS로 태운 첫 상업 우주선이 됐다. 2020년 Demo-2, 이후 정기 로테이션. 문제는 있었다. 모든 유인 스택이 그렇듯, 헬륨 누출, 기상 연기, 흔한 공학 잡티. NASA의 안전 절차는 희극 수준으로 보수적이다. 그래도 난다.",
+      "소유즈는 전설의 기계다. 승무원을 죽이기도 했다(1971, 1983 발사대 비상탈출 생존, 2018 비상탈출 생존). 2011년 이후 미국은 러시아에 돈을 내는 동승자였다. Dragon이 그걸 끝냈다. “소유즈보다 안전하지 않다”에는 사망자 수와 신뢰성 시계열이 필요하다. 낡은 소련 하드웨어가 마법처럼 성스럽다는 분위기가 아니다."
+    ],
+    "keyFacts": [
+      {
+        "label": "첫 NASA 승무원",
+        "value": "Crew Dragon Demo-2, 2020"
+      },
+      {
+        "label": "역할",
+        "value": "이후 경쟁자와 함께 미국의 주 ISS 승무원 수송"
+      },
+      {
+        "label": "소유즈",
+        "value": "역시 불완전; 셔틀 이후 독점였다"
+      }
+    ],
+    "sources": [
+      {
+        "publisher": "NASA",
+        "title": "Crew Dragon",
+        "url": "https://www.nasa.gov/commercial-crew-program/"
+      }
+    ]
+  },
+  {
+    "id": "spacex-kill-nasa",
+    "slug": "kill-nasa",
+    "number": 9,
+    "verdict": "misleading",
+    "lastChecked": "2026-08-22",
+    "myth": "SpaceX가 NASA를 죽이고 있으며 우주에 대한 불법 독점을 가졌다.",
+    "headline": "NASA는 여전히 존재하고, 여전히 SLS를 날리고, 여전히 과학 임무를 쓴다. Falcon의 발사 점유는 재사용의 시장 결과이지, 포획된 규제자가 아니다.",
+    "kernel": "발사 지배는 진짜다. 그 집중은 국가안보 이유로 지켜볼 가치가 있다. 셔먼법 풍자는 아니고, NASA의 장례식도 아니다.",
+    "body": [
+      "NASA 예산은 여전히 제임스 웹 운용, 행성과학, SLS/오리온(비용 초과·지연), 항공을 댄다. SpaceX는 계약자이자 파트너이지, 후계 기관이 아니다. HLS는 SpaceX 하드웨어 위의 NASA 소유 요구사항이다. 록히드에서 탐사선 버스를 사는 것과 같은 패턴이다.",
+      "Falcon 9의 궤도 질량 점유는 기형적이다. 남들이 부스터를 착륙시키지 않았기 때문이다. Rocket Lab, ULA Vulcan, Blue Origin, 유럽, 인도, 중국이 여러 단계에서 시장에 있다. 제2 공급원을 원하는 정부는 그 값을 치른다. 독점 담론은 그걸 재촉하는 데 유용하다. 대안이 있는 고객이 싸고 믿을 로켓을 고른 것에 대한 나쁜 묘사다."
+    ],
+    "keyFacts": [
+      {
+        "label": "NASA",
+        "value": "여전히 고객이자 과학 기관"
+      },
+      {
+        "label": "발사 점유",
+        "value": "가격과 발사 빈도 때문에 Falcon이 무거움"
+      },
+      {
+        "label": "경쟁자",
+        "value": "존재함; 여럿이 재사용에 늦음"
+      }
+    ],
+    "sources": [
+      {
+        "publisher": "NASA",
+        "title": "NASA missions and partners",
+        "url": "https://www.nasa.gov/"
+      }
+    ]
+  },
+  {
+    "id": "spacex-boca",
+    "slug": "boca",
+    "number": 10,
+    "verdict": "overstated",
+    "lastChecked": "2026-08-22",
+    "myth": "Starbase는 감독 없는 환경 범죄 현장이다.",
+    "headline": "보카 치카는 FAA 서류, 소송, 폭발이 있는 진짜 습지 싸움이다. 사막의 비밀 쓰레기장이 아니다.",
+    "kernel": "Starship 시험은 잔해를 흩뿌리고, 서식지를 건드리고, 주민과 NGO를 분노하게 했다. 습지, 둥지 새, 발사대 옆 마을은 진짜 토지 이용 충돌이다.",
+    "body": [
+      "FAA, 어류야생동물국, 텍사스 기관, 법원이 모두 이 이야기에 들어와 있다. 환경평가, 협의, 지연은 공개돼 있다. 시험 캠페인 중 폭발이 잔해를 던지고 연기를 일으켰다. “볼 것 없다”가 아니다.",
+      "“감독 없음”이 빗나간다. 감독이 너무 느리고, 너무 포획되고, 너무 약하다는 불만은 평범한 미국 인프라 논쟁이다. 다른 모든 발사 장소, 파이프라인, 고속도로를 보라. 더 작은 패드, 다른 부지, 더 엄격한 완화를 원할 수 있다. 무법지대를 발명하지 않고도. 기록은 이것이다. 허가됐고, 다퉈졌고, 지저분하고, 문서화됐다."
+    ],
+    "keyFacts": [
+      {
+        "label": "부지",
+        "value": "Starbase / 보카 치카, 텍사스, 마을과 보호구역 옆"
+      },
+      {
+        "label": "감독",
+        "value": "FAA NEPA 절차, FWS, 주, 소송"
+      },
+      {
+        "label": "진짜 피해 벡터",
+        "value": "시험 실패, 서식지, 폐쇄 — “영향 0”이 아님"
+      }
+    ],
+    "sources": [
+      {
+        "publisher": "FAA / public NEPA documents",
+        "title": "SpaceX Starbase",
+        "url": "https://www.faa.gov/space/stakeholder_engagement/spacex_starship"
+      }
+    ]
+  }
+]

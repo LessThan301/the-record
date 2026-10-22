@@ -1,0 +1,362 @@
+[
+  {
+    "id": "tesla-fire",
+    "slug": "fire",
+    "number": 1,
+    "verdict": "false",
+    "lastChecked": "2026-08-22",
+    "myth": "Tesla’s vatten vaker vlam dan benzineauto’s.",
+    "headline": "Per mijl publiceert Tesla een veel lager brandcijfer dan het Amerikaanse voertuiggemiddelde. Batterijbranden zijn zeldzamer — en lelijker als ze gebeuren.",
+    "kernel": "Een lithiumpack kan opnieuw ontsteken en is lastiger te blussen. Koppen volgen de ongebruikelijke brand, niet de 189.000 saaie benzinebranden in een typisch Amerikaans jaar.",
+    "body": [
+      "Tesla’s cijfers over voertuigbrandveiligheid (2012–2023) zetten één brandincident per ongeveer 135 miljoen mijl. NFPA-/U.S. DOT-cijfers voor Amerikaanse voertuigen in totaal liggen rond één brand per 17 miljoen mijl. Tesla merkt op dat zijn telling structuurbranden, brandstichting en andere niet-voertuigoorzaken omvat die de NFPA-reeks vaak uitsluit — wat de vergelijking conservatief maakt tégen Tesla.",
+      "Andere EV-datasets (Zweden, Noorwegen) wijzen dezelfde kant op: verbrandingsauto’s vatten vaker vlam per voertuig. De resterende eerlijke zin: een EV-packbrand is een specialistenincident voor brandweer, kan langer duren, en ziet er apocalyptisch uit op een telefooncamera. Frequentie is niet wat de virale posts beweren."
+    ],
+    "keyFacts": [
+      {
+        "label": "Tesla (2012–2023)",
+        "value": "~1 brand per 135 miljoen mijl"
+      },
+      {
+        "label": "Amerikaanse voertuigen (NFPA/DOT)",
+        "value": "~1 brand per 17 miljoen mijl"
+      },
+      {
+        "label": "Voorbehoud",
+        "value": "Packbranden zijn koppig; frequentie valt nog steeds uit naar EV’s"
+      }
+    ],
+    "sources": [
+      {
+        "publisher": "Tesla",
+        "title": "Vehicle Fire Safety Report",
+        "url": "https://www.tesla.com/VehicleFireSafetyReport"
+      },
+      {
+        "publisher": "NFPA",
+        "title": "Vehicle fires",
+        "url": "https://www.nfpa.org/education-and-research/research/nfpa-research/fire-statistical-reports/vehicle-fires"
+      }
+    ]
+  },
+  {
+    "id": "tesla-build",
+    "slug": "build",
+    "number": 2,
+    "verdict": "overstated",
+    "lastChecked": "2026-08-22",
+    "myth": "Tesla-boukwaliteit is een grap. Panelen vallen eraf op weg naar huis.",
+    "headline": "De vroege volumejaren waren slordig. Paneelnaden waren een vast Consumer Reports-onderdeel. De auto’s van de jaren 2020 komen uit een andere fabriek.",
+    "kernel": "Als je steekproef een Model 3 uit 2018 van de productieramp is, hallucineer je niet. Als je steekproef een auto uit 2024–2026 is, ruzië je met een geest.",
+    "body": [
+      "De Model 3-ramp in Fremont (2017–2019) leverde ongelijke paneelnaden, lakproblemen, en een duidersclub die de groepsapp nooit heeft verlaten. Duitse en Amerikaanse recensenten documenteerden het. Tesla’s eigen servicedruk in die jaren was lelijk.",
+      "Giga Berlin, Austin en een gerijpte Fremont-lijn trokken het proces strakker. Restklachten bestaan — elk massamerk heeft ze — en Tesla’s interieurgoedkoopte is een smaakargument, geen veiligheidsrecall. „Ze vallen uit elkaar” als een wet van de natuur in de tegenwoordige tijd is een stelling uit 2018 op een oprit van 2026."
+    ],
+    "keyFacts": [
+      {
+        "label": "Ware periode",
+        "value": "Model 3-ramp, ~2017–2019, inconsistente carrosserieën"
+      },
+      {
+        "label": "Nu",
+        "value": "Nog steeds geen Lexus; niet langer een mop over ontbrekende lak"
+      },
+      {
+        "label": "Redelijke rest",
+        "value": "Variantie in passing en afwerking, servicewachttijden per regio"
+      }
+    ],
+    "sources": [
+      {
+        "publisher": "Consumer Reports / contemporary reviews",
+        "title": "Tesla quality over time",
+        "url": "https://www.consumerreports.org/cars/tesla/"
+      }
+    ]
+  },
+  {
+    "id": "tesla-bankrupt",
+    "slug": "bankrupt",
+    "number": 3,
+    "verdict": "false",
+    "lastChecked": "2026-08-22",
+    "myth": "Tesla gaat failliet. Altijd al, altijd weer.",
+    "headline": "De schrik van de „productiehel” in 2018 was echt. De 2026-versie van de meme is een zombie. Vraagcycli zijn geen Chapter 11.",
+    "kernel": null,
+    "body": [
+      "Shortsellers hadden een punt in 2017–2019: de Model 3-ramp bracht het bedrijf bijna om. Tesla schaalde daarna, boekte in meerdere jaren GAAP-winst, stapelde een grote cashberg, en werd een van de waardevolste autofabrikanten ter wereld. Mensen die die inzet deden bij $20 (gecorrigeerd voor splitsingen) en de spreadsheet nooit bijwerkten, bedrijven folklore.",
+      "Niets daarvan maakt Tesla onsterfelijk. Prijsverlagingen, een rommelige vraagplek in 2024–2025, concurrentie van BYD, en merkenpolitieke whiplash zijn echte bedrijfsrisico’s. „Volgend kwartaal failliet” is al een decennium een kapotte klok. Behandel het als een risicofactor, niet als een profetie."
+    ],
+    "keyFacts": [
+      {
+        "label": "Bijna-dood",
+        "value": "2008 en ~2018 waren de echte kliffen"
+      },
+      {
+        "label": "Daarna",
+        "value": "Schaal, cash, en een nog steeds grillige vraagcurve"
+      },
+      {
+        "label": "Meme",
+        "value": "De faillissementsoproep heeft elke gemiste afspraak overleefd"
+      }
+    ],
+    "sources": [
+      {
+        "publisher": "Tesla IR",
+        "title": "Tesla financials",
+        "url": "https://ir.tesla.com/"
+      }
+    ]
+  },
+  {
+    "id": "tesla-battery-die",
+    "slug": "battery-die",
+    "number": 4,
+    "verdict": "misleading",
+    "lastChecked": "2026-08-22",
+    "myth": "De batterij sterft in acht jaar en kost $20.000 om te vervangen.",
+    "headline": "Packs hebben 8 jaar garantie en gaan doorgaans langer mee dan het nuttige leven van de auto. Een vervanging is duur als je er een nodig hebt. De meeste eigenaren hebben dat niet.",
+    "kernel": "De intuïtie van de telefoonbatterij is de val. Een tractiepack wordt thermisch beheerd en veel zachter gecycled dan een broekzakapparaat.",
+    "body": [
+      "Tesla garandeert hoogvoltagepacks 8 jaar / 100.000–150.000 mijl afhankelijk van het model, tot een capaciteitsvloer. Grote studies van Recurrent naar gebruikte EV’s vinden vervanging wegens falen zeldzaam (historisch laag enkelcijferig procent, ruim onder 1% voor veel auto’s vanaf 2016, exclusief recalls). Degradatie van 10% over een lang dienstleven is een gewoon beeld uit de praktijk, geen baksteen.",
+      "Als een pack buiten de garantie faalt, kan de rekening bruut zijn — duizenden tot tienduizenden, afhankelijk van het model en of modules of het hele pack worden gewisseld. Dat is de kern. Het is een staartrisico als van een verzekering, niet het geplande onderhoudsitem dat de mythe beschrijft. Data van de tweedehandsmarkt zouden er heel anders uitzien als packs wegwerpartikelen van acht jaar waren."
+    ],
+    "keyFacts": [
+      {
+        "label": "Garantie",
+        "value": "8 jaar, kilometertellerplafond per model, capaciteitsvloer"
+      },
+      {
+        "label": "Faalkans",
+        "value": "Zeldzaam in samples op Recurrent-schaal, vooral na 2016"
+      },
+      {
+        "label": "Vervanging",
+        "value": "Duur in de staart; geen geplande 8-jaarsbeurt"
+      }
+    ],
+    "sources": [
+      {
+        "publisher": "Recurrent",
+        "title": "EV battery replacement study",
+        "url": "https://www.recurrentauto.com/research/costs-ev-battery-replacement"
+      },
+      {
+        "publisher": "U.S. EPA",
+        "title": "Electric Vehicle Myths",
+        "url": "https://www.epa.gov/greenvehicles/electric-vehicle-myths"
+      }
+    ]
+  },
+  {
+    "id": "tesla-range-fake",
+    "slug": "range-fake",
+    "number": 5,
+    "verdict": "overstated",
+    "lastChecked": "2026-08-22",
+    "myth": "Tesla-actieradiuscijfers zijn nep. De auto sterft bij 60% van de sticker.",
+    "headline": "EPA (en WLTP) zijn labprocedures. Snelheid, kou en hitte bewegen het cijfer — net als bij het verbruik van elke auto.",
+    "kernel": null,
+    "body": [
+      "Tesla’s EPA-cijfers hebben soms aan de optimistische kant van onafhankelijke snelwegtests gezeten, vooral bij Duitse Autobahnsnelheden of in diepe winter. Dat gat is een redelijke recensentenklacht. Het is geen unieke Tesla-leugen: de sticker van elke fabrikant is een gestandaardiseerde cyclus, niet jouw januari-woon-werkrit van 140 km/h.",
+      "Praktijkverzamelaars (Recurrent, vloottelematica, ADAC) vinden Tesla-actieradius over het algemeen competitief in de klasse. Winterklappen van 20–40% zijn een EV-natuurkundeverhaal (cabineverwarming plus chemie), behandeld in het EV-deck. Als je een cijfer nodig hebt dat je kunt vertrouwen, gebruik snelwegtests op de snelheid die je werkelijk rijdt, niet een screenshot van een forummeltdown."
+    ],
+    "keyFacts": [
+      {
+        "label": "Sticker",
+        "value": "EPA- / WLTP-standaardcycli"
+      },
+      {
+        "label": "Krimpt wanneer",
+        "value": "Hoge snelheid, kou, hitte, dakkoffer, zware voet"
+      },
+      {
+        "label": "Niet uniek voor Tesla",
+        "value": "Elke EV (en elke ICE-MPG-claim) beweegt buiten de cyclus"
+      }
+    ],
+    "sources": [
+      {
+        "publisher": "U.S. EPA / fueleconomy.gov",
+        "title": "Find a car (EPA range)",
+        "url": "https://www.fueleconomy.gov/"
+      }
+    ]
+  },
+  {
+    "id": "tesla-autopilot-death",
+    "slug": "autopilot-death",
+    "number": 6,
+    "verdict": "misleading",
+    "lastChecked": "2026-08-22",
+    "myth": "Autopilot is een dodelijke val. Tesla verborg de lichamen.",
+    "headline": "Er zijn fatale crashes geweest waarbij Autopilot betrokken was. Per mijl kloppen Tesla’s gepubliceerde veiligheidscijfers het Amerikaanse gemiddelde. Beide zinnen horen op de kaart.",
+    "kernel": "De naam verkoopt te veel. Een bewaakt systeem plus een marketingafdeling is een slechte mix. NHTSA heeft onderzoeken geopend. Dat is niet „de auto’s jagen op voetgangers.”",
+    "body": [
+      "Tesla’s Vehicle Safety Report claimt minder crashes per mijl met Autopilot ingeschakeld dan met Autopilot uit, en minder dan het Amerikaanse gemiddelde. Die cijfers zijn door het bedrijf gepubliceerd, met selectie-effecten (wie het inschakelt, op welke wegen). Onafhankelijke onderzoekers hebben gaten in de vergelijking geprikt. Behandel de exacte factor met voorzichtigheid; behandel „veel slechter dan menselijke bestuurders per mijl” als onbewezen.",
+      "Gedocumenteerde falen: bestuurders die niet toezien, systeemverwarring bij kruisend verkeer, geparkeerde hulpdiensten. Sommige crashes zijn gruwelijk. Het ethische probleem is het gat tussen het woord „Autopilot” en de wettelijke plicht om op te letten. Je kunt strengere naamgeving en bestuurdersmonitoring willen zonder een unieke slachting te claimen. Vergelijk met de 40.000 Amerikaanse verkeersdoden per jaar, bijna allemaal niet in een Tesla."
+    ],
+    "keyFacts": [
+      {
+        "label": "Bedrijfscijfers",
+        "value": "Minder crashes per mijl met Autopilot dan het Amerikaanse gemiddelde"
+      },
+      {
+        "label": "Voorbehoud",
+        "value": "Zelfgerapporteerd, bias in wegenmix, naam oververkoopt"
+      },
+      {
+        "label": "Echt probleem",
+        "value": "Bewaakt systeem, fataal misbruik, interesse van toezichthouder"
+      }
+    ],
+    "sources": [
+      {
+        "publisher": "Tesla",
+        "title": "Tesla Vehicle Safety Report",
+        "url": "https://www.tesla.com/VehicleSafetyReport"
+      }
+    ]
+  },
+  {
+    "id": "tesla-cobalt",
+    "slug": "cobalt",
+    "number": 7,
+    "verdict": "misleading",
+    "lastChecked": "2026-08-22",
+    "myth": "Tesla’s zijn gebouwd op kobalt uit kinderarbeid in Congo.",
+    "headline": "Artisanaal DRC-kobalt is een echte industriesmet. Tesla schuift packs van kobalt af. Het probleem is de mineraleneconomie, geen plantage van Tesla alleen.",
+    "kernel": null,
+    "body": [
+      "De Democratische Republiek Congo levert het merendeel van het kobalt ter wereld. Artisanale mijnen hebben gedocumenteerde kinderarbeid. Elk bedrijf dat in de jaren 2010 NMC-chemie gebruikte, raakte die keten, Tesla inbegrepen. Audits, blockchainproeven en leverancierscodes zijn het antwoord van de industrie — onvolmaakt, beter dan stilte.",
+      "Tesla’s nieuwere chemie doet ertoe: LFP (geen kobalt) in veel auto’s met standaardactieradius, en 4680- / hoog-nikkelpaden die kobalt naar nul drukken. Een Tesla van 2026 is niet „de bloedbatterij” van een Model S-cartoon uit 2014. Als je hierom geeft — dat hoort — volg de chemie en de audit, niet een eeuwige smet op één logo. Olie-extractie is trouwens ook geen kinderverhaal."
+    ],
+    "keyFacts": [
+      {
+        "label": "DRC-kobalt",
+        "value": "Echt risico op kinderarbeid in artisanale mijnbouw"
+      },
+      {
+        "label": "Tesla-richting",
+        "value": "LFP en laag/geen-kobaltchemie op schaal"
+      },
+      {
+        "label": "Bereik",
+        "value": "Industriebreed, krimpend met chemieverandering"
+      }
+    ],
+    "sources": [
+      {
+        "publisher": "Tesla",
+        "title": "Tesla Impact Report (supply chain)",
+        "url": "https://www.tesla.com/impact-report"
+      }
+    ]
+  },
+  {
+    "id": "tesla-only-rich",
+    "slug": "only-rich",
+    "number": 8,
+    "verdict": "overstated",
+    "lastChecked": "2026-08-22",
+    "myth": "Tesla’s zijn speelgoed voor rijken. Musk heeft de betaalbare auto om zeep geholpen.",
+    "headline": "De Tesla van $25.000 is te laat. Model 3/Y zijn geen Rolls-Royces. Tweedehands exemplaren kosten inmiddels in veel markten gewoon-auto-geld.",
+    "kernel": "Hij heeft jaren over een goedkope massamarkt-Tesla gepraat. Het goedkope next-gen-platform bleef uitglijden. Die gebroken belofte ligt bij hem.",
+    "body": [
+      "Nieuwprijzen van Model 3 en Y, vooral na de prijsverlagingen van het midden van de jaren 2020, zitten in dezelfde buurt als volgeladen ICE-crossovers — geen hypercar. In Europa concurreren ze met EV’s van VW, Hyundai en BMW. De tweedehandsmarkt is waar „voor de rijken” het hardst sterft: vier jaar oude auto’s handelen als andere premium-volumemerken.",
+      "Wat waar is: Tesla heeft de legendarische hatchback van $25k van de oorspronkelijke slide nooit geleverd, en Cybertruck / S / X scheeftrekken het merkimago. Wat onwaar is: dat de mediane Tesla-eigenaar een miljardair is, of dat er geen Tesla bestaat onder Duits luxe-geld. Betaalbaarheid is een spectrum. Tesla beslaat er meer van dan de meme toestaat, minder dan de keynote beloofde."
+    ],
+    "keyFacts": [
+      {
+        "label": "Volume-auto’s",
+        "value": "3 en Y — premium-volume, geen hypercar"
+      },
+      {
+        "label": "Gebroken slide",
+        "value": "Next-gen $25k herhaaldelijk uitgesteld"
+      },
+      {
+        "label": "Tweedehandsmarkt",
+        "value": "Gewoon geld in veel regio’s"
+      }
+    ],
+    "sources": [
+      {
+        "publisher": "Tesla",
+        "title": "Tesla model lineup and pricing",
+        "url": "https://www.tesla.com/"
+      }
+    ]
+  },
+  {
+    "id": "tesla-repair",
+    "slug": "repair",
+    "number": 9,
+    "verdict": "overstated",
+    "lastChecked": "2026-08-22",
+    "myth": "Tesla’s zijn niet te repareren. Eén deuk en de verzekeraar schrijft hem af.",
+    "headline": "Onderdelen, handleidingen en onafhankelijke toegang waren oprecht vijandig. Dat wordt soepeler. Hoge total-loss-cijfers op vroege auto’s mengden dure sensoren met goedkope plaatwerkers die de auto niet kenden.",
+    "kernel": null,
+    "body": [
+      "Voorvechters van right-to-repair hadden Tesla jarenlang bij de les: onderdelen achter een poort, diagnostiek dicht, glas en aluminium waar sommige winkels niet aankwamen. Verzekerings-total-loss-cijfers voor sommige modeljaren zagen er lelijk uit omdat een bumpercamera plus een aluminium kwart plus een schuchtere winkel gelijkstaat aan „afschrijven.” Dat is een echte eigendomsbelasting.",
+      "Het is niet „onherstelbaar.” Onafhankelijke specialisten bestaan, Tesla-service repareert wel, en regeldruk (VS en EU) heeft meer onderdelen en data naar buiten geduwd. Vergelijk met andere aluminium-intensieve EV’s en ADAS-zware Duitse auto’s — niemand last deze als een Civic uit 1996. De meme bevroor een klacht over het servicenetwerk uit 2018 en noemde het natuurkunde."
+    ],
+    "keyFacts": [
+      {
+        "label": "Raakvlak",
+        "value": "Dichte onderdelen/diagnostiek, kosten van ADAS-kalibratie"
+      },
+      {
+        "label": "Totals",
+        "value": "Sommige jaren zagen er slecht uit; winkels en sensoren, geen toverglas"
+      },
+      {
+        "label": "Trend",
+        "value": "Meer onafhankelijke reparatie in de tijd, nog steeds niet Honda-eenvoudig"
+      }
+    ],
+    "sources": [
+      {
+        "publisher": "Industry / regulator reporting",
+        "title": "Right to repair and EV ADAS costs",
+        "url": "https://www.repairerdrivennews.com/"
+      }
+    ]
+  },
+  {
+    "id": "tesla-robotaxi-vapor",
+    "slug": "robotaxi-vapor",
+    "number": 10,
+    "verdict": "overstated",
+    "lastChecked": "2026-08-22",
+    "myth": "Robotaxi en Optimus zijn dampware, net als de auto van $25k en de Semi.",
+    "headline": "Tijdlijnen waren theater. Hardware bestaat. Beperkte robotaxidienst is begonnen. Optimus is een prototype, geen arbeidsmarktfact.",
+    "kernel": "Musk heeft de toekomst verkocht op een kalender die het universum niet heeft getekend. Trek bij elke datum een slag. Trek niet bij elk object een slag.",
+    "body": [
+      "De Semi bestaat en heeft voor een paar klanten gereden; het is geen product op Freightliner-volume. Robotaxi als landelijk onbewaakt netwerk is er niet. Beperkte chauffeurloze / bewaakte diensten (Austin 2025 en daarna) zijn er. Dat is laat en klein, wat iets anders is dan „PowerPoint.”",
+      "Optimus is de weekere: lopende humanoïde demo’s, fabrieksexperimenten, geen universele huishoudrobot die je kunt bestellen. De hele stack dampware noemen vereist de voertuigen negeren die al bewegen. Het „opgeloste AGI-arbeid” noemen vereist negeren dat het een demo is. Splits de kaart: datums slecht, atomen vaak echt, schaal meestal later dan de tweet."
+    ],
+    "keyFacts": [
+      {
+        "label": "Semi",
+        "value": "Echt, laag volume"
+      },
+      {
+        "label": "Robotaxi",
+        "value": "Beperkte operaties, geen nationaal netwerk"
+      },
+      {
+        "label": "Optimus",
+        "value": "Prototype / fabrieksproeven, geen productcatalogus"
+      }
+    ],
+    "sources": [
+      {
+        "publisher": "Tesla",
+        "title": "Tesla AI / robotaxi",
+        "url": "https://www.tesla.com/ai"
+      }
+    ]
+  }
+]

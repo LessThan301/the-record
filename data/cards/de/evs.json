@@ -1,0 +1,437 @@
+[
+  {
+    "id": "ev-power-plants",
+    "slug": "power-plants",
+    "number": 1,
+    "verdict": "false",
+    "lastChecked": "2026-08-22",
+    "myth": "E-Autos sind schlechter fürs Klima, weil sie den Schornstein nur zum Kraftwerk verschieben.",
+    "headline": "Selbst an einem schmutzigen Netz schlägt ein typisches E-Auto ein typisches Benzinauto über die Lebensdauer. Der Vorteil steckt in der Effizienz: Der größte Teil des Benzins, das man verbrennt, erreicht nie die Räder.",
+    "kernel": null,
+    "body": [
+      "Die EPA-Mythenseite ist deutlich: E-Autos setzen etwa 87–91% der Batterieenergie in Bewegung um; Benzinautos bringen etwas wie 16–25% der Kraftstoffenergie an die Räder. Man kann den Strom aus Kohle erzeugen und in den meisten Orten trotzdem in der Lebenszyklusrechnung gewinnen, weil man nicht drei Viertel der Energie als Wärme im Kühler wegwirft.",
+      "Zahlen von Carbon Brief und ICCT: In Europa liegt das Lebenszyklus-CO₂ in der Größenordnung von zwei Dritteln unter einem Benziner, und die Lücke wächst, wenn Netze sauberer werden. In kohlastigem Polen oder China schrumpft der Vorteil, kippt aber für ein typisches Auto nicht. Der Ort zählt — wer auf einer Insel aus Braunkohle lebt, nutze einen Rechner für Auspuff plus Netz —, aber das Schornstein-Argument als allgemeines Gesetz ist falsch."
+    ],
+    "keyFacts": [
+      {
+        "label": "Tank-to-wheel",
+        "value": "E-Auto ~87–91% vs. Verbrenner ~16–25% (EPA)"
+      },
+      {
+        "label": "Europa Lebenszyklus",
+        "value": "In der Größenordnung 60–70% weniger CO₂ als Benzin"
+      },
+      {
+        "label": "Kohle-Netze",
+        "value": "Vorteil kleiner, meist immer noch positiv"
+      }
+    ],
+    "sources": [
+      {
+        "publisher": "Umweltbundesamt",
+        "title": "Klimavorteil für E-Autos bestätigt",
+        "url": "https://www.umweltbundesamt.de/presse/pressemitteilungen/klimavorteil-fuer-e-autos-bestaetigt"
+      },
+      {
+        "publisher": "ADAC",
+        "title": "Treibhausgas-Bilanz: Welcher Antrieb kann das Klima retten?",
+        "url": "https://www.adac.de/verkehr/tanken-kraftstoff-antrieb/alternative-antriebe/klimabilanz/"
+      },
+      {
+        "publisher": "U.S. EPA",
+        "title": "Electric Vehicle Myths",
+        "url": "https://www.epa.gov/greenvehicles/electric-vehicle-myths"
+      },
+      {
+        "publisher": "Carbon Brief",
+        "title": "Factcheck: 21 misleading myths about electric vehicles",
+        "url": "https://interactive.carbonbrief.org/factcheck/electric-vehicles/"
+      }
+    ]
+  },
+  {
+    "id": "ev-battery-manufacturing",
+    "slug": "battery-manufacturing",
+    "number": 2,
+    "verdict": "false",
+    "lastChecked": "2026-08-22",
+    "myth": "Die Batterieherstellung ist so dreckig, dass das E-Auto seine Kohlenstoffschuld nie zurückzahlt.",
+    "headline": "Die Herstellung ist vorne schwerer. Die Amortisation liegt typisch bei ein paar Fahrjahren, nicht bei einem Leben.",
+    "kernel": "Ein Langstrecken-Pack stößt in der Fabrik mehr aus als eine Stahl-und-Benzin-Schrägheck. Dieser Teil der Folie ist nicht falsch. Der Trick ist, das Video zu stoppen, bevor das Auto gefahren wird.",
+    "body": [
+      "Argonne GREET, ICCT und Carbon Briefs Nachrechnungen von Herstellerangaben setzen die Kohlenstoff-Amortisation in Europa in der Größenordnung von 10–20 Tausend Meilen — oft unter zwei Jahren für einen normalen Fahrer. Tesla-Model-Y-Beispiele in Großbritannien wurden um 13.000 Meilen geschätzt. Selbst Volvo- und VW-Zahlen verlangen, hat man den Daumen von der Waage genommen, keine 70.000 Meilen Buße.",
+      "Recycling und sauberere Zellfabriken senken die Schuld weiter. Der ehrliche Rest: das kleinste Pack kaufen, das zum Leben passt, das Auto lange halten, und achten, wo die Zellen gebrannt wurden. „Zahlt sich nie zurück“ ist eine Facebook-Weisheit von 2019, die GREET nicht überlebt hat."
+    ],
+    "keyFacts": [
+      {
+        "label": "Amortisation (Europa, typisch)",
+        "value": "~11k–20k Meilen, oft <2 Jahre"
+      },
+      {
+        "label": "Methode",
+        "value": "Lebenszyklus nach GREET / ICCT, nicht nur Auspuff"
+      },
+      {
+        "label": "Was hilft",
+        "value": "Sauberere Netze, Recycling, richtig dimensionierte Packs"
+      }
+    ],
+    "sources": [
+      {
+        "publisher": "Umweltbundesamt",
+        "title": "Klimavorteil für E-Autos bestätigt (ifeu-Studie)",
+        "url": "https://www.umweltbundesamt.de/presse/pressemitteilungen/klimavorteil-fuer-e-autos-bestaetigt"
+      },
+      {
+        "publisher": "ADAC",
+        "title": "Treibhausgas-Bilanz alternativer Antriebe",
+        "url": "https://www.adac.de/verkehr/tanken-kraftstoff-antrieb/alternative-antriebe/klimabilanz/"
+      },
+      {
+        "publisher": "U.S. EPA",
+        "title": "Electric Vehicle Myths (battery manufacturing)",
+        "url": "https://www.epa.gov/greenvehicles/electric-vehicle-myths"
+      },
+      {
+        "publisher": "Carbon Brief",
+        "title": "Factcheck: EV carbon payback",
+        "url": "https://interactive.carbonbrief.org/factcheck/electric-vehicles/"
+      }
+    ]
+  },
+  {
+    "id": "ev-batteries-fail",
+    "slug": "batteries-fail",
+    "number": 3,
+    "verdict": "false",
+    "lastChecked": "2026-08-22",
+    "myth": "E-Auto-Batterien fallen nach ein paar Jahren aus und werden dann toxischer Deponiemüll.",
+    "headline": "Tausch wegen Ausfall ist selten. Die meisten Packs überleben das Auto. Tote Packs sind wertvoller Schrott, kein neuer Love Canal.",
+    "kernel": null,
+    "body": [
+      "Die EPA, Recurrent zitierend (2025): In einer großen Gebraucht-EV-Stichprobe lag der durchschnittliche Batterietausch historisch um 2,5%, und unter 0,5% für viele Modelle ab 2016 (ohne Rückrufe). Nissan hat gesagt, fast alle seiner frühen Packs seien nach mehr als einem Jahrzehnt noch in Autos. Achtjahresgarantien gibt es, weil die Chemie hält.",
+      "Das Lebensende ist ein Recyclingproblem, kein Problem der städtischen Müllkippe. Zellen enthalten Nickel, Lithium, Kupfer — Leute zahlen dafür, sie zurückzugewinnen. Second-Life-Stationärspeicher ist ein realer, wenn auch noch wachsender Pfad. Handy-Akku-Folklore überträgt sich nicht. Thermomanagement und Zyklustiefe sind andere Sportarten."
+    ],
+    "keyFacts": [
+      {
+        "label": "Tausch (Recurrent)",
+        "value": "~2,5% historisch; <0,5% viele Modelle ab 2016"
+      },
+      {
+        "label": "Garantieuntergrenze",
+        "value": "Typisch 8 Jahre / Meilendeckel"
+      },
+      {
+        "label": "Lebensende",
+        "value": "Recycling + Zweitleben, weil die Materialien Geld wert sind"
+      }
+    ],
+    "sources": [
+      {
+        "publisher": "ADAC",
+        "title": "Elektroauto-Batterie: Lebensdauer, Garantie, Reparatur",
+        "url": "https://www.adac.de/rund-ums-fahrzeug/elektromobilitaet/laden/elektroauto-batterie/"
+      },
+      {
+        "publisher": "ADAC",
+        "title": "Dauertest Tesla Model Y — Batteriegesundheit",
+        "url": "https://www.adac.de/rund-ums-fahrzeug/autokatalog/autotest/dauertest-tesla-model-y/"
+      },
+      {
+        "publisher": "U.S. EPA",
+        "title": "Electric Vehicle Myths (battery life)",
+        "url": "https://www.epa.gov/greenvehicles/electric-vehicle-myths"
+      },
+      {
+        "publisher": "Carbon Brief / Recurrent",
+        "title": "EV battery life",
+        "url": "https://interactive.carbonbrief.org/factcheck/electric-vehicles/"
+      }
+    ]
+  },
+  {
+    "id": "ev-grid-collapse",
+    "slug": "grid-collapse",
+    "number": 4,
+    "verdict": "false",
+    "lastChecked": "2026-08-22",
+    "myth": "Das Netz bricht zusammen, wenn alle elektrisch fahren.",
+    "headline": "Nationale Netze können E-Autos aufnehmen, zumal mit Nachtladen. Lokale Transformatoren sind die erwachsene Engstelle.",
+    "kernel": "Eine Straße voller 11-kW-Wallboxen an einer Einspeisung der 1970er ist ein echtes Versorgerkopfweh. Das ist eine Nachbarschafts-Aufrüstung, nicht der Tod der Elektrifizierung.",
+    "body": [
+      "EPA: E-Autos können außerhalb der Spitze laden; Studien (USDRIVE, DOE-Arbeit zum westlichen Netz) finden Kapazität für die kommende Welle. Kaliforniens Spitzenlast durch E-Autos war ein Rundungsfehler neben der Klimaanlage. Die EIA hat angemerkt, dass Haushaltsheizung und -kühlung ein Auto schon jetzt in den Schatten stellen. Im Vereinigten Königreich merkt Carbon Brief an, die Spitzenlast sei seit den 2000ern gefallen, während die Kollaps-Rede stieg.",
+      "Was bricht: unkoordiniertes Schnellladen an schwachen ländlichen Stichen, oder alle um 18:00 an einem Hitzewellen-Dienstag. Die Werkzeuge — zeitvariable Tarife, intelligentes Laden, später V2G — existieren. „Das Netz kann niemals“ ist eine Losung. „Diese Trafostation braucht einen Umbau“ ist ein Arbeitsauftrag."
+    ],
+    "keyFacts": [
+      {
+        "label": "Nationales Bild",
+        "value": "Bewältigbar mit Nacht-/intelligentem Laden"
+      },
+      {
+        "label": "Lokales Bild",
+        "value": "Trafos und Einspeisungen brauchen gezielte Aufrüstung"
+      },
+      {
+        "label": "Maßstabscheck",
+        "value": "Heizung und Klimaanlage sind immer noch der Haushaltsfresser"
+      }
+    ],
+    "sources": [
+      {
+        "publisher": "U.S. EPA",
+        "title": "Electric Vehicle Myths (grid)",
+        "url": "https://www.epa.gov/greenvehicles/electric-vehicle-myths"
+      }
+    ]
+  },
+  {
+    "id": "ev-nowhere-charge",
+    "slug": "nowhere-charge",
+    "number": 5,
+    "verdict": "overstated",
+    "lastChecked": "2026-08-22",
+    "myth": "Es gibt nirgendwo zum Laden. E-Autos funktionieren nur mit Haus in Palo Alto.",
+    "headline": "Laden zu Hause (oder bei der Arbeit) ist das Produkt. Öffentliche Netze sind schnell gewachsen und an den falschen Stellen immer noch lückenhaft — zumal in Straßen mit Mietwohnungen.",
+    "kernel": "Wer in einer dichten europäischen Stadt am Straßenrand parkt, ohne gemeinsame Box, für den ist das Auto ein schlechteres Gerät. Das ist ein Planungsversagen, kein Beweis, dass Elektronen nicht durch ein Kabel können.",
+    "body": [
+      "Die meisten E-Auto-Kilometer in Norwegen, Kalifornien und Deutschland werden nicht an einem Autobahnrasthof geladen. Sie werden über Nacht an einer 7–11-kW-Wallbox geladen. Die EPA merkt an, die Mehrheit der täglichen US-Fahrten sei kurz; 98% der Fahrten sind ≤75 Meilen. Öffentliche DC-Schnellnetze haben sich vervielfacht (US-NEVI-Geld, EU-AFIR-Regeln). Die Zuverlässigkeit mancher Netze ist immer noch aus gutem Grund ein Meme.",
+      "Die bleibenden harten Fälle: Mieter, Bewohner von Hochhäusern, Leute ohne eigenen Stellplatz. Die Politik zwingt in der EU langsam Regeln zum „Recht auf Steckdose“. Solange das langweilige Infrastruktur ist, tun diese Fahrer recht daran zu zögern. Sie sind nicht dasselbe wie „es gibt keine Lader“."
+    ],
+    "keyFacts": [
+      {
+        "label": "Standardmuster",
+        "value": "Laden, wo das Auto schläft"
+      },
+      {
+        "label": "Tägliche Fahrten (USA)",
+        "value": "73% ≤10 Meilen; 98% ≤75 Meilen (NHTS)"
+      },
+      {
+        "label": "Schwerer Modus",
+        "value": "Kein privater Parkplatz — eine echte, schrumpfende Hürde"
+      }
+    ],
+    "sources": [
+      {
+        "publisher": "ADAC",
+        "title": "Elektromobilität — Laden",
+        "url": "https://www.adac.de/rund-ums-fahrzeug/elektromobilitaet/laden/"
+      },
+      {
+        "publisher": "U.S. EPA",
+        "title": "Electric Vehicle Myths (charging)",
+        "url": "https://www.epa.gov/greenvehicles/electric-vehicle-myths"
+      }
+    ]
+  },
+  {
+    "id": "ev-range",
+    "slug": "range",
+    "number": 6,
+    "verdict": "false",
+    "lastChecked": "2026-08-22",
+    "myth": "E-Autos haben nicht genug Reichweite fürs echte Leben.",
+    "headline": "Moderne Volumen-E-Autos schaffen 300–500+ km WLTP. Das echte Leben ist ein Pendelweg, kein Filmdreh quer durch Texas.",
+    "kernel": null,
+    "body": [
+      "EPA: Die meisten neuen Modelle liegen über 200 Meilen Nennreichweite; die US-Verteilung täglicher Fahrten macht das zum Überschuss, nicht zum Mangel. Europäische WLTP-Zahlen für Model Y, die ID.-Familie, Hyundai/Kia und chinesische Importe liegen in dem Band, in dem die Leute schon mit einem Diesel leben, den sie aus Gewohnheit tanken, nicht aus Not.",
+      "Reichweitenangst ist ein Problem des Jahresurlaubs plus ein Winterproblem (nächste Karte). Es ist kein Dienstagsproblem für den Medianfahrer. Wenn das Leben 800 km Autobahn im Schneesturm mit Ski-Box ist, weiß man schon, dass man ein Sonderfall ist — planen, oder für diese Woche einen Langstrecken-Verbrenner behalten. Kein Naturgesetz aus dem Sonderfall schreiben."
+    ],
+    "keyFacts": [
+      {
+        "label": "Reichweite neuer Autos",
+        "value": "Typisch 200+ Meilen EPA / 300–500 km WLTP"
+      },
+      {
+        "label": "Täglicher Bedarf",
+        "value": "Die meisten Fahrten weit darunter"
+      },
+      {
+        "label": "Die Ausnahme",
+        "value": "Lange, schnelle, kalte Fahrten — planen"
+      }
+    ],
+    "sources": [
+      {
+        "publisher": "ADAC",
+        "title": "Stresstest E-Autos im Winter / Langstrecke",
+        "url": "https://www.adac.de/rund-ums-fahrzeug/elektromobilitaet/elektroauto/elektroauto-reichweite-im-winter-adac-test-2026/"
+      },
+      {
+        "publisher": "U.S. EPA",
+        "title": "Electric Vehicle Myths (range)",
+        "url": "https://www.epa.gov/greenvehicles/electric-vehicle-myths"
+      }
+    ]
+  },
+  {
+    "id": "ev-cold",
+    "slug": "cold",
+    "number": 7,
+    "verdict": "misleading",
+    "lastChecked": "2026-08-22",
+    "myth": "E-Autos funktionieren nicht in der Kälte. Der Winter beweist, dass die Idee tot ist.",
+    "headline": "Die Reichweite fällt — oft 20–40% in den üblen Wochen. Die Autos springen trotzdem an. Norwegen hat schon abgestimmt.",
+    "kernel": "Kabinenvärme kommt aus der Batterie, nicht aus Motorabwärme. Die Chemie wird träge. Beides ist Physik. „Funktioniert nicht“ ist ein Kategorienfehler.",
+    "body": [
+      "AAA (2019) fand in der Größenordnung 40% Reichweitenverlust in einem harten Kältetest mit Heizung an. Echte Winter variieren: Vorklimatisierung, Wärmepumpen und Sitzheizung holen viel davon zurück. DC-Laden ist langsamer, wenn das Pack gefroren ist — ein weiteres echtes Ärgernis, gelöst durch Vorkonditionierung auf dem Weg zur Säule.",
+      "Norwegen, Island, Kanada, Schweden, Finnland und die Alpen haben große oder wachsende E-Auto-Anteile. Die Leute dort vollbringen kein Wunder. Sie stecken zu Hause ein, vorklimatisieren und fahren. Ein Benziner verbraucht im Winter auch mehr; er versteckt die Steuer nur im selben Tank. Wer in Bitburg wohnt und 30 km pendelt, merkt den Januar. Man geht nicht zu Fuß."
+    ],
+    "keyFacts": [
+      {
+        "label": "Reichweitentreffer",
+        "value": "Oft 20–40% in harter Kälte mit Kabinenheizung"
+      },
+      {
+        "label": "Abhilfe",
+        "value": "Wärmepumpe, Vorklimatisierung, Heimladen"
+      },
+      {
+        "label": "Existenzbeweis",
+        "value": "Nordische E-Auto-Märkte"
+      }
+    ],
+    "sources": [
+      {
+        "publisher": "ADAC",
+        "title": "Elektroauto im Winter: So sinken die Reichweiten",
+        "url": "https://www.adac.de/rund-ums-fahrzeug/elektromobilitaet/laden/elektroauto-reichweite-winter/"
+      },
+      {
+        "publisher": "ADAC",
+        "title": "E-Auto-Winter-Test 2026",
+        "url": "https://www.adac.de/rund-ums-fahrzeug/elektromobilitaet/elektroauto/elektroauto-reichweite-im-winter-adac-test-2026/"
+      },
+      {
+        "publisher": "U.S. EPA",
+        "title": "Electric Vehicle Myths (range / weather)",
+        "url": "https://www.epa.gov/greenvehicles/electric-vehicle-myths"
+      },
+      {
+        "publisher": "Clean Energy Canada / industry explainers",
+        "title": "EV myths — cold weather",
+        "url": "https://cleanenergycanada.org/media-brief-countering-common-myths-about-electric-vehicles/"
+      }
+    ]
+  },
+  {
+    "id": "ev-lithium",
+    "slug": "lithium",
+    "number": 8,
+    "verdict": "false",
+    "lastChecked": "2026-08-22",
+    "myth": "Es gibt nicht genug Lithium (oder Kupfer, oder Seltene Erden), damit alle elektrisch fahren.",
+    "headline": "Die geologischen Ressourcen übersteigen die Nachfrageprognosen. Preissignale schalten Minen und Recycling frei. Engpässe sind Genehmigungen und Zeit, kein fehlendes Element.",
+    "kernel": null,
+    "body": [
+      "Der Mineralienteil von Carbon Brief: Die Ressourcen sind größer als die Nachfrage 2022–2050 nach heutiger Geologie. Lithium ist nicht selten; es wird ungleich verarbeitet. Kupfer ist die engere, langweiligere Engstelle, weil jede Energiewende ihn nutzt. Seltene Erden in Motoren werden im Design reduziert (Tesla und andere haben Pfade mit wenig/keinen schweren Seltenen Erden gezeigt).",
+      "Engpässe in einem gegebenen Jahr sind eine Minen-und-Raffinerie-Geschichte — Chile, Australien, chinesische Verarbeitung, Kongo-Kobalt, indonesisches Nickel. Das ist Geopolitik und Vorlaufzeit. Es ist nicht „die Erdkruste ist alle“. Öl, erinnern wir uns, ist ein Strom, den man ewig weiter fördern muss. Ein Pack ist ein Bestand, den man recyceln kann."
+    ],
+    "keyFacts": [
+      {
+        "label": "Lithium",
+        "value": "Ressourcen > langfristige Nachfrage in Standardbewertungen"
+      },
+      {
+        "label": "Engerer Input",
+        "value": "Kupfer, plus Raffineriekapazität"
+      },
+      {
+        "label": "Entlastungsventil",
+        "value": "Chemiewechsel + Recycling + mehr Minen"
+      }
+    ],
+    "sources": [
+      {
+        "publisher": "Carbon Brief",
+        "title": "Factcheck: raw materials",
+        "url": "https://interactive.carbonbrief.org/factcheck/electric-vehicles/"
+      }
+    ]
+  },
+  {
+    "id": "ev-heavy-dangerous",
+    "slug": "heavy-dangerous",
+    "number": 9,
+    "verdict": "overstated",
+    "lastChecked": "2026-08-22",
+    "myth": "E-Autos sind so schwer, dass sie für alle anderen Todesfallen sind und die Straßen zerstören.",
+    "headline": "Sie sind schwerer. Crashtest-Noten sind typischerweise ausgezeichnet. Straßenverschleiß und Fußgängerphysik sind die Teile, die nicht nichts sind.",
+    "kernel": "Masse ist Energie in einem Crash mit einem kleinen Auto oder einem Menschen. Rekuperation senkt Bremsstaub; Extra-Gewicht kann Reifenabrieb erhöhen. Die Netto-Luftqualität ist trotzdem meist besser, weil es keinen Auspuff gibt.",
+    "body": [
+      "Ein Batteriepack ist eine Platte aus Zellen. Diese Masse sitzt tief, deshalb bestehen E-Autos oft Elchtests und NCAP-/NHTSA-Sterne mit Bravour — sie kippen nicht, und die Struktur ist ein Skateboard. Insassensicherheit ist nicht die schwache Seite dieses Arguments.",
+      "Die schwache Seite ist das andere Objekt: ein 2,3-Tonnen-Crossover in einen 1,2-Tonnen-Kleinwagen, oder in einen Fußgänger. Reifenabrieb-Partikel skalieren mit dem Gewicht. Fahrbahnverschleiß skaliert schneller als linear mit der Achslast, deshalb fressen Lkw die Autobahnen, nicht Model Ys — aber eine Flotte schwererer Autos kommt nicht zum Nulltarif. Das Mittel sind kleinere Packs und kleinere Autos, nicht die Rückkehr zu verbleitem Benzin. „Todesfalle“ als Überschrift überspringt die Insassensicherheitsbilanz."
+    ],
+    "keyFacts": [
+      {
+        "label": "Insassensicherheit",
+        "value": "In der Regel starke Crashtest-Leistung"
+      },
+      {
+        "label": "Masse-Nachteil",
+        "value": "Schlechter für das andere Fahrzeug / den Fußgänger; mehr Reifenabrieb"
+      },
+      {
+        "label": "Straßen",
+        "value": "Autos << Lkw; schwerere Autos trotzdem nicht zum Nulltarif"
+      }
+    ],
+    "sources": [
+      {
+        "publisher": "U.S. EPA",
+        "title": "Electric Vehicle Myths (safety)",
+        "url": "https://www.epa.gov/greenvehicles/electric-vehicle-myths"
+      },
+      {
+        "publisher": "Carbon Brief",
+        "title": "Weight, tires, and air quality",
+        "url": "https://interactive.carbonbrief.org/factcheck/electric-vehicles/"
+      }
+    ]
+  },
+  {
+    "id": "ev-hybrids-better",
+    "slug": "hybrids-better",
+    "number": 10,
+    "verdict": "misleading",
+    "lastChecked": "2026-08-22",
+    "myth": "Hybride sind strikt besser. Batterieelektrisch ist eine Sackgasse.",
+    "headline": "Hybride sind eine gute Brücke, zumal für Wenigfahrer ohne Stecker. Sie gewinnen den Lebenszyklus nicht, sobald das Netz auch nur mäßig sauber ist.",
+    "kernel": "Wer 6.000 km im Jahr fährt, am Straßenrand parkt und dessen Strom dreckig ist, für den kann ein kleiner Hybrid das rationale Auto sein. Das ist eine Nische, keine Widerlegung der Kategorie.",
+    "body": [
+      "Ein Hybrid verbrennt für die meisten seiner Kilometer weiter Benzin. Er gewinnt im Kaltstart-Stadtzyklus gegen einen durstigen Verbrenner, und er braucht keine Wallbox. Bei hoher Jahresfahrleistung ziehen Energiekosten und Emissionen des BEV davon — ICCT und Carbon Brief zeigen beide, dass die Lücke mit der Dekarbonisierung der Netze wächst. Wasserstoffautos, der andere beliebte Fang, brauchen von der Quelle zum Rad ein Mehrfaches an Strom.",
+      "Sackgassen-Behauptungen müssen auch Norwegen, das China-Volumen, Teslas Bestand und fallende Batteriedollar pro kWh erklären. Eine Technik, die in mehreren reichen Ländern schon einen großen Anteil der Neuzulassungen stellt, ist kein Poster von der Schülermesse. Hybride können auch in der Garage stehen. Sie sind kein Veto."
+    ],
+    "keyFacts": [
+      {
+        "label": "Hybrid-Stärke",
+        "value": "Kein Stecker nötig; gut für Wenigfahrer / ohne Parkplatz"
+      },
+      {
+        "label": "BEV-Stärke",
+        "value": "Energiekosten + Lebenszyklus-CO₂ bei ernsthaftem Jahres-km"
+      },
+      {
+        "label": "H₂-Autos",
+        "value": "Weit weniger Fahrzeuge, schlechtere Effizienz als BEVs"
+      }
+    ],
+    "sources": [
+      {
+        "publisher": "ADAC",
+        "title": "Treibhausgas-Bilanz: Elektro nach drei bis vier Jahren vorn",
+        "url": "https://www.adac.de/verkehr/tanken-kraftstoff-antrieb/alternative-antriebe/klimabilanz/"
+      },
+      {
+        "publisher": "Umweltbundesamt",
+        "title": "Klimavorteil für E-Autos bestätigt",
+        "url": "https://www.umweltbundesamt.de/presse/pressemitteilungen/klimavorteil-fuer-e-autos-bestaetigt"
+      },
+      {
+        "publisher": "Carbon Brief",
+        "title": "Factcheck: hybrids, hydrogen, e-fuels",
+        "url": "https://interactive.carbonbrief.org/factcheck/electric-vehicles/"
+      }
+    ]
+  }
+]

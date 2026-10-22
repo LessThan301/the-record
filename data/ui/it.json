@@ -1,0 +1,144 @@
+{
+  "language": "Lingua",
+  "close": "Chiudi",
+  "notFoundTitle": "Pagina non trovata",
+  "notFoundBody": "Quella pagina non è in archivio.",
+  "notFoundBack": "Torna all'inizio",
+  "nav": {
+    "method": "Metodo",
+    "all": "Tutte",
+    "menu": "Menu"
+  },
+  "home": {
+    "kicker": "Taglia il rumore, abbraccia il segnale.",
+    "title": "Quale di queste ti suona vera?",
+    "lede": "Cinquanta affermazioni su Elon Musk, SpaceX, Tesla, le auto elettriche e il capitalismo.",
+    "gradeKey": "Come si valuta ogni carta",
+    "iBelieve": "Ci credo",
+    "mythStamp": "Mito",
+    "record": "I fatti",
+    "claimPicked": "L'affermazione che hai scelto",
+    "tapAgain": "Tocca la carta per rivedere l'affermazione",
+    "flipping": "Si gira sui fatti…",
+    "sources": "Fonti",
+    "grade": "Giudizio",
+    "showMyth": "Mostra il mito",
+    "showRecord": "Mostra i fatti"
+  },
+  "verdict": {
+    "false": "Falso",
+    "misleading": "Fuorviante",
+    "overstated": "Esagerato"
+  },
+  "verdictHint": {
+    "false": "Questa affermazione è sbagliata.",
+    "misleading": "Una parte è vera, ma porta alla conclusione sbagliata.",
+    "overstated": "C'è del vero, ma l'affermazione va troppo in là."
+  },
+  "categories": {
+    "elon": {
+      "name": "Elon Musk",
+      "shortName": "Elon",
+      "kicker": "Persona",
+      "blurb": "Storie d'origine, tasse, politica e il mito del fondatore."
+    },
+    "spacex": {
+      "name": "SpaceX",
+      "shortName": "SpaceX",
+      "kicker": "Lancio",
+      "blurb": "Razzi, Starlink, i soldi della NASA e cosa ha davvero cambiato il riutilizzo."
+    },
+    "tesla": {
+      "name": "Tesla",
+      "shortName": "Tesla",
+      "kicker": "Veicolo",
+      "blurb": "Incendi, Autopilot, batterie, giochi dei pannelli e la tesi del robotaxi."
+    },
+    "evs": {
+      "name": "Auto elettriche",
+      "shortName": "Elettriche",
+      "kicker": "La categoria",
+      "blurb": "I conti sul clima, la rete, le miniere, l'autonomia d'inverno e la deviazione sull'ibrido."
+    },
+    "capitalism": {
+      "name": "Capitalismo",
+      "shortName": "Capitalismo",
+      "kicker": "Il sistema",
+      "blurb": "Povertà, pianificazione, i Paesi nordici, la disuguaglianza — e se i mercati sono il problema."
+    }
+  },
+  "footer": {
+    "independent": "Sito editoriale indipendente. Non affiliato a Tesla, SpaceX, xAI o Elon Musk.",
+    "trademarks": "Tesla, SpaceX, Starlink, Autopilot e i marchi correlati appartengono ai rispettivi titolari. Qui solo per commento."
+  },
+  "method": {
+    "kicker": "Metodo",
+    "title": "Come si valutano queste carte",
+    "affiliation": "The Record è un sito editoriale indipendente. Non è affiliato a Tesla, Inc., SpaceX, xAI o Elon Musk.",
+    "p1": "Ogni carta parte da un'affermazione che circola davvero — risultati di ricerca, telegiornali, forum, tavolate — non un uomo di paglia messo in piedi solo per abbatterlo.",
+    "p2": "Dove una critica regge ancora — il nome Autopilot, le date dell'FSD, l'habitat a Boca Chica, la ricarica per gli affittuari, i giochi dei pannelli sulle auto degli anni di ramp-up — resta sulla carta. Una fonte di verità che non sa dire «sì, quella parte» è solo un altro mito.",
+    "p3": "Le fonti sono primarie o vicine: i rapporti Tesla su incendi e sicurezza, le pagine EPA sui miti, il factcheck EV di Carbon Brief, i materiali NASA sull'equipaggio commerciale, le serie sulla povertà di World Bank e Our World in Data, i resoconti dell'epoca sul conto fiscale 2021 e sul gesto all'insediamento del 2025. Clicca e vai. Se un dato si muove, la carta deve muoversi.",
+    "p4": "Se c'è stampa vera in quella lingua che parla della carta — Spiegel, ADEME, El País — sta sopra. Altrimenti restano le fonti inglesi.",
+    "legalLead": "Affiliazione, privacy, condizioni e note legali:"
+  },
+  "legal": {
+    "kicker": "Note legali",
+    "title": "Il carattere piccolo",
+    "updated": "Ultimo aggiornamento: 22 agosto 2026.",
+    "navDisclaimer": "Avvertenza",
+    "navTerms": "Condizioni",
+    "navPrivacy": "Privacy",
+    "navCookies": "Cookie",
+    "navIp": "Marchi",
+    "navImprint": "Note legali",
+    "disclaimerTitle": "Avvertenza",
+    "disclaimer": [
+      "The Record è un sito editoriale indipendente. Non è affiliato, patrocinato, sponsorizzato o associato a Tesla, Inc., Space Exploration Technologies Corp. (SpaceX), xAI, Neuralink, The Boring Company, X Corp. o Elon Musk. I riferimenti a queste persone e aziende servono a identificare, commentare e criticare.",
+      "Le carte sono briefing documentati, non consulenza finanziaria, legale o ingegneristica, né un sostituto dei rapporti originali. I giudizi — Falso, Fuorviante, Esagerato — sono valutazioni editoriali. I dati si muovono. Se una fonte si muove, la carta deve muoversi.",
+      "Nulla su questo sito è un'offerta di vendita di titoli, veicoli, lanci o qualsiasi altra cosa. Non trattare una carta come una due diligence."
+    ],
+    "termsTitle": "Condizioni d'uso",
+    "terms": [
+      "Usando The Record accetti queste condizioni. Se non le accetti, non usare il sito.",
+      "Il sito è fornito «così com'è» e «come disponibile», senza garanzie di alcun tipo, espresse o implicite, inclusa l'accuratezza, la commerciabilità, l'idoneità a uno scopo particolare e la non violazione di diritti. Non garantiamo che il sito sia ininterrotto, privo di errori o di componenti dannosi.",
+      "Per quanto la legge consente, l'editore non risponde di danni indiretti, incidentali, speciali, consequenziali o punitivi, né di mancati guadagni, perdita di dati o di avviamento, nati dall'uso del sito o dall'aver fatto affidamento su una carta. Restano i diritti inderogabili che la legge del tuo Paese non ti lascia rinunciare — compresi, dove esistono, i diritti dei consumatori dell'UE.",
+      "Puoi linkare qualsiasi pagina pubblica. Non puoi rastrellare, ripubblicare o ribrandare le carte come se fossero tue. Una citazione breve con link di ritorno va bene. Il raccolto automatizzato che pesa sul servizio, no.",
+      "I link alle fonti esterne lasciano questo sito. Non controlliamo quelle pagine e non siamo responsabili del contenuto, della disponibilità o delle policy."
+    ],
+    "privacyTitle": "Privacy",
+    "privacyIntro": [
+      "Questo sito non gestisce account utente, newsletter, reti pubblicitarie né un archivio di dati personali. Qui non c'è un «accedi».",
+      "Nel normale funzionamento di un sito può essere trattato:"
+    ],
+    "privacyBullets": [
+      "Log tecnici standard sull'host (indirizzo IP, browser, ora, URL richiesta), quanto basta per servire le pagine, tenere su il sito e rispondere agli abusi.",
+      "La barra degli indirizzi, se apri una carta: un id dell'affermazione può comparire nell'URL (per esempio ?claim=elon-emerald). Resta nel tuo browser, a meno che tu non condivida il link.",
+      "Niente vendita di dati personali. Niente profilazione per la pubblicità. Niente pixel di marketing di terzi messi da questo sito."
+    ],
+    "privacyOutro": [
+      "Se segui un link a una fonte, quella destinazione ha la sua informativa privacy. Non siamo il titolare del trattamento di World Bank, Our World in Data, Tesla, NASA o qualsiasi altro editore citato.",
+      "Secondo il GDPR, il «titolare del trattamento» è la persona o l'organizzazione che determina le finalità del trattamento. Per questo sito è l'editore indicato nelle note legali — chi ha messo questo URL sul web pubblico. Puoi chiedere a quell'editore accesso, rettifica, cancellazione, limitazione, opposizione o portabilità dove questi diritti si applicano, e puoi reclamare presso l'autorità di controllo (in Germania, una Landesdatenschutzbehörde; in tutta l'UE, la tua DPA locale)."
+    ],
+    "cookiesTitle": "Cookie",
+    "cookies": [
+      "The Record non imposta cookie pubblicitari o di analitica. Non usiamo un banner sui cookie perché non depositiamo cookie non essenziali.",
+      "La piattaforma di hosting può usare cookie strettamente necessari o memorizzazioni simili per erogare il sito, bilanciare il traffico o proteggere dagli abusi. Il browser può anche conservare dati di sessione ordinari per quello scopo tecnico. Puoi bloccare i cookie nel browser; il sito dovrebbe restare leggibile."
+    ],
+    "ipTitle": "Marchi e diritto d'autore",
+    "ip": [
+      "Tesla, Model Y, Model 3, Model S, Model X, Cybertruck, Autopilot, Full Self-Driving, Supercharger, SpaceX, Falcon, Dragon, Starship, Starlink, Neuralink, xAI e i marchi correlati sono marchi dei rispettivi titolari. Il nome e l'immagine di Elon Musk sono usati qui per commentare affermazioni pubbliche. Altri nomi sulle carte appartengono ai loro titolari.",
+      "Il testo delle carte su The Record è contenuto editoriale indipendente. Cifre citate e titoli di documenti restano opera degli editori indicati. Clicca e vai alla fonte. Non copiare un rapporto di sicurezza Tesla da questa pagina spacciandolo per nostro, né copiare i nostri giudizi spacciandoli per quelli di Tesla."
+    ],
+    "imprintTitle": "Note legali",
+    "imprintIntro": "Informazioni ai sensi del § 5 DDG (Germania) e delle analoghe norme UE di identificazione per i servizi digitali:",
+    "imprintService": "Servizio",
+    "imprintServiceValue": "The Record — sito editoriale indipendente",
+    "imprintNature": "Natura",
+    "imprintNatureValue": "Commento non ufficiale. Non è un prodotto Tesla, SpaceX o xAI.",
+    "imprintOperator": "Gestore / titolare del trattamento",
+    "imprintOperatorValue": "Chi ha pubblicato questo URL è il gestore del servizio e il titolare del trattamento dei dati tecnici necessari all'hosting. Un sito pubblico rivolto a lettori in Germania o nell'UE dovrebbe indicare, in questa pagina, nome e cognome del gestore, indirizzo postale e un'e-mail di contatto (e, se è una società, il tribunale del registro e il numero).",
+    "imprintEditor": "Responsabile dei contenuti",
+    "imprintEditorValue": "La responsabilità editoriale è dello stesso gestore. I giudizi se li assume lui.",
+    "imprintOutro": "Questa pagina descrive come funziona The Record. Non è consulenza legale. Le leggi differiscono da Paese a Paese; se sei tu l'editore, fai controllare le note legali da un avvocato prima di trattare l'URL come un'offerta commerciale."
+  }
+}

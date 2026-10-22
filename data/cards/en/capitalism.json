@@ -1,0 +1,437 @@
+[
+  {
+    "id": "cap-poverty",
+    "slug": "poverty",
+    "number": 1,
+    "verdict": "false",
+    "lastChecked": "2026-08-22",
+    "myth": "Capitalism keeps the poor poor. Market economies make poverty worse.",
+    "headline": "Extreme poverty collapsed in the era of trade, property, and growth — not despite it.",
+    "kernel": "Hundreds of millions are still extremely poor, and progress has slowed since COVID, especially in fragile states. That is a reason to want more growth, not a reason to call the last 40 years a failure.",
+    "body": [
+      "Our World in Data, using World Bank household surveys, records about 2.31 billion people on less than $3 a day in 1990. By 2025 that count is about 808 million — more than 1.5 billion fewer, on the order of 100,000 people a day over a generation. The World Bank’s $2.15 line tells the same story: roughly 8.5% of humanity, versus a majority in 1950 and about 38% as recently as 1990.",
+      "The drop is not a mystery charity event. It is concentrated where countries opened to trade, let farmers and firms keep what they produced, and plugged into global supply chains — China after 1978, India after 1991, Vietnam, Bangladesh, much of East Asia. Command economies that kept markets illegal did not deliver a comparable escape.",
+      "A market economy is not a promise that every region moves at the same speed. Sub-Saharan Africa’s share in extreme poverty fell even as the headcount rose with population. That is a policy and productivity problem inside market systems, not evidence that markets cause poverty."
+    ],
+    "keyFacts": [
+      {
+        "label": "1990, $3/day",
+        "value": "2.31 billion people"
+      },
+      {
+        "label": "2025, $3/day",
+        "value": "~808 million"
+      },
+      {
+        "label": "Since 1950",
+        "value": "~60% of humanity → ~10%"
+      }
+    ],
+    "sources": [
+      {
+        "publisher": "Our World in Data",
+        "title": "Poverty",
+        "url": "https://ourworldindata.org/poverty"
+      },
+      {
+        "publisher": "Our World in Data / World Bank PIP",
+        "title": "Share of population in extreme poverty",
+        "url": "https://ourworldindata.org/grapher/share-of-population-in-extreme-poverty"
+      },
+      {
+        "publisher": "World Bank",
+        "title": "Poverty, Prosperity, and Planet Report 2024",
+        "url": "https://www.worldbank.org/en/publication/poverty-prosperity-and-planet"
+      }
+    ]
+  },
+  {
+    "id": "cap-zero-sum",
+    "slug": "zero-sum",
+    "number": 2,
+    "verdict": "false",
+    "lastChecked": "2026-08-22",
+    "myth": "The economy is zero-sum. The rich only get rich by making everyone else poorer.",
+    "headline": "The pie grew. That is the whole point of a market economy.",
+    "kernel": "Some gains are positional, and some fortunes are crony. Neither fact turns a growing world into a closed poker table.",
+    "body": [
+      "Zero-sum is a good description of a raid, a throne, or a fixed plot of land in a Malthusian world. It is a bad description of an economy where people make new goods. World output per person has risen many times over since the 19th century; the typical person in a market-led country today consumes what no pre-industrial king could buy — antibiotics, refrigeration, a smartphone, a flight.",
+      "If Jeff Bezos becomes rich by building a logistics network, the customers who used it were not stripped of an equivalent pile of cash. They paid a price below the value they put on the delivery. That gap is consumer surplus. Wages in the firms that supply Amazon are a cost, not a theft from a fixed pot.",
+      "The zero-sum story survives because relative status is zero-sum. You can resent a neighbor’s house and still live in a richer country than your grandparents. A market economy is judged on the second fact."
+    ],
+    "keyFacts": [
+      {
+        "label": "Mechanism",
+        "value": "Trade and productivity, not a fixed pot"
+      },
+      {
+        "label": "What grew",
+        "value": "Global GDP per person, life span, calories, goods"
+      },
+      {
+        "label": "What is zero-sum",
+        "value": "Status, thrones, raids — not output"
+      }
+    ],
+    "sources": [
+      {
+        "publisher": "Our World in Data",
+        "title": "Economic Growth",
+        "url": "https://ourworldindata.org/economic-growth"
+      },
+      {
+        "publisher": "Our World in Data",
+        "title": "GDP per capita",
+        "url": "https://ourworldindata.org/grapher/gdp-per-capita-world-bank-constant-usd"
+      }
+    ]
+  },
+  {
+    "id": "cap-nordic",
+    "slug": "nordic",
+    "number": 3,
+    "verdict": "false",
+    "lastChecked": "2026-08-22",
+    "myth": "The Nordic countries prove socialism works, and that capitalism is the inferior system.",
+    "headline": "Denmark and Norway are capitalist market economies with a large welfare state on top.",
+    "kernel": "They tax a lot and spend a lot on services. That is not public ownership of the means of production, and it is funded by private firms operating in open markets.",
+    "body": [
+      "The Nordic model, as the countries themselves describe it, is private ownership, market prices, and free trade, plus universal services and coordinated bargaining. IKEA, Novo Nordisk, Volvo, Maersk, and Equinor are not Gosplan. Product markets in the Nordics rank among the most open in the OECD.",
+      "Heritage’s 2026 Index of Economic Freedom puts Norway 8th in the world (score 78.8). Denmark, Sweden, Finland, and Norway have sat in the top tier for years on property rights, trade freedom, and business regulation. That is the opposite of a planned economy.",
+      "The useful lesson is narrower: a rich capitalist country can choose to buy a generous safety net. It cannot skip the capitalist part and keep the net. The 1970s Swedish overreach, and the 1990s repair, are the cautionary tale the slogan leaves out."
+    ],
+    "keyFacts": [
+      {
+        "label": "Nordic core",
+        "value": "Private firms, market prices, open trade"
+      },
+      {
+        "label": "Norway 2026",
+        "value": "Heritage economic freedom: 8th globally"
+      },
+      {
+        "label": "What it is not",
+        "value": "State ownership of production"
+      }
+    ],
+    "sources": [
+      {
+        "publisher": "Wikipedia (sourced overview)",
+        "title": "Nordic model",
+        "url": "https://en.wikipedia.org/wiki/Nordic_model"
+      },
+      {
+        "publisher": "Heritage Foundation",
+        "title": "Index of Economic Freedom: Norway",
+        "url": "https://economicfreedom.heritage.org/pages/country-pages/norway"
+      },
+      {
+        "publisher": "Heritage Foundation",
+        "title": "Economic Freedom Underpins Nordic Prosperity",
+        "url": "https://www.heritage.org/international-economies/report/economic-freedom-underpins-nordic-prosperity"
+      }
+    ]
+  },
+  {
+    "id": "cap-planning",
+    "slug": "planning",
+    "number": 4,
+    "verdict": "false",
+    "lastChecked": "2026-08-22",
+    "myth": "A planned economy delivers better living standards than a market economy.",
+    "headline": "Split countries are the experiment. Markets won, repeatedly.",
+    "kernel": "Governments can plan roads, vaccines, and wartime production. They cannot replace prices as the way a whole economy decides what to make.",
+    "body": [
+      "West Germany versus the GDR, South Korea versus the North, Taiwan versus Maoist China, and China versus itself before and after 1978 are as close to a controlled trial as history runs. In each case the market side — private property, prices, trade — produced the wealth. The planned side produced shortages, a secret police, and a GDP per person that fell behind by a factor of many.",
+      "South Korea’s GDP per person is on the order of 20–50 times North Korea’s, depending on the reconstruction. China’s World Bank-documented poverty drop begins in earnest after Deng’s reforms, not during the Great Leap. The Soviet Union could pour steel and still not put soap on the shelf, which is the calculation problem Hayek described: without prices, nobody knows what is scarce.",
+      "Markets fail in known ways — externalities, monopolies, public goods. That is an argument for targeted government. It is not an argument that Gosplan is a better operating system for a market economy, because a market economy is the system that uses prices."
+    ],
+    "keyFacts": [
+      {
+        "label": "Korea",
+        "value": "South many times richer than the North"
+      },
+      {
+        "label": "China",
+        "value": "Poverty collapse after 1978 market reform"
+      },
+      {
+        "label": "Mechanism",
+        "value": "Prices carry scarcity information planning cannot"
+      }
+    ],
+    "sources": [
+      {
+        "publisher": "Our World in Data",
+        "title": "GDP per capita (Maddison)",
+        "url": "https://ourworldindata.org/grapher/gdp-per-capita-maddison-project-database"
+      },
+      {
+        "publisher": "World Bank",
+        "title": "Four Decades of Poverty Reduction in China",
+        "url": "https://www.worldbank.org/en/news/press-release/2022/04/01/lifting-800-million-people-out-of-poverty-new-report-looks-at-lessons-from-china-s-experience"
+      },
+      {
+        "publisher": "F. A. Hayek / AER 1945 (reprint)",
+        "title": "The Use of Knowledge in Society",
+        "url": "https://www.econlib.org/library/Essays/hykKnw.html"
+      }
+    ]
+  },
+  {
+    "id": "cap-inequality",
+    "slug": "inequality",
+    "number": 5,
+    "verdict": "misleading",
+    "lastChecked": "2026-08-22",
+    "myth": "Rising inequality proves capitalism is a failed system.",
+    "headline": "Global inequality between countries has fallen as poor countries grew. Poverty is the better test.",
+    "kernel": "Within some rich countries, the top has pulled away. That is a real political fact. It is not the same as “the system makes the poor poorer.”",
+    "body": [
+      "If the indictment is that market growth leaves the global poor behind, the last 40 years are the rebuttal. China and India growing is a compression of between-country inequality — the gap that used to dominate the world Gini. Our World in Data’s global-inequality series shows that story. The people who left $3-a-day poverty did not do it by expropriating Swiss dentists.",
+      "Inside the United States and parts of Europe, skill-biased technology, housing scarcity, and winner-take-most markets have stretched the top. You can want more competition, denser cities, and a better tax mix without treating a Gini coefficient as a death certificate for markets. Equal poverty is not a success; unequal affluence with a falling poverty rate is closer to one.",
+      "A market economy does not promise identical outcomes. It promises that people can trade and invest without a ministry assigning their job. Judge it on mobility, absolute living standards, and whether the floor rises. On those, the capitalist record is the one other systems keep trying to copy."
+    ],
+    "keyFacts": [
+      {
+        "label": "Global picture",
+        "value": "Between-country gaps shrank as Asia grew"
+      },
+      {
+        "label": "Better test",
+        "value": "Absolute poverty and consumption, not Gini alone"
+      },
+      {
+        "label": "Kernel",
+        "value": "Top-end stretch in some rich countries is real"
+      }
+    ],
+    "sources": [
+      {
+        "publisher": "Our World in Data",
+        "title": "Global economic inequality",
+        "url": "https://ourworldindata.org/global-economic-inequality"
+      },
+      {
+        "publisher": "Our World in Data",
+        "title": "Poverty",
+        "url": "https://ourworldindata.org/poverty"
+      }
+    ]
+  },
+  {
+    "id": "cap-exploit",
+    "slug": "exploit",
+    "number": 6,
+    "verdict": "misleading",
+    "lastChecked": "2026-08-22",
+    "myth": "Capitalism requires exploiting workers. Sweatshops prove the system is extractive.",
+    "headline": "People take the factory job because the alternative is worse. Wages then rise with productivity.",
+    "kernel": "Early industrial conditions are often grim. That is a reason for growth and exit options, not a reason to ban the ladder.",
+    "body": [
+      "Paul Krugman’s “In Praise of Cheap Labor” and the later sweatshop literature (Powell and others) make an unsentimental point: a $2 factory job is chosen over a $1 farm day or no job. Banning the factory does not conjure a Danish nurse’s salary. It consigns the worker to the worse option. That is why campaigns that close plants without a better local employer have a body count in lost income.",
+      "Exploitation, in the slogan, means “the owner got residual profit.” In a competitive labor market the wage is bid toward the worker’s marginal product. The historical pattern in Korea, Taiwan, China, and Bangladesh is the same: first the grim factory, then the better factory, then the service job. Real manufacturing wages in East Asia did not stagnate for a century.",
+      "Where workers cannot leave, cannot organize, and cannot own, you do not have a market failure — you have a political one. Serfdom, the Hukou trap, and company towns with armed gates are restrictions on markets, not the definition of them."
+    ],
+    "keyFacts": [
+      {
+        "label": "Test",
+        "value": "Compared to the actual alternative, not to Denmark"
+      },
+      {
+        "label": "Pattern",
+        "value": "Factory → better factory → services as productivity rises"
+      },
+      {
+        "label": "Real coercion",
+        "value": "When people cannot quit or compete"
+      }
+    ],
+    "sources": [
+      {
+        "publisher": "Paul Krugman / Slate (1997)",
+        "title": "In Praise of Cheap Labor",
+        "url": "https://slate.com/business/1997/03/in-praise-of-cheap-labor.html"
+      },
+      {
+        "publisher": "Benjamin Powell / Cato",
+        "title": "Out of Poverty: Sweatshops in the Global Economy",
+        "url": "https://www.cato.org/books/out-poverty"
+      }
+    ]
+  },
+  {
+    "id": "cap-climate",
+    "slug": "climate",
+    "number": 7,
+    "verdict": "overstated",
+    "lastChecked": "2026-08-22",
+    "myth": "Capitalism will cook the planet. A market economy cannot cut emissions.",
+    "headline": "Rich market economies have started to decouple GDP from CO₂. The remaining problem is global and political.",
+    "kernel": "Global emissions are still too high. Decoupling in the EU and US is not a completed climate policy. It is evidence that growth and falling emissions can coexist.",
+    "body": [
+      "The IEA: since 1990 the US economy roughly doubled while CO₂ returned to about the 1990 level. The EU’s economy is on the order of two-thirds larger with emissions about 30% lower. Our World in Data documents consumption-based decoupling in a long list of rich countries — not just a trick of offshoring the smokestack.",
+      "A 2025 ECIU read of the Global Carbon Budget found countries representing most of world GDP expanding while consumption-based carbon fell or flattened. That is what a market economy does when carbon gets a price, coal gets expensive, and firms sell heat pumps and reactors: it substitutes.",
+      "The failure mode is unpriced carbon, not “having markets.” Command economies (Soviet methane, Maoist deforestation, East German lignite) were not green. If you want faster cuts, tax the externality and let prices reallocate. Abolishing the market economy removes the machine that invents the substitutes."
+    ],
+    "keyFacts": [
+      {
+        "label": "US since 1990",
+        "value": "GDP ~doubled; CO₂ back near 1990"
+      },
+      {
+        "label": "EU since 1990",
+        "value": "GDP ~+66%; CO₂ ~−30%"
+      },
+      {
+        "label": "Tool",
+        "value": "Price the externality; do not scrap prices"
+      }
+    ],
+    "sources": [
+      {
+        "publisher": "IEA",
+        "title": "The relationship between growth in GDP and CO2 has loosened",
+        "url": "https://www.iea.org/commentaries/the-relationship-between-growth-in-gdp-and-co2-has-loosened-it-needs-to-be-cut-completely"
+      },
+      {
+        "publisher": "Our World in Data",
+        "title": "CO₂ emissions and GDP decoupling",
+        "url": "https://ourworldindata.org/co2-gdp-decoupling"
+      },
+      {
+        "publisher": "Our World in Data",
+        "title": "Change in CO₂ emissions and GDP",
+        "url": "https://ourworldindata.org/grapher/co2-emissions-and-gdp"
+      }
+    ]
+  },
+  {
+    "id": "cap-billionaires",
+    "slug": "billionaires",
+    "number": 8,
+    "verdict": "misleading",
+    "lastChecked": "2026-08-22",
+    "myth": "If billionaires exist, they stole the money. A just market economy would not produce them.",
+    "headline": "Most large American fortunes are equity in firms that scaled a product. Cronyism is the exception to police, not the rule to abolish.",
+    "kernel": "Some billionaires are subsidy farmers or monopoly heirs. Name them. Do not pretend every founder residual is a theft from a clerk.",
+    "body": [
+      "A founder’s shares are a claim on a residual after workers and suppliers are paid. If the firm creates more value than it costs, that residual can be enormous because software and brands scale. Kaplan and Rauh’s work on American wealth is the boring version: a large share of new top wealth is in entrepreneurial equity, not a 19th-century land grant.",
+      "Consumer surplus is usually larger than the founder’s pile. People use the product because it beats the alternative. That is a market test. A just system can still tax estates, fund a floor, and break actual monopolies. Those are market-preserving repairs.",
+      "The slogan “billionaires shouldn’t exist” is a claim about the shape of the residual, not about whether a market economy is a good operating system. You can dislike yachts and still want prices, incorporation, and the right to start a firm. Confusing those is how you get a ministry of production with a poorer clerk."
+    ],
+    "keyFacts": [
+      {
+        "label": "Typical path",
+        "value": "Founder equity in a scaled firm"
+      },
+      {
+        "label": "Better target",
+        "value": "Crony subsidies and closed entry"
+      },
+      {
+        "label": "Not implied",
+        "value": "That residuals must be zero"
+      }
+    ],
+    "sources": [
+      {
+        "publisher": "Kaplan & Rauh",
+        "title": "It’s the Market: The Broad-Based Rise in the Return to Top Talent (NBER w19846)",
+        "url": "https://www.nber.org/papers/w19846"
+      },
+      {
+        "publisher": "Our World in Data",
+        "title": "Wealth",
+        "url": "https://ourworldindata.org/wealth"
+      }
+    ]
+  },
+  {
+    "id": "cap-war",
+    "slug": "war",
+    "number": 9,
+    "verdict": "false",
+    "lastChecked": "2026-08-22",
+    "myth": "Capitalism causes war. Markets need blood to grow.",
+    "headline": "Market democracies rarely fight each other. The 20th century’s industrial slaughter was not a shareholder meeting.",
+    "kernel": "States go to war for territory, fear, and glory under every property regime. Colonial companies did ugly things. That is not a unique law of capitalism.",
+    "body": [
+      "Our World in Data’s war-and-peace series, and the broader “capitalist peace” / democratic-peace literature, find that commercially integrated democracies are the most boring neighbors in the dataset. Interstate battle deaths as a share of humanity collapsed after 1945 even as trade exploded.",
+      "The body count of the 20th century is dominated by totalitarian projects that abolished markets: Stalin’s famine and camps, Mao’s Leap and Cultural Revolution, the Khmer Rouge. Rummel’s democide tallies and the Black Book are the ledger the slogan skips. A planned economy with a secret police is not a peace movement.",
+      "Firms sell to both sides of a war when states let them. That is an indictment of the states. Autarkic empires also invade. If trade made war, the post-1980 globalization boom would be a graveyard. It is the opposite pattern."
+    ],
+    "keyFacts": [
+      {
+        "label": "Pattern",
+        "value": "Market democracies almost never fight each other"
+      },
+      {
+        "label": "20th-century ledger",
+        "value": "Democide under totalitarian planning dwarfs trade wars"
+      },
+      {
+        "label": "Since 1945",
+        "value": "Trade up; interstate war deaths down"
+      }
+    ],
+    "sources": [
+      {
+        "publisher": "Our World in Data",
+        "title": "War and Peace",
+        "url": "https://ourworldindata.org/war-and-peace"
+      },
+      {
+        "publisher": "Our World in Data / UCDP",
+        "title": "Deaths in state-based conflicts",
+        "url": "https://ourworldindata.org/grapher/deaths-in-armed-conflicts-by-type"
+      }
+    ]
+  },
+  {
+    "id": "cap-public-goods",
+    "slug": "public-goods",
+    "number": 10,
+    "verdict": "overstated",
+    "lastChecked": "2026-08-22",
+    "myth": "Markets cannot provide healthcare, schools, or a safety net, so capitalism is the wrong system.",
+    "headline": "A market economy is how you get rich enough to buy public goods. It is not a ban on them.",
+    "kernel": "Pure public goods and insurance markets fail in textbook ways. That justifies some government. It does not justify replacing prices as the default for the rest of the economy.",
+    "body": [
+      "National defense, basic research, and a floor against destitution are not well supplied by a corner store. Economists have said so since Smith. Every rich market country already runs schools, pensions, and hospitals with a mix of tax and private provision. Life expectancy, literacy, and calories exploded in those countries while they remained capitalist.",
+      "The category error is treating “we should fund vaccines” as “we should abolish residual claims, prices, and entry.” The NHS still buys drugs from firms. Swedish schools still face a labor market. Singapore’s medical savings plus catastrophic insurance is a market device. The Nordic card already covered the rest: tax a productive private sector.",
+      "When states try to run the whole economy as if it were a public good, you get the planning card. When they price carbon, fund a floor, and let firms compete, you get the only system that has ever made mass affluence normal. That is a market economy with a government — which is what successful capitalism is."
+    ],
+    "keyFacts": [
+      {
+        "label": "Public goods",
+        "value": "Real; they justify some tax-funded provision"
+      },
+      {
+        "label": "What paid for them",
+        "value": "A productive private sector"
+      },
+      {
+        "label": "Category error",
+        "value": "Confusing a safety net with Gosplan"
+      }
+    ],
+    "sources": [
+      {
+        "publisher": "Our World in Data",
+        "title": "Life expectancy",
+        "url": "https://ourworldindata.org/life-expectancy"
+      },
+      {
+        "publisher": "Our World in Data",
+        "title": "Global education",
+        "url": "https://ourworldindata.org/global-education"
+      },
+      {
+        "publisher": "Wikipedia (sourced overview)",
+        "title": "Nordic model",
+        "url": "https://en.wikipedia.org/wiki/Nordic_model"
+      }
+    ]
+  }
+]

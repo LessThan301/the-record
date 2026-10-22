@@ -1,0 +1,352 @@
+[
+  {
+    "id": "spacex-subsidy",
+    "slug": "subsidy",
+    "number": 1,
+    "verdict": "misleading",
+    "lastChecked": "2026-08-22",
+    "myth": "SpaceX 全靠纳税人补贴才活着。公众付了研发账；埃隆·马斯克拿走知识产权。",
+    "headline": "NASA 买货运和载人，和当年买航天飞机航班一个道理——按节点、更便宜。这是采购，不是零花钱。",
+    "kernel": "早期 NASA COTS 资金确实至关重要。SpaceX 不是从没碰过联邦现金的车库爱好。把一次 Dragon 对接的固定价格合同叫成“补贴”，才是扭曲。",
+    "body": [
+      "航天飞机退役后，NASA 先做商业轨道运输服务，再做商业载人：公司达到飞行节点才付钱，少持有技术栈，用更少的钱飞更多。SpaceX 赢了，2012年交付货运，2020年交付载人，结束了美国对联盟号座位的依赖。美国政府是客户。客户付钱。",
+      "Starlink 现在是主要的商业收入引擎——消费者、航司、船舶和政府在买带宽。国家安全发射是对 ULA 及其他对手的竞争性授予。所谓“研发社会化、知识产权私有化”的说法，忽略了 NASA 本就想要一个商业市场、公布了这个模式，并得到了断崖式下降的发射价格。如果抱怨是“国家本该把工厂留在手里”，那是产业政策乡愁，不是一份诈骗案情。"
+    ],
+    "keyFacts": [
+      {
+        "label": "COTS / 载人",
+        "value": "节点合同，不是成本加成的航天飞机 2.0"
+      },
+      {
+        "label": "首次货运 / 载人",
+        "value": "2012年 Dragon 货运；2020年 Crew Dragon"
+      },
+      {
+        "label": "今天",
+        "value": "Starlink + 商业发射撑起大部分损益"
+      }
+    ],
+    "sources": [
+      {
+        "publisher": "NASA",
+        "title": "Commercial Crew Program",
+        "url": "https://www.nasa.gov/reference/commercial-crew-program/"
+      }
+    ]
+  },
+  {
+    "id": "spacex-reuse",
+    "slug": "reuse",
+    "number": 2,
+    "verdict": "false",
+    "lastChecked": "2026-08-22",
+    "myth": "火箭回收是马戏把戏。重复使用其实省不了钱。",
+    "headline": "Falcon 9 飞回，是发射变便宜的原因。市场用载荷清单投了票。",
+    "kernel": null,
+    "body": [
+      "Falcon 9 一级现在会飞很多次——两位数重复使用已是常规，有的助推器超过20次。目录价格大约数千万美元量级，大幅低于 Ariane 5/6 和历史上的 ULA 价格。内部边际成本被广泛估计远低于标价，所以 SpaceX 能用 Starlink 灌满清单，还能卖给别人。",
+      "如果重复使用只是余兴节目，竞争对手会无视它。他们没有：ULA、Blue Origin、Arianespace 和中国都在追某种回收。NASA 和太空军继续买 Falcon，因为价格和节奏真的出现了。马戏团不会把一颗行星 80%+ 的入轨质量送上去。"
+    ],
+    "keyFacts": [
+      {
+        "label": "重复使用",
+        "value": "两位数的助推器飞行已是常规"
+      },
+      {
+        "label": "标价",
+        "value": "Falcon 9 约 $67M 量级，对上遗产项目的 $150M–$400M"
+      },
+      {
+        "label": "市场份额",
+        "value": "2020年代全球入轨质量的主导份额"
+      }
+    ],
+    "sources": [
+      {
+        "publisher": "SpaceX",
+        "title": "Falcon 9",
+        "url": "https://www.spacex.com/vehicles/falcon-9/"
+      }
+    ]
+  },
+  {
+    "id": "spacex-astronomy",
+    "slug": "astronomy",
+    "number": 3,
+    "verdict": "overstated",
+    "lastChecked": "2026-08-22",
+    "myth": "Starlink 毁了天文学。夜空结束了。",
+    "headline": "卫星拖线是真切的、可测量的问题。SpaceX 把后续星座调暗了。天空并没有被关掉。",
+    "kernel": "大视场巡天（维拉·鲁宾、业余天体摄影）确实会拍到条纹。这不是论坛发明。DarkSat、遮光罩和姿态技巧降低了亮度；天文学家说还不够。",
+    "body": [
+      "近地轨道巨型星座——Starlink 走在前面，别人跟在后面——增加了移动光源。专业流程可以遮掉一些拖线；它们不能假装这些光子从未存在。国际天文联合会和若干天文台一直在与 SpaceX 同处一室。后续卫星比第一批暗。亚马逊的 Kuiper 和其他星座还会再加，所以这是 Starlink 率先撞上的行业问题，不是一种独特的道德缺陷。",
+      "“毁了”是越界。光学天文学仍在继续。射电天文另有一场干扰战。政策工具存在：亮度上限、遮光、协调窗口。诚实的那张卡是：影响是真的，缓解是部分的，一家公司禁欲也空不出这片天。"
+    ],
+    "keyFacts": [
+      {
+        "label": "影响",
+        "value": "大视场图像上真实的拖线"
+      },
+      {
+        "label": "缓解",
+        "value": "第一代之后更暗的设计"
+      },
+      {
+        "label": "范围",
+        "value": "每一个巨型星座，不只是 Starlink"
+      }
+    ],
+    "sources": [
+      {
+        "publisher": "IAU / CPS summaries",
+        "title": "Starlink and astronomy",
+        "url": "https://cps.iau.org/"
+      }
+    ]
+  },
+  {
+    "id": "spacex-kessler",
+    "slug": "kessler",
+    "number": 4,
+    "verdict": "overstated",
+    "lastChecked": "2026-08-22",
+    "myth": "Starlink 将触发凯斯勒综合征，把人类锁在太空门外。",
+    "headline": "碰撞风险是严肃的运营问题。Starlink 按低轨道设计、可离轨。它不是一枚定时碎片炸弹。",
+    "kernel": null,
+    "body": [
+      "凯斯勒综合征是碰撞级联，使一条轨道带无法使用。这是真切的物理故事，历史上瞄准的是更高、更长寿的轨道。Starlink 飞得低（大约 550 km 量级）。大气阻力会在数年而非数百年内把失效航天器拖下来——如果它们失灵的话。星座对目录目标使用自主避碰。",
+      "残余风险：无法机动的故障星、太阳活动期间的交会，以及物体数量本身。NASA、FCC 和 ESA 都在盯着。把一个按设计会离轨的近地轨道星座，当成墓地轨道武器试验，是夸大。警惕是应当的。宿命论不是测量。"
+    ],
+    "keyFacts": [
+      {
+        "label": "高度",
+        "value": "约 550 km 量级，阻力辅助离轨"
+      },
+      {
+        "label": "设计意图",
+        "value": "失效即短寿命，对上地球静止轨道墓地"
+      },
+      {
+        "label": "风险",
+        "value": "非零；在主动管理，不是被无视"
+      }
+    ],
+    "sources": [
+      {
+        "publisher": "NASA ODPO",
+        "title": "Space debris",
+        "url": "https://orbitaldebris.jsc.nasa.gov/"
+      }
+    ]
+  },
+  {
+    "id": "spacex-starship",
+    "slug": "starship",
+    "number": 5,
+    "verdict": "false",
+    "lastChecked": "2026-08-22",
+    "myth": "Starship 是空头支票。它永远飞不成一件要紧的东西。",
+    "headline": "它是一辆尚未完工的重型载具，而且已经飞过。空头支票点不着墨西哥湾上空的 Raptor。",
+    "kernel": "运营级的载人、加油机和 HLS 任务仍在前面。时间表已经跳票。这不等于一份从未离开机库的幻灯片。",
+    "body": [
+      "Starship/Super Heavy 已经叠堆、发射、到达太空、做过热分离，并尝试过捕获。载具损失过。这是一个测试项目，故意难看。NASA 的阿尔忒弥斯载人着陆系统压在这套硬件上；那份合同不是 SpaceX 写给自己的新闻稿。",
+      "对时间表的怀疑是挣来的——埃隆·马斯克的日期在业内都是一个活笑话。怀疑这辆载具是虚构的，则不是。拿那些在 PowerPoint 里耗掉十年的项目比一比。剩下的争论是热盾、捕获和快速重复使用能不能闭环。那是工程，而工程被允许在路上看起来像爆炸。"
+    ],
+    "keyFacts": [
+      {
+        "label": "状态",
+        "value": "经过飞行测试的原型，不是一艘运营班轮"
+      },
+      {
+        "label": "NASA HLS",
+        "value": "被选为阿尔忒弥斯着陆路径"
+      },
+      {
+        "label": "诚实的疑虑",
+        "value": "节奏和重复使用尚未闭环；日期会跳"
+      }
+    ],
+    "sources": [
+      {
+        "publisher": "SpaceX",
+        "title": "Starship",
+        "url": "https://www.spacex.com/vehicles/starship/"
+      }
+    ]
+  },
+  {
+    "id": "spacex-stole-nasa",
+    "slug": "stole-nasa",
+    "number": 6,
+    "verdict": "false",
+    "lastChecked": "2026-08-22",
+    "myth": "SpaceX 不过是偷了 NASA 技术，再贴上一个商标。",
+    "headline": "他们雇了在航空航天干过的人，也用了公开研究，和别人一样。Merlin、Raptor 和 Dragon 不是土星火箭剩下的级数。",
+    "kernel": null,
+    "body": [
+      "NASA 整个后阿波罗商业策略，就是把技术诀窍推进产业。COTS 是黑箱盗窃的反面：NASA 想要供应商。SpaceX 雇过来自波音、NASA 中心和大学的工程师。ULA 也是。发动机是不同的循环（Raptor 是全流量分级燃烧，不是换了油漆的 RS-25）。",
+      "Dragon 的逃逸系统、热盾和尾舱，是不同于阿波罗或猎户座的架构。Falcon 的回收硬件在 NASA 目录里并不存在。“站在公共研究上”是对美国研究体系的恭维。“偷了航天飞机”是范畴错误。"
+    ],
+    "keyFacts": [
+      {
+        "label": "Raptor",
+        "value": "自研全流量分级燃烧"
+      },
+      {
+        "label": "NASA 的意图",
+        "value": "把货运/载人商业化，不是捐赠一辆载具"
+      },
+      {
+        "label": "传承",
+        "value": "人才和论文，不是整栈移交"
+      }
+    ],
+    "sources": [
+      {
+        "publisher": "NASA",
+        "title": "Commercial Orbital Transportation Services",
+        "url": "https://www.nasa.gov/commercial-orbital-transportation-services/"
+      }
+    ]
+  },
+  {
+    "id": "spacex-ukraine",
+    "slug": "ukraine",
+    "number": 7,
+    "verdict": "misleading",
+    "lastChecked": "2026-08-22",
+    "myth": "埃隆·马斯克关掉了 Starlink，破坏了乌克兰的战争。",
+    "headline": "Starlink 为乌克兰打开并保持开启。一道地理围栏拒绝为一次具体的克里米亚无人机打击启用覆盖。那不是“他拔了这个国家的插头”。",
+    "kernel": "马斯克在乌克兰问题上是一个飘忽的政治行动者。他抛出过一份基辅厌恶的“和平计划”。这不等于一次全网关闭。",
+    "body": [
+      "2022年 SpaceX 在乌克兰开通 Starlink；SpaceX 起初吞下了很大一块成本，随后美国和伙伴付款。它变成民事和军事连通的关键。2023年的报道（包括《华盛顿邮报》/艾萨克森摘录）描述过一项请求：为乌克兰对塞瓦斯托波尔的无人机攻击启用覆盖。马斯克拒绝为那次进攻延伸网络，理由是升级风险。乌克兰境内的覆盖继续。",
+      "一个私人 CEO 是否该对地理围栏握有否决权，是严肃的军民问题。它也正好是病毒句“他关掉了乌克兰的互联网”的反面。如果你真正的抱怨是公共基础设施不该坐在一个人的拨动开关上，那就这么说——然后谈合同，而不是一个卡通总闸。"
+    ],
+    "keyFacts": [
+      {
+        "label": "乌克兰服务",
+        "value": "2022年开通，保持开启"
+      },
+      {
+        "label": "有争议的举动",
+        "value": "拒绝为克里米亚一带的进攻启用地理围栏"
+      },
+      {
+        "label": "谁付钱",
+        "value": "随时间混合了 SpaceX、美国和盟友资金"
+      }
+    ],
+    "sources": [
+      {
+        "publisher": "Contemporary reporting / Isaacson",
+        "title": "Elon Musk’s Ukraine Starlink coverage decisions",
+        "url": "https://en.wikipedia.org/wiki/Starlink#Ukraine"
+      }
+    ]
+  },
+  {
+    "id": "spacex-dragon-unsafe",
+    "slug": "dragon-unsafe",
+    "number": 8,
+    "verdict": "false",
+    "lastChecked": "2026-08-22",
+    "myth": "Crew Dragon 不安全。NASA 本该继续坐联盟号。",
+    "headline": "Dragon 自2020年起运送 NASA 乘组。联盟号是一辆出色的载具，也有过自己的失败。怀旧不是安全分析。",
+    "kernel": null,
+    "body": [
+      "Crew Dragon 成为第一艘把 NASA 航天员送上国际空间站的商业飞船，2020年 Demo-2，随后进入常规轮换。问题发生过——每套载人系统都会，包括氦气泄漏、天气推迟，以及那些平常的工程毛刺。NASA 的安全流程保守到近乎喜剧。他们仍然在飞它。",
+      "联盟号是传奇机器。它也夺走过乘组生命（1971年；1983年发射台逃逸幸存；2018年逃逸幸存）。2011年之后美国成了付钱给俄罗斯的搭便车者。Dragon 结束了这一点。“比联盟号更不安全”需要一份死亡人数和可靠性序列，而不是一种把老旧苏联硬件神化为祭司的气场。"
+    ],
+    "keyFacts": [
+      {
+        "label": "首次 NASA 乘组",
+        "value": "Crew Dragon Demo-2，2020年"
+      },
+      {
+        "label": "角色",
+        "value": "美国运送国际空间站乘组的主力，后来者并行"
+      },
+      {
+        "label": "联盟号",
+        "value": "同样不完美；航天飞机退役后曾是垄断"
+      }
+    ],
+    "sources": [
+      {
+        "publisher": "NASA",
+        "title": "Crew Dragon",
+        "url": "https://www.nasa.gov/commercial-crew-program/"
+      }
+    ]
+  },
+  {
+    "id": "spacex-kill-nasa",
+    "slug": "kill-nasa",
+    "number": 9,
+    "verdict": "misleading",
+    "lastChecked": "2026-08-22",
+    "myth": "SpaceX 正在杀死 NASA，并对太空拥有非法垄断。",
+    "headline": "NASA 还在，还在飞 SLS，还在写科学任务。Falcon 的发射份额是重复使用的市场结果，不是被俘获的监管者。",
+    "kernel": "发射主导地位是真的。这种集中度出于国家安全理由值得盯着。它不是谢尔曼法卡通版，也不是 NASA 的葬礼。",
+    "body": [
+      "NASA 的预算仍在资助詹姆斯·韦伯的运行、行星科学、SLS/猎户座（超支且延期）以及航空。SpaceX 是承包商和伙伴，不是继任机构。HLS 是压在 SpaceX 硬件上的 NASA 自有需求——和向洛克希德买一辆探测器总线是同一模式。",
+      "Falcon 9 占入轨质量的份额一边倒，因为别人没有着陆助推器。Rocket Lab、ULA Vulcan、Blue Origin、欧洲、印度和中国处于市场的不同阶段。想要第二来源的政府正在为此付钱。垄断修辞是推动这件事的有用刺针。把它说成一个有替代选项、却选择了便宜可靠火箭的客户，则是糟糕的描述。"
+    ],
+    "keyFacts": [
+      {
+        "label": "NASA",
+        "value": "仍然是客户，仍然是科学机构"
+      },
+      {
+        "label": "发射份额",
+        "value": "Falcon 偏重，因为价格和节奏"
+      },
+      {
+        "label": "竞争对手",
+        "value": "存在；好几家在重复使用上迟到"
+      }
+    ],
+    "sources": [
+      {
+        "publisher": "NASA",
+        "title": "NASA missions and partners",
+        "url": "https://www.nasa.gov/"
+      }
+    ]
+  },
+  {
+    "id": "spacex-boca",
+    "slug": "boca",
+    "number": 10,
+    "verdict": "overstated",
+    "lastChecked": "2026-08-22",
+    "myth": "Starbase 是一处没有监管的环境犯罪现场。",
+    "headline": "Boca Chica 是一场真切的湿地之争，有 FAA 文件、诉讼和爆炸。它不是沙漠里的秘密垃圾场。",
+    "kernel": "Starship 测试洒过碎片、扰动过栖息地，激怒了当地人和非政府组织。湿地、筑巢鸟类，以及紧挨发射台的村庄，是真切的土地利用碰撞。",
+    "body": [
+      "FAA、鱼类和野生动物管理局、得州机构和法院都进过这个故事。环境评估、磋商和延误是公开的。测试活动中的爆炸抛出过碎片、扬起过烟柱。那不是“没什么好看的”。",
+      "“没有监管”才是说错的那一层。抱怨监管太慢、太被俘获或太弱，是正常的美国基础设施争论——其他发射场、管道和公路都一样。你可以想要一块更小的场地、另一个选址或更严的缓解，而不必发明一个无法无天的特区。记录是：获批、被争议、一团糟、有文档。"
+    ],
+    "keyFacts": [
+      {
+        "label": "地点",
+        "value": "Starbase / Boca Chica，得州，紧挨村庄和保护区"
+      },
+      {
+        "label": "监管",
+        "value": "FAA 的 NEPA 程序、鱼类和野生动物管理局、州、诉讼"
+      },
+      {
+        "label": "真实伤害路径",
+        "value": "测试失败、栖息地、封闭——不是“零影响”"
+      }
+    ],
+    "sources": [
+      {
+        "publisher": "FAA / public NEPA documents",
+        "title": "SpaceX Starbase",
+        "url": "https://www.faa.gov/space/stakeholder_engagement/spacex_starship"
+      }
+    ]
+  }
+]

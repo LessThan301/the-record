@@ -1,0 +1,362 @@
+[
+  {
+    "id": "tesla-fire",
+    "slug": "fire",
+    "number": 1,
+    "verdict": "false",
+    "lastChecked": "2026-08-22",
+    "myth": "Les Tesla prennent feu plus souvent que les voitures à essence.",
+    "headline": "Au mile, Tesla publie un taux d'incendie bien plus bas que la moyenne des véhicules américains. Les feux de batterie sont plus rares — et plus laids quand ils arrivent.",
+    "kernel": "Un pack lithium peut se rallumer et est plus dur à éteindre. Les gros titres suivent l'incendie inhabituel, pas les 189 000 incendies d'essence ennuyeux d'une année américaine typique.",
+    "body": [
+      "Les chiffres Tesla de sécurité incendie des véhicules (2012–2023) donnent un événement d'incendie pour environ 135 millions de miles. Les chiffres NFPA / U.S. DOT pour l'ensemble des véhicules américains sont d'environ un incendie pour 17 millions de miles. Tesla note que son décompte inclut incendies de structures, incendies criminels et autres causes non liées au véhicule que la série NFPA exclut souvent — ce qui rend la comparaison conservatrice contre Tesla.",
+      "D'autres jeux de données VE (Suède, Norvège) vont dans le même sens : les voitures à combustion s'enflamment plus souvent par véhicule. La phrase honnête qui reste : un feu de pack VE est un incident de spécialiste pour les pompiers, peut durer plus longtemps, et a l'air apocalyptique sur un téléphone. La fréquence n'est pas ce que les posts viraux prétendent."
+    ],
+    "keyFacts": [
+      {
+        "label": "Tesla (2012–2023)",
+        "value": "~1 incendie pour 135 millions de miles"
+      },
+      {
+        "label": "Véhicules U.S. (NFPA/DOT)",
+        "value": "~1 incendie pour 17 millions de miles"
+      },
+      {
+        "label": "Réserve",
+        "value": "Les feux de pack sont tenaces ; la fréquence reste en faveur des VE"
+      }
+    ],
+    "sources": [
+      {
+        "publisher": "Tesla",
+        "title": "Vehicle Fire Safety Report",
+        "url": "https://www.tesla.com/VehicleFireSafetyReport"
+      },
+      {
+        "publisher": "NFPA",
+        "title": "Vehicle fires",
+        "url": "https://www.nfpa.org/education-and-research/research/nfpa-research/fire-statistical-reports/vehicle-fires"
+      }
+    ]
+  },
+  {
+    "id": "tesla-build",
+    "slug": "build",
+    "number": 2,
+    "verdict": "overstated",
+    "lastChecked": "2026-08-22",
+    "myth": "La qualité de fabrication Tesla est une blague. Les panneaux tombent sur le chemin du retour.",
+    "headline": "Les premières années de volume étaient bâclées. Les jeux de panneaux étaient un vrai marronnier de Consumer Reports. Les voitures des années 2020 sortent d'une autre usine.",
+    "kernel": "Si votre échantillon est une Model 3 de 2018 sortie de la montée en cadence, vous n'hallucinez pas. Si votre échantillon est une voiture 2024–2026, vous discutez avec un fantôme.",
+    "body": [
+      "La montée en cadence de la Model 3 à Fremont (2017–2019) a produit des jeux de panneaux inégaux, des problèmes de peinture, et un commentariat qui n'a jamais quitté le groupe de discussion. Les essayeurs allemands et américains l'ont documenté. La charge SAV de Tesla ces années-là était laide.",
+      "Giga Berlin, Austin et une ligne Fremont mûrie ont resserré le processus. Des plaintes résiduelles existent — chaque marque de grande série en a — et le bon marché de l'habitacle Tesla est un argument de goût, pas un rappel de sécurité. « Ça tombe en morceaux » comme loi de la nature au présent est une lecture de 2018 dans une allée de 2026."
+    ],
+    "keyFacts": [
+      {
+        "label": "Vraie époque",
+        "value": "Montée Model 3, ~2017–2019, caisses inégales"
+      },
+      {
+        "label": "Maintenant",
+        "value": "Toujours pas une Lexus ; plus une punchline sur la peinture manquante"
+      },
+      {
+        "label": "Reste légitime",
+        "value": "Variance d'assemblage, délais SAV selon les régions"
+      }
+    ],
+    "sources": [
+      {
+        "publisher": "Consumer Reports / contemporary reviews",
+        "title": "Tesla quality over time",
+        "url": "https://www.consumerreports.org/cars/tesla/"
+      }
+    ]
+  },
+  {
+    "id": "tesla-bankrupt",
+    "slug": "bankrupt",
+    "number": 3,
+    "verdict": "false",
+    "lastChecked": "2026-08-22",
+    "myth": "Tesla est sur le point de faire faillite. Ça a toujours été vrai, ça le sera toujours.",
+    "headline": "La frayeur de l'« enfer de production » de 2018 était réelle. La version 2026 du mème est un zombie. Les cycles de demande ne sont pas un Chapter 11.",
+    "kernel": null,
+    "body": [
+      "Les vendeurs à découvert avaient un point en 2017–2019 : la montée de la Model 3 a failli tuer l'entreprise. Tesla a ensuite changé d'échelle, imprimé des profits GAAP plusieurs années, empilé une large trésorerie, et est devenue l'un des constructeurs les plus valorisés au monde. Ceux qui ont fait ce pari à 20 dollars (ajusté des splittings) et n'ont jamais mis à jour le tableur font du folklore.",
+      "Rien de tout cela ne rend Tesla immortelle. Baisses de prix, un patch de demande brouillon 2024–2025, la concurrence de BYD et le coup de fouet de la politique de marque sont de vrais risques d'affaires. « Faillite le trimestre prochain » est une horloge cassée depuis une décennie. Traitez-le comme un facteur de risque, pas comme une prophétie."
+    ],
+    "keyFacts": [
+      {
+        "label": "Quasi-mort",
+        "value": "2008 et ~2018 étaient les vrais à-pics"
+      },
+      {
+        "label": "Ensuite",
+        "value": "Échelle, cash, et une courbe de demande encore volatile"
+      },
+      {
+        "label": "Mème",
+        "value": "L'appel à la faillite a survécu à tous les rendez-vous manqués"
+      }
+    ],
+    "sources": [
+      {
+        "publisher": "Tesla IR",
+        "title": "Tesla financials",
+        "url": "https://ir.tesla.com/"
+      }
+    ]
+  },
+  {
+    "id": "tesla-battery-die",
+    "slug": "battery-die",
+    "number": 4,
+    "verdict": "misleading",
+    "lastChecked": "2026-08-22",
+    "myth": "La batterie meurt en huit ans et coûte 20 000 dollars à remplacer.",
+    "headline": "Les packs sont garantis 8 ans et durent en général plus que la vie utile de la voiture. Un remplacement est cher si on en a besoin. La plupart des propriétaires n'en ont pas besoin.",
+    "kernel": "L'intuition de la batterie de téléphone est le piège. Un pack de traction est géré thermiquement et cyclé bien plus doucement qu'un appareil de poche.",
+    "body": [
+      "Tesla garantit les packs haute tension 8 ans / 100 000–150 000 miles selon le modèle, jusqu'à un plancher de capacité. Les grandes études VE d'occasion de Recurrent trouvent que le remplacement pour panne est rare (bas simple chiffre historiquement, bien sous 1 % pour beaucoup de voitures 2016+, hors rappels). Une dégradation de 10 % sur une longue vie de service est un tableau réel courant, pas une brique.",
+      "Si un pack lâche hors garantie, la facture peut être brutale — des milliers à des dizaines de milliers, selon le modèle et selon que l'on change des modules ou tout le pack. C'est le noyau. C'est un risque de queue de type assurance, pas l'élément d'entretien programmé que décrit le mythe. Les données du marché de l'occasion auraient un tout autre visage si les packs étaient des consommables de huit ans."
+    ],
+    "keyFacts": [
+      {
+        "label": "Garantie",
+        "value": "8 ans, plafond kilométrique selon le modèle, plancher de capacité"
+      },
+      {
+        "label": "Taux de panne",
+        "value": "Rare dans les échantillons à l'échelle Recurrent, surtout après 2016"
+      },
+      {
+        "label": "Remplacement",
+        "value": "Coûteux dans la queue ; pas un entretien prévu à 8 ans"
+      }
+    ],
+    "sources": [
+      {
+        "publisher": "Recurrent",
+        "title": "EV battery replacement study",
+        "url": "https://www.recurrentauto.com/research/costs-ev-battery-replacement"
+      },
+      {
+        "publisher": "U.S. EPA",
+        "title": "Electric Vehicle Myths",
+        "url": "https://www.epa.gov/greenvehicles/electric-vehicle-myths"
+      }
+    ]
+  },
+  {
+    "id": "tesla-range-fake",
+    "slug": "range-fake",
+    "number": 5,
+    "verdict": "overstated",
+    "lastChecked": "2026-08-22",
+    "myth": "Les chiffres d'autonomie Tesla sont faux. La voiture meurt à 60 % de l'étiquette.",
+    "headline": "EPA (et WLTP) sont des procédures de laboratoire. La vitesse, le froid et la chaleur déplacent le chiffre — comme pour la consommation de chaque voiture.",
+    "kernel": null,
+    "body": [
+      "Les notations EPA de Tesla se sont parfois tenues du côté optimiste des essais autoroutiers indépendants, surtout aux allures d'autoroute allemande ou en plein hiver. Cet écart est un grief d'essayeur légitime. Ce n'est pas un mensonge unique à Tesla : l'étiquette de chaque constructeur est un cycle normalisé, pas votre trajet de janvier à 140 km/h.",
+      "Les agrégateurs du réel (Recurrent, télématique de flottes, ADAC) trouvent en général l'autonomie Tesla compétitive dans sa classe. Des coups de froid de 20–40 % sont une histoire de physique VE (chauffage d'habitacle plus chimie), traitée dans le jeu VE. Si vous avez besoin d'un chiffre auquel vous fier, prenez des essais autoroutiers à la vitesse à laquelle vous roulez vraiment, pas une capture d'écran d'une crise de nerfs sur un forum."
+    ],
+    "keyFacts": [
+      {
+        "label": "Étiquette",
+        "value": "Cycles normalisés EPA / WLTP"
+      },
+      {
+        "label": "Ça rétrécit quand",
+        "value": "Grande vitesse, froid, chaleur, coffre de toit, pied lourd"
+      },
+      {
+        "label": "Pas unique à Tesla",
+        "value": "Chaque VE (et chaque claim MPG thermique) sort du cycle"
+      }
+    ],
+    "sources": [
+      {
+        "publisher": "U.S. EPA / fueleconomy.gov",
+        "title": "Find a car (EPA range)",
+        "url": "https://www.fueleconomy.gov/"
+      }
+    ]
+  },
+  {
+    "id": "tesla-autopilot-death",
+    "slug": "autopilot-death",
+    "number": 6,
+    "verdict": "misleading",
+    "lastChecked": "2026-08-22",
+    "myth": "Autopilot est un piège mortel. Tesla a caché les corps.",
+    "headline": "Il y a eu des accidents mortels impliquant Autopilot. Au mile, les stats de sécurité publiées par Tesla battent la moyenne américaine. Les deux phrases ont leur place sur la carte.",
+    "kernel": "Le nom en promet trop. Un système supervisé plus un service marketing, c'est un mauvais mélange. La NHTSA a ouvert des enquêtes. Ce n'est pas « les voitures chassent les piétons ».",
+    "body": [
+      "Le Vehicle Safety Report de Tesla affirme moins d'accidents par mile avec Autopilot engagé que sans, et moins que la moyenne américaine. Ces chiffres sont publiés par l'entreprise, avec des effets de sélection (qui l'engage, sur quelles routes). Des chercheurs indépendants ont troué la comparaison. Traitez le multiple exact avec prudence ; traitez « bien pire que les conducteurs humains au mile » comme non prouvé.",
+      "Défaillances documentées : conducteurs qui ne supervisent pas, confusion du système au trafic transversal, véhicules d'urgence stationnés. Certains accidents sont atroces. Le problème éthique est l'écart entre le mot « Autopilot » et l'obligation juridique de prêter attention. On peut vouloir un nom plus strict et un monitoring conducteur sans prétendre à un massacre unique. Comparez aux 40 000 morts sur la route aux États-Unis par an, presque toutes hors Tesla."
+    ],
+    "keyFacts": [
+      {
+        "label": "Stats entreprise",
+        "value": "Moins d'accidents par mile avec Autopilot que la moyenne U.S."
+      },
+      {
+        "label": "Réserve",
+        "value": "Auto-déclaré, biais de mix routier, nom qui en promet trop"
+      },
+      {
+        "label": "Vrai enjeu",
+        "value": "Système supervisé, mauvais usages mortels, intérêt du régulateur"
+      }
+    ],
+    "sources": [
+      {
+        "publisher": "Tesla",
+        "title": "Tesla Vehicle Safety Report",
+        "url": "https://www.tesla.com/VehicleSafetyReport"
+      }
+    ]
+  },
+  {
+    "id": "tesla-cobalt",
+    "slug": "cobalt",
+    "number": 7,
+    "verdict": "misleading",
+    "lastChecked": "2026-08-22",
+    "myth": "Les Tesla sont construites sur du cobalt du Congo issu du travail des enfants.",
+    "headline": "Le cobalt artisanal de RDC est une vraie tache de l'industrie. Tesla a déplacé ses packs hors du cobalt. Le problème est l'économie minérale, pas une plantation propre à Tesla.",
+    "kernel": null,
+    "body": [
+      "La République démocratique du Congo fournit l'essentiel du cobalt mondial. Les mines artisanales ont un travail des enfants documenté. Chaque entreprise qui a utilisé la chimie NMC dans les années 2010 a touché cette chaîne, Tesla comprise. Audits, pilotes blockchain et codes fournisseurs sont la réponse de l'industrie — imparfaite, mieux que le silence.",
+      "Les chimies plus récentes de Tesla comptent : LFP (pas de cobalt) dans beaucoup de voitures d'autonomie standard, et des voies 4680 / haut nickel qui ramènent le cobalt vers zéro. Une Tesla de 2026 n'est pas « la batterie de sang » du dessin d'une Model S de 2014. Si cela vous importe — cela devrait — suivez la chimie et l'audit, pas une tache indélébile sur un logo. L'extraction pétrolière, soit dit en passant, n'est pas non plus un conte pour enfants."
+    ],
+    "keyFacts": [
+      {
+        "label": "Cobalt RDC",
+        "value": "Vrai risque de travail des enfants dans le minier artisanal"
+      },
+      {
+        "label": "Direction Tesla",
+        "value": "Chimies LFP et bas/sans cobalt à l'échelle"
+      },
+      {
+        "label": "Périmètre",
+        "value": "Toute l'industrie, en recul avec le changement de chimie"
+      }
+    ],
+    "sources": [
+      {
+        "publisher": "Tesla",
+        "title": "Tesla Impact Report (supply chain)",
+        "url": "https://www.tesla.com/impact-report"
+      }
+    ]
+  },
+  {
+    "id": "tesla-only-rich",
+    "slug": "only-rich",
+    "number": 8,
+    "verdict": "overstated",
+    "lastChecked": "2026-08-22",
+    "myth": "Les Tesla sont des jouets pour riches. Musk a tué la voiture abordable.",
+    "headline": "La Tesla à 25 000 dollars est en retard. Les Model 3/Y ne sont pas des Rolls-Royce. Les exemplaires d'occasion sont désormais de l'argent de voiture ordinaire sur beaucoup de marchés.",
+    "kernel": "Il a bien parlé pendant des années d'une Tesla bon marché de grande série. La plateforme à bas coût de nouvelle génération n'a cessé de glisser. Cette promesse cassée est pour lui.",
+    "body": [
+      "Les prix neufs de Model 3 et Y, surtout après les baisses du milieu des années 2020, se tiennent dans le même quartier que des crossovers thermiques chargés — pas une hypercar. En Europe, elles concourent avec les VE de VW, Hyundai et BMW. Le marché de l'occasion est là où « pour les riches » meurt le plus fort : des voitures de quatre ans s'échangent comme d'autres marques premium de volume.",
+      "Ce qui est vrai : Tesla n'a jamais livré la légendaire berline à hayon à 25 000 dollars de la slide d'origine, et Cybertruck / S / X biaisent l'image de marque. Ce qui est faux : que le propriétaire Tesla médian soit milliardaire, ou qu'aucune Tesla n'existe sous l'argent du luxe allemand. L'abordabilité est un spectre. Tesla en occupe plus que le mème ne l'accorde, moins que le keynote ne l'avait promis."
+    ],
+    "keyFacts": [
+      {
+        "label": "Voitures de volume",
+        "value": "3 et Y — premium de volume, pas hypercar"
+      },
+      {
+        "label": "Slide cassée",
+        "value": "Next-gen à $25k retardée à répétition"
+      },
+      {
+        "label": "Marché de l'occasion",
+        "value": "Argent ordinaire dans beaucoup de régions"
+      }
+    ],
+    "sources": [
+      {
+        "publisher": "Tesla",
+        "title": "Tesla model lineup and pricing",
+        "url": "https://www.tesla.com/"
+      }
+    ]
+  },
+  {
+    "id": "tesla-repair",
+    "slug": "repair",
+    "number": 9,
+    "verdict": "overstated",
+    "lastChecked": "2026-08-22",
+    "myth": "On ne peut pas réparer une Tesla. Un coup de pare-chocs et l'assureur la déclare perte totale.",
+    "headline": "Pièces, manuels et accès indépendant étaient vraiment hostiles. Cela se desserre. Les taux élevés de perte totale sur les premières voitures mélangeaient capteurs chers et petites carrosseries qui ne connaissaient pas la voiture.",
+    "kernel": null,
+    "body": [
+      "Les défenseurs du droit à la réparation tenaient Tesla depuis des années : pièces verrouillées, diagnostics fermés, vitrage et aluminium que certains ateliers ne touchaient pas. Les taux de perte totale d'assurance de certaines années-modèles étaient laids parce qu'une caméra de pare-chocs plus un quartier aluminium plus un atelier timide égale « on la passe en perte ». C'est une vraie taxe de possession.",
+      "Ce n'est pas « irréparable ». Des spécialistes indépendants existent, le service Tesla répare, et la pression réglementaire (États-Unis et UE) a poussé plus de pièces et de données vers l'ouvert. Comparez aux autres VE à fort aluminium et aux allemandes lourdes en ADAS — personne ne soude ça comme une Civic de 1996. Le mème a figé une plainte de réseau SAV de 2018 et l'a appelée physique."
+    ],
+    "keyFacts": [
+      {
+        "label": "Coup juste",
+        "value": "Pièces/diagnostics fermés, coût de calibration ADAS"
+      },
+      {
+        "label": "Pertes totales",
+        "value": "Certaines années étaient laides ; ateliers et capteurs, pas du verre magique"
+      },
+      {
+        "label": "Tendance",
+        "value": "Plus de réparation indépendante dans le temps, toujours pas aussi simple qu'une Honda"
+      }
+    ],
+    "sources": [
+      {
+        "publisher": "Industry / regulator reporting",
+        "title": "Right to repair and EV ADAS costs",
+        "url": "https://www.repairerdrivennews.com/"
+      }
+    ]
+  },
+  {
+    "id": "tesla-robotaxi-vapor",
+    "slug": "robotaxi-vapor",
+    "number": 10,
+    "verdict": "overstated",
+    "lastChecked": "2026-08-22",
+    "myth": "Robotaxi et Optimus sont du vaporware, comme la voiture à 25 000 dollars et le Semi.",
+    "headline": "Les calendriers étaient du théâtre. Le matériel existe. Un service robotaxi limité a commencé. Optimus est un prototype, pas un événement de marché du travail.",
+    "kernel": "Musk a vendu le futur sur un calendrier que l'univers n'a pas signé. Escomptez chaque date. N'escomptez pas chaque objet.",
+    "body": [
+      "Le Semi existe et a tracté pour quelques clients ; ce n'est pas un produit au volume Freightliner. Le robotaxi comme réseau national non supervisé n'est pas là. Des services limités sans conducteur / supervisés (Austin 2025 et après) sont là. C'est tardif et petit, ce qui n'est pas la même chose que « PowerPoint ».",
+      "Optimus est le plus mou des deux : démos d'humanoïde qui marche, expériences d'usine, pas de robot domestique généraliste que l'on puisse commander. Appeler toute la pile vaporware exige d'ignorer les véhicules qui bougent déjà. L'appeler « travail AGI résolu » exige d'ignorer que c'est une démo. Coupez la carte : dates mauvaises, atomes souvent réels, échelle en général plus tardive que le tweet."
+    ],
+    "keyFacts": [
+      {
+        "label": "Semi",
+        "value": "Réel, faible volume"
+      },
+      {
+        "label": "Robotaxi",
+        "value": "Opérations limitées, pas un réseau national"
+      },
+      {
+        "label": "Optimus",
+        "value": "Prototype / essais d'usine, pas un catalogue produit"
+      }
+    ],
+    "sources": [
+      {
+        "publisher": "Tesla",
+        "title": "Tesla AI / robotaxi",
+        "url": "https://www.tesla.com/ai"
+      }
+    ]
+  }
+]

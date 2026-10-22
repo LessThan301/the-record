@@ -1,0 +1,368 @@
+[
+  {
+    "id": "elon-emerald",
+    "slug": "emerald",
+    "number": 1,
+    "verdict": "false",
+    "lastChecked": "2026-08-22",
+    "myth": "イーロン・マスクはアパルトヘイト下のエメラルド鉱山の遺産を相続し、その金でTeslaとSpaceXを買った。",
+    "headline": "創業資金はPayPalの売却益だ。資本構成にエメラルドの相続はない。",
+    "kernel": "父エロールはザンビアのエメラルドについて、話を何度も変えてきた。それは鉱山を相続したことでも、鉱山の金でSpaceXを起こしたことでもない。",
+    "body": [
+      "マスクは17歳で南アフリカを離れ、カナダで働き、米国で学んだ。Zip2は1990年代のソフトウエア新興企業で、1999年にCompaqが買収した。本丸はX.com、のちのPayPalだ。eBayによる買収後、マスクの取り分はおよそ1億8000万ドル。これがSpaceX（2002年）と、2004年のTesla出資の、記録に残る種銭である。",
+      "エロール・マスクはザンビアのエメラルド生産に持分があったと主張し、のちに「エメラルドの一部」へと話を後退させた。メイ・マスクが描くのは世襲の鉱山財閥ではなく、余裕のある家庭だ。ウォルター・アイザックソンの伝記も当時の報道も、鉱山の富がZip2、PayPal、Tesla、SpaceXへ移った痕跡を見つけていない。",
+      "石を扱ったことのある父親は、彩りのある出自譚になる。だが資本構成も、PayPalの払い出しも、その後のSpaceXとTeslaの十年近い瀕死も、それでは代替できない。"
+    ],
+    "keyFacts": [
+      {
+        "label": "PayPal売却益",
+        "value": "約1億8000万ドル（マスクの取り分、2002年）"
+      },
+      {
+        "label": "Tesla 2004年の出資",
+        "value": "そのうち約650万ドル、筆頭投資家"
+      },
+      {
+        "label": "エメラルド鉱山",
+        "value": "相続も資本構成上の役割も記録なし"
+      }
+    ],
+    "sources": [
+      {
+        "publisher": "Walter Isaacson / Simon & Schuster",
+        "title": "Elon Musk",
+        "url": "https://www.simonandschuster.com/books/Elon-Musk/Walter-Isaacson/9781982181284"
+      },
+      {
+        "publisher": "Wikipedia (sourced timeline)",
+        "title": "Wealth of Elon Musk",
+        "url": "https://en.wikipedia.org/wiki/Wealth_of_Elon_Musk"
+      }
+    ]
+  },
+  {
+    "id": "elon-never-built",
+    "slug": "never-built",
+    "number": 2,
+    "verdict": "false",
+    "lastChecked": "2026-08-22",
+    "myth": "彼は何も作っていない。他人の会社を買い、投稿するCEOだ。",
+    "headline": "会社は創業した。すべての部品のエンジニアではない。両方とも事実だ。",
+    "kernel": null,
+    "body": [
+      "Zip2とX.comは共同創業のスタートアップだ。SpaceXは2002年に白紙から起こした。Merlin、Falcon、Dragon、Raptorは自社製であり、買収品ではない。Neuralink、The Boring Company、xAIも創業であって買収ではない。例外はTeslaで、2004年に筆頭投資家兼会長として入り、2008年にCEOとなった。",
+      "訂正すべきはもっと狭い範囲だ。車を自ら溶接しているわけでも、飛行ソフトの全行を書いているわけでもない。設計審査で容赦ないチーフエンジニアであることは、もはや常套句になるほど記録されている。「何も作っていない」とは別だし、「リチウムイオン電池の孤高の発明者」とも別だ。"
+    ],
+    "keyFacts": [
+      {
+        "label": "創業",
+        "value": "Zip2、X.com/PayPal経路、SpaceX、Neuralink、Boring、xAI"
+      },
+      {
+        "label": "参入・拡大",
+        "value": "Tesla（2004年筆頭投資家、2008年CEO）"
+      },
+      {
+        "label": "のちに買収",
+        "value": "Twitter / X（2022年）——ミームに合うのはこれだけ"
+      }
+    ],
+    "sources": [
+      {
+        "publisher": "Encyclopaedia Britannica",
+        "title": "Elon Musk",
+        "url": "https://www.britannica.com/biography/Elon-Musk"
+      }
+    ]
+  },
+  {
+    "id": "elon-taxes",
+    "slug": "taxes",
+    "number": 3,
+    "verdict": "false",
+    "lastChecked": "2026-08-22",
+    "myth": "イーロン・マスクは税金を払っていない。",
+    "headline": "記録上最大の個人所得税を納めた。含み益は課税されない。それは制度であり、彼専用の抜け穴ではない。",
+    "kernel": "株を売らず、オプションも行使しない年は、純資産に比べ現金所得が小さく見える。含み益の扱いであり、創業者一般の話であって、マスク特例ではない。",
+    "body": [
+      "2021年、Teslaの大型オプションを行使し、株式を売却した。本人は税額が110億ドル超だとし、当時の推計では連邦分が100〜120億ドル前後。個人の所得税納付としては過去最大と広く報じられた。",
+      "批判側が正しく指摘するのは、富（大半はTeslaとSpaceXの持分）が課税事由なしに何年も複利で膨らみうることだ。それは米国が含み益に課税すべきかどうかの議論であって、「税金を払っていない」の証拠ではない。オプションが落ちれば、請求も落ちる。"
+    ],
+    "keyFacts": [
+      {
+        "label": "2021年の税額",
+        "value": "約110〜120億ドル（本人発表／報道推計）"
+      },
+      {
+        "label": "きっかけ",
+        "value": "Teslaオプションの行使と株式売却"
+      },
+      {
+        "label": "課税されないもの",
+        "value": "未実現の含み益。米国法どおり"
+      }
+    ],
+    "sources": [
+      {
+        "publisher": "CNBC",
+        "title": "Elon Musk says he will pay over $11 billion in taxes this year",
+        "url": "https://www.cnbc.com/2021/12/20/elon-musk-says-he-will-pay-over-11-billion-in-taxes-this-year.html"
+      },
+      {
+        "publisher": "Wikipedia",
+        "title": "Wealth of Elon Musk",
+        "url": "https://en.wikipedia.org/wiki/Wealth_of_Elon_Musk"
+      }
+    ]
+  },
+  {
+    "id": "elon-cofounder",
+    "slug": "cofounder",
+    "number": 4,
+    "verdict": "misleading",
+    "lastChecked": "2026-08-22",
+    "myth": "イーロン・マスクをTeslaの共同創業者と呼ぶのは嘘だ。会社を買い、訴訟で銘板に割り込んだ。",
+    "headline": "マーティン・エバーハードとマーク・ターペニングが2003年にTeslaを設立した。マスクは2004年の筆頭投資家だ。2009年の和解で共同創業者を名乗れる。",
+    "kernel": "当初の法人設立には入っていない。2008年を生き残った会社には入っている——資金、製品方針、CEOの席のもとで。その文の両半分が記録だ。",
+    "body": [
+      "Tesla Motorsは2003年7月、エバーハードとターペニングが設立した。マスクは2004年2月のシリーズAを主導し、会長となり、2008年の瀕死期にCEOとなった。Roadsterを量産に押し込み、次いでModel Sへ進めた。",
+      "エバーハード更迭のあと訴訟が続き、2009年の和解でマスク、JB・ストラウベル、エバーハード、ターペニング、イアン・ライトを共同創業者と記してよいことになった。法的な停戦協定であり、タイムマシンではない。設立登記に名がなかった、は妥当だ。「完成した自動車会社を買った」は妥当ではない——Model Sもなく、工場規模もなく、Roadsterすら危うかった。"
+    ],
+    "keyFacts": [
+      {
+        "label": "設立",
+        "value": "2003年7月、エバーハード＆ターペニング"
+      },
+      {
+        "label": "マスク参入",
+        "value": "シリーズA、2004年2月。CEOは2008年"
+      },
+      {
+        "label": "肩書",
+        "value": "2009年和解：共同創業者の表記を認める"
+      }
+    ],
+    "sources": [
+      {
+        "publisher": "Wikipedia (founding section)",
+        "title": "Tesla, Inc.",
+        "url": "https://en.wikipedia.org/wiki/Tesla,_Inc."
+      }
+    ]
+  },
+  {
+    "id": "elon-salute",
+    "slug": "salute",
+    "number": 5,
+    "verdict": "misleading",
+    "lastChecked": "2026-08-22",
+    "myth": "2025年1月の就任式での仕草は、イーロン・マスクがナチスであることの証明だ。",
+    "headline": "映像は醜い。意図は立証されていない。「敬礼に見える」は党員証ではない。",
+    "kernel": "胸を叩き、腕を二度投げ出した。とくにドイツの視聴者には、はっきりした警報に聞こえた。その見た目の符合は本物だ。だが綱領も、マニフェストも、この映像をナチズムの証拠に変えた起訴もない。",
+    "body": [
+      "2025年1月20日、トランプ就任関連の演説のあと、マスクは胸を叩き、手のひらを下にして右腕を二度伸ばした。欧州を含む批判側はHitlergruß（ナチス式敬礼）だとした。本人は「My heart goes out to you（心を寄せる）」だと述べた。反差別同盟（ADL）は「高揚した瞬間のぎこちない仕草であり、ナチス式敬礼ではない」とした。",
+      "より公正な別の議論は、何を増幅するかだ。一部の極右アカウント、陰謀論のリズム、禁忌を踏む趣味。それはメディアと判断の問題である。醜い仕草の一つで「ナチスだ」と決めるのは、持たない。ドイツには敬礼について明確な法の線がある。検察はこの一件を、本人をナチスと認定する試金石にはしなかった。"
+    ],
+    "keyFacts": [
+      {
+        "label": "いつ",
+        "value": "2025年1月20日、就任式の壇上"
+      },
+      {
+        "label": "本人の説明",
+        "value": "「My heart goes out to you」"
+      },
+      {
+        "label": "ADL",
+        "value": "ぎこちない高揚であり、ナチス式敬礼ではない"
+      }
+    ],
+    "sources": [
+      {
+        "publisher": "The New York Times",
+        "title": "What Elon Musk’s Salute Was All About",
+        "url": "https://www.nytimes.com/2025/01/24/world/europe/elon-musk-roman-salute-nazi.html"
+      },
+      {
+        "publisher": "Wikipedia (inauguration gesture)",
+        "title": "Elon Musk",
+        "url": "https://en.wikipedia.org/wiki/Elon_Musk"
+      }
+    ]
+  },
+  {
+    "id": "elon-subsidies",
+    "slug": "subsidies",
+    "number": 6,
+    "verdict": "misleading",
+    "lastChecked": "2026-08-22",
+    "myth": "政府の無駄を罵りながら、自分の会社は補助金で生きている。",
+    "headline": "Teslaは産業政策を使った。SpaceXは打ち上げを売っている。二つを「補助金育ち」に混ぜるのが手品だ。",
+    "kernel": "エネルギー省の4億6500万ドル融資は本物だ——そして2013年、利息つきで期限前返済した。購入者向けEV税額控除とZEVクレジットも本物だ。NASAの貨物・乗員支払いが役務の購入であるのは、かつてのシャトルと同じだ。",
+    "body": [
+      "Teslaの初期は2009年のDOE・ATVM融資（4億6500万ドル）を通った。2013年、九年早く完済した。米欧のEV税額控除は購入者に付くが、需要は確かに底上げした。他社へ売った無排出車クレジットは、何年もTeslaの意味ある収益項目だった。産業政策である。そうでないと言い張るのはファンフィクションだ。",
+      "SpaceXのNASA COTSおよび商業クルー資金は、シャトルより安く貨物と宇宙飛行士を運ぶためのマイルストーン契約だ。米宇宙軍は競争カタログで打ち上げを買う。Starlinkの地方ブロードバンド助成はのちに訴訟へ入った。政府の小切手をすべて「補助金」と呼ぶと、助成金と打ち上げの請求書の違いが消える。"
+    ],
+    "keyFacts": [
+      {
+        "label": "DOE融資",
+        "value": "4億6500万ドル、2013年に利息つき返済"
+      },
+      {
+        "label": "NASA／国防総省",
+        "value": "貨物・乗員・国家安全保障打ち上げの契約"
+      },
+      {
+        "label": "ZEVクレジット",
+        "value": "本物のTesla収益。他社の追いつきで縮小中"
+      }
+    ],
+    "sources": [
+      {
+        "publisher": "U.S. Department of Energy",
+        "title": "Tesla pays off DOE loan",
+        "url": "https://www.energy.gov/articles/tesla-repay-department-energy-loan-nine-years-early"
+      }
+    ]
+  },
+  {
+    "id": "elon-fsd-fraud",
+    "slug": "fsd-fraud",
+    "number": 7,
+    "verdict": "overstated",
+    "lastChecked": "2026-08-22",
+    "myth": "何年も前に完全自動運転を約束した。だから全体が詐欺だ。",
+    "headline": "日程は慢性的に楽観的だった。技術は着実に良くなった。遅れたカレンダーと偽の製品は別物だ。",
+    "kernel": "2016年以降、スライドどおりに来ない未来を売ってきた。それは本物のパターンであり、規制当局も「Full Self-Driving」という名と法的能力の隙間に気づいている。",
+    "body": [
+      "Autopilotは監督つきの高速道路システムとして出荷された。「Full Self-Driving」ソフトウエアパッケージはベータからより広い公開へ進んだが、責任はなお運転者にある。ロボットタクシーは限定形（オースティン、2025年）で始まり、全国の完全無人製品はない。遅れた年はすべてテープに残っている。",
+      "詐欺という枠には、存在しなかった物が要る。Teslaは数十億マイルの実走行を集め、エンドツーエンドのネットワークを反復し、レーダーを廃してビジョンへ賭けた——技術的な賭けであり、幻のスライドではない。二つの事実を同時に持てる。約束は過剰だった。そしてシステムは漫画ではない。家族を乗せるかは別の、正当な問いだ（Tesla Autopilotのカードを見よ）。"
+    ],
+    "keyFacts": [
+      {
+        "label": "パターン",
+        "value": "公開スケジュールは2016年頃から繰り返し未達"
+      },
+      {
+        "label": "出荷したもの",
+        "value": "監督つきFSD＋限定ロボットタクシー。全国の無人運転ではない"
+      },
+      {
+        "label": "同じではないもの",
+        "value": "セラノス——公道で動く技術スタックがある"
+      }
+    ],
+    "sources": [
+      {
+        "publisher": "Tesla",
+        "title": "Autopilot and Full Self-Driving (Supervised)",
+        "url": "https://www.tesla.com/autopilot"
+      }
+    ]
+  },
+  {
+    "id": "elon-twitter",
+    "slug": "twitter",
+    "number": 8,
+    "verdict": "overstated",
+    "lastChecked": "2026-08-22",
+    "myth": "Twitterを破壊し、Xをナチスのバーにした。",
+    "headline": "広告主は去った。モデレーションは奇妙になった。Community Notesは実在する。鳥のロゴがついた8chanではない。",
+    "kernel": "440億ドルの非公開化は混沌だった。人員崩壊、かつての凍結アカウントの流入、ブランド安全の恐慌は、記者の幻覚ではない。",
+    "body": [
+      "2022年10月以降、Xは広告の大半を失った。信頼性・安全部門は削られた。一部の過激派アカウントが戻った。ヘイトスピーチ研究者は初期数か月の侮蔑語増加を報告した。これらは記録されている。",
+      "「ナチスのバー」は空気感であって国勢調査ではない。Community Notesはネット上でもっとも興味深い公開ファクトチェックの一つになり、マスク自身の投稿にも付く。政治的リーチはより異端になった。右寄りが増え、反ウォークも増え、左派ユーザーもなお多い。雑然とした広場は、専用の過激派フォーラムとは別だ。440億ドルに見合う取引だったかは経営の問い。空気が好きかは趣味の問いだ。"
+    ],
+    "keyFacts": [
+      {
+        "label": "買収",
+        "value": "440億ドル、2022年10月クローズ"
+      },
+      {
+        "label": "明白な効果",
+        "value": "広告主流出、人員崩壊、騒がしいフィード"
+      },
+      {
+        "label": "同時に本物",
+        "value": "Community Notes。マスクの投稿にも付く"
+      }
+    ],
+    "sources": [
+      {
+        "publisher": "Wikipedia",
+        "title": "Acquisition of Twitter by Elon Musk",
+        "url": "https://en.wikipedia.org/wiki/Acquisition_of_Twitter_by_Elon_Musk"
+      }
+    ]
+  },
+  {
+    "id": "elon-apartheid",
+    "slug": "apartheid",
+    "number": 9,
+    "verdict": "misleading",
+    "lastChecked": "2026-08-22",
+    "myth": "アパルトヘイトの申し子で、あの体制を戻したがっている。プレトリア生まれ、ゆえに政治だ。",
+    "headline": "出生地はマニフェストではない。17歳で出国した。アパルトヘイト後の治安を批判することは国民党への投票ではない。",
+    "kernel": "1971年、プレトリアの裕福な白人家庭に、アパルトヘイト下で生まれた。それは事実であり、小さな事実ではない。「体制を支持した／復元したい」への飛躍には、当時の政治的行為の証拠が要る。薄い。",
+    "body": [
+      "アパルトヘイトは幼年期の空気だった。母方の祖父母には特異な、時に醜い政治史がある（ハルデマン家の、アパルトヘイト隣接と陰謀政治を経た移住は伝記にある）。マスクは体制を誤りだと思い、去ったと述べている。",
+      "のちの南アフリカ農場殺人、「白人ジェノサイド」という言い回し、ANCへの発言は扇情的で、統計の扱いも雑なことが多い。それは本物のメディア問題だ。それでも「アパルトヘイト復古主義者だ」とは別の主張である。同世代の南アフリカ人の多くが出国した。そのうち自動車会社を経営している者は少ない。いま使う言葉を使え。国籍を道徳的な予罪にするな。"
+    ],
+    "keyFacts": [
+      {
+        "label": "出生",
+        "value": "プレトリア、1971年"
+      },
+      {
+        "label": "出国",
+        "value": "1988年、17歳、カナダへ"
+      },
+      {
+        "label": "強い主張に必要なもの",
+        "value": "行為とテキストであり、出生証明書ではない"
+      }
+    ],
+    "sources": [
+      {
+        "publisher": "Wikipedia (early life)",
+        "title": "Elon Musk",
+        "url": "https://en.wikipedia.org/wiki/Elon_Musk"
+      }
+    ]
+  },
+  {
+    "id": "elon-unfit",
+    "slug": "unfit",
+    "number": 10,
+    "verdict": "overstated",
+    "lastChecked": "2026-08-22",
+    "myth": "ケタミン中毒で、会社を経営する精神状態にない。",
+    "headline": "うつ病治療のため処方ケタミンを使っていると本人が述べている。就労不能の公的判断ではない。ネットの診断工場はカルテではない。",
+    "kernel": "働き方は極端で、投稿はしばしば無鉄砲で、いくつもの取締役会が個人ブランドのコストを吸収してきた。それは妥当な運営上の不満だ。",
+    "body": [
+      "マスクは、処方されたケタミンをうつ病の治療として使っていると公に述べている。勤務中に障害があるとする医学評価は公表されていない。SpaceXは飛び続け、Teslaは作り続け、xAIは出し続けている。「注意散漫」という相場の議論はDSMの診断基準ではない。",
+      "投稿をガバナンス問題だと考えてよい——Teslaの取締役は、時に明らかにそう考えた。睡眠不足と午前3時のフォーラム投稿が賢明でないと考えてよい。それを「CEOは乱酔し、ロケットは無人」に翻訳するのは物語だ。同行記者も、社員も、飛行記録も、ミームが欲する決定的な障害ファイルを出していない。"
+    ],
+    "keyFacts": [
+      {
+        "label": "本人の説明",
+        "value": "うつ病に対する処方ケタミン"
+      },
+      {
+        "label": "不適格の公的医学判断",
+        "value": "なし"
+      },
+      {
+        "label": "妥当な不満",
+        "value": "不規則な投稿はガバナンスとブランドのリスク"
+      }
+    ],
+    "sources": [
+      {
+        "publisher": "Wikipedia (personal life)",
+        "title": "Elon Musk",
+        "url": "https://en.wikipedia.org/wiki/Elon_Musk"
+      }
+    ]
+  }
+]

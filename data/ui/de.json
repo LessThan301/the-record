@@ -1,0 +1,144 @@
+{
+  "language": "Sprache",
+  "close": "Schließen",
+  "notFoundTitle": "Seite nicht gefunden",
+  "notFoundBody": "Diese Seite gibt es hier nicht.",
+  "notFoundBack": "Zurück zum Anfang",
+  "nav": {
+    "method": "Methode",
+    "all": "Alle",
+    "menu": "Menü"
+  },
+  "home": {
+    "kicker": "Rauschen aus, Signal an",
+    "title": "Was davon klingt für dich wahr?",
+    "lede": "Fünfzig Behauptungen über Elon Musk, SpaceX, Tesla, Elektroautos und den Kapitalismus.",
+    "gradeKey": "So wird jede Karte bewertet",
+    "iBelieve": "Das glaube ich",
+    "mythStamp": "Mythos",
+    "record": "Die Aktenlage",
+    "claimPicked": "Die Behauptung, die du gewählt hast",
+    "tapAgain": "Tippe auf die Karte, um die Behauptung wiederzusehen",
+    "flipping": "Zur Aktenlage…",
+    "sources": "Quellen",
+    "grade": "Bewertung",
+    "showMyth": "Mythos zeigen",
+    "showRecord": "Aktenlage zeigen"
+  },
+  "verdict": {
+    "false": "Falsch",
+    "misleading": "Irreführend",
+    "overstated": "Übertrieben"
+  },
+  "verdictHint": {
+    "false": "Diese Behauptung stimmt nicht.",
+    "misleading": "Ein Teil davon stimmt, führt aber zur falschen Schlussfolgerung.",
+    "overstated": "Da ist etwas Wahres dran, aber die Behauptung geht zu weit."
+  },
+  "categories": {
+    "elon": {
+      "name": "Elon Musk",
+      "shortName": "Elon",
+      "kicker": "Person",
+      "blurb": "Herkunft, Steuern, Politik und der Gründungsmythos."
+    },
+    "spacex": {
+      "name": "SpaceX",
+      "shortName": "SpaceX",
+      "kicker": "Start",
+      "blurb": "Raketen, Starlink, NASA-Geld und was Wiederverwendung wirklich geändert hat."
+    },
+    "tesla": {
+      "name": "Tesla",
+      "shortName": "Tesla",
+      "kicker": "Fahrzeug",
+      "blurb": "Brände, Autopilot, Batterien, Spaltmaße und die Robotaxi-Behauptung."
+    },
+    "evs": {
+      "name": "Elektroautos",
+      "shortName": "E-Autos",
+      "kicker": "Die Kategorie",
+      "blurb": "Klimarechnung, Netz, Rohstoffe, Winterreichweite und der Hybrid-Umweg."
+    },
+    "capitalism": {
+      "name": "Kapitalismus",
+      "shortName": "Kapitalismus",
+      "kicker": "Das System",
+      "blurb": "Armut, Planwirtschaft, Norden, Ungleichheit — und ob Märkte das Problem sind."
+    }
+  },
+  "footer": {
+    "independent": "Unabhängiges journalistisches Angebot. Nicht verbunden mit Tesla, SpaceX, xAI oder Elon Musk.",
+    "trademarks": "Tesla, SpaceX, Starlink, Autopilot und verwandte Marken gehören ihren Inhabern. Hier nur zur Kommentierung."
+  },
+  "method": {
+    "kicker": "Methode",
+    "title": "So werden diese Karten bewertet",
+    "affiliation": "The Record ist ein unabhängiges journalistisches Angebot. Es ist nicht mit Tesla, Inc., SpaceX, xAI oder Elon Musk verbunden.",
+    "p1": "Jede Karte beginnt mit einer Behauptung, die wirklich kursiert — Suchergebnisse, Fernsehen, Foren, der Stammtisch — kein Strohmann, den man nur aufstellen muss, um ihn umzutreten.",
+    "p2": "Wo eine Kritik trägt — der Name Autopilot, FSD-Termine, Lebensraum in Boca Chica, Laden für Mieter, Spaltmaße der Hochlaufjahre — bleibt sie auf der Karte. Eine Quelle der Wahrheit, die nicht „ja, der Teil“ sagen kann, ist nur ein weiterer Mythos.",
+    "p3": "Quellen sind primär oder nah dran: Teslas eigene Brand- und Sicherheitsberichte, EPA-Mythenseiten, der EV-Faktencheck von Carbon Brief, NASA-Material zur kommerziellen Crew, World-Bank- und Our-World-in-Data-Armutsserien, zeitgenössische Berichte zur Steuerreform 2021 und zur Geste bei der Amtseinführung 2025. Klick durch. Wenn eine Zahl sich bewegt, muss die Karte sich bewegen.",
+    "p4": "Wo es echte Berichterstattung in dieser Sprache gibt, die zur Karte spricht, steht sie oben. Sonst bleiben die englischen Quellen.",
+    "legalLead": "Zuordnung, Datenschutz, Nutzungsbedingungen und Impressum:"
+  },
+  "legal": {
+    "kicker": "Rechtliches",
+    "title": "Kleingedrucktes",
+    "updated": "Zuletzt aktualisiert am 22. August 2026.",
+    "navDisclaimer": "Hinweis",
+    "navTerms": "Nutzung",
+    "navPrivacy": "Datenschutz",
+    "navCookies": "Cookies",
+    "navIp": "Marken",
+    "navImprint": "Impressum",
+    "disclaimerTitle": "Hinweis",
+    "disclaimer": [
+      "The Record ist eine unabhängige redaktionelle Website. Sie ist nicht verbunden mit, unterstützt, gesponsert oder assoziiert von Tesla, Inc., Space Exploration Technologies Corp. (SpaceX), xAI, Neuralink, The Boring Company, X Corp. oder Elon Musk. Nennungen dieser Personen und Unternehmen dienen der Identifikation, der Kommentierung und der Kritik.",
+      "Die Karten sind quellenbasierte Kurzbriefings, keine Anlageberatung, keine Rechtsberatung, keine Ingenieurberatung und kein Ersatz für die zugrunde liegenden Berichte. Bewertungen — Falsch, Irreführend, Übertrieben — sind redaktionelle Urteile. Zahlen ändern sich. Wenn eine Quelle sich bewegt, muss die Karte sich bewegen.",
+      "Nichts auf dieser Seite ist ein Angebot, Wertpapiere, Fahrzeuge, Starts oder sonst etwas zu verkaufen. Behandle eine Karteikarte nicht als Due Diligence."
+    ],
+    "termsTitle": "Nutzungsbedingungen",
+    "terms": [
+      "Wenn du The Record nutzt, stimmst du diesen Bedingungen zu. Wenn nicht, nutze die Seite nicht.",
+      "Die Seite wird „wie besehen“ und „wie verfügbar“ bereitgestellt, ohne Gewähr irgendwelcher Art, ausdrücklich oder stillschweigend, einschließlich Richtigkeit, Marktgängigkeit, Eignung für einen bestimmten Zweck und Nichtverletzung von Rechten. Wir garantieren nicht, dass die Seite ununterbrochen, fehlerfrei oder frei von schädlichen Bestandteilen ist.",
+      "Soweit gesetzlich zulässig, haftet der Anbieter nicht für indirekte, zufällige, besondere, Folgeschäden oder Strafschadensersatz, noch für entgangenen Gewinn, Daten- oder Goodwill-Verlust aus der Nutzung der Seite oder dem Vertrauen in eine Karte. Zwingende Rechte, auf die das Recht deines Landes keinen Verzicht zulässt, bleiben unberührt — einschließlich, soweit vorhanden, der EU-Verbraucherrechte.",
+      "Du darfst auf jede öffentliche Seite verlinken. Du darfst die Karten nicht scrapen, als eigenes Werk neu veröffentlichen oder umetikettieren. Kurzes Zitieren mit Link zurück ist in Ordnung. Automatisiertes Absaugen, das den Dienst belastet, nicht.",
+      "Externe Quellenlinks verlassen diese Seite. Wir kontrollieren diese Seiten nicht und sind nicht verantwortlich für Inhalt, Verfügbarkeit oder Richtlinien."
+    ],
+    "privacyTitle": "Datenschutz",
+    "privacyIntro": [
+      "Diese Seite führt keine Nutzerkonten, Newsletter, Werbenetze oder eine Personen-Datenbank. Hier gibt es nichts zum „Anmelden“.",
+      "Im gewöhnlichen Betrieb einer Website kann verarbeitet werden:"
+    ],
+    "privacyBullets": [
+      "Übliche technische Logs beim Hoster (IP-Adresse, Browser, Zeit, aufgerufene URL), soweit nötig, um Seiten auszuliefern, den Betrieb zu halten und Missbrauch abzuwehren.",
+      "Die Adresszeile, wenn du eine Karte öffnest: eine Claim-ID kann in der URL stehen (zum Beispiel ?claim=elon-emerald). Die bleibt in deinem Browser, außer du teilst den Link.",
+      "Kein Verkauf personenbezogener Daten. Kein Profiling für Werbung. Keine Marketing-Pixel Dritter, die diese Seite setzt."
+    ],
+    "privacyOutro": [
+      "Wenn du einem Quellenlink folgst, gilt die Datenschutzerklärung des Ziels. Wir sind nicht Verantwortliche für World Bank, Our World in Data, Tesla, NASA oder andere zitierte Herausgeber.",
+      "Nach der DSGVO ist „Verantwortlicher“ die Person oder Organisation, die über Zwecke der Verarbeitung entscheidet. Für diese Seite ist das der im Impressum genannte Anbieter — wer diese URL öffentlich gestellt hat. Du kannst dort Auskunft, Berichtigung, Löschung, Einschränkung, Widerspruch oder Datenübertragbarkeit verlangen, soweit diese Rechte gelten, und dich bei deiner Aufsichtsbehörde beschweren (in Deutschland eine Landesdatenschutzbehörde; in der EU deine lokale DPA)."
+    ],
+    "cookiesTitle": "Cookies",
+    "cookies": [
+      "The Record setzt keine Werbe- oder Analyse-Cookies. Es gibt kein Cookie-Banner, weil wir keine nicht notwendigen Cookies setzen.",
+      "Die Hosting-Plattform kann technisch notwendige Cookies oder vergleichbare Speicherung nutzen, um die Seite auszuliefern, Last zu verteilen oder Missbrauch abzuwehren. Dein Browser kann dafür gewöhnliche Sitzungsdaten speichern. Du kannst Cookies im Browser blockieren; die Seite sollte trotzdem lesbar bleiben."
+    ],
+    "ipTitle": "Marken und Urheberrecht",
+    "ip": [
+      "Tesla, Model Y, Model 3, Model S, Model X, Cybertruck, Autopilot, Full Self-Driving, Supercharger, SpaceX, Falcon, Dragon, Starship, Starlink, Neuralink, xAI und verwandte Zeichen sind Marken ihrer jeweiligen Inhaber. Name und Abbild von Elon Musk werden hier zur Kommentierung öffentlicher Behauptungen verwendet. Andere Namen auf den Karten gehören ihren Inhabern.",
+      "Kartentext auf The Record ist unabhängiger redaktioneller Inhalt. Zitierte Zahlen und Dokumenttitel bleiben Werk der genannten Herausgeber. Klick durch. Kopiere keinen Tesla-Sicherheitsbericht von dieser Seite und gib ihn nicht als unseren aus — und kopiere unsere Bewertungen nicht als die von Tesla."
+    ],
+    "imprintTitle": "Impressum",
+    "imprintIntro": "Angaben gemäß § 5 DDG und vergleichbarer EU-Kennzeichnungspflichten für digitale Dienste:",
+    "imprintService": "Angebot",
+    "imprintServiceValue": "The Record — unabhängiges journalistisches Angebot",
+    "imprintNature": "Art",
+    "imprintNatureValue": "Inoffizielle Kommentierung. Kein Produkt von Tesla, SpaceX oder xAI.",
+    "imprintOperator": "Anbieter / Verantwortlicher",
+    "imprintOperatorValue": "Die Person oder Organisation, die diese URL veröffentlicht hat, ist Anbieterin des Dienstes und Verantwortliche für technische Daten, die zum Hosting verarbeitet werden. Ein öffentliches Angebot für Leser in Deutschland oder der EU sollte auf dieser Seite Namen, Anschrift und eine Kontakt-E-Mail des Anbieters nennen (bei einer Gesellschaft auch Registergericht und Nummer).",
+    "imprintEditor": "Inhaltlich verantwortlich",
+    "imprintEditorValue": "Die redaktionelle Verantwortung liegt bei demselben Anbieter. Hinter den Bewertungen steht er.",
+    "imprintOutro": "Diese Seite beschreibt, wie The Record funktioniert. Sie ist keine Rechtsberatung. Recht ist länderspezifisch; wer veröffentlicht, sollte das Impressum vor einem geschäftsmäßigen Angebot anwaltlich prüfen lassen."
+  }
+}

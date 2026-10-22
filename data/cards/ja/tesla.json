@@ -1,0 +1,362 @@
+[
+  {
+    "id": "tesla-fire",
+    "slug": "fire",
+    "number": 1,
+    "verdict": "false",
+    "lastChecked": "2026-08-22",
+    "myth": "Teslaはガソリン車よりよく燃える。",
+    "headline": "走行距離あたり、Teslaが公表する火災率は米国車両平均を大きく下回る。バッテリー火災はより稀だ——起きると醜い。",
+    "kernel": "リチウムパックは再燃し、消しにくい。見出しは珍しい火を追う。典型的な米国の年に約18万9000件ある退屈なガソリン火災ではない。",
+    "body": [
+      "Teslaの車両火災安全数値（2012〜2023年）は、約1億3500万マイルに1件だ。NFPA／米運輸省の米国車両全体は約1700万マイルに1件。Teslaの集計には建物火災、放火、NFPA系列がしばしば除くその他の非車両原因も入る——比較はTeslaに不利な側で保守的だ。",
+      "他のEVデータ（スウェーデン、ノルウェー）も同じ向きだ。燃焼車のほうが台あたりよく燃える。残る正直な文はこうだ。EVパック火災は消防の専門事案で、時間がかかり、スマホ映像では黙示録に見える。頻度は拡散投稿が主張するものではない。"
+    ],
+    "keyFacts": [
+      {
+        "label": "Tesla（2012〜2023年）",
+        "value": "約1億3500万マイルに火災1件"
+      },
+      {
+        "label": "米国車両（NFPA／DOT）",
+        "value": "約1700万マイルに火災1件"
+      },
+      {
+        "label": "留保",
+        "value": "パック火災はしつこい。頻度はなおEVに分がある"
+      }
+    ],
+    "sources": [
+      {
+        "publisher": "Tesla",
+        "title": "Vehicle Fire Safety Report",
+        "url": "https://www.tesla.com/VehicleFireSafetyReport"
+      },
+      {
+        "publisher": "NFPA",
+        "title": "Vehicle fires",
+        "url": "https://www.nfpa.org/education-and-research/research/nfpa-research/fire-statistical-reports/vehicle-fires"
+      }
+    ]
+  },
+  {
+    "id": "tesla-build",
+    "slug": "build",
+    "number": 2,
+    "verdict": "overstated",
+    "lastChecked": "2026-08-22",
+    "myth": "Teslaの組み立て品質は冗談だ。家路でパネルが落ちる。",
+    "headline": "初期量産年は雑だった。パネル隙間はConsumer Reportsの常連だった。2020年代の車は別の工場だ。",
+    "kernel": "標本が生産立ち上げ期の2018年Model 3なら、幻覚ではない。標本が2024〜2026年車なら、幽霊と議論している。",
+    "body": [
+      "フリーモントのModel 3立ち上げ（2017〜2019年）は不揃いのパネル隙間、塗装不良、グループチャットを出ない論評を生んだ。独米のレビューが記録した。当時のTesla自身のサービス負担は醜かった。",
+      "ギガ・ベルリン、オースティン、成熟したフリーモントラインが工程を締めた。残る不満はある——量産ブランドならどれでもある——Tesla内装の安さは趣味の議論であり、安全リコールではない。「分解する」を現在形の自然法則にするのは、2026年の私道に置かれた2018年の見解だ。"
+    ],
+    "keyFacts": [
+      {
+        "label": "当たっていた時代",
+        "value": "Model 3立ち上げ、約2017〜2019年。ボディが不揃い"
+      },
+      {
+        "label": "いま",
+        "value": "Lexusではない。塗装欠けの落ちではなくなった"
+      },
+      {
+        "label": "残る妥当な点",
+        "value": "フィット＆フィニッシュのばらつき、地域によるサービス待ち"
+      }
+    ],
+    "sources": [
+      {
+        "publisher": "Consumer Reports / contemporary reviews",
+        "title": "Tesla quality over time",
+        "url": "https://www.consumerreports.org/cars/tesla/"
+      }
+    ]
+  },
+  {
+    "id": "tesla-bankrupt",
+    "slug": "bankrupt",
+    "number": 3,
+    "verdict": "false",
+    "lastChecked": "2026-08-22",
+    "myth": "Teslaはもうすぐ破綻する。いつもそうで、いつもそうだろう。",
+    "headline": "2018年の「生産地獄」危機は本物だった。2026年版のミームはゾンビだ。需要サイクルは連邦破産法第11条ではない。",
+    "kernel": null,
+    "body": [
+      "2017〜2019年、空売り側に分はあった。Model 3立ち上げは会社をほぼ殺した。その後Teslaは規模を伸ばし、複数年でGAAP黒字を出し、大きな現金を積み、世界でもっとも価値ある自動車メーカーの一つになった。分割調整後20ドルで賭け、表を更新しなかった人は民間伝承をやっている。",
+      "だからといってTeslaが不死ではない。値下げ、2024〜2025年の需要の乱れ、BYDとの競争、ブランド政治の鞭打ちは本物の事業リスクだ。「来四半期破綻」は十年壊れた時計だった。予言ではなくリスク要因として扱え。"
+    ],
+    "keyFacts": [
+      {
+        "label": "瀕死",
+        "value": "実際の崖は2008年と約2018年"
+      },
+      {
+        "label": "その後",
+        "value": "規模、現金、なお揮発する需要曲線"
+      },
+      {
+        "label": "ミーム",
+        "value": "破綻予言は、外れた約束のすべてを生き抜いた"
+      }
+    ],
+    "sources": [
+      {
+        "publisher": "Tesla IR",
+        "title": "Tesla financials",
+        "url": "https://ir.tesla.com/"
+      }
+    ]
+  },
+  {
+    "id": "tesla-battery-die",
+    "slug": "battery-die",
+    "number": 4,
+    "verdict": "misleading",
+    "lastChecked": "2026-08-22",
+    "myth": "バッテリーは八年で死に、交換に2万ドルかかる。",
+    "headline": "パックは8年保証で、通常は車の実用寿命より長く持つ。必要なら交換は高い。大半の所有者には不要だ。",
+    "kernel": "罠はスマホ電池の直観だ。駆動用パックは熱管理され、ポケット機器よりはるかに穏やかに充放電される。",
+    "body": [
+      "Teslaの高電圧パック保証は、モデルにより8年／10万〜15万マイル、容量下限つきだ。Recurrentの大規模中古EV調査では、故障交換は稀（歴史的に低い一桁％、2016年以降の多くの車ではリコールを除き1％を大きく下回る）。長い使用での10％劣化はよくある実像であり、煉瓦ではない。",
+      "保証外でパックが死ねば請求は苛烈になりうる——モデルと、モジュール交換かパック全体かで数千から数万ドル。それが核だ。神話が描く定期整備項目ではなく、保険に似た裾野リスクだ。パックが八年使い捨てなら、中古市場のデータはまったく違う顔をする。"
+    ],
+    "keyFacts": [
+      {
+        "label": "保証",
+        "value": "8年、モデル別マイル上限、容量下限"
+      },
+      {
+        "label": "故障率",
+        "value": "Recurrent規模の標本では稀。とくに2016年以降"
+      },
+      {
+        "label": "交換",
+        "value": "裾野では高い。計画された8年整備ではない"
+      }
+    ],
+    "sources": [
+      {
+        "publisher": "Recurrent",
+        "title": "EV battery replacement study",
+        "url": "https://www.recurrentauto.com/research/costs-ev-battery-replacement"
+      },
+      {
+        "publisher": "U.S. EPA",
+        "title": "Electric Vehicle Myths",
+        "url": "https://www.epa.gov/greenvehicles/electric-vehicle-myths"
+      }
+    ]
+  },
+  {
+    "id": "tesla-range-fake",
+    "slug": "range-fake",
+    "number": 5,
+    "verdict": "overstated",
+    "lastChecked": "2026-08-22",
+    "myth": "Teslaの航続数字は嘘だ。ステッカーの60％で車は死ぬ。",
+    "headline": "EPA（とWLTP）は実験室の手順だ。速度、寒さ、暑さは数字を動かす——あらゆる車の燃費と同じだ。",
+    "kernel": null,
+    "body": [
+      "TeslaのEPA値は、独立した高速試験、とくにドイツのアウトバーン速度や厳冬では楽観側に乗ることがある。その差は公正なレビューの不満だ。Tesla特有の嘘ではない。各社のステッカーは標準サイクルであり、時速140kmの1月の通勤ではない。",
+      "実走行の集計（Recurrent、フリートテレマティクス、ADAC）は概して、Teslaの航続がクラス内で競争力があると見る。冬季の20〜40％減はEV物理の話（暖房と化学）で、EVのカードにある。信じられる数字が要るなら、実際に走る速度の高速試験を使え。フォーラム崩壊のスクリーンショットではない。"
+    ],
+    "keyFacts": [
+      {
+        "label": "ステッカー",
+        "value": "EPA／WLTPの標準サイクル"
+      },
+      {
+        "label": "縮むとき",
+        "value": "高速、寒さ、暑さ、ルーフボックス、踏み込み"
+      },
+      {
+        "label": "Tesla特有ではない",
+        "value": "あらゆるEV（とあらゆるICEの燃費主張）がサイクル外で動く"
+      }
+    ],
+    "sources": [
+      {
+        "publisher": "U.S. EPA / fueleconomy.gov",
+        "title": "Find a car (EPA range)",
+        "url": "https://www.fueleconomy.gov/"
+      }
+    ]
+  },
+  {
+    "id": "tesla-autopilot-death",
+    "slug": "autopilot-death",
+    "number": 6,
+    "verdict": "misleading",
+    "lastChecked": "2026-08-22",
+    "myth": "Autopilotは死の罠だ。Teslaは遺体を隠した。",
+    "headline": "Autopilot関与の死亡事故はある。走行距離あたり、Tesla公表の安全統計は米国平均を上回る。両方の文がカードに属する。",
+    "kernel": "名前が売りすぎる。監督つきシステムに宣伝部が乗ると悪い組み合わせだ。NHTSAは調査を開いた。「車が歩行者を狩る」ではない。",
+    "body": [
+      "Teslaの車両安全報告は、Autopilot作動時のマイルあたり事故が非作動時より少なく、米国平均より少ないとする。数値は会社公表で、選択効果がある（誰が、どの道で入れるか）。独立研究者は比較の穴を突いてきた。倍率そのものは慎重に扱え。「人間の運転者よりマイルあたりはるかに悪い」は未証明として扱え。",
+      "記録された失敗。監督しない運転者、横断交通でのシステムの混乱、停車中の緊急車両。凄惨な事故もある。倫理の問題は、「Autopilot」という言葉と、注意を払う法的義務の隙間だ。呼称とドライバーモニタの厳格化を望んでよい。独自の殺戮を主張しなくてよい。年4万件の米国の交通事故死者と比べよ。ほとんどはTeslaではない。"
+    ],
+    "keyFacts": [
+      {
+        "label": "会社統計",
+        "value": "Autopilot時のマイルあたり事故は米国平均より少ない"
+      },
+      {
+        "label": "留保",
+        "value": "自己申告、道路構成の偏り、命名の売りすぎ"
+      },
+      {
+        "label": "本物の問題",
+        "value": "監督つき、死亡を伴う誤用、規制の関心"
+      }
+    ],
+    "sources": [
+      {
+        "publisher": "Tesla",
+        "title": "Tesla Vehicle Safety Report",
+        "url": "https://www.tesla.com/VehicleSafetyReport"
+      }
+    ]
+  },
+  {
+    "id": "tesla-cobalt",
+    "slug": "cobalt",
+    "number": 7,
+    "verdict": "misleading",
+    "lastChecked": "2026-08-22",
+    "myth": "Teslaはコンゴの児童労働コバルトの上に造られている。",
+    "headline": "零細のDRCコバルトは産業の本物の汚れだ。Teslaはパックをコバルトから外しつつある。問題は鉱物経済であり、Tesla専用農園ではない。",
+    "kernel": null,
+    "body": [
+      "コンゴ民主共和国は世界のコバルトの大半を供給する。零細鉱山には児童労働が記録されている。2010年代にNMC化学を使った会社はどれもその供給網に触れた。Teslaも含む。監査、ブロックチェーン試験、供給者規範が産業の応答だ——不完全で、沈黙よりはまし。",
+      "Teslaの新しい化学が効く。多くの標準航続車のLFP（コバルトなし）、コバルトをゼロへ削る4680／高ニッケル経路。2026年のTeslaは、2014年Model S漫画の「血の電池」ではない。気にするなら——すべきだ——化学と監査を追え。一つのロゴへの永久の汚れではない。ちなみに石油採掘も児童向けの物語ではない。"
+    ],
+    "keyFacts": [
+      {
+        "label": "DRCコバルト",
+        "value": "零細採掘における本物の児童労働リスク"
+      },
+      {
+        "label": "Teslaの方向",
+        "value": "規模でのLFPと低／無コバルト化学"
+      },
+      {
+        "label": "範囲",
+        "value": "産業全体。化学変化とともに縮小"
+      }
+    ],
+    "sources": [
+      {
+        "publisher": "Tesla",
+        "title": "Tesla Impact Report (supply chain)",
+        "url": "https://www.tesla.com/impact-report"
+      }
+    ]
+  },
+  {
+    "id": "tesla-only-rich",
+    "slug": "only-rich",
+    "number": 8,
+    "verdict": "overstated",
+    "lastChecked": "2026-08-22",
+    "myth": "Teslaは金持ちの玩具だ。マスクは手頃な車を殺した。",
+    "headline": "2万5000ドルのTeslaは遅い。Model 3／Yはロールス・ロイスではない。中古は多くの市場で普通車の金になっている。",
+    "kernel": "安価な量産Teslaを何年も語った。次世代の安価プラットフォームは滑り続けた。破られた約束は本人の責任だ。",
+    "body": [
+      "新型Model 3とYの価格は、2020年代半ばの値下げ後とくに、装備充実のICEクロスオーバーと同圏だ。ハイパーカーではない。欧州ではVW、Hyundai、BMWのEVと競う。「金持ち向け」が一番死ぬのは中古だ。四年落ちが他のプレミアム量産ブランドと同じように取引される。",
+      "真なのは、当初スライドの伝説的2万5000ドルハッチは出ず、Cybertruck／S／Xがブランド像を歪めることだ。偽なのは、中央値のTesla所有者が億万長者であること、ドイツ高級車の値段を下回るTeslaがないことだ。手頃さはスペクトルだ。Teslaが占める幅はミームが許すより広く、基調講演が約束したより狭い。"
+    ],
+    "keyFacts": [
+      {
+        "label": "量産車",
+        "value": "3とY——プレミアム量産。ハイパーカーではない"
+      },
+      {
+        "label": "壊れたスライド",
+        "value": "次世代2万5000ドルは繰り返し遅延"
+      },
+      {
+        "label": "中古市場",
+        "value": "多くの地域で普通の金"
+      }
+    ],
+    "sources": [
+      {
+        "publisher": "Tesla",
+        "title": "Tesla model lineup and pricing",
+        "url": "https://www.tesla.com/"
+      }
+    ]
+  },
+  {
+    "id": "tesla-repair",
+    "slug": "repair",
+    "number": 9,
+    "verdict": "overstated",
+    "lastChecked": "2026-08-22",
+    "myth": "Teslaは修理できない。軽い接触で保険が全損にする。",
+    "headline": "部品、マニュアル、独立アクセスは本当に敵対的だった。緩和しつつある。初期車の高い全損率は、高いセンサーと車を知らない安い板金工場が混ざった結果だ。",
+    "kernel": null,
+    "body": [
+      "修理する権利の擁護者は、何年もTeslaを正しく捉えていた。部品は門、診断は閉じ、一部の工場が触れないガラスとアルミ。バンパーカメラにアルミクォーターに臆病な工場が重なると「帳消し」になるため、一部年式の保険全損率は醜く見えた。本物の所有税だ。",
+      "「修理不能」ではない。独立専門店はあり、Teslaサービスは直し、規制圧力（米・EU）が部品とデータをより開いた。他のアルミ多用EVやADAS過多のドイツ車と比べよ——誰も1996年Civicのように溶接していない。ミームは2018年のサービス網不満を凍結し、物理と呼んだ。"
+    ],
+    "keyFacts": [
+      {
+        "label": "妥当な打撃",
+        "value": "閉じた部品／診断、ADAS校正コスト"
+      },
+      {
+        "label": "全損",
+        "value": "一部年式は悪く見えた。工場とセンサーであり、魔法のガラスではない"
+      },
+      {
+        "label": "潮流",
+        "value": "独立修理は増えている。なおHondaほど容易ではない"
+      }
+    ],
+    "sources": [
+      {
+        "publisher": "Industry / regulator reporting",
+        "title": "Right to repair and EV ADAS costs",
+        "url": "https://www.repairerdrivennews.com/"
+      }
+    ]
+  },
+  {
+    "id": "tesla-robotaxi-vapor",
+    "slug": "robotaxi-vapor",
+    "number": 10,
+    "verdict": "overstated",
+    "lastChecked": "2026-08-22",
+    "myth": "ロボットタクシーとOptimusはベーパーウェアだ。2万5000ドル車やSemiと同じだ。",
+    "headline": "日程は劇場だった。実機はある。限定ロボットタクシーは始まった。Optimusは試作であり、労働市場の出来事ではない。",
+    "kernel": "マスクは宇宙が署名していないカレンダーで未来を売ってきた。日付はすべて割り引け。実体まで切り捨てるな。",
+    "body": [
+      "Semiは存在し、少数の顧客のために運んでいる。Freightliner量産の製品ではない。全国の無人ネットワークとしてのロボットタクシーはここにはない。限定の無人／監督つきサービス（オースティン2025年以降）はある。遅く小さい。それは「PowerPoint」とは違う。",
+      "Optimusのほうが輪郭はぼやける。歩く人型デモ、工場実験、注文できる汎用家庭ロボットはない。スタック全体をベーパーウェアと呼ぶには、すでに動く車を無視する必要がある。「解決済みのAGI労働」と呼ぶには、デモであることを無視する必要がある。カードを分けよ。日付は悪い。実体はしばしば本物。規模はたいてい投稿より遅い。"
+    ],
+    "keyFacts": [
+      {
+        "label": "Semi",
+        "value": "本物、低量産"
+      },
+      {
+        "label": "ロボットタクシー",
+        "value": "限定運用。全国網ではない"
+      },
+      {
+        "label": "Optimus",
+        "value": "試作／工場試験。製品カタログではない"
+      }
+    ],
+    "sources": [
+      {
+        "publisher": "Tesla",
+        "title": "Tesla AI / robotaxi",
+        "url": "https://www.tesla.com/ai"
+      }
+    ]
+  }
+]

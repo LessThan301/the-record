@@ -1,0 +1,368 @@
+[
+  {
+    "id": "elon-emerald",
+    "slug": "emerald",
+    "number": 1,
+    "verdict": "false",
+    "lastChecked": "2026-08-22",
+    "myth": "埃隆·马斯克继承了种族隔离时期的祖母绿矿财富，靠这笔钱买进了 Tesla 和 SpaceX。",
+    "headline": "两家公司的启动资金来自 PayPal 套现。股权结构里没有祖母绿遗产。",
+    "kernel": "他父亲埃罗尔讲过一套前后不一的赞比亚祖母绿故事。这不等于马斯克继承了一座矿，也不等于用矿上的钱创办了 SpaceX。",
+    "body": [
+      "马斯克17岁离开南非，先在加拿大打工，再到美国念书。Zip2 是1990年代的软件创业公司，1999年被 Compaq 买下。真正的筹码来自后来变成 PayPal 的 X.com：eBay 收购后，他大约分到 $180 million。这才是有据可查的 SpaceX（2002年）种子资金，以及他2004年投资 Tesla 的来源。",
+      "埃罗尔·马斯克多次声称持有赞比亚祖母绿产能的股份，后来又把故事收回成“一部分宝石”。梅耶·马斯克描述的是一个过得去的家庭，不是矿业王朝。沃尔特·艾萨克森的传记和当时的报道，都找不到矿上的财富流入 Zip2、PayPal、Tesla 或 SpaceX 的证据。",
+      "一个曾经做过宝石生意的父亲，是个好讲的出身故事。它替代不了股权结构、PayPal 套现，也替代不了随后十年 SpaceX 和 Tesla 几次濒临破产的记录。"
+    ],
+    "keyFacts": [
+      {
+        "label": "PayPal 套现",
+        "value": "~$180M（马斯克所得，2002年）"
+      },
+      {
+        "label": "2004年 Tesla 支票",
+        "value": "其中约 $6.5M，领投"
+      },
+      {
+        "label": "祖母绿矿",
+        "value": "没有可查的遗产，也未进入股权结构"
+      }
+    ],
+    "sources": [
+      {
+        "publisher": "Walter Isaacson / Simon & Schuster",
+        "title": "Elon Musk",
+        "url": "https://www.simonandschuster.com/books/Elon-Musk/Walter-Isaacson/9781982181284"
+      },
+      {
+        "publisher": "Wikipedia (sourced timeline)",
+        "title": "Wealth of Elon Musk",
+        "url": "https://en.wikipedia.org/wiki/Wealth_of_Elon_Musk"
+      }
+    ]
+  },
+  {
+    "id": "elon-never-built",
+    "slug": "never-built",
+    "number": 2,
+    "verdict": "false",
+    "lastChecked": "2026-08-22",
+    "myth": "埃隆·马斯克从没造过任何东西。他是个收购别人公司、发帖度日的 CEO。",
+    "headline": "他创办过公司，也不是每个零件的工程师。这两件事可以同时成立。",
+    "kernel": null,
+    "body": [
+      "Zip2 和 X.com 是他联合创办的创业公司。SpaceX 从2002年白纸起步——Merlin、Falcon、Dragon 和 Raptor 都是自研载具，不是买来的。Neuralink、The Boring Company 和 xAI 是创办的，不是收购的。Tesla 是例外：他2004年以领投人兼董事长加入，2008年出任 CEO。",
+      "需要纠正的其实更窄：他并不亲手焊车，也不亲自写每一行飞控软件。他在设计评审里是出了名苛刻的总工程师，这件事被写到近乎俗套。这不等于“从没造过任何东西”，也不等于“锂离子电池的孤独天才发明者”。"
+    ],
+    "keyFacts": [
+      {
+        "label": "创办",
+        "value": "Zip2、X.com/PayPal 路径、SpaceX、Neuralink、Boring、xAI"
+      },
+      {
+        "label": "加入 / 做大规模",
+        "value": "Tesla（2004年领投，2008年任 CEO）"
+      },
+      {
+        "label": "后来买下的",
+        "value": "Twitter / X（2022年）——唯一对得上那个梗的一桩"
+      }
+    ],
+    "sources": [
+      {
+        "publisher": "Encyclopaedia Britannica",
+        "title": "Elon Musk",
+        "url": "https://www.britannica.com/biography/Elon-Musk"
+      }
+    ]
+  },
+  {
+    "id": "elon-taxes",
+    "slug": "taxes",
+    "number": 3,
+    "verdict": "false",
+    "lastChecked": "2026-08-22",
+    "myth": "埃隆·马斯克不纳税。",
+    "headline": "他付过已知最大的一笔美国个人所得税。未实现收益不征税。这是税制，不是他独享的秘密漏洞。",
+    "kernel": "在他不卖股票、不行使期权的年份，现金收入比起身家会显得很小。这是未实现收益对每个创始人的算法，不是给马斯克的特赦。",
+    "body": [
+      "2021年他行使了一大笔 Tesla 期权并出售股票。他说由此产生的税单超过 $11 billion——当时的估计把联邦部分放在大约 $10–12 billion，被广泛报道为有记录以来最大的一笔个人所得税。",
+      "批评者说得对：财富（主要是 Tesla 和 SpaceX 股权）可以多年增值而不触发应税事件。这是在争论美国该不该对未实现收益征税，不是“他不纳税”的证据。期权落地，税单就落地。"
+    ],
+    "keyFacts": [
+      {
+        "label": "2021年税单",
+        "value": "~$11–12 billion（他本人数字 / 媒体估计）"
+      },
+      {
+        "label": "触发条件",
+        "value": "Tesla 期权行权 + 出售股票"
+      },
+      {
+        "label": "什么不征税",
+        "value": "未实现的账面收益，美国法律如此"
+      }
+    ],
+    "sources": [
+      {
+        "publisher": "CNBC",
+        "title": "Elon Musk says he will pay over $11 billion in taxes this year",
+        "url": "https://www.cnbc.com/2021/12/20/elon-musk-says-he-will-pay-over-11-billion-in-taxes-this-year.html"
+      },
+      {
+        "publisher": "Wikipedia",
+        "title": "Wealth of Elon Musk",
+        "url": "https://en.wikipedia.org/wiki/Wealth_of_Elon_Musk"
+      }
+    ]
+  },
+  {
+    "id": "elon-cofounder",
+    "slug": "cofounder",
+    "number": 4,
+    "verdict": "misleading",
+    "lastChecked": "2026-08-22",
+    "myth": "称埃隆·马斯克为 Tesla 联合创始人是撒谎。他买下公司，再靠诉讼把自己写上牌匾。",
+    "headline": "马丁·艾伯哈德和马克·塔彭宁于2003年创办 Tesla。马斯克是2004年的领投人。2009年的和解允许他使用联合创始人头衔。",
+    "kernel": "最初的公司注册文件里没有他。挺过2008年的那家公司里有他——靠他的钱、产品方向和 CEO 席位。这句话的两半都是记录。",
+    "body": [
+      "Tesla Motors 由艾伯哈德和塔彭宁于2003年7月注册成立。马斯克领投2004年2月的 A 轮，出任董事长，并在2008年濒死之际成为 CEO。他推动 Roadster 走完量产，然后是 Model S。",
+      "艾伯哈德被赶走后，诉讼跟上。2009年的和解允许马斯克、JB Straubel、艾伯哈德、塔彭宁和伊恩·赖特被称为联合创始人。这是一份法律停战协议，不是时光机。说他没有注册 Tesla，公允。说他“买下一家已经完工的汽车公司”，不公允——当时没有 Model S，没有工厂规模，Roadster 也几乎还没成形。"
+    ],
+    "keyFacts": [
+      {
+        "label": "注册成立",
+        "value": "2003年7月，艾伯哈德与塔彭宁"
+      },
+      {
+        "label": "马斯克加入",
+        "value": "A 轮，2004年2月；2008年任 CEO"
+      },
+      {
+        "label": "头衔",
+        "value": "2009年和解：允许使用联合创始人表述"
+      }
+    ],
+    "sources": [
+      {
+        "publisher": "Wikipedia (founding section)",
+        "title": "Tesla, Inc.",
+        "url": "https://en.wikipedia.org/wiki/Tesla,_Inc."
+      }
+    ]
+  },
+  {
+    "id": "elon-salute",
+    "slug": "salute",
+    "number": 5,
+    "verdict": "misleading",
+    "lastChecked": "2026-08-22",
+    "myth": "2025年1月就职典礼上的那个动作，证明埃隆·马斯克是纳粹。",
+    "headline": "那段视频看起来难看。意图并未坐实。“看起来像敬礼”不是一张党员证。",
+    "kernel": "他捶了胸口，两次甩出一条手臂。观众——尤其在德国——听到了一种非常具体的警报。这个视觉押韵是真的。同样为真的是：没有纲领、没有宣言、也没有一场把这段视频坐实为纳粹证据的起诉。",
+    "body": [
+      "2025年1月20日，在一场特朗普就职活动上发言后，马斯克捶胸并伸出右臂、掌心向下，做了两次。批评者——包括许多欧洲人——称之为纳粹举手礼。他说那是 “my heart goes out to you”。反诽谤联盟（ADL）的表述是“热情时刻一个笨拙的动作，不是纳粹敬礼”。",
+      "另一个更公允的争论，关乎他放大了什么：一些极右账号、一些阴谋论段子、一种踩踏禁忌的口味。那是媒体与判断力的辩论。因为一个（难看的）动作就收束成“他是纳粹”，是站不住的那一层。德国对敬礼有一条很亮的法律线；检方并没有把这件事做成给他定罪的试金石。"
+    ],
+    "keyFacts": [
+      {
+        "label": "时间",
+        "value": "2025年1月20日，就职活动舞台"
+      },
+      {
+        "label": "他的说法",
+        "value": "“My heart goes out to you”"
+      },
+      {
+        "label": "ADL",
+        "value": "笨拙的热情，不是纳粹敬礼"
+      }
+    ],
+    "sources": [
+      {
+        "publisher": "The New York Times",
+        "title": "What Elon Musk’s Salute Was All About",
+        "url": "https://www.nytimes.com/2025/01/24/world/europe/elon-musk-roman-salute-nazi.html"
+      },
+      {
+        "publisher": "Wikipedia (inauguration gesture)",
+        "title": "Elon Musk",
+        "url": "https://en.wikipedia.org/wiki/Elon_Musk"
+      }
+    ]
+  },
+  {
+    "id": "elon-subsidies",
+    "slug": "subsidies",
+    "number": 6,
+    "verdict": "misleading",
+    "lastChecked": "2026-08-22",
+    "myth": "埃隆·马斯克痛斥政府浪费，他自己的公司却靠补贴活着。",
+    "headline": "Tesla 用过产业政策。SpaceX 卖发射。把这两件事搅成“补贴婴儿”，才是偷换概念。",
+    "kernel": "$465 million 的能源部贷款是真的——并且于2013年连本带息提前还清。买家的电动车税收抵免和 ZEV 积分是真的。NASA 为货运和载人付款，是购买服务，和当年买航天飞机一个道理。",
+    "body": [
+      "Tesla 早年走过2009年能源部 ATVM 贷款（$465 million）。Tesla 于2013年还清，提前了九年。美国和欧洲的电动车税收抵免发给买家，但确实拉动了需求。卖给其他车企的零排放车积分，有几年是 Tesla 一条可观的收入。这就是产业政策，假装不是则是脑补。",
+      "SpaceX 的 NASA COTS 和商业载人款项，是按节点付款的合同，目的是比航天飞机更便宜地买到货运和航天员飞行。美国太空军按竞争性目录买发射。Starlink 的农村宽带拨款后来卷入诉讼。把政府开出的每一张支票都叫“补贴”，抹掉了拨款和发射账单的区别。"
+    ],
+    "keyFacts": [
+      {
+        "label": "能源部贷款",
+        "value": "$465M，2013年连本带息还清"
+      },
+      {
+        "label": "NASA / 国防部",
+        "value": "货运、载人、国家安全发射合同"
+      },
+      {
+        "label": "ZEV 积分",
+        "value": "曾经是 Tesla 真金白银的收入，随着别人追上正在消退"
+      }
+    ],
+    "sources": [
+      {
+        "publisher": "U.S. Department of Energy",
+        "title": "Tesla pays off DOE loan",
+        "url": "https://www.energy.gov/articles/tesla-repay-department-energy-loan-nine-years-early"
+      }
+    ]
+  },
+  {
+    "id": "elon-fsd-fraud",
+    "slug": "fsd-fraud",
+    "number": 7,
+    "verdict": "overstated",
+    "lastChecked": "2026-08-22",
+    "myth": "埃隆·马斯克多年前就承诺完全自动驾驶。所以整件事是诈骗。",
+    "headline": "日期长期偏乐观。技术栈一直在变好。错过日历不等于假产品。",
+    "kernel": "从2016年起，他卖的是一张没有按幻灯片到来的未来。这是真切的模式，监管机构也注意到了：“Full Self-Driving”作为名字和作为法律能力之间的缝隙。",
+    "body": [
+      "Autopilot 作为有人监督的高速路系统交付。“Full Self-Driving”作为软件包经历了测试然后再扩大范围，驾驶员仍须负责。Robotaxi 服务以有限形式开始（奥斯汀，2025年），并没有全国范围的完全无监督产品。每一年的跳票都在录像带上。",
+      "诈骗叙事需要一个从未存在过的东西。Tesla 收集了数十亿英里真实道路数据，迭代端到端网络，去掉雷达改押视觉——这是技术赌注，不是空气幻灯片。两件事可以同时成立：他过度承诺了，而系统也不是动画片。你愿不愿意把家人交给它，是另一个正当问题（见 Tesla Autopilot 那张卡）。"
+    ],
+    "keyFacts": [
+      {
+        "label": "模式",
+        "value": "公开时间表反复错过，约自2016年起"
+      },
+      {
+        "label": "已交付的",
+        "value": "有监督的 FSD + 有限 robotaxi 运营，不是全国无监督"
+      },
+      {
+        "label": "并不等同于",
+        "value": "Theranos——公路上有一套在运转的技术栈"
+      }
+    ],
+    "sources": [
+      {
+        "publisher": "Tesla",
+        "title": "Autopilot and Full Self-Driving (Supervised)",
+        "url": "https://www.tesla.com/autopilot"
+      }
+    ]
+  },
+  {
+    "id": "elon-twitter",
+    "slug": "twitter",
+    "number": 8,
+    "verdict": "overstated",
+    "lastChecked": "2026-08-22",
+    "myth": "埃隆·马斯克毁掉了 Twitter，把 X 变成了纳粹酒吧。",
+    "headline": "广告商走了。审核变得更怪。Community Notes 是真的。它不是贴了只鸟的 8chan。",
+    "kernel": "$44 billion 的私有化一团乱。编制坍塌、此前被封的账号涌回、品牌安全恐慌，都不是记者的幻觉。",
+    "body": [
+      "2022年10月之后，X 丢掉了很大一块广告。信任与安全团队被砍。一些极端账号回来了。仇恨言论研究者报告，前几个月脏话和谩骂的比率上升。这些都有记录。",
+      "“纳粹酒吧”是一种情绪，不是一次人口普查。Community Notes 成了互联网上更有意思的公开事实核查系统之一，包括针对马斯克自己的帖子。政治触达变得更杂：更多右翼，也更多反“觉醒”，也仍然装满左翼用户。一个更乱的市政广场，不等于一个专供极端分子的论坛。这笔买卖值不值 $44 billion，是商业问题。你喜不喜欢这个气场，是口味问题。"
+    ],
+    "keyFacts": [
+      {
+        "label": "收购",
+        "value": "$44B，2022年10月交割"
+      },
+      {
+        "label": "清楚的效果",
+        "value": "广告商撤离、人员坍塌、信息流更吵"
+      },
+      {
+        "label": "同样为真",
+        "value": "Community Notes；马斯克的帖子也会被标注"
+      }
+    ],
+    "sources": [
+      {
+        "publisher": "Wikipedia",
+        "title": "Acquisition of Twitter by Elon Musk",
+        "url": "https://en.wikipedia.org/wiki/Acquisition_of_Twitter_by_Elon_Musk"
+      }
+    ]
+  },
+  {
+    "id": "elon-apartheid",
+    "slug": "apartheid",
+    "number": 9,
+    "verdict": "misleading",
+    "lastChecked": "2026-08-22",
+    "myth": "埃隆·马斯克是种族隔离的产儿，想把那套制度搬回来。生在比勒陀利亚，所以就是那种政治。",
+    "headline": "出生地不是一份宣言。他17岁离开。批评后种族隔离时代的治安，不是给南非国民党投票。",
+    "kernel": "他1971年生于比勒陀利亚一个富裕的白人家庭，当时是种族隔离。这是真的，也不是一件小事。跳到“他支持过那个政权 / 想恢复它”，需要他当时的政治行为作证据。证据很薄。",
+    "body": [
+      "种族隔离是他童年的空气。母系祖父母有一段少见的、有时难看的政治史（霍尔德曼家族迁徙途中那段与种族隔离相邻、又带阴谋论色彩的政治，写在传记里）。马斯克说过，他觉得那套制度是错的，于是离开。",
+      "他后来关于南非农场谋杀、“白人种族灭绝”措辞和非国大的评论，带煽动性，统计也常常粗糙。这是真切的媒体问题。它仍然不同于“他是种族隔离复辟主义者”。他那一代很多南非人离开了；他们里没几个在开汽车公司。用他现在说的话，别把国籍当成道德预罪。"
+    ],
+    "keyFacts": [
+      {
+        "label": "出生",
+        "value": "比勒陀利亚，1971年"
+      },
+      {
+        "label": "离开",
+        "value": "1988年，17岁，前往加拿大"
+      },
+      {
+        "label": "强硬主张所需",
+        "value": "行为和文本，不是一张出生证明"
+      }
+    ],
+    "sources": [
+      {
+        "publisher": "Wikipedia (early life)",
+        "title": "Elon Musk",
+        "url": "https://en.wikipedia.org/wiki/Elon_Musk"
+      }
+    ]
+  },
+  {
+    "id": "elon-unfit",
+    "slug": "unfit",
+    "number": 10,
+    "verdict": "overstated",
+    "lastChecked": "2026-08-22",
+    "myth": "埃隆·马斯克嗑了氯胺酮，精神状态不适合管公司。",
+    "headline": "他说过用处方氯胺酮治疗抑郁。那不是一份公开的丧失行为能力认定。网上诊断作坊不是病历。",
+    "kernel": "工作方式极端，发帖常常莽撞，好几块董事会都得消化个人品牌的成本。这些是公允的运营批评。",
+    "body": [
+      "马斯克公开说过，处方氯胺酮是治疗抑郁的手段。没有公布过的医学评估认定他在工作中受损。SpaceX 继续飞，Tesla 继续产，xAI 继续交付。关于“分心”的股市争论不是 DSM 标准。",
+      "你可以认为发帖是治理问题——Tesla 董事有时显然这么想。你可以认为睡眠剥夺和凌晨三点泡论坛不明智。把它翻译成“CEO 在狂嗨、火箭没人看管”，是故事。随行记者、员工和飞行记录，并没有拿出这个梗所需要的那份铁证受损档案。"
+    ],
+    "keyFacts": [
+      {
+        "label": "他的说法",
+        "value": "处方氯胺酮治疗抑郁"
+      },
+      {
+        "label": "公开的不适任医学认定",
+        "value": "无"
+      },
+      {
+        "label": "公允的抱怨",
+        "value": "飘忽的发帖构成治理和品牌风险"
+      }
+    ],
+    "sources": [
+      {
+        "publisher": "Wikipedia (personal life)",
+        "title": "Elon Musk",
+        "url": "https://en.wikipedia.org/wiki/Elon_Musk"
+      }
+    ]
+  }
+]

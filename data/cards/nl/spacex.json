@@ -1,0 +1,352 @@
+[
+  {
+    "id": "spacex-subsidy",
+    "slug": "subsidy",
+    "number": 1,
+    "verdict": "misleading",
+    "lastChecked": "2026-08-22",
+    "myth": "SpaceX bestaat alleen dankzij belastinggeld. Het publiek betaalde de R&D; Musk bezit de IP.",
+    "headline": "NASA kocht vracht en bemanning zoals het vroeger Shuttle-vluchten kocht — op mijlpalen, goedkoper. Dat is inkoop, geen zakgeld.",
+    "kernel": "Vroeg NASA-COTS-geld deed er veel toe. SpaceX was geen garagehobby die nooit federaal geld aanraakte. De vertekening is een vaste-prijscontract voor een Dragon-aanmering een „subsidie” noemen.",
+    "body": [
+      "Na de Shuttle runde NASA Commercial Orbital Transportation Services en daarna Commercial Crew: betaal bedrijven als ze vluchtmijlpalen halen, bezit minder van de stack, vlieg meer voor minder. SpaceX won, leverde vracht in 2012, bemanning in 2020, en beëindigde de Amerikaanse afhankelijkheid van Soyuz-stoelen. De Amerikaanse overheid is een klant. Klanten betalen.",
+      "Starlink is inmiddels een merendeels commerciële omzetmotor — consumenten, luchtvaartmaatschappijen, schepen en overheden die bandbreedte kopen. Lanceringen voor nationale veiligheid zijn competitieve gunningen tegen ULA en anderen. Het praatje dat „R&D is gesocialiseerd en IP geprivatiseerd” negeert dat NASA een commerciële markt wilde, het model publiceerde, en lanceerprijzen kreeg die van een klif vielen. Als de klacht is „de staat had de fabrieken moeten houden,” is dat nostalgie naar industriepolitiek, geen fraudebrief."
+    ],
+    "keyFacts": [
+      {
+        "label": "COTS / Crew",
+        "value": "Mijlpaalcontracten, geen cost-plus Shuttle 2.0"
+      },
+      {
+        "label": "Eerste vracht / bemanning",
+        "value": "2012 Dragon-vracht; 2020 Crew Dragon"
+      },
+      {
+        "label": "Vandaag",
+        "value": "Starlink + commerciële lancering dragen het merendeel van de P&L"
+      }
+    ],
+    "sources": [
+      {
+        "publisher": "NASA",
+        "title": "Commercial Crew Program",
+        "url": "https://www.nasa.gov/reference/commercial-crew-program/"
+      }
+    ]
+  },
+  {
+    "id": "spacex-reuse",
+    "slug": "reuse",
+    "number": 2,
+    "verdict": "false",
+    "lastChecked": "2026-08-22",
+    "myth": "Raketten laten landen is een circusnummer. Hergebruik bespaart in werkelijkheid geen geld.",
+    "headline": "Falcon 9-terugvluchten zijn de reden dat lanceren goedkoop werd. De markt stemde met vluchtlijsten.",
+    "kernel": null,
+    "body": [
+      "Eerste trappen van Falcon 9 vliegen nu vele keren — hergebruik in de dubbele cijfers is routine, met sommige boosters voorbij de 20. Catalogusprijzen rond enkele tientallen miljoenen dollars onderbieden Ariane 5/6 en historische ULA-prijzen met een ruime marge. De interne marginale kosten worden breed geschat ver onder de lijstprijs, daarom kan SpaceX de vluchtlijst overspoelen met Starlink en nog steeds aan anderen verkopen.",
+      "Als hergebruik een feesttruc was, zouden concurrenten het negeren. Dat deden ze niet: ULA, Blue Origin, Arianespace en China jagen allemaal op een vorm van terugwinning. NASA en de Space Force blijven Falcon kopen omdat prijs en cadans verschenen. Circussen brengen niet 80%+ van de orbitale massa van een planeet in een baan."
+    ],
+    "keyFacts": [
+      {
+        "label": "Hergebruik",
+        "value": "Booster-vluchten in de dubbele cijfers zijn routine"
+      },
+      {
+        "label": "Lijstprijs",
+        "value": "Falcon 9 ~$67M-klasse vs. legacy $150M–$400M"
+      },
+      {
+        "label": "Marktaandeel",
+        "value": "Dominant aandeel van mondiale orbitale massa in de jaren 2020"
+      }
+    ],
+    "sources": [
+      {
+        "publisher": "SpaceX",
+        "title": "Falcon 9",
+        "url": "https://www.spacex.com/vehicles/falcon-9/"
+      }
+    ]
+  },
+  {
+    "id": "spacex-astronomy",
+    "slug": "astronomy",
+    "number": 3,
+    "verdict": "overstated",
+    "lastChecked": "2026-08-22",
+    "myth": "Starlink heeft de sterrenkunde geruïneerd. De nachthemel is voorbij.",
+    "headline": "Satellietsporen zijn een echt, gemeten probleem. SpaceX dimde latere generaties. De hemel is niet dicht.",
+    "kernel": "Surveys met een breed veld (Vera Rubin, amateurastrophotografie) vangen wel strepen. Dat is geen forumverzinsel. DarkSat, vizieren en standtrucs verminderden de helderheid; astronomen zeggen dat het niet genoeg is.",
+    "body": [
+      "Megaconstellaties in een lage baan — Starlink voorop, anderen erachter — voegen bewegende bronnen toe. Professionele pijplijnen kunnen sommige sporen maskeren; ze kunnen niet doen alsof de fotonen er nooit waren. De IAU en verscheidene observatoria hebben met SpaceX aan tafel gezeten. Latere satellieten zijn zwakker dan de eerste lichting. Kuiper van Amazon en anderen zullen er meer bij zetten, dus dit is een industrieprobleem dat Starlink pionierde, geen uniek moreel defect.",
+      "„Geruïneerd” is de overdrijving. Optische sterrenkunde gaat door. Radioastronomie heeft een apart interferentiegevecht. Beleidsinstrumenten bestaan: helderheidslimieten, verduisteren, coördinatievensters. De eerlijke kaart is: de impact is echt, de mitigatie is partieel, onthouding door één bedrijf zou de hemel niet leeghalen."
+    ],
+    "keyFacts": [
+      {
+        "label": "Impact",
+        "value": "Echte strepen op beelden met breed veld"
+      },
+      {
+        "label": "Mitigatie",
+        "value": "Donkerder ontwerp na de eerste generatie"
+      },
+      {
+        "label": "Bereik",
+        "value": "Elke megaconstellatie, niet alleen Starlink"
+      }
+    ],
+    "sources": [
+      {
+        "publisher": "IAU / CPS summaries",
+        "title": "Starlink and astronomy",
+        "url": "https://cps.iau.org/"
+      }
+    ]
+  },
+  {
+    "id": "spacex-kessler",
+    "slug": "kessler",
+    "number": 4,
+    "verdict": "overstated",
+    "lastChecked": "2026-08-22",
+    "myth": "Starlink zal het Kesslersyndroom ontketenen en de mensheid buitensluiten van de ruimte.",
+    "headline": "Botsingsrisico is een serieus operationeel probleem. Starlink is ontworpen om vanuit lage hoogte terug te keren. Het is geen puinbom op een timer.",
+    "kernel": null,
+    "body": [
+      "Het Kesslersyndroom is een cascade van botsingen die een omloopband onbruikbaar maakt. Het is een echt natuurkundig verhaal, historisch gericht op hogere, langlevenbanen. Starlink vliegt laag (ruwweg de klasse van 550 km). Atmosferische weerstand brengt dode toestellen in jaren naar beneden, niet in eeuwen, als ze uitvallen. De constellatie gebruikt autonome botsingsvermijding tegen de catalogus.",
+      "De restrisico’s: uitgevallen sats die niet kunnen manoeuvreren, conjuncties tijdens zonneactiviteit, en het pure aantal objecten. Die worden gevolgd door NASA, de FCC en ESA. Een LEO-constellatie die is ontworpen om terug te keren behandelen alsof het een wapentest in een kerkhofbaan was, is de overdrijving. Waakzaamheid is terecht. Fatalisme is geen meting."
+    ],
+    "keyFacts": [
+      {
+        "label": "Hoogte",
+        "value": "~550 km-klasse, deorbit geholpen door weerstand"
+      },
+      {
+        "label": "Ontwerpbedoeling",
+        "value": "Kort leven bij uitval vs. GEO-kerkhof"
+      },
+      {
+        "label": "Risico",
+        "value": "Niet nul; actief beheerd, niet genegeerd"
+      }
+    ],
+    "sources": [
+      {
+        "publisher": "NASA ODPO",
+        "title": "Space debris",
+        "url": "https://orbitaldebris.jsc.nasa.gov/"
+      }
+    ]
+  },
+  {
+    "id": "spacex-starship",
+    "slug": "starship",
+    "number": 5,
+    "verdict": "false",
+    "lastChecked": "2026-08-22",
+    "myth": "Starship is dampware. Het zal nooit iets vliegen dat ertoe doet.",
+    "headline": "Het is een onvoltooid zwaar voertuig dat al heeft gevlogen. Luchtfietserij steekt geen Raptor-motoren aan boven de Golf.",
+    "kernel": "Operationele bemannings-, tanker- en HLS-missies liggen nog in het verschiet. Schema’s zijn uitgelopen. Dat is iets anders dan een slide die de hangar nooit verliet.",
+    "body": [
+      "Starship/Super Heavy is gestapeld, gelanceerd, de ruimte ingegaan, heeft hot staging gedaan en vangst geprobeerd. Voertuigen zijn verloren. Dat is een testprogramma, expres lelijk. Het Human Landing System van NASA voor Artemis zit op deze hardware; dat contract is geen persbericht dat SpaceX aan zichzelf schreef.",
+      "Scepsis over tijdlijnen is verdiend — Musks datums zijn zelfs binnen de industrie een running joke. Scepsis dat het voertuig fictie is, niet. Vergelijk met programma’s die een decennium in PowerPoint doorbrachten. Het resterende argument is of het hitteschild, de vangst en snel hergebruik sluiten. Dat is engineering, die onderweg op explosies mag lijken."
+    ],
+    "keyFacts": [
+      {
+        "label": "Status",
+        "value": "Vliegend getest prototype, geen operationele lijn"
+      },
+      {
+        "label": "NASA HLS",
+        "value": "Gekozen als het Artemis-landerpad"
+      },
+      {
+        "label": "Eerlijke twijfel",
+        "value": "Cadans en hergebruik niet gesloten; datums glijden"
+      }
+    ],
+    "sources": [
+      {
+        "publisher": "SpaceX",
+        "title": "Starship",
+        "url": "https://www.spacex.com/vehicles/starship/"
+      }
+    ]
+  },
+  {
+    "id": "spacex-stole-nasa",
+    "slug": "stole-nasa",
+    "number": 6,
+    "verdict": "false",
+    "lastChecked": "2026-08-22",
+    "myth": "SpaceX stal gewoon NASA-technologie en plakte er een logo op.",
+    "headline": "Ze namen mensen in dienst die in de luchtvaart hadden gewerkt en gebruikten publiek onderzoek, zoals iedereen. Merlin, Raptor en Dragon zijn geen overgebleven Saturnus-trappen.",
+    "kernel": null,
+    "body": [
+      "NASA’s hele commerciële strategie na Apollo was om kennis de industrie in te duwen. COTS was het tegendeel van diefstal uit een black box: NASA wilde leveranciers. SpaceX nam ingenieurs in dienst van Boeing, NASA-centra en universiteiten. ULA ook. De motoren zijn een andere cyclus (Raptor is full-flow staged combustion, geen RS-25 met een nieuwe verflaag).",
+      "Dragons ontsnappingssysteem, hitteschild en trunk zijn een andere architectuur dan Apollo of Orion. Falcons bergingshardware stond niet in de NASA-catalogus. „Op publiek onderzoek gaan staan” is een compliment aan het Amerikaanse onderzoekssysteem. „De Shuttle stelen” is een categoriefout."
+    ],
+    "keyFacts": [
+      {
+        "label": "Raptor",
+        "value": "Eigen full-flow staged combustion"
+      },
+      {
+        "label": "NASA’s bedoeling",
+        "value": "Vracht/bemanning commercialiseren, geen voertuig doneren"
+      },
+      {
+        "label": "Erfenis",
+        "value": "Talent en papers, geen overgedragen stack"
+      }
+    ],
+    "sources": [
+      {
+        "publisher": "NASA",
+        "title": "Commercial Orbital Transportation Services",
+        "url": "https://www.nasa.gov/commercial-orbital-transportation-services/"
+      }
+    ]
+  },
+  {
+    "id": "spacex-ukraine",
+    "slug": "ukraine",
+    "number": 7,
+    "verdict": "misleading",
+    "lastChecked": "2026-08-22",
+    "myth": "Elon zette Starlink uit en saboteerde de oorlog van Oekraïne.",
+    "headline": "Starlink werd voor Oekraïne aangezet en bleef aan. Een geofence weigerde een specifieke droneaanval op de Krim mogelijk te maken. Dat is niet „hij trok de stekker uit het land.”",
+    "kernel": "Musk is een grillige politieke actor geweest over Oekraïne. Hij opperde een „vredesplan” dat Kyiv verafschuwde. Dat is iets anders dan een totale netwerkkill.",
+    "body": [
+      "In 2022 zette SpaceX Starlink in Oekraïne aan; SpaceX slikte aanvankelijk een groot deel van de kosten, daarna betaalden de VS en partners. Het werd cruciaal voor civiele en militaire connectiviteit. Verslaggeving in 2023 (onder meer de Washington Post / Isaacson-fragmenten) beschreef een verzoek om dekking mogelijk te maken voor een Oekraïense droneaanval op Sebastopol. Musk weigerde het netwerk voor dat offensief uit te breiden, onder verwijzing naar escalatie. Dekking binnen Oekraïne ging door.",
+      "Of een private CEO een veto over een geofence mag houden, is een serieuze civiel-militaire vraag. Het is ook het tegendeel van de virale zin „hij zette het internet van Oekraïne uit.” Als je echte klacht is dat publieke infrastructuur niet op de schakelaar van één man mag zitten, zeg dat — en praat dan over contracten, niet over een cartoon-killswitch."
+    ],
+    "keyFacts": [
+      {
+        "label": "Dienst Oekraïne",
+        "value": "Aangezet in 2022, bleef aan"
+      },
+      {
+        "label": "De betwiste daad",
+        "value": "Weigering een offensieve geofence rond de Krim aan te zetten"
+      },
+      {
+        "label": "Wie betaalt",
+        "value": "Mix van SpaceX, VS en geallieerde financiering in de tijd"
+      }
+    ],
+    "sources": [
+      {
+        "publisher": "Contemporary reporting / Isaacson",
+        "title": "Elon Musk’s Ukraine Starlink coverage decisions",
+        "url": "https://en.wikipedia.org/wiki/Starlink#Ukraine"
+      }
+    ]
+  },
+  {
+    "id": "spacex-dragon-unsafe",
+    "slug": "dragon-unsafe",
+    "number": 8,
+    "verdict": "false",
+    "lastChecked": "2026-08-22",
+    "myth": "Crew Dragon is onveilig. NASA had op Soyuz moeten blijven.",
+    "headline": "Dragon vliegt sinds 2020 met NASA-bemanning. Soyuz is een prima voertuig met eigen storingen. Nostalgie is geen veiligheidsanalyse.",
+    "kernel": null,
+    "body": [
+      "Crew Dragon werd het eerste commerciële ruimtevaartuig dat NASA-astronauten naar het ISS bracht, Demo-2 in 2020, daarna een reguliere rotatie. Er zijn problemen geweest — zoals op elke bemande stack, inclusief heliumlekken, uitstel door weer en de gebruikelijke kleine mankementen. NASA’s veiligheidsproces is conservatief tot op het komische af. Ze vliegen het nog steeds.",
+      "Soyuz is een legendarische machine. Het heeft ook bemanningen gedood (1971, pad-abort 1983 overleefd, abort 2018 overleefd). Na 2011 was de VS een lifter die Rusland betaalde. Dragon maakte daar een eind aan. „Onveiliger dan Soyuz” heeft een dodenlijst en een betrouwbaarheidsreeks nodig, geen vibe dat oude Sovjethardware magisch priesterlijk is."
+    ],
+    "keyFacts": [
+      {
+        "label": "Eerste NASA-bemanning",
+        "value": "Crew Dragon Demo-2, 2020"
+      },
+      {
+        "label": "Rol",
+        "value": "Primair Amerikaans ISS-bemanningstransport naast latere concurrenten"
+      },
+      {
+        "label": "Soyuz",
+        "value": "Ook onvolmaakt; was een monopolie na de Shuttle"
+      }
+    ],
+    "sources": [
+      {
+        "publisher": "NASA",
+        "title": "Crew Dragon",
+        "url": "https://www.nasa.gov/commercial-crew-program/"
+      }
+    ]
+  },
+  {
+    "id": "spacex-kill-nasa",
+    "slug": "kill-nasa",
+    "number": 9,
+    "verdict": "misleading",
+    "lastChecked": "2026-08-22",
+    "myth": "SpaceX maakt NASA kapot en heeft een illegaal monopolie op de ruimte.",
+    "headline": "NASA bestaat nog, vliegt nog SLS, schrijft nog wetenschapsmissies. Falcons lanceeraandeel is een marktresultaat van hergebruik, geen gevangen toezichthouder.",
+    "kernel": "Lanceerdominantie is echt. Die concentratie verdient aandacht om redenen van nationale veiligheid. Het is geen Sherman Act-cartoon, en het is geen begrafenis van NASA.",
+    "body": [
+      "NASA’s begroting financiert nog steeds de operatie van James Webb, planetaire wetenschap, SLS/Orion (boven budget en te laat), en luchtvaart. SpaceX is een aannemer en een partner, geen opvolger-agentschap. HLS is een NASA-eis op SpaceX-hardware — hetzelfde patroon als een probebus kopen bij Lockheed.",
+      "Falcon 9’s aandeel van massa naar een baan is scheef omdat anderen geen boosters landden. Rocket Lab, ULA Vulcan, Blue Origin, Europa, India en China zitten in de markt in verschillende stadia. Overheden die een tweede bron willen, betalen daarvoor. Monopolieretoriek is een nuttige prik daarvoor. Het is een slechte beschrijving van een klant met alternatieven die de goedkope betrouwbare raket koos."
+    ],
+    "keyFacts": [
+      {
+        "label": "NASA",
+        "value": "Nog steeds de klant en het wetenschapsagentschap"
+      },
+      {
+        "label": "Lanceeraandeel",
+        "value": "Falcon-zwaar, vanwege prijs en cadans"
+      },
+      {
+        "label": "Concurrenten",
+        "value": "Bestaan; verscheidene zijn laat met hergebruik"
+      }
+    ],
+    "sources": [
+      {
+        "publisher": "NASA",
+        "title": "NASA missions and partners",
+        "url": "https://www.nasa.gov/"
+      }
+    ]
+  },
+  {
+    "id": "spacex-boca",
+    "slug": "boca",
+    "number": 10,
+    "verdict": "overstated",
+    "lastChecked": "2026-08-22",
+    "myth": "Starbase is een milieumisdaadtafereel zonder toezicht.",
+    "headline": "Boca Chica is een echt wetlandsgevecht met FAA-papierwerk, rechtszaken en explosies. Het is geen geheime dump in de woestijn.",
+    "kernel": "Starship-tests hebben puin verspreid, habitat verstoord, en locals en ngo’s woedend gemaakt. Wetlands, broedvogels en een dorp naast een lanceerplatform zijn een echte botsing over landgebruik.",
+    "body": [
+      "De FAA, Fish and Wildlife, Texaanse instanties en rechtbanken zitten allemaal in dit verhaal. Milieubeoordelingen, consultaties en vertragingen zijn openbaar. Explosies tijdens testcampagnes hebben puin gegooid en pluimen opgeworpen. Dat is niet „niks te zien.”",
+      "„Geen toezicht” is de misser. De klacht dat toezicht te traag, te gevangen of te zwak is, is een normaal Amerikaans infrastructuurargument — zie elke andere lanceerplek, pijpleiding en snelweg. Je kunt een kleiner platform, een andere locatie of strengere mitigatie willen zonder een wetteloze zone te verzinnen. Het dossier is: vergund, betwist, rommelig, gedocumenteerd."
+    ],
+    "keyFacts": [
+      {
+        "label": "Locatie",
+        "value": "Starbase / Boca Chica, Texas, naast dorp en toevluchtsoord"
+      },
+      {
+        "label": "Toezicht",
+        "value": "FAA-NEPA-proces, FWS, staat, rechtszaken"
+      },
+      {
+        "label": "Echte schadevector",
+        "value": "Testmislukkingen, habitat, sluitingen — niet „nul impact”"
+      }
+    ],
+    "sources": [
+      {
+        "publisher": "FAA / public NEPA documents",
+        "title": "SpaceX Starbase",
+        "url": "https://www.faa.gov/space/stakeholder_engagement/spacex_starship"
+      }
+    ]
+  }
+]

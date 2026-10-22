@@ -1,0 +1,377 @@
+[
+  {
+    "id": "ev-power-plants",
+    "slug": "power-plants",
+    "number": 1,
+    "verdict": "false",
+    "lastChecked": "2026-08-22",
+    "myth": "EVは気候にむしろ悪い。煙突を発電所へ移すだけだ。",
+    "headline": "汚い系統でも、典型的なEVは生涯で典型的なガソリン車に勝つ。効率が決め手だ。燃やすガソリンの大半は車輪に届かない。",
+    "kernel": null,
+    "body": [
+      "EPAの神話ページは率直だ。EVは電池エネルギーの約87〜91％を運動に変える。ガソリン車は燃料エネルギーの16〜25％程度を車輪へ送る。その電気を石炭で起こしても、ほとんどの場所でライフサイクルでは勝つ。エネルギーの四分の三をラジエーター熱として捨てないからだ。",
+      "Carbon BriefとICCTの数字。欧州ではライフサイクルCO₂がガソリン車よりおおよそ三分の二低く、系統がきれいになれば差は広がる。石炭の多いポーランドや中国では優位は縮むが、典型車では逆転しない。場所は効く——褐炭の島に住むならテールパイプ＋系統の計算機を使え——だが煙突論を一般法則にするのは誤りだ。"
+    ],
+    "keyFacts": [
+      {
+        "label": "タンク・トゥ・ホイール",
+        "value": "EV 約87〜91％対 ICE 約16〜25％（EPA）"
+      },
+      {
+        "label": "欧州ライフサイクル",
+        "value": "ガソリンよりCO₂がおおよそ60〜70％少ない"
+      },
+      {
+        "label": "石炭系統",
+        "value": "優位は小さい。通常はなおプラス"
+      }
+    ],
+    "sources": [
+      {
+        "publisher": "U.S. EPA",
+        "title": "Electric Vehicle Myths",
+        "url": "https://www.epa.gov/greenvehicles/electric-vehicle-myths"
+      },
+      {
+        "publisher": "Carbon Brief",
+        "title": "Factcheck: 21 misleading myths about electric vehicles",
+        "url": "https://interactive.carbonbrief.org/factcheck/electric-vehicles/"
+      }
+    ]
+  },
+  {
+    "id": "ev-battery-manufacturing",
+    "slug": "battery-manufacturing",
+    "number": 2,
+    "verdict": "false",
+    "lastChecked": "2026-08-22",
+    "myth": "電池製造が汚すぎて、EVは炭素負債を返せない。",
+    "headline": "製造は初期が重い。回収は普通、数年の走行であって生涯ではない。",
+    "kernel": "長距離パックは工場で、鉄とガソリンのハッチより多く出す。スライドのその部分は偽物ではない。トリックは、車が走る前に映像を止めることだ。",
+    "body": [
+      "Argonne GREET、ICCT、Carbon Briefによるメーカー主張の再計算は、欧州の炭素回収を1万〜2万マイル程度とする——普通の運転者ならしばしば二年未満。英国のTesla Model Y級は約1万3000マイルと見積もられた例がある。VolvoやVWの数字も、親指を外してほどけば、7万マイルの懺悔は要らない。",
+      "リサイクルとよりきれいなセル工場が負債をさらに縮める。正直な残りは、人生に合う最小パックを買い、長く乗り、セルが焼かれた場所を気にすることだ。「返せない」は、GREETを生き抜けなかった2019年のFacebook共有だ。"
+    ],
+    "keyFacts": [
+      {
+        "label": "回収（欧州、典型）",
+        "value": "約1.1万〜2万マイル、しばしば2年未満"
+      },
+      {
+        "label": "手法",
+        "value": "GREET／ICCT型ライフサイクル。テールパイプのみではない"
+      },
+      {
+        "label": "効くもの",
+        "value": "きれいな系統、リサイクル、適正サイズのパック"
+      }
+    ],
+    "sources": [
+      {
+        "publisher": "U.S. EPA",
+        "title": "Electric Vehicle Myths (battery manufacturing)",
+        "url": "https://www.epa.gov/greenvehicles/electric-vehicle-myths"
+      },
+      {
+        "publisher": "Carbon Brief",
+        "title": "Factcheck: EV carbon payback",
+        "url": "https://interactive.carbonbrief.org/factcheck/electric-vehicles/"
+      }
+    ]
+  },
+  {
+    "id": "ev-batteries-fail",
+    "slug": "batteries-fail",
+    "number": 3,
+    "verdict": "false",
+    "lastChecked": "2026-08-22",
+    "myth": "EV電池は数年で壊れ、有毒な埋立になる。",
+    "headline": "故障交換は稀だ。大半のパックは車より長く持つ。死んだパックは価値あるスクラップであり、新たなラブ・キャナルではない。",
+    "kernel": null,
+    "body": [
+      "EPAが引用するRecurrent（2025年）。大規模中古EV標本で、平均の電池交換は歴史的に約2.5％、2016年以降の多くのモデルではリコールを除き0.5％未満。日産は初期パックのほとんどが十年超えたいまも車に載ると述べている。八年保証があるのは、化学が持つからだ。",
+      "寿命末期はリサイクルの問題であり、市の埋立の問題ではない。セルにはニッケル、リチウム、銅がある——回収に金を払う人がいる。二次利用の定置貯蔵は本物の、なお成長中の経路だ。スマホ電池の民間伝承は移らない。熱管理と充放電の深さが別競技だ。"
+    ],
+    "keyFacts": [
+      {
+        "label": "交換（Recurrent）",
+        "value": "歴史的約2.5％。2016年以降の多くは0.5％未満"
+      },
+      {
+        "label": "保証の下限",
+        "value": "通例8年／マイル上限"
+      },
+      {
+        "label": "寿命末期",
+        "value": "リサイクル＋二次利用。材料に金がつくから"
+      }
+    ],
+    "sources": [
+      {
+        "publisher": "U.S. EPA",
+        "title": "Electric Vehicle Myths (battery life)",
+        "url": "https://www.epa.gov/greenvehicles/electric-vehicle-myths"
+      },
+      {
+        "publisher": "Carbon Brief / Recurrent",
+        "title": "EV battery life",
+        "url": "https://interactive.carbonbrief.org/factcheck/electric-vehicles/"
+      }
+    ]
+  },
+  {
+    "id": "ev-grid-collapse",
+    "slug": "grid-collapse",
+    "number": 4,
+    "verdict": "false",
+    "lastChecked": "2026-08-22",
+    "myth": "全員が電気で走れば系統は崩壊する。",
+    "headline": "全国系統はEVを吸収できる。とくに夜間充電なら。大人の制約は地域の変圧器だ。",
+    "kernel": "1970年代のフィーダーに11kWウォールボックスが並ぶ通りは、本物の電力会社の頭痛だ。電化の死ではなく、街区の更新だ。",
+    "body": [
+      "EPA。EVはオフピークで充電できる。研究（USDRIVE、DOE西部系統）は来る波の容量を見出す。カリフォルニアのEVピーク負荷は、空調の端数だった。EIAは、家庭の暖房と冷房がすでに車を矮小化すると指摘した。英国ではCarbon Briefが、崩壊論が上がるあいだに2000年代以降ピーク需要は落ちたと記す。",
+      "壊れるのは、弱い地方支線での無調整急速充電、あるいは猛暑の火曜18時に全員が挿すことだ。手段——時間帯料金、スマート充電、のちのV2G——はある。「系統は永遠に無理」はスローガンだ。「この変電所は建て直せ」は作業指示だ。"
+    ],
+    "keyFacts": [
+      {
+        "label": "全国像",
+        "value": "オフピーク／スマート充電で管理可能"
+      },
+      {
+        "label": "地域像",
+        "value": "変圧器とフィーダーは狙い撃ちの更新が要る"
+      },
+      {
+        "label": "規模の点検",
+        "value": "家庭のHVACがなお世帯の大食漢"
+      }
+    ],
+    "sources": [
+      {
+        "publisher": "U.S. EPA",
+        "title": "Electric Vehicle Myths (grid)",
+        "url": "https://www.epa.gov/greenvehicles/electric-vehicle-myths"
+      }
+    ]
+  },
+  {
+    "id": "ev-nowhere-charge",
+    "slug": "nowhere-charge",
+    "number": 5,
+    "verdict": "overstated",
+    "lastChecked": "2026-08-22",
+    "myth": "充電するところがない。EVはパロアルトに家がある人にしか効かない。",
+    "headline": "製品は自宅（または職場）充電だ。公共網は急成長し、間違った場所——とくに集合住宅の通り——ではまだまだらだ。",
+    "kernel": "共有ボックスのない密集した欧州都市で路駐するなら、車はより悪い家電だ。計画の失敗であり、電子がケーブルを通れない証明ではない。",
+    "body": [
+      "ノルウェー、カリフォルニア、ドイツのEVキロの大半は高速道路プラザでは勝っていない。夜間の7〜11kWボックスで勝つ。EPAは、米国の日常移動の大半が短いとし、移動の98％が75マイル以下だとする。公共の直流急速網は増えた（米NEVI資金、EUのAFIR規則）。一部ネットワークの信頼性は、理由あってミームだ。",
+      "残る難題は、借家人、タワーマンション居住者、専用駐車のない人だ。政策はEUで「コンセントへの権利」をゆっくり強制している。それが退屈なインフラになるまで、ためらう運転者は正しい。それは「充電器がない」と同じではない。"
+    ],
+    "keyFacts": [
+      {
+        "label": "既定の型",
+        "value": "車が眠る場所で充電する"
+      },
+      {
+        "label": "日常移動（米国）",
+        "value": "73％が10マイル以下。98％が75マイル以下（NHTS）"
+      },
+      {
+        "label": "ハードモード",
+        "value": "私有駐車なし——本物の、縮小中の障壁"
+      }
+    ],
+    "sources": [
+      {
+        "publisher": "U.S. EPA",
+        "title": "Electric Vehicle Myths (charging)",
+        "url": "https://www.epa.gov/greenvehicles/electric-vehicle-myths"
+      }
+    ]
+  },
+  {
+    "id": "ev-range",
+    "slug": "range",
+    "number": 6,
+    "verdict": "false",
+    "lastChecked": "2026-08-22",
+    "myth": "EVの航続は実生活に足りない。",
+    "headline": "現代の量産EVはWLTPで300〜500km超をクリアする。実生活は通勤であり、テキサス横断の映画撮影ではない。",
+    "kernel": null,
+    "body": [
+      "EPA。新型の多くは公称200マイル超。米国の日常移動分布では余剰であって不足ではない。欧州のModel Y、ID.ファミリー、Hyundai／Kia、中国輸入のWLTPは、人がすでにディーゼルで生きている帯と同じだ。給油は必要からではなく習慣からだ。",
+      "航続不安は年に一度の休暇問題に、冬の問題が乗る（次のカード）。中央値の運転者の火曜の問題ではない。吹雪のアウトバーン800kmにスキーボックスなら、すでに特例だと分かっている——計画するか、その週は長距離ICEを置け。特例から自然法則を書くな。"
+    ],
+    "keyFacts": [
+      {
+        "label": "新車の航続",
+        "value": "通例EPA 200マイル超／WLTP 300〜500km"
+      },
+      {
+        "label": "日常の必要",
+        "value": "大半の移動はそれを大きく下回る"
+      },
+      {
+        "label": "例外",
+        "value": "長く、速く、寒い長距離——計画せよ"
+      }
+    ],
+    "sources": [
+      {
+        "publisher": "U.S. EPA",
+        "title": "Electric Vehicle Myths (range)",
+        "url": "https://www.epa.gov/greenvehicles/electric-vehicle-myths"
+      }
+    ]
+  },
+  {
+    "id": "ev-cold",
+    "slug": "cold",
+    "number": 7,
+    "verdict": "misleading",
+    "lastChecked": "2026-08-22",
+    "myth": "EVは寒さで動かない。冬がこの発想の死を証明する。",
+    "headline": "航続は落ちる——厳しい週ではしばしば20〜40％。車は始動する。ノルウェーはすでに投票した。",
+    "kernel": "室内暖房はエンジン廃熱ではなく電池から来る。化学は鈍る。どちらも物理だ。「動かない」は範疇の誤りだ。",
+    "body": [
+      "AAA（2019年）は、暖房オンの厳しい寒冷試験で航続がおおよそ40％減とした。実際の冬はばらつく。プレコンディショニング、ヒートポンプ、シートヒーターがその多くを取り戻す。パックが凍っていると直流充電は遅くなる——もう一つの本物の煩わしさで、スタンドへ向かう途中のプレコンディショニングが解く。",
+      "ノルウェー、アイスランド、カナダ、スウェーデン、フィンランド、アルプスは大きい、あるいは伸びるEV比率を持つ。奇跡を演じているのではない。家で挿し、予熱し、走る。ガソリン車も冬は燃料を多く使う。税を同じタンクに隠すだけだ。ビットブルクに住み30km通勤するなら、1月は気づく。歩いては帰らない。"
+    ],
+    "keyFacts": [
+      {
+        "label": "航続への打撃",
+        "value": "厳しい寒さ＋室内暖房でしばしば20〜40％"
+      },
+      {
+        "label": "緩和",
+        "value": "ヒートポンプ、プレコンディショニング、自宅充電"
+      },
+      {
+        "label": "存在証明",
+        "value": "北欧のEV市場"
+      }
+    ],
+    "sources": [
+      {
+        "publisher": "U.S. EPA",
+        "title": "Electric Vehicle Myths (range / weather)",
+        "url": "https://www.epa.gov/greenvehicles/electric-vehicle-myths"
+      },
+      {
+        "publisher": "Clean Energy Canada / industry explainers",
+        "title": "EV myths — cold weather",
+        "url": "https://cleanenergycanada.org/media-brief-countering-common-myths-about-electric-vehicles/"
+      }
+    ]
+  },
+  {
+    "id": "ev-lithium",
+    "slug": "lithium",
+    "number": 8,
+    "verdict": "false",
+    "lastChecked": "2026-08-22",
+    "myth": "全員が電気で走るリチウム（あるいは銅、希土類）は足りない。",
+    "headline": "地質資源は需要予測を上回る。価格シグナルが鉱山とリサイクルを開く。ボトルネックは許可と時間であり、欠落した元素ではない。",
+    "kernel": null,
+    "body": [
+      "Carbon Briefの鉱物節。現行地質では資源は2022〜2050年需要より大きい。リチウムは稀ではない。加工が偏っている。銅のほうが窮屈で退屈な制約だ。あらゆるエネルギー転換が使う。モーターの希土類は設計で減らされている（Teslaほかが低／無重希土類経路を示してきた）。",
+      "ある年の不足は鉱山と精錬の話だ——チリ、オーストラリア、中国の加工、コンゴのコバルト、インドネシアのニッケル。地政学とリードタイムだ。「地殻が尽きた」ではない。思い出してほしい。石油は永遠に汲み続けねばならないフローだ。パックはリサイクルできるストックだ。"
+    ],
+    "keyFacts": [
+      {
+        "label": "リチウム",
+        "value": "標準評価では資源が長期需要を上回る"
+      },
+      {
+        "label": "より窮屈な投入",
+        "value": "銅、加えて精錬能力"
+      },
+      {
+        "label": "逃がし弁",
+        "value": "化学シフト＋リサイクル＋鉱山増加"
+      }
+    ],
+    "sources": [
+      {
+        "publisher": "Carbon Brief",
+        "title": "Factcheck: raw materials",
+        "url": "https://interactive.carbonbrief.org/factcheck/electric-vehicles/"
+      }
+    ]
+  },
+  {
+    "id": "ev-heavy-dangerous",
+    "slug": "heavy-dangerous",
+    "number": 9,
+    "verdict": "overstated",
+    "lastChecked": "2026-08-22",
+    "myth": "EVは重すぎて周囲にとって死の罠であり、道路を壊す。",
+    "headline": "より重い。衝突試験の点数は通例優秀だ。路面摩耗と歩行者の物理が、無ではない部分だ。",
+    "kernel": "質量は、小型車や人との衝突ではエネルギーだ。回生はブレーキ粉を減らし、余分な重量はタイヤ摩耗を増やしうる。テールパイプがないため、大気質の純はなお通常は良い。",
+    "body": [
+      "電池パックはセルの厚板だ。質量は低く、だからEVはムーステストやNCAP／NHTSAの星をしばしば満点にする——転がらず、構造はスケートボードだ。乗員安全はこの議論の弱い側ではない。",
+      "弱い側は相手の物体だ。2.3トンのクロスオーバーが1.2トンのスーパーミニへ、あるいは歩行者へ。タイヤ摩耗粒子は重量に比例する。路面摩耗は軸重の線形より速く増え、高速道路を食うのはトラックであってModel Yではない——だがより重い車の艦隊は無料ではない。処方箋はより小さなパックとより小さな車であり、有鉛ガソリンへの回帰ではない。「死の罠」という見出しは乗員安全の記録を飛ばす。"
+    ],
+    "keyFacts": [
+      {
+        "label": "乗員安全",
+        "value": "概して強い衝突試験成績"
+      },
+      {
+        "label": "質量の罰",
+        "value": "相手車両／歩行者には悪い。タイヤ摩耗も増える"
+      },
+      {
+        "label": "道路",
+        "value": "乗用車 ≪ トラック。重い乗用車も無料ではない"
+      }
+    ],
+    "sources": [
+      {
+        "publisher": "U.S. EPA",
+        "title": "Electric Vehicle Myths (safety)",
+        "url": "https://www.epa.gov/greenvehicles/electric-vehicle-myths"
+      },
+      {
+        "publisher": "Carbon Brief",
+        "title": "Weight, tires, and air quality",
+        "url": "https://interactive.carbonbrief.org/factcheck/electric-vehicles/"
+      }
+    ]
+  },
+  {
+    "id": "ev-hybrids-better",
+    "slug": "hybrids-better",
+    "number": 10,
+    "verdict": "misleading",
+    "lastChecked": "2026-08-22",
+    "myth": "ハイブリッドのほうが厳密に優れる。バッテリーEVは行き止まりだ。",
+    "headline": "ハイブリッドは良い橋だ。とくにプラグのない低走行者には。系統がそこそこきれいなら、ライフサイクルでは勝てない。",
+    "kernel": "年6000km、路駐、電気が汚いなら、小型ハイブリッドが合理的な車になりうる。ニッチであって、範疇の反証ではない。",
+    "body": [
+      "ハイブリッドはなお、キロの大半でガソリンを燃やす。燃費の悪いエンジン車に対する冷間始動の都市サイクルでは勝ち、自宅充電器は要らない。年間走行が多ければ、BEVのエネルギー費と排出が引き離す——ICCTもCarbon Briefも、系統の脱炭素とともに差が広がると示す。もう一つの得意な揚げ足、水素車はウェル・トゥ・ホイールで数倍の電力を使う。",
+      "行き止まり主張は、ノルウェー、中国の量、Teslaの既存台数、下がるkWh単価も説明せねばならない。すでに複数の豊かな国の新車販売の大きな割合である技術は、実験展示のポスターではない。ハイブリッドも車庫にいてよい。拒否権ではない。"
+    ],
+    "keyFacts": [
+      {
+        "label": "ハイブリッドの強み",
+        "value": "プラグ不要。低走行／駐車なしに向く"
+      },
+      {
+        "label": "BEVの強み",
+        "value": "まともな年間kmならエネルギー費＋ライフサイクルCO₂"
+      },
+      {
+        "label": "水素車",
+        "value": "台数ははるかに少なく、効率はBEVより悪い"
+      }
+    ],
+    "sources": [
+      {
+        "publisher": "Carbon Brief",
+        "title": "Factcheck: hybrids, hydrogen, e-fuels",
+        "url": "https://interactive.carbonbrief.org/factcheck/electric-vehicles/"
+      }
+    ]
+  }
+]
