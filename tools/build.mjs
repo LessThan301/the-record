@@ -11,6 +11,10 @@ const PREVIEW = process.env.PREVIEW ? process.env.PREVIEW === '1' : cfg.preview;
 const COUNTER = process.env.COUNTER_ENDPOINT ?? cfg.counterEndpoint ?? '';
 const DONATE = process.env.DONATION_URL ?? cfg.donationUrl ?? '';
 const UMBRELLA = process.env.UMBRELLA_URL ?? cfg.umbrellaUrl ?? '';
+// Shared Synoikon Impressum/Datenschutz. Set = footer links there and /imprint/ + /privacy/ redirect. At launch: https://synoikon.com/impressum/ and /datenschutz/
+const IMPRINT_URL = process.env.IMPRESSUM_URL ?? cfg.impressumUrl ?? '';
+const PRIVACY_URL = process.env.PRIVACY_URL ?? cfg.privacyUrl ?? '';
+const imprintHref = IMPRINT_URL || `${BASE}/imprint/`, privacyHref = PRIVACY_URL || `${BASE}/privacy/`;
 const CF_TOKEN = (process.env.CF_ANALYTICS_TOKEN ?? cfg.cloudflareAnalyticsToken ?? '').trim();
 const ANALYTICS = !!CF_TOKEN && !PREVIEW; // never on the preview
 const SKIP_IMG = process.env.SKIP_IMAGES === '1';
@@ -73,7 +77,7 @@ function footer(l) {
     : `<span class="btn donate is-disabled" aria-disabled="true">${esc(u.donate)} · ${esc(u.donateSoon)}</span>`;
   return `<footer class="foot"><div class="wrap">
 <p class="foot-brand">The Record</p><p class="muted">${esc(u.footer.independent)}</p>
-<p class="foot-links"><a href="${url(l, 'method/')}">${esc(u.nav.method)}</a><a href="${url(l, 'whats-new/')}">${esc(u.whatsNew)}</a><a href="${url(l, 'legal/')}">${esc(u.legalNav)}</a><a href="${BASE}/privacy/">${esc(u.privacy)}</a><a href="${BASE}/imprint/">${esc(u.imprint)}</a></p>
+<p class="foot-links"><a href="${url(l, 'method/')}">${esc(u.nav.method)}</a><a href="${url(l, 'whats-new/')}">${esc(u.whatsNew)}</a><a href="${url(l, 'legal/')}">${esc(u.legalNav)}</a><a href="${esc(privacyHref)}">${esc(u.privacy)}</a><a href="${esc(imprintHref)}">${esc(u.imprint)}</a></p>
 ${donate}
 <p class="muted small">${esc(u.footer.trademarks)}</p>
 ${UMBRELLA ? `<p class="small part-of"><a href="${esc(UMBRELLA)}">${esc(u.partOf)}</a></p>` : ''}
@@ -148,12 +152,14 @@ for (const l of LANGS) {
   const g = u.legal;
   const sec = (h, arr) => `<h2>${esc(h)}</h2>${arr.map((p) => `<p>${esc(p)}</p>`).join('')}`;
   write(path.join(lp(l).slice(1), 'legal', 'index.html'), head(l, { title: `${g.title} · The Record`, desc: g.disclaimer[0], canonical: url(l, 'legal/'), alt: (x) => url(x, 'legal/') }) + header(l, (x) => url(x, 'legal/')) +
-    `<main id="main" class="wrap text"><p class="kicker">${esc(g.kicker)}</p><h1>${esc(g.title)}</h1>${sec(g.disclaimerTitle, g.disclaimer)}${sec(g.termsTitle, g.terms)}${sec(g.ipTitle, g.ip)}<p><a href="${BASE}/privacy/">${esc(u.privacy)}</a> · <a href="${BASE}/imprint/">${esc(u.imprint)}</a></p></main>` + pageCfg(l, { page: 'text' }) + footer(l));
+    `<main id="main" class="wrap text"><p class="kicker">${esc(g.kicker)}</p><h1>${esc(g.title)}</h1>${sec(g.disclaimerTitle, g.disclaimer)}${sec(g.termsTitle, g.terms)}${sec(g.ipTitle, g.ip)}<p><a href="${esc(privacyHref)}">${esc(u.privacy)}</a> · <a href="${esc(imprintHref)}">${esc(u.imprint)}</a></p></main>` + pageCfg(l, { page: 'text' }) + footer(l));
 }
 
 // Imprint + privacy (German and English on one page; German version is the binding one)
 import { imprintHTML, privacyHTML } from './legal-pages.mjs';
 for (const [slug, fn, title] of [['imprint', imprintHTML, 'Impressum / Imprint'], ['privacy', privacyHTML, 'Datenschutzerklärung / Privacy policy']]) {
+  const ext = slug === 'imprint' ? IMPRINT_URL : PRIVACY_URL;
+  if (ext) { write(`${slug}/index.html`, `<!doctype html><html lang="de"><head><meta charset="utf-8"><title>${title}</title><meta name="robots" content="noindex"><link rel="canonical" href="${esc(ext)}"><meta http-equiv="refresh" content="0; url=${esc(ext)}"></head><body><p><a href="${esc(ext)}">${title}</a></p></body></html>`); continue; }
   write(`${slug}/index.html`, head('de', { title: `${title} · The Record`, desc: title, canonical: `${BASE}/${slug}/` }) + header('en', (x) => url(x)) +
     `<main id="main" class="wrap text legal-page">${fn({ op: cfg.operator, counter: !!COUNTER, repo: cfg.repo, analytics: ANALYTICS })}</main>` + pageCfg('en', { page: 'text' }) + footer('en'));
   sitemap.push({ loc: `${BASE}/${slug}/` });

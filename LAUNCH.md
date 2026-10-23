@@ -103,7 +103,7 @@ You need a domain you have bought (for example at Cloudflare Registrar, INWX or 
 4. In `site.config.json`, set `"umbrellaUrl": "https://synoikon.com/"`. In the Synoikon repo (branch `app`), set `recordUrl` in `home/home.config.json` to `https://record.synoikon.com/`.
 5. The verified domain from D (`synoikon.com`) also covers this subdomain.
 
-**One Impressum for everything.** Synoikon and The Record have the same operator, so keep the Imprint and Privacy details identical in both places (same name, address, email). When one changes, change the other on the same day.
+**One Impressum for everything (done, 2026-10-23).** The Record now links to the shared Synoikon pages via `impressumUrl` / `privacyUrl` in `site.config.json` (its own /imprint/ and /privacy/ just redirect there). At launch set them to `https://synoikon.com/impressum/` and `https://synoikon.com/datenschutz/`. Older note: Synoikon and The Record have the same operator, so keep the Imprint and Privacy details identical in both places (same name, address, email). When one changes, change the other on the same day.
 
 ## Step 4. Google Search Console
 
