@@ -96,6 +96,15 @@ You need a domain you have bought (for example at Cloudflare Registrar, INWX or 
 
 **D. Recommended:** under **Settings → Pages**, click **Verify** next to your domain (GitHub → your profile → Settings → Pages → Add a domain). This stops anyone else from taking over the domain on GitHub.
 
+**Planned option: record.synoikon.com (recommended, no new domain to buy).** The Record is part of the Synoikon umbrella. Instead of A to D above, use the subdomain:
+1. In Cloudflare, open **synoikon.com → DNS → Records → Add record**: type `CNAME`, name `record`, target `lessthan301.github.io`, **DNS only** (grey cloud). No A records are needed.
+2. In this repo, **Settings → Pages → Custom domain**: enter `record.synoikon.com`, click **Save**, wait for "DNS check successful", then tick **Enforce HTTPS**.
+3. In Step 2, use `SITE_ORIGIN: https://record.synoikon.com` (BASE empty).
+4. In `site.config.json`, set `"umbrellaUrl": "https://synoikon.com/"`. In the Synoikon repo (branch `app`), set `recordUrl` in `home/home.config.json` to `https://record.synoikon.com/`.
+5. The verified domain from D (`synoikon.com`) also covers this subdomain.
+
+**One Impressum for everything.** Synoikon and The Record have the same operator, so keep the Imprint and Privacy details identical in both places (same name, address, email). When one changes, change the other on the same day.
+
 ## Step 4. Google Search Console
 
 1. Go to search.google.com/search-console and click **Add property**.

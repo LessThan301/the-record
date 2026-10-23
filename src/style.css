@@ -180,3 +180,4 @@ html.cmp-open{overflow:hidden}
 .log-entry ul{margin:0;padding-left:1.2rem}
 .log-entry li{margin:.3rem 0}
 .src-note{margin-top:.9rem;padding:.7rem .9rem;border-left:3px solid #f5c400;background:#16140a;font-size:.9rem;color:#d4d4d4;border-radius:0 8px 8px 0}
+.part-of{margin:10px 0 0}.part-of a{color:#9a9a9a;text-decoration:none;letter-spacing:.04em}.part-of a:hover{color:#fff;text-decoration:underline}

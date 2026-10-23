@@ -10,6 +10,7 @@ const ORIGIN = (process.env.SITE_ORIGIN ?? 'http://localhost:8080').replace(/\/$
 const PREVIEW = process.env.PREVIEW ? process.env.PREVIEW === '1' : cfg.preview;
 const COUNTER = process.env.COUNTER_ENDPOINT ?? cfg.counterEndpoint ?? '';
 const DONATE = process.env.DONATION_URL ?? cfg.donationUrl ?? '';
+const UMBRELLA = process.env.UMBRELLA_URL ?? cfg.umbrellaUrl ?? '';
 const CF_TOKEN = (process.env.CF_ANALYTICS_TOKEN ?? cfg.cloudflareAnalyticsToken ?? '').trim();
 const ANALYTICS = !!CF_TOKEN && !PREVIEW; // never on the preview
 const SKIP_IMG = process.env.SKIP_IMAGES === '1';
@@ -75,6 +76,7 @@ function footer(l) {
 <p class="foot-links"><a href="${url(l, 'method/')}">${esc(u.nav.method)}</a><a href="${url(l, 'whats-new/')}">${esc(u.whatsNew)}</a><a href="${url(l, 'legal/')}">${esc(u.legalNav)}</a><a href="${BASE}/privacy/">${esc(u.privacy)}</a><a href="${BASE}/imprint/">${esc(u.imprint)}</a></p>
 ${donate}
 <p class="muted small">${esc(u.footer.trademarks)}</p>
+${UMBRELLA ? `<p class="small part-of"><a href="${esc(UMBRELLA)}">${esc(u.partOf)}</a></p>` : ''}
 <nav class="foot-langs" aria-label="${esc(u.language)}">${LANGS.map((x) => `<a href="${url(x)}" lang="${x}" hreflang="${x}"${x === l ? ' aria-current="page"' : ''}>${LABELS[x]}</a>`).join('')}</nav>
 </div></footer><div class="sr" aria-live="polite" id="live"></div></body></html>`;
 }
