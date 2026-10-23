@@ -33,7 +33,7 @@ export function shareSVG(card, u, lang) {
   const claim = lines.map((l, i) => `<text x="70" y="${top + i * size * 1.18}" font-size="${size}" font-weight="700" fill="#ffffff">${esc(l)}</text>`).join('');
   const verdictText = `${u.shareImgSays}: ${u.verdict[card.verdict]}`;
   return `<svg xmlns="http://www.w3.org/2000/svg" width="1200" height="630" viewBox="0 0 1200 630" font-family="${fam}">
-<rect width="1200" height="630" fill="#000"/>
+<defs><radialGradient id="nebA" cx="85%" cy="0%" r="70%"><stop offset="0" stop-color="#ff3df2" stop-opacity=".28"/><stop offset="1" stop-color="#ff3df2" stop-opacity="0"/></radialGradient><radialGradient id="nebB" cx="0%" cy="100%" r="60%"><stop offset="0" stop-color="#3df5ff" stop-opacity=".2"/><stop offset="1" stop-color="#3df5ff" stop-opacity="0"/></radialGradient></defs><rect width="1200" height="630" fill="#05030f"/><rect width="1200" height="630" fill="url(#nebA)"/><rect width="1200" height="630" fill="url(#nebB)"/>
 <text x="70" y="88" font-size="26" font-weight="700" letter-spacing="5" fill="#ffffff">THE RECORD</text>
 <text x="70" y="${top - size - 6}" font-size="30" font-weight="500" fill="#a3a3a3">${esc(u.shareImgLead)}</text>
 ${claim}
@@ -53,7 +53,7 @@ export function homeSVG(u, lang) {
   const ld = lede.map((l, i) => `<text x="70" y="${ly + i * 44}" font-size="32" font-weight="500" fill="#a3a3a3">${esc(l)}</text>`).join('');
   const bars = ['false', 'misleading', 'overstated'].map((v, i) => `<rect x="${i * 400}" y="540" width="400" height="90" fill="${COLORS[v]}"/><text x="${i * 400 + 40}" y="598" font-size="34" font-weight="700" fill="#ffffff">${esc(u.verdict[v])}</text>`).join('');
   return `<svg xmlns="http://www.w3.org/2000/svg" width="1200" height="630" viewBox="0 0 1200 630" font-family="${fam}">
-<rect width="1200" height="630" fill="#000"/>
+<defs><radialGradient id="nebA" cx="85%" cy="0%" r="70%"><stop offset="0" stop-color="#ff3df2" stop-opacity=".28"/><stop offset="1" stop-color="#ff3df2" stop-opacity="0"/></radialGradient><radialGradient id="nebB" cx="0%" cy="100%" r="60%"><stop offset="0" stop-color="#3df5ff" stop-opacity=".2"/><stop offset="1" stop-color="#3df5ff" stop-opacity="0"/></radialGradient></defs><rect width="1200" height="630" fill="#05030f"/><rect width="1200" height="630" fill="url(#nebA)"/><rect width="1200" height="630" fill="url(#nebB)"/>
 <text x="70" y="100" font-size="30" font-weight="700" letter-spacing="6" fill="#ffffff">THE RECORD</text>
 ${t}${ld}${bars}
 </svg>`;

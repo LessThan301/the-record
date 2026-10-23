@@ -46,7 +46,7 @@ function head(l, { title, desc, canonical, alt, image, noindex = false }) {
   return `<!doctype html><html lang="${l}"><head><meta charset="utf-8"><meta name="viewport" content="width=device-width,initial-scale=1">
 <title>${esc(title)}</title><meta name="description" content="${esc(desc)}">
 ${PREVIEW ? '<meta name="robots" content="noindex,nofollow">' : noindex ? '<meta name="robots" content="noindex">' : ''}
-<meta name="theme-color" content="#000000"><meta name="color-scheme" content="dark">
+<meta name="theme-color" content="#05030f"><meta name="color-scheme" content="dark">
 <link rel="canonical" href="${ORIGIN}${canonical}">${alts}
 <meta property="og:type" content="website"><meta property="og:site_name" content="The Record"><meta property="og:title" content="${esc(title)}"><meta property="og:description" content="${esc(desc)}"><meta property="og:url" content="${ORIGIN}${canonical}">
 ${image ? `<meta property="og:image" content="${ORIGIN}${image}"><meta property="og:image:width" content="1200"><meta property="og:image:height" content="630"><meta property="og:image:alt" content="${esc(title)}"><meta name="twitter:card" content="summary_large_image"><meta name="twitter:title" content="${esc(title)}"><meta name="twitter:description" content="${esc(desc)}"><meta name="twitter:image" content="${ORIGIN}${image}">` : ''}<meta property="og:locale" content="${OGLOC[l]}">
