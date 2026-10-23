@@ -39,13 +39,13 @@ const cardPath = (t, c) => `${t}/${c.slug}/`;
 const imgPath = (l, c) => `${BASE}/share/${l}/${c.id}.png`;
 const sitemap = [];
 
-function head(l, { title, desc, canonical, alt, image }) {
+function head(l, { title, desc, canonical, alt, image, noindex = false }) {
   const u = UI[l];
   image = image || `${BASE}/share/${l}/home.png`;
   const alts = alt ? LANGS.map((x) => `<link rel="alternate" hreflang="${x}" href="${ORIGIN}${alt(x)}">`).join('') : '';
   return `<!doctype html><html lang="${l}"><head><meta charset="utf-8"><meta name="viewport" content="width=device-width,initial-scale=1">
 <title>${esc(title)}</title><meta name="description" content="${esc(desc)}">
-${PREVIEW ? '<meta name="robots" content="noindex,nofollow">' : ''}
+${PREVIEW ? '<meta name="robots" content="noindex,nofollow">' : noindex ? '<meta name="robots" content="noindex">' : ''}
 <meta name="theme-color" content="#000000"><meta name="color-scheme" content="dark">
 <link rel="canonical" href="${ORIGIN}${canonical}">${alts}
 <meta property="og:type" content="website"><meta property="og:site_name" content="The Record"><meta property="og:title" content="${esc(title)}"><meta property="og:description" content="${esc(desc)}"><meta property="og:url" content="${ORIGIN}${canonical}">
@@ -151,7 +151,7 @@ for (const l of LANGS) {
   // Legal (disclaimer, terms, trademarks) – privacy & imprint are separate bilingual pages
   const g = u.legal;
   const sec = (h, arr) => `<h2>${esc(h)}</h2>${arr.map((p) => `<p>${esc(p)}</p>`).join('')}`;
-  write(path.join(lp(l).slice(1), 'legal', 'index.html'), head(l, { title: `${g.title} · The Record`, desc: g.disclaimer[0], canonical: url(l, 'legal/'), alt: (x) => url(x, 'legal/') }) + header(l, (x) => url(x, 'legal/')) +
+  write(path.join(lp(l).slice(1), 'legal', 'index.html'), head(l, { title: `${g.title} · The Record`, desc: g.disclaimer[0], canonical: url(l, 'legal/'), alt: (x) => url(x, 'legal/'), noindex: true }) + header(l, (x) => url(x, 'legal/')) +
     `<main id="main" class="wrap text"><p class="kicker">${esc(g.kicker)}</p><h1>${esc(g.title)}</h1>${sec(g.disclaimerTitle, g.disclaimer)}${sec(g.termsTitle, g.terms)}${sec(g.ipTitle, g.ip)}<p><a href="${esc(privacyHref)}">${esc(u.privacy)}</a> · <a href="${esc(imprintHref)}">${esc(u.imprint)}</a></p></main>` + pageCfg(l, { page: 'text' }) + footer(l));
 }
 
@@ -160,9 +160,8 @@ import { imprintHTML, privacyHTML } from './legal-pages.mjs';
 for (const [slug, fn, title] of [['imprint', imprintHTML, 'Impressum / Imprint'], ['privacy', privacyHTML, 'Datenschutzerklärung / Privacy policy']]) {
   const ext = slug === 'imprint' ? IMPRINT_URL : PRIVACY_URL;
   if (ext) { write(`${slug}/index.html`, `<!doctype html><html lang="de"><head><meta charset="utf-8"><title>${title}</title><meta name="robots" content="noindex"><link rel="canonical" href="${esc(ext)}"><meta http-equiv="refresh" content="0; url=${esc(ext)}"></head><body><p><a href="${esc(ext)}">${title}</a></p></body></html>`); continue; }
-  write(`${slug}/index.html`, head('de', { title: `${title} · The Record`, desc: title, canonical: `${BASE}/${slug}/` }) + header('en', (x) => url(x)) +
+  write(`${slug}/index.html`, head('de', { title: `${title} · The Record`, desc: title, canonical: `${BASE}/${slug}/`, noindex: true }) + header('en', (x) => url(x)) +
     `<main id="main" class="wrap text legal-page">${fn({ op: cfg.operator, counter: !!COUNTER, repo: cfg.repo, analytics: ANALYTICS })}</main>` + pageCfg('en', { page: 'text' }) + footer('en'));
-  sitemap.push({ loc: `${BASE}/${slug}/` });
 }
 
 // Redirects for removed cards (old URL -> replacement card)

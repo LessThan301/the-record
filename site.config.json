@@ -1,10 +1,10 @@
 {
   "siteName": "The Record",
   "repo": "LessThan301/the-record",
-  "preview": true,
-  "umbrellaUrl": "https://lessthan301.github.io/synoikon-preview/",
-  "impressumUrl": "https://lessthan301.github.io/synoikon-preview/impressum/",
-  "privacyUrl": "https://lessthan301.github.io/synoikon-preview/datenschutz/",
+  "preview": false,
+  "umbrellaUrl": "https://synoikon.com/",
+  "impressumUrl": "https://synoikon.com/impressum/",
+  "privacyUrl": "https://synoikon.com/datenschutz/",
   "counterEndpoint": "",
   "donationUrl": "",
   "operator": {

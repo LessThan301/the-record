@@ -22,11 +22,11 @@ jobs:
       - name: CJK fonts for share images
         run: sudo apt-get update -qq && sudo apt-get install -y -qq fonts-noto-cjk
       - run: npm ci
-      - name: Build (preview, noindex)
+      - name: Build (production, record.synoikon.com)
         env:
-          BASE: /the-record
-          SITE_ORIGIN: https://lessthan301.github.io
-          PREVIEW: "1"
+          BASE: ""
+          SITE_ORIGIN: https://record.synoikon.com
+          PREVIEW: "0"
         run: npm run build
       - uses: actions/configure-pages@v5
       - uses: actions/upload-pages-artifact@v4
