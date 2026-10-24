@@ -31,7 +31,7 @@ jobs:
       - uses: actions/configure-pages@v5
       - uses: actions/upload-pages-artifact@v4
         with:
-          path: dist
+          path: coming-soon   # COMING SOON mode. Restore: path: dist (or revert this commit / reset to tag nebula-live-2026-10-24)
   deploy:
     needs: build
     runs-on: ubuntu-24.04
